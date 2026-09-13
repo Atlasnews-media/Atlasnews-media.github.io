@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-13T16:09:09.446Z",
+  "generatedAt": "2026-09-13T19:11:19.844Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-13T16:09:09.238Z",
+      "effectiveAt": "2026-09-13T19:11:19.526Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77132,
+      "value": 77324,
       "unit": "usd",
-      "changePercent": -0.28,
-      "trend": "down",
-      "effectiveAt": "2026-09-13T16:09:09.446Z",
+      "changePercent": 0.26,
+      "trend": "up",
+      "effectiveAt": "2026-09-13T19:11:19.844Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -267,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-13T16:09:10.073Z",
+  "historyGeneratedAt": "2026-09-13T19:11:20.384Z",
   "history": [
     {
       "id": "usdclp",
@@ -660,5 +660,5 @@
       "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-09-13T16:09:10.110Z"
+  "freshnessCheckedAt": "2026-09-13T19:11:20.430Z"
 }
