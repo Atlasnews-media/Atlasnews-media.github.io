@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f0ed7aa0b4e2f344b270042886921ff9055232d2",
+  "sourceCommit": "56bea0f5c8848d996a5b456635e1b37a7b0cb6ea",
   "latestDaily": {
-    "id": "2026-09-12-daily-shock-energetico-pierde-via-de-escape",
-    "issueNumber": 41,
-    "title": "El shock energético pierde una vía de escape y endurece el escenario de tasas",
-    "publishedAt": "2026-09-12T09:03:16-03:00",
-    "cutoffAt": "2026-09-12T05:57:40-03:00"
+    "id": "2026-09-13-daily-doble-vulnerabilidad-logistica-golfo",
+    "issueNumber": 42,
+    "title": "El shock energético entra en una fase de doble vulnerabilidad logística",
+    "publishedAt": "2026-09-13T07:00:11-03:00",
+    "cutoffAt": "2026-09-13T06:00:35-03:00"
   },
   "latestNational": {
-    "id": "2026-09-12-national-reforma-pasa-de-anuncio-a-tramitacion",
-    "title": "La reforma de capitales pasa del anuncio a una tramitación con calendario",
-    "publishedAt": "2026-09-12T09:03:16-03:00",
-    "cutoffAt": "2026-09-12T05:58:45-03:00"
+    "id": "2026-09-13-national-cmf-duracion-riesgo-tasa",
+    "title": "La CMF incorpora duración como alternativa para medir riesgo de tasa en bancos",
+    "publishedAt": "2026-09-13T07:00:41-03:00",
+    "cutoffAt": "2026-09-13T06:03:55-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-12-markets-bonos-no-compran-alivio",
-    "title": "Las acciones compran alivio, pero los bonos no lo confirman",
-    "publishedAt": "2026-09-12T09:03:16-03:00",
-    "cutoffAt": "2026-09-12T05:59:20-03:00"
+    "id": "2026-09-13-markets-fin-de-semana-reabre-riesgo-gap",
+    "title": "El fin de semana vuelve obsoleto parte del alivio del viernes",
+    "publishedAt": "2026-09-13T07:01:01-03:00",
+    "cutoffAt": "2026-09-13T06:05:15-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 41,
+    "daily": 42,
     "weekly": 4,
-    "national": 34,
-    "markets": 33,
+    "national": 35,
+    "markets": 34,
     "readings": 9,
-    "total": 121
+    "total": 124
   },
   "indicators": {
     "status": "current",
