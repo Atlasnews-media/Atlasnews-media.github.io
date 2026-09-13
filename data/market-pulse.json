@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-13T15:30:33.495Z",
+  "generatedAt": "2026-09-13T15:43:36.462Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-13T15:30:33.124Z",
+      "effectiveAt": "2026-09-13T15:43:36.063Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77117,
+      "value": 77066,
       "unit": "usd",
-      "changePercent": -0.44,
+      "changePercent": -0.42,
       "trend": "down",
-      "effectiveAt": "2026-09-13T15:30:33.495Z",
+      "effectiveAt": "2026-09-13T15:43:36.462Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -267,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-13T15:30:34.347Z",
+  "historyGeneratedAt": "2026-09-13T15:43:37.212Z",
   "history": [
     {
       "id": "usdclp",
@@ -556,6 +556,10 @@
           "value": 88.5199966430664
         },
         {
+          "date": "2026-08-16",
+          "value": 0
+        },
+        {
           "date": "2026-08-17",
           "value": 90.87000274658203
         },
@@ -574,6 +578,10 @@
         {
           "date": "2026-08-21",
           "value": 94.38999938964844
+        },
+        {
+          "date": "2026-08-23",
+          "value": 0
         },
         {
           "date": "2026-08-24",
@@ -596,6 +604,10 @@
           "value": 89.30999755859375
         },
         {
+          "date": "2026-08-30",
+          "value": 0
+        },
+        {
           "date": "2026-08-31",
           "value": 90.48999786376953
         },
@@ -616,6 +628,10 @@
           "value": 96.27999877929688
         },
         {
+          "date": "2026-09-06",
+          "value": 0
+        },
+        {
           "date": "2026-09-08",
           "value": 97.91999816894531
         },
@@ -630,6 +646,10 @@
         {
           "date": "2026-09-11",
           "value": 104.61000061035156
+        },
+        {
+          "date": "2026-09-13",
+          "value": 0
         }
       ]
     }
@@ -657,8 +677,8 @@
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 20
+      "observations": 25
     }
   ],
-  "freshnessCheckedAt": "2026-09-13T15:30:34.382Z"
+  "freshnessCheckedAt": "2026-09-13T15:43:37.448Z"
 }
