@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "39ac3c5daef633af075f135b1b6807a4d6af1e67",
+  "sourceCommit": "e3fdc08032282801143fa2c7668f7c9547b3ceb0",
   "latestDaily": {
     "id": "2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global",
     "issueNumber": 43,
@@ -32,11 +32,11 @@
     "weekly": 4,
     "national": 36,
     "markets": 35,
-    "readings": 9,
-    "total": 127
+    "readings": 10,
+    "total": 128
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-09-14",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
