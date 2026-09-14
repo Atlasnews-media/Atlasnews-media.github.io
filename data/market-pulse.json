@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-14T05:03:32.944Z",
+  "generatedAt": "2026-09-14T05:10:37.387Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-14T05:03:32.324Z",
+      "effectiveAt": "2026-09-14T05:10:36.801Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -156,7 +156,7 @@
       "unit": "usd-per-barrel",
       "changePercent": 12.17,
       "trend": "up",
-      "effectiveAt": "2026-09-14T04:53:14.000Z",
+      "effectiveAt": "2026-09-14T04:58:39.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current"
@@ -165,11 +165,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4365.1,
+      "value": 4370.2,
       "unit": "usd-per-ounce",
-      "changePercent": -0.03,
-      "trend": "down",
-      "effectiveAt": "2026-09-14T04:53:25.000Z",
+      "changePercent": 0.09,
+      "trend": "up",
+      "effectiveAt": "2026-09-14T05:00:34.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77608,
+      "value": 77595,
       "unit": "usd",
-      "changePercent": 0.54,
+      "changePercent": 0.49,
       "trend": "up",
-      "effectiveAt": "2026-09-14T05:03:32.944Z",
+      "effectiveAt": "2026-09-14T05:10:37.387Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -267,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-14T05:03:33.846Z",
+  "historyGeneratedAt": "2026-09-14T05:10:38.051Z",
   "history": [
     {
       "id": "usdclp",
@@ -656,5 +656,5 @@
       "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-09-14T05:03:33.896Z"
+  "freshnessCheckedAt": "2026-09-14T05:10:38.083Z"
 }
