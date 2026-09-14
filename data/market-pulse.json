@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-14T02:45:21.399Z",
+  "generatedAt": "2026-09-14T04:14:42.461Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
       "id": "usdclp",
       "label": "USD/CLP",
       "group": "fx",
-      "value": 937.17,
+      "value": 940.91,
       "unit": "clp",
-      "changePercent": 1.21,
+      "changePercent": 0.4,
       "trend": "up",
-      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "effectiveAt": "2026-09-14T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -22,11 +22,11 @@
       "id": "eurclp",
       "label": "EUR/CLP",
       "group": "fx",
-      "value": 1088.97,
+      "value": 1091.29,
       "unit": "clp",
-      "changePercent": 1.04,
+      "changePercent": 0.21,
       "trend": "up",
-      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "effectiveAt": "2026-09-14T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -39,7 +39,7 @@
       "unit": "percent",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "effectiveAt": "2026-09-14T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -48,11 +48,11 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 40918.25,
+      "value": 40926.41,
       "unit": "clp",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-13T12:00:00-03:00",
+      "effectiveAt": "2026-09-14T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -61,11 +61,11 @@
       "id": "copper",
       "label": "Cobre",
       "group": "commodities",
-      "value": 6.72,
+      "value": 6.45,
       "unit": "usd-per-pound",
-      "changePercent": 0.45,
-      "trend": "up",
-      "effectiveAt": "2026-09-11T12:00:00-03:00",
+      "changePercent": -4.02,
+      "trend": "down",
+      "effectiveAt": "2026-09-14T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current"
@@ -130,7 +130,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-14T02:45:20.781Z",
+      "effectiveAt": "2026-09-14T04:14:41.874Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current"
@@ -152,11 +152,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 107.25,
+      "value": 107.71,
       "unit": "usd-per-barrel",
-      "changePercent": 13.31,
+      "changePercent": 12.63,
       "trend": "up",
-      "effectiveAt": "2026-09-14T02:35:11.000Z",
+      "effectiveAt": "2026-09-14T04:04:23.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current"
@@ -165,11 +165,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4395.7,
+      "value": 4371.1,
       "unit": "usd-per-ounce",
-      "changePercent": 1.1,
+      "changePercent": 0.11,
       "trend": "up",
-      "effectiveAt": "2026-09-14T02:35:05.000Z",
+      "effectiveAt": "2026-09-14T04:04:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current"
@@ -204,11 +204,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77458,
+      "value": 77549,
       "unit": "usd",
-      "changePercent": 0.27,
+      "changePercent": 0.42,
       "trend": "up",
-      "effectiveAt": "2026-09-14T02:45:21.399Z",
+      "effectiveAt": "2026-09-14T04:14:42.461Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current"
@@ -267,7 +267,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-14T02:45:22.287Z",
+  "historyGeneratedAt": "2026-09-14T04:14:43.396Z",
   "history": [
     {
       "id": "usdclp",
@@ -276,10 +276,6 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        {
-          "date": "2026-08-14",
-          "value": 913.2
-        },
         {
           "date": "2026-08-17",
           "value": 913.15
@@ -359,6 +355,10 @@
         {
           "date": "2026-09-11",
           "value": 937.17
+        },
+        {
+          "date": "2026-09-14",
+          "value": 940.91
         }
       ]
     },
@@ -369,10 +369,6 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        {
-          "date": "2026-08-14",
-          "value": 6.48
-        },
         {
           "date": "2026-08-17",
           "value": 6.53
@@ -452,6 +448,10 @@
         {
           "date": "2026-09-11",
           "value": 6.72
+        },
+        {
+          "date": "2026-09-14",
+          "value": 6.45
         }
       ]
     },
@@ -462,10 +462,6 @@
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "points": [
-        {
-          "date": "2026-08-14",
-          "value": 7785.759765625
-        },
         {
           "date": "2026-08-17",
           "value": 7745.06005859375
@@ -552,10 +548,6 @@
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "points": [
         {
-          "date": "2026-08-14",
-          "value": 88.5199966430664
-        },
-        {
           "date": "2026-08-17",
           "value": 90.87000274658203
         },
@@ -632,8 +624,8 @@
           "value": 104.61000061035156
         },
         {
-          "date": "2026-09-13",
-          "value": 107.25
+          "date": "2026-09-14",
+          "value": 107.70999908447266
         }
       ]
     }
@@ -655,14 +647,14 @@
       "id": "sp500",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 20
+      "observations": 19
     },
     {
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 21
+      "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-09-14T02:45:22.324Z"
+  "freshnessCheckedAt": "2026-09-14T04:14:43.426Z"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3ca5746a815f640ebdafb1e2b163a1a9f9644a87",
+  "sourceCommit": "7b157090e61c1c0efd682fc10b27323b718a9d1f",
   "latestDaily": {
     "id": "2026-09-13-daily-doble-vulnerabilidad-logistica-golfo",
     "issueNumber": 42,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-13",
+    "asOf": "2026-09-14",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
