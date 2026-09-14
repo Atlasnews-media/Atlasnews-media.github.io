@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T10:51:01.424Z",
+  "updatedAt": "2026-09-14T11:13:17.242Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -71,6 +71,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-11.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-11.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-14-national-basilea-supervision-riesgo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-14-markets-doble-prima-energia-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

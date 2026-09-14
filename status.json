@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7e0328db624f83cae9f60cce76987b5139a758d0",
+  "sourceCommit": "c95e6bd56fe8503c491156d0e6619308e66973f3",
   "latestDaily": {
-    "id": "2026-09-13-daily-doble-vulnerabilidad-logistica-golfo",
-    "issueNumber": 42,
-    "title": "El shock energético entra en una fase de doble vulnerabilidad logística",
-    "publishedAt": "2026-09-13T07:00:11-03:00",
-    "cutoffAt": "2026-09-13T06:00:35-03:00"
+    "id": "2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global",
+    "issueNumber": 43,
+    "title": "La crisis energética deja de ser un shock puntual y se convierte en riesgo macro global",
+    "publishedAt": "2026-09-14T08:08:46-03:00",
+    "cutoffAt": "2026-09-14T06:01:00-03:00"
   },
   "latestNational": {
-    "id": "2026-09-13-national-cmf-duracion-riesgo-tasa",
-    "title": "La CMF incorpora duración como alternativa para medir riesgo de tasa en bancos",
-    "publishedAt": "2026-09-13T07:00:41-03:00",
-    "cutoffAt": "2026-09-13T06:03:55-03:00"
+    "id": "2026-09-14-national-basilea-supervision-riesgo",
+    "title": "La CMF ajusta Basilea III y acelera una supervisión financiera basada en riesgo",
+    "publishedAt": "2026-09-14T08:08:47-03:00",
+    "cutoffAt": "2026-09-14T06:04:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-13-markets-fin-de-semana-reabre-riesgo-gap",
-    "title": "El fin de semana vuelve obsoleto parte del alivio del viernes",
-    "publishedAt": "2026-09-13T07:01:01-03:00",
-    "cutoffAt": "2026-09-13T06:05:15-03:00"
+    "id": "2026-09-14-markets-doble-prima-energia-ia",
+    "title": "Energía e inteligencia artificial abren dos primas de riesgo distintas",
+    "publishedAt": "2026-09-14T08:08:48-03:00",
+    "cutoffAt": "2026-09-14T06:07:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 42,
+    "daily": 43,
     "weekly": 4,
-    "national": 35,
-    "markets": 34,
+    "national": 36,
+    "markets": 35,
     "readings": 9,
-    "total": 124
+    "total": 127
   },
   "indicators": {
     "status": "current",
