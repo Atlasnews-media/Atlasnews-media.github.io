@@ -6,23 +6,23 @@
   "lexiconRevision": 4,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-13",
-  "title": "ATLAS NEWS — Resumen diario — domingo 13 de septiembre de 2026",
+  "date": "2026-09-14",
+  "title": "ATLAS NEWS — Resumen diario — lunes 14 de septiembre de 2026",
   "summary": "Briefing de Portada por funciones editoriales: snapshot, señal central, Chile, lectura de mercados y variables a seguir.",
-  "path": "/audio/2026-09-13-resumen-diario.mp3",
-  "durationSeconds": 290.9,
+  "path": "/audio/2026-09-14-resumen-diario.mp3",
+  "durationSeconds": 291.3,
   "durationLabel": "5 min",
-  "bytes": 3490893,
-  "generatedAt": "2026-09-13T10:06:51.243270+00:00",
+  "bytes": 3496077,
+  "generatedAt": "2026-09-14T11:22:01.476759+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-13-daily-doble-vulnerabilidad-logistica-golfo",
-    "general": "2026-09-13-daily-doble-vulnerabilidad-logistica-golfo",
-    "national": "2026-09-13-national-cmf-duracion-riesgo-tasa",
-    "markets": "2026-09-13-markets-fin-de-semana-reabre-riesgo-gap"
+    "international": "2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global",
+    "general": "2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global",
+    "national": "2026-09-14-national-basilea-supervision-riesgo",
+    "markets": "2026-09-14-markets-doble-prima-energia-ia"
   },
-  "sourceCommit": "56bea0f5c8848d996a5b456635e1b37a7b0cb6ea"
+  "sourceCommit": "c95e6bd56fe8503c491156d0e6619308e66973f3"
 }
