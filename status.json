@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "a56b180282d3dc9adfdc66689dbe02a0e7dec1d6",
+  "sourceCommit": "c5eceec101e3746c9f4619ee78943f7c06813ef9",
   "latestDaily": {
     "id": "2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio",
     "issueNumber": 44,
@@ -9,31 +9,31 @@
     "cutoffAt": "2026-09-15T05:58:03-03:00"
   },
   "latestNational": {
-    "id": "2026-09-14-national-basilea-supervision-riesgo",
-    "title": "La CMF ajusta Basilea III y acelera una supervisión financiera basada en riesgo",
-    "publishedAt": "2026-09-14T08:08:47-03:00",
-    "cutoffAt": "2026-09-14T06:04:00-03:00"
+    "id": "2026-09-15-national-credito-tasas-economia-debil",
+    "title": "Nuevas tasas de crédito entran a regir con una economía chilena más débil",
+    "publishedAt": "2026-09-15T10:31:00-03:00",
+    "cutoffAt": "2026-09-15T10:28:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-14-markets-doble-prima-energia-ia",
-    "title": "Energía e inteligencia artificial abren dos primas de riesgo distintas",
-    "publishedAt": "2026-09-14T08:08:48-03:00",
-    "cutoffAt": "2026-09-14T06:07:00-03:00"
+    "id": "2026-09-15-markets-treasury-petroleo-fed",
+    "title": "Treasury sobre 5% y petróleo sobre US$100 endurecen el costo de capital antes de la Fed",
+    "publishedAt": "2026-09-15T10:31:30-03:00",
+    "cutoffAt": "2026-09-15T10:28:00-03:00"
   },
   "morningPackage": {
     "date": "2026-09-15",
     "generalPublished": true,
-    "nationalPublished": false,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalPublished": true,
+    "marketsPublished": true,
+    "completeness": 3
   },
   "publications": {
     "daily": 44,
     "weekly": 4,
-    "national": 36,
-    "markets": 35,
+    "national": 37,
+    "markets": 36,
     "readings": 10,
-    "total": 129
+    "total": 131
   },
   "indicators": {
     "status": "current",
