@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "299adfbbb7e8d23921d076823f69f3c07373a067",
+  "sourceCommit": "a56b180282d3dc9adfdc66689dbe02a0e7dec1d6",
   "latestDaily": {
-    "id": "2026-09-14-daily-energia-se-convierte-en-riesgo-macro-global",
-    "issueNumber": 43,
-    "title": "La crisis energética deja de ser un shock puntual y se convierte en riesgo macro global",
-    "publishedAt": "2026-09-14T08:08:46-03:00",
-    "cutoffAt": "2026-09-14T06:01:00-03:00"
+    "id": "2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio",
+    "issueNumber": 44,
+    "title": "Hormuz pierde dos vías de alivio y el shock energético gana persistencia",
+    "publishedAt": "2026-09-15T08:06:22-03:00",
+    "cutoffAt": "2026-09-15T05:58:03-03:00"
   },
   "latestNational": {
     "id": "2026-09-14-national-basilea-supervision-riesgo",
@@ -21,19 +21,19 @@
     "cutoffAt": "2026-09-14T06:07:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "generalPublished": true,
-    "nationalPublished": true,
-    "marketsPublished": true,
-    "completeness": 3
+    "nationalPublished": false,
+    "marketsPublished": false,
+    "completeness": 1
   },
   "publications": {
-    "daily": 43,
+    "daily": 44,
     "weekly": 4,
     "national": 36,
     "markets": 35,
     "readings": 10,
-    "total": 128
+    "total": 129
   },
   "indicators": {
     "status": "current",
