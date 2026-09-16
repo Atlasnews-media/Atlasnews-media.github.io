@@ -104,4 +104,10 @@
 
   tracker.addEventListener("load", setupInteractionTracking, { once: true });
   document.head.appendChild(tracker);
+})();</script><script>(() => {
+  if (document.querySelector("script[data-atlas-live-market]")) return;
+  const liveMarketScript = document.createElement("script");
+  liveMarketScript.src = "/scripts/live-market-numbers.js";
+  liveMarketScript.dataset.atlasLiveMarket = "true";
+  document.head.appendChild(liveMarketScript);
 })();</script></head><body><p>El calendario económico de ATLAS NEWS cambió de ubicación.<a href="/calendario-economico/">Abrir calendario económico</a>.</p></body></html>
