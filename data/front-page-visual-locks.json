@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T03:42:36.450Z",
+  "updatedAt": "2026-09-16T10:03:46.689Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -121,6 +121,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-09-16-daily-arabia-saudi-ensaya-un-bypass-maritimo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-16-national-reforma-capitales-sale-a-buscar-inversion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-09-16-markets-petroleo-cede-pero-tasas-mantienen-la-presion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
