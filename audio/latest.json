@@ -8,21 +8,21 @@
   "status": "published",
   "date": "2026-09-15",
   "title": "ATLAS NEWS — Resumen diario — martes 15 de septiembre de 2026",
-  "summary": "Briefing de Portada de la edición 044, publicado en contingencia con actualización editorial concentrada en Internacional.",
+  "summary": "Briefing de Portada por funciones editoriales: snapshot, señal central, Chile, lectura de mercados y variables a seguir.",
   "path": "/audio/2026-09-15-resumen-diario.mp3",
-  "durationSeconds": 160.4,
-  "durationLabel": "3 min",
-  "bytes": 1924749,
-  "generatedAt": "2026-09-15T13:42:06.132314+00:00",
+  "durationSeconds": 294.2,
+  "durationLabel": "5 min",
+  "bytes": 3530637,
+  "generatedAt": "2026-09-16T02:36:24.515311+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
-  "completeness": 1,
+  "completeness": 3,
   "sourceIds": {
     "international": "2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio",
     "general": "2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio",
-    "national": null,
-    "markets": null
+    "national": "2026-09-15-national-credito-tasas-economia-debil",
+    "markets": "2026-09-15-markets-treasury-petroleo-fed"
   },
-  "sourceCommit": "a56b180282d3dc9adfdc66689dbe02a0e7dec1d6"
+  "sourceCommit": "87eceba70d7d7d854a260bddd9ae90da9d5d3cfc"
 }
