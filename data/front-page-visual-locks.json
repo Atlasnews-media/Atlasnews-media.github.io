@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T03:13:04.380Z",
+  "updatedAt": "2026-09-16T02:33:45.611Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -97,6 +97,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-15-national-credito-tasas-economia-debil": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Detalle%20escudo%20Banco%20Central%20(34724274142).jpg?width=1280",
+      "alt": "Banco Central de Chile, política monetaria, reservas o contexto financiero local.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Detalle%20escudo%20Banco%20Central%20(34724274142).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-15-markets-treasury-petroleo-fed": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
+      "alt": "Sesión de trabajo de la Reserva Federal vinculada a decisiones de política monetaria.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
     }
   }
 }

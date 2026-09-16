@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c5eceec101e3746c9f4619ee78943f7c06813ef9",
+  "sourceCommit": "87eceba70d7d7d854a260bddd9ae90da9d5d3cfc",
   "latestDaily": {
     "id": "2026-09-15-daily-hormuz-pierde-dos-vias-de-alivio",
     "issueNumber": 44,
@@ -36,7 +36,7 @@
     "total": 131
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-15",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
