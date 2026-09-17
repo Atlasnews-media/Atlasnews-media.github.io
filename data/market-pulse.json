@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-17T23:24:39.431Z",
+  "generatedAt": "2026-09-17T23:39:31.491Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-17T23:24:39.098Z",
+      "effectiveAt": "2026-09-17T23:39:31.167Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -178,7 +178,7 @@
       "unit": "usd-per-barrel",
       "changePercent": 6.29,
       "trend": "up",
-      "effectiveAt": "2026-09-17T22:58:30.000Z",
+      "effectiveAt": "2026-09-17T23:24:21.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -189,11 +189,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4384.1,
+      "value": 4383.8,
       "unit": "usd-per-ounce",
       "changePercent": -1.24,
       "trend": "down",
-      "effectiveAt": "2026-09-17T23:14:26.000Z",
+      "effectiveAt": "2026-09-17T23:28:24.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 76429,
+      "value": 76362,
       "unit": "usd",
-      "changePercent": 0.47,
+      "changePercent": 0.4,
       "trend": "up",
-      "effectiveAt": "2026-09-17T23:24:39.431Z",
+      "effectiveAt": "2026-09-17T23:39:31.491Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -299,7 +299,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-17T23:24:40.188Z",
+  "historyGeneratedAt": "2026-09-17T23:39:32.260Z",
   "history": [
     {
       "id": "usdclp",
@@ -724,6 +724,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-09-17T23:24:40.216Z",
+  "freshnessCheckedAt": "2026-09-17T23:39:32.297Z",
   "freshnessPolicy": "intraday-v2"
 }
