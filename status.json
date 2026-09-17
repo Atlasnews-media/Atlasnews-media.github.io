@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "733b85fae0eb6d005891bc9c559248705cfec064",
+  "sourceCommit": "53074dd9dc70f5614416adaafbd1fa33cfa018f6",
   "latestDaily": {
     "id": "2026-09-16-daily-arabia-saudi-ensaya-un-bypass-maritimo",
     "issueNumber": 45,
@@ -36,7 +36,7 @@
     "total": 135
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
