@@ -115,4 +115,49 @@
   calendarScript.src = "/scripts/desktop-workspace-calendar.js";
   calendarScript.dataset.atlasWorkspaceCalendar = "true";
   document.head.appendChild(calendarScript);
+})();</script><script>(() => {
+  const desktop = window.matchMedia("(min-width: 80rem)");
+  const articlePattern = /^\/(ediciones|nacional|mercados|lecturas)\/[^/]+\/?$/;
+  const keyForPath = (pathname) =>
+    pathname
+      .replace(/^\/+|\/+$/g, "")
+      .replace(/[^a-zA-Z0-9_-]+/g, "-")
+      .toLowerCase();
+
+  if (!document.querySelector("style[data-atlas-shared-transitions]")) {
+    const style = document.createElement("style");
+    style.dataset.atlasSharedTransitions = "true";
+    style.textContent = [
+      "@media (min-width: 80rem) and (prefers-reduced-motion: no-preference) {",
+      "  ::view-transition-group(*) {",
+      "    animation-duration: 240ms;",
+      "    animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);",
+      "  }",
+      "}",
+      "@media (max-width: 79.99rem), (prefers-reduced-motion: reduce) {",
+      "  ::view-transition-group(*),",
+      "  ::view-transition-old(*),",
+      "  ::view-transition-new(*) { animation: none !important; }",
+      "}",
+    ].join("\n");
+    document.head.appendChild(style);
+  }
+
+  document.addEventListener("astro:before-swap", (event) => {
+    if (!desktop.matches || !event.newDocument) return;
+
+    const destination = new URL(event.to ?? window.location.href, window.location.href);
+    if (!articlePattern.test(destination.pathname)) return;
+
+    const key = keyForPath(destination.pathname);
+    const title = event.newDocument.querySelector(".article-header h1");
+    const visual = event.newDocument.querySelector(".article-header .article-visual");
+
+    if (title instanceof HTMLElement) {
+      title.style.viewTransitionName = "atlas-title-" + key;
+    }
+    if (visual instanceof HTMLElement) {
+      visual.style.viewTransitionName = "atlas-visual-" + key;
+    }
+  });
 })();</script></head><body data-astro-cid-my2ivmvt><main class="lab-shell" data-astro-cid-my2ivmvt><p class="lab-kicker" data-astro-cid-my2ivmvt>ATLAS NEWS · AUDIO LAB</p><h1 data-astro-cid-my2ivmvt>Lexicon V4</h1><p class="lead" data-astro-cid-my2ivmvt>Comparación A/B de pronunciación para <strong data-astro-cid-my2ivmvt>bypass</strong>. El texto editorial no cambia: esta prueba modifica únicamente la forma hablada que recibe Kokoro.</p><div class="rule" aria-hidden="true" data-astro-cid-my2ivmvt></div><section data-astro-cid-my2ivmvt><p class="status" data-astro-cid-my2ivmvt>Dora · ef_dora</p><h2 data-astro-cid-my2ivmvt>Pronunciación actual vs propuesta</h2><div class="comparison-grid" data-astro-cid-my2ivmvt><article class="audio-card" data-astro-cid-my2ivmvt><p class="card-kicker" data-astro-cid-my2ivmvt>A · Actual</p><h3 data-astro-cid-my2ivmvt>Dora · actual</h3><audio controls preload="metadata" data-astro-cid-my2ivmvt><source src="/lab/audio/lexicon-v4/bypass-dora-current.mp3" type="audio/mpeg" data-astro-cid-my2ivmvt></audio></article><article class="audio-card audio-card--candidate" data-astro-cid-my2ivmvt><p class="card-kicker" data-astro-cid-my2ivmvt>B · Propuesta</p><h3 data-astro-cid-my2ivmvt>Dora · “bái pas”</h3><audio controls preload="metadata" data-astro-cid-my2ivmvt><source src="/lab/audio/lexicon-v4/bypass-dora-proposed.mp3" type="audio/mpeg" data-astro-cid-my2ivmvt></audio></article></div></section><div class="rule" aria-hidden="true" data-astro-cid-my2ivmvt></div><section data-astro-cid-my2ivmvt><p class="status" data-astro-cid-my2ivmvt>Alex · em_alex</p><h2 data-astro-cid-my2ivmvt>Pronunciación actual vs propuesta</h2><div class="comparison-grid" data-astro-cid-my2ivmvt><article class="audio-card" data-astro-cid-my2ivmvt><p class="card-kicker" data-astro-cid-my2ivmvt>A · Actual</p><h3 data-astro-cid-my2ivmvt>Alex · actual</h3><audio controls preload="metadata" data-astro-cid-my2ivmvt><source src="/lab/audio/lexicon-v4/bypass-alex-current.mp3" type="audio/mpeg" data-astro-cid-my2ivmvt></audio></article><article class="audio-card audio-card--candidate" data-astro-cid-my2ivmvt><p class="card-kicker" data-astro-cid-my2ivmvt>B · Propuesta</p><h3 data-astro-cid-my2ivmvt>Alex · “bái pas”</h3><audio controls preload="metadata" data-astro-cid-my2ivmvt><source src="/lab/audio/lexicon-v4/bypass-alex-proposed.mp3" type="audio/mpeg" data-astro-cid-my2ivmvt></audio></article></div></section><div class="rule" aria-hidden="true" data-astro-cid-my2ivmvt></div><section data-astro-cid-my2ivmvt><p class="status" data-astro-cid-my2ivmvt>Contrato LAB</p><h2 data-astro-cid-my2ivmvt>Escucha humana antes de producción</h2><p data-astro-cid-my2ivmvt>Ninguna variante se incorpora automáticamente al Lexicon productivo. La promoción requiere elegir explícitamente la pronunciación que mejor funcione con Dora y Alex.</p><a class="lab-link" href="/lab/" data-astro-cid-my2ivmvt>← Volver a ATLAS NEWS LAB</a></section></main></body></html>

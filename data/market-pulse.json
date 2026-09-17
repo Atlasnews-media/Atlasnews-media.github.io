@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-17T20:48:32.959Z",
+  "generatedAt": "2026-09-17T21:13:31.154Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -103,7 +103,7 @@
       "unit": "points",
       "changePercent": 0.76,
       "trend": "up",
-      "effectiveAt": "2026-09-17T20:48:30.000Z",
+      "effectiveAt": "2026-09-17T21:13:28.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
       "status": "current",
@@ -139,7 +139,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 289 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 314 min desde su marca efectiva"
     },
     {
       "id": "ipsa",
@@ -149,7 +149,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-17T20:48:32.646Z",
+      "effectiveAt": "2026-09-17T21:13:30.517Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -170,17 +170,17 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 109 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 134 min desde su marca efectiva"
     },
     {
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 104.27,
+      "value": 104.09,
       "unit": "usd-per-barrel",
-      "changePercent": 6.48,
+      "changePercent": 6.3,
       "trend": "up",
-      "effectiveAt": "2026-09-17T20:37:45.000Z",
+      "effectiveAt": "2026-09-17T20:59:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -191,11 +191,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4381.1,
+      "value": 4380.6,
       "unit": "usd-per-ounce",
-      "changePercent": -1.3,
+      "changePercent": -1.32,
       "trend": "down",
-      "effectiveAt": "2026-09-17T20:38:11.000Z",
+      "effectiveAt": "2026-09-17T20:59:57.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -216,7 +216,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 289 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 314 min desde su marca efectiva"
     },
     {
       "id": "usdjpy",
@@ -232,17 +232,17 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 289 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 314 min desde su marca efectiva"
     },
     {
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 76486,
+      "value": 76445,
       "unit": "usd",
-      "changePercent": 0.58,
+      "changePercent": 0.52,
       "trend": "up",
-      "effectiveAt": "2026-09-17T20:48:32.959Z",
+      "effectiveAt": "2026-09-17T21:13:31.154Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -305,29 +305,29 @@
       "id": "stoxx50-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 289 min desde su marca efectiva"
+      "warning": "último dato disponible; 314 min desde su marca efectiva"
     },
     {
       "id": "ust10y-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 109 min desde su marca efectiva"
+      "warning": "último dato disponible; 134 min desde su marca efectiva"
     },
     {
       "id": "eurusd-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 289 min desde su marca efectiva"
+      "warning": "último dato disponible; 314 min desde su marca efectiva"
     },
     {
       "id": "usdjpy-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 289 min desde su marca efectiva"
+      "warning": "último dato disponible; 314 min desde su marca efectiva"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-17T20:48:33.589Z",
+  "historyGeneratedAt": "2026-09-17T21:13:31.987Z",
   "history": [
     {
       "id": "usdclp",
@@ -721,7 +721,7 @@
         },
         {
           "date": "2026-09-17",
-          "value": 104.2699966430664
+          "value": 104.08999633789062
         }
       ]
     }
@@ -752,6 +752,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-09-17T20:48:33.618Z",
+  "freshnessCheckedAt": "2026-09-17T21:13:32.020Z",
   "freshnessPolicy": "intraday-v2"
 }
