@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
+  "status": "current",
   "asOf": "2026-09-16",
-  "fetchedAt": "2026-09-16T10:39:06.312Z",
-  "lastAttemptAt": "2026-09-16T23:15:19.101Z",
+  "fetchedAt": "2026-09-17T00:13:52.858Z",
+  "lastAttemptAt": "2026-09-17T00:13:52.858Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
