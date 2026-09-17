@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3afc70f048a996340d8f234c98b6d2e5adcbbfec",
+  "sourceCommit": "db0cd28bdf75cbb30c8b0c45b3681e52e54b8e33",
   "latestDaily": {
-    "id": "2026-09-16-daily-arabia-saudi-ensaya-un-bypass-maritimo",
-    "issueNumber": 45,
-    "title": "Arabia Saudita ensaya un bypass marítimo mientras Hormuz sigue casi paralizado",
-    "publishedAt": "2026-09-16T07:00:01-03:00",
-    "cutoffAt": "2026-09-16T05:59:48-03:00"
+    "id": "2026-09-17-daily-fed-endurece-el-mapa-global-de-tasas",
+    "issueNumber": 46,
+    "title": "La Fed endurece el mapa global de tasas mientras la energía mantiene el riesgo",
+    "publishedAt": "2026-09-17T05:59:05-03:00",
+    "cutoffAt": "2026-09-17T05:58:03-03:00"
   },
   "latestNational": {
-    "id": "2026-09-16-national-reforma-capitales-sale-a-buscar-inversion",
-    "title": "La reforma de capitales sale a buscar inversión antes de probar su efecto en Chile",
-    "publishedAt": "2026-09-16T07:00:22-03:00",
-    "cutoffAt": "2026-09-16T06:27:00-03:00"
+    "id": "2026-09-17-national-minuta-confirma-pausa-pero-eleva-el-valor-del-empleo",
+    "title": "La minuta confirma la pausa, pero eleva el valor del empleo para la próxima decisión",
+    "publishedAt": "2026-09-17T06:19:00-03:00",
+    "cutoffAt": "2026-09-17T06:17:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-16-markets-petroleo-cede-pero-tasas-mantienen-la-presion",
-    "title": "El petróleo cede, pero las tasas mantienen la presión sobre el riesgo global",
-    "publishedAt": "2026-09-16T07:00:38-03:00",
-    "cutoffAt": "2026-09-16T06:33:00-03:00"
+    "id": "2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo",
+    "title": "La Fed aplana la curva y el dólar toma el relevo mientras las acciones resisten",
+    "publishedAt": "2026-09-17T06:21:00-03:00",
+    "cutoffAt": "2026-09-17T06:20:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 45,
+    "daily": 46,
     "weekly": 4,
-    "national": 38,
-    "markets": 37,
+    "national": 39,
+    "markets": 38,
     "readings": 11,
-    "total": 135
+    "total": 138
   },
   "indicators": {
     "status": "current",

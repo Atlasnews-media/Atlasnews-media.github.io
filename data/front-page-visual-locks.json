@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T12:31:16.845Z",
+  "updatedAt": "2026-09-17T12:41:24.463Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -145,6 +145,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-09-17-daily-fed-endurece-el-mapa-global-de-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en el edificio Marriner S. Eccles de la Reserva Federal.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-09-17-national-minuta-confirma-pausa-pero-eleva-el-valor-del-empleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "alt": "Edificio de oficinas en Las Condes, Santiago de Chile.",
+      "source": "Wikimedia Commons / Flickr",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "author": "Jimmy Baikovicius",
+      "license": "CC BY-SA 2.0"
+    },
+    "markets:2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en Washington durante una sesión de política monetaria.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
     }
   }
 }
