@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "targetLexiconVersion": 4,
+  "term": "bypass",
+  "proposedSpeech": "bái pas",
+  "productionTouched": false,
+  "clips": [
+    {
+      "voice": "dora",
+      "voiceId": "ef_dora",
+      "variant": "current",
+      "file": "bypass-dora-current.mp3"
+    },
+    {
+      "voice": "dora",
+      "voiceId": "ef_dora",
+      "variant": "proposed",
+      "file": "bypass-dora-proposed.mp3"
+    },
+    {
+      "voice": "alex",
+      "voiceId": "em_alex",
+      "variant": "current",
+      "file": "bypass-alex-current.mp3"
+    },
+    {
+      "voice": "alex",
+      "voiceId": "em_alex",
+      "variant": "proposed",
+      "file": "bypass-alex-proposed.mp3"
+    }
+  ]
+}
