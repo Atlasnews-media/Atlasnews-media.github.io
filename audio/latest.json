@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 12,
+  "scriptVersion": 13,
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 4,
@@ -8,12 +8,12 @@
   "status": "published",
   "date": "2026-09-16",
   "title": "ATLAS NEWS — Resumen diario — miércoles 16 de septiembre de 2026",
-  "summary": "Briefing de Portada por funciones editoriales: snapshot, señal central, Chile, lectura de mercados y variables a seguir.",
+  "summary": "Briefing de Portada V13: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-09-16-resumen-diario.mp3",
-  "durationSeconds": 305.8,
+  "durationSeconds": 299.6,
   "durationLabel": "5 min",
-  "bytes": 3670029,
-  "generatedAt": "2026-09-16T10:06:45.605707+00:00",
+  "bytes": 3595149,
+  "generatedAt": "2026-09-17T12:21:57.353712+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -24,5 +24,5 @@
     "national": "2026-09-16-national-reforma-capitales-sale-a-buscar-inversion",
     "markets": "2026-09-16-markets-petroleo-cede-pero-tasas-mantienen-la-presion"
   },
-  "sourceCommit": "5acf20e9a60c1f7f1100168a5567576df9c5850e"
+  "sourceCommit": "6e8259b6d91a6f630d1748996e8f9e5c400da789"
 }
