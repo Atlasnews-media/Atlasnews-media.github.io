@@ -1,67 +1,76 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T12:44:00.541629+00:00",
-  "sourceCommit": "db0cd28bdf75cbb30c8b0c45b3681e52e54b8e33",
+  "generatedAt": "2026-09-18T07:05:21.260814+00:00",
+  "sourceCommit": "fe105e4d86aa0257a575db7598b223f6dd6ce938",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
+  "voiceProfileTarget": "alex-c-v1",
   "questionProsodyVersion": 2,
   "international": {
     "status": "published",
     "sourceId": "2026-09-17-daily-fed-endurece-el-mapa-global-de-tasas",
     "path": "/audio/2026-09-17-international-analysis.mp3",
-    "durationSeconds": 147.9,
-    "durationLabel": "2 min",
-    "bytes": 1774989,
+    "durationSeconds": 158.1,
+    "durationLabel": "3 min",
+    "bytes": 1897389,
     "scriptVersion": 1,
     "scriptHash": "8e94cd99200d89c913ba5b7b30127a720ff1bebf92f69138706d8a8262424012",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 5,
-    "questionProsodyVersion": 2,
-    "engine": "Kokoro-82M",
     "language": "es",
-    "voice": "em_alex"
+    "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voice": "alex-c-v1",
+    "questionProsodyVersion": 0,
+    "fallbackUsed": false
   },
   "national": {
     "status": "published",
     "sourceId": "2026-09-17-national-minuta-confirma-pausa-pero-eleva-el-valor-del-empleo",
     "path": "/audio/2026-09-17-national-analysis.mp3",
-    "durationSeconds": 191.1,
+    "durationSeconds": 191.4,
     "durationLabel": "3 min",
-    "bytes": 2293965,
+    "bytes": 2296557,
     "scriptVersion": 3,
     "scriptHash": "07cd284e061557ee2f051e9ba01a1e9ab170f498c9db7817bae6f5077fa37dcc",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 5,
-    "questionProsodyVersion": 2,
-    "engine": "Kokoro-82M",
     "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
     "voices": {
       "voice1": "ef_dora",
-      "voice2": "em_alex"
-    }
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 1,
+    "fallbackUsed": false
   },
   "markets": {
     "status": "published",
     "sourceId": "2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo",
     "path": "/audio/2026-09-17-markets-analysis.mp3",
-    "durationSeconds": 246.5,
+    "durationSeconds": 246.6,
     "durationLabel": "4 min",
-    "bytes": 2958093,
+    "bytes": 2959821,
     "scriptVersion": 3,
     "scriptHash": "6fa722351acd80e14ee954869c0d3ff0d94b09da8d0b0a59aa900be8de01902b",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 5,
-    "questionProsodyVersion": 2,
-    "engine": "Kokoro-82M",
     "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
     "voices": {
       "voice1": "ef_dora",
-      "voice2": "em_alex"
-    }
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 1,
+    "fallbackUsed": false
   }
 }
