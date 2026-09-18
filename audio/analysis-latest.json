@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T18:01:50.886195+00:00",
-  "sourceCommit": "3f6fe2978583443d749817fdbf379f9205badaac",
+  "generatedAt": "2026-09-18T20:15:13.536660+00:00",
+  "sourceCommit": "4cded8fbc676396567a2af187e510aac847e0682",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -12,9 +12,9 @@
     "status": "published",
     "sourceId": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
     "path": "/audio/2026-09-18-international-analysis.mp3",
-    "durationSeconds": 152.7,
+    "durationSeconds": 155.3,
     "durationLabel": "3 min",
-    "bytes": 1832877,
+    "bytes": 1863693,
     "scriptVersion": 2,
     "scriptHash": "df99671f0c9d0a43107b837e0919c2a2a4c9866786830bbcefeb5cbd223eb8e4",
     "speechNormalizerVersion": 5,
@@ -32,7 +32,7 @@
       "interviewer": "VOZ 1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
+    "dialogueRhythmVersion": 3,
     "fallbackUsed": false
   },
   "national": {
@@ -55,7 +55,7 @@
       "voice2": "alex-c-v1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
+    "dialogueRhythmVersion": 3,
     "fallbackUsed": false
   },
   "markets": {
@@ -78,7 +78,7 @@
       "voice2": "alex-c-v1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
+    "dialogueRhythmVersion": 3,
     "fallbackUsed": false
   }
 }
