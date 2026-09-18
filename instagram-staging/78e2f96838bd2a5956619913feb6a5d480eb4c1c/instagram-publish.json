@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global/",
+  "childContainerIds": [
+    "18089226770386975",
+    "18089226788386975",
+    "18089226806386975",
+    "18089226830386975",
+    "18089226851386975"
+  ],
+  "carouselContainerId": "18089226869386975",
+  "mediaId": "17906966679510696",
+  "permalink": "https://www.instagram.com/p/DdbipdToMzw/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-18T13:27:27+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/78e2f96838bd2a5956619913feb6a5d480eb4c1c/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/78e2f96838bd2a5956619913feb6a5d480eb4c1c/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/78e2f96838bd2a5956619913feb6a5d480eb4c1c/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/78e2f96838bd2a5956619913feb6a5d480eb4c1c/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/78e2f96838bd2a5956619913feb6a5d480eb4c1c/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "35350152194",
+  "githubRunAttempt": "1",
+  "sourceCommit": "78e2f96838bd2a5956619913feb6a5d480eb4c1c"
+}
