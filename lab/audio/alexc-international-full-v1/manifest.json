@@ -14,8 +14,8 @@
   "candidate": {
     "label": "Internacional completo · Alex C",
     "file": "b-international-alexc-full.mp3",
-    "durationSeconds": 162.0,
-    "sha256": "27aefa654180e4ca9781a8871d4d73f2d12a17cb75cb64387a1c332dd7679ffc",
+    "durationSeconds": 161.9,
+    "sha256": "bab0984ec3c9e949ae14bbc345d4235deb81b459e9ac655d86021c5036a9bf32",
     "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
     "profile": "C neutral",
     "exaggeration": 0.5,
@@ -23,121 +23,100 @@
     "cfg": 0.5,
     "reference": {
       "recipe": "em_alex B2",
-      "sha256": "7672b57d2753a9fb4b0746f4569e17fa5bfad98b6b0440d3a9ef052914f0f310",
+      "sha256": "9361fd958b07c05a0474261d2b244eb1e0cb2d807b53522c0563a5a70692baed",
       "durationSeconds": 7.78
     },
     "chunks": [
       {
         "index": 1,
         "seed": 5100,
-        "chars": 89,
-        "durationSeconds": 7.44,
-        "text": "ATLAS NEWS. Análisis internacional del jueves 17 de septiembre de 2026. El hecho central."
+        "chars": 71,
+        "durationSeconds": 6.32,
+        "text": "ATLAS NEWS. Análisis internacional del jueves 17 de septiembre de 2026."
       },
       {
         "index": 2,
         "seed": 5101,
-        "chars": 232,
-        "durationSeconds": 13.8,
-        "text": "La primera subida de la Reserva Federal en más de tres años reordena el escenario monetario global: Estados Unidos vuelve a endurecer, Japón se aproxima a otra alza y el shock energético sigue abierto pese al alivio logístico saudí."
+        "chars": 250,
+        "durationSeconds": 14.24,
+        "text": "El hecho central. La primera subida de la Reserva Federal en más de tres años reordena el escenario monetario global: Estados Unidos vuelve a endurecer, Japón se aproxima a otra alza y el shock energético sigue abierto pese al alivio logístico saudí."
       },
       {
         "index": 3,
         "seed": 5102,
-        "chars": 142,
-        "durationSeconds": 8.44,
-        "text": "Elevó el rango a tres coma setenta y cinco a cuatro por ciento y dejó abierta la puerta a más endurecimiento si la inflación no cede a tiempo."
+        "chars": 255,
+        "durationSeconds": 15.76,
+        "text": "Elevó el rango a tres coma setenta y cinco a cuatro por ciento y dejó abierta la puerta a más endurecimiento si la inflación no cede a tiempo. Sólo tres buques comerciales cruzaron ayer miércoles, frente a 12 el martes y un promedio reciente cercano a 17."
       },
       {
         "index": 4,
         "seed": 5103,
-        "chars": 230,
-        "durationSeconds": 15.16,
-        "text": "Sólo tres buques comerciales cruzaron ayer miércoles, frente a 12 el martes y un promedio reciente cercano a 17. El Banco de Japón se encamina a otra subida ante presiones inflacionarias reforzadas por energía y debilidad del yen."
+        "chars": 250,
+        "durationSeconds": 16.92,
+        "text": "El Banco de Japón se encamina a otra subida ante presiones inflacionarias reforzadas por energía y debilidad del yen. Xi Jinping pidió ampliar el sector y controlar cadenas clave mientras Europa eleva su preocupación por la presión exportadora china."
       },
       {
         "index": 5,
         "seed": 5104,
-        "chars": 132,
-        "durationSeconds": 9.24,
-        "text": "Xi Jinping pidió ampliar el sector y controlar cadenas clave mientras Europa eleva su preocupación por la presión exportadora china."
+        "chars": 137,
+        "durationSeconds": 8.52,
+        "text": "La ausencia de oferta catarí encarece el gas spot, reduce compras asiáticas y permite a Europa captar más cargamentos antes del invierno."
       },
       {
         "index": 6,
         "seed": 5105,
-        "chars": 157,
-        "durationSeconds": 10.56,
-        "text": "La ausencia de oferta catarí encarece el gas spot, reduce compras asiáticas y permite a Europa captar más cargamentos antes del invierno. Qué está cambiando."
+        "chars": 203,
+        "durationSeconds": 12.92,
+        "text": "Qué está cambiando. La Reserva Federal elevó ayer miércoles su tasa de referencia en 25 puntos base, a un rango de tres coma setenta y cinco a cuatro por ciento, en su primera subida en más de tres años."
       },
       {
         "index": 7,
         "seed": 5106,
-        "chars": 183,
-        "durationSeconds": 12.08,
-        "text": "La Reserva Federal elevó ayer miércoles su tasa de referencia en 25 puntos base, a un rango de tres coma setenta y cinco a cuatro por ciento, en su primera subida en más de tres años."
+        "chars": 164,
+        "durationSeconds": 10.76,
+        "text": "La decisión fue unánime y el comunicado sostuvo que la inflación continúa elevada y que el movimiento busca un retorno más oportuno hacia la meta de dos por ciento."
       },
       {
         "index": 8,
         "seed": 5107,
-        "chars": 164,
-        "durationSeconds": 10.16,
-        "text": "La decisión fue unánime y el comunicado sostuvo que la inflación continúa elevada y que el movimiento busca un retorno más oportuno hacia la meta de dos por ciento."
+        "chars": 252,
+        "durationSeconds": 16.12,
+        "text": "La novedad no es sólo el alza: la Reserva Federal vuelve a colocar el endurecimiento monetario como una opción activa justo cuando el shock energético sigue transmitiéndose entre regiones y otros grandes bancos centrales enfrentan decisiones similares."
       },
       {
         "index": 9,
         "seed": 5108,
-        "chars": 30,
-        "durationSeconds": 2.28,
-        "text": "La novedad no es sólo el alza:"
+        "chars": 270,
+        "durationSeconds": 18.28,
+        "text": "La Reserva Federal volvió a subir tasas y dejó abierta la posibilidad de más endurecimiento. El tránsito comercial por Hormuz cayó a sólo tres buques ayer miércoles, confirmando que el alivio aportado por rutas alternativas saudíes no equivale a normalización logística."
       },
       {
         "index": 10,
         "seed": 5109,
-        "chars": 221,
-        "durationSeconds": 13.04,
-        "text": "la Reserva Federal vuelve a colocar el endurecimiento monetario como una opción activa justo cuando el shock energético sigue transmitiéndose entre regiones y otros grandes bancos centrales enfrentan decisiones similares."
+        "chars": 183,
+        "durationSeconds": 11.16,
+        "text": "Japón se aproxima a una nueva subida que llevaría su tasa a un máximo de 31 años. China profundiza su apuesta por manufactura avanzada mientras crece la fricción comercial con Europa."
       },
       {
         "index": 11,
         "seed": 5110,
-        "chars": 92,
-        "durationSeconds": 6.08,
-        "text": "La Reserva Federal volvió a subir tasas y dejó abierta la posibilidad de más endurecimiento."
+        "chars": 122,
+        "durationSeconds": 7.84,
+        "text": "Y el encarecimiento del LNG está desviando cargamentos desde compradores asiáticos hacia Europa antes del invierno boreal."
       },
       {
         "index": 12,
         "seed": 5111,
-        "chars": 177,
-        "durationSeconds": 11.32,
-        "text": "El tránsito comercial por Hormuz cayó a sólo tres buques ayer miércoles, confirmando que el alivio aportado por rutas alternativas saudíes no equivale a normalización logística."
+        "chars": 160,
+        "durationSeconds": 10.4,
+        "text": "La combinación de inflación todavía incómoda y energía cara reduce el espacio para que los grandes bancos centrales relajen condiciones financieras rápidamente."
       },
       {
         "index": 13,
         "seed": 5112,
-        "chars": 183,
-        "durationSeconds": 12.72,
-        "text": "Japón se aproxima a una nueva subida que llevaría su tasa a un máximo de 31 años. China profundiza su apuesta por manufactura avanzada mientras crece la fricción comercial con Europa."
-      },
-      {
-        "index": 14,
-        "seed": 5113,
-        "chars": 122,
-        "durationSeconds": 7.0,
-        "text": "Y el encarecimiento del LNG está desviando cargamentos desde compradores asiáticos hacia Europa antes del invierno boreal."
-      },
-      {
-        "index": 15,
-        "seed": 5114,
-        "chars": 180,
-        "durationSeconds": 11.28,
-        "text": "La combinación de inflación todavía incómoda y energía cara reduce el espacio para que los grandes bancos centrales relajen condiciones financieras rápidamente. Qué observar ahora."
-      },
-      {
-        "index": 16,
-        "seed": 5115,
-        "chars": 127,
-        "durationSeconds": 7.4,
-        "text": "La señal a vigilar es si los próximos datos confirman esta lectura o devuelven al mercado hacia un escenario menos restrictivo."
+        "chars": 147,
+        "durationSeconds": 9.68,
+        "text": "Qué observar ahora. La señal a vigilar es si los próximos datos confirman esta lectura o devuelven al mercado hacia un escenario menos restrictivo."
       }
     ]
   },
