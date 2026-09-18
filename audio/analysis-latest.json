@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T16:17:44.096369+00:00",
-  "sourceCommit": "d0690a72b7c05ad4f24e1d8a203f31a86efdd323",
+  "generatedAt": "2026-09-18T18:01:50.886195+00:00",
+  "sourceCommit": "3f6fe2978583443d749817fdbf379f9205badaac",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -12,9 +12,9 @@
     "status": "published",
     "sourceId": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
     "path": "/audio/2026-09-18-international-analysis.mp3",
-    "durationSeconds": 139.0,
-    "durationLabel": "2 min",
-    "bytes": 1668141,
+    "durationSeconds": 152.7,
+    "durationLabel": "3 min",
+    "bytes": 1832877,
     "scriptVersion": 2,
     "scriptHash": "df99671f0c9d0a43107b837e0919c2a2a4c9866786830bbcefeb5cbd223eb8e4",
     "speechNormalizerVersion": 5,
@@ -32,7 +32,7 @@
       "interviewer": "VOZ 1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 1,
+    "dialogueRhythmVersion": 2,
     "fallbackUsed": false
   },
   "national": {
@@ -55,16 +55,16 @@
       "voice2": "alex-c-v1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 1,
+    "dialogueRhythmVersion": 2,
     "fallbackUsed": false
   },
   "markets": {
     "status": "published",
     "sourceId": "2026-09-18-markets-tasas-flujos-selectividad",
     "path": "/audio/2026-09-18-markets-analysis.mp3",
-    "durationSeconds": 195.7,
+    "durationSeconds": 196.7,
     "durationLabel": "3 min",
-    "bytes": 2349261,
+    "bytes": 2360493,
     "scriptVersion": 3,
     "scriptHash": "0b1b70921bee7f9b18da1fd4c2feaa3c8b0d9b29c9dfc9e7e601d636467d95ff",
     "speechNormalizerVersion": 5,
@@ -78,7 +78,7 @@
       "voice2": "alex-c-v1"
     },
     "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 1,
+    "dialogueRhythmVersion": 2,
     "fallbackUsed": false
   }
 }
