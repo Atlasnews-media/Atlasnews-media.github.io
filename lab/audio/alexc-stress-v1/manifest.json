@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alexc-stress-v1",
+  "generatedAt": "2026-09-18T17:08:08.046136+00:00",
+  "productionTouched": false,
+  "sourceDate": "2026-09-18",
+  "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+  "voiceProfileVersion": "alex-c-v1",
+  "strategy": "explicit-stress-marks-in-speech-text",
+  "displayText": "El mapa monetario global se endurece mientras el shock energético pierde intensidad inmediata, pero no desaparece. La Reserva Federal mantiene una postura restrictiva y el petróleo sigue bajo presión. La señal relevante será si los bancos centrales confirman este escenario y si la normalización logística reduce los riesgos de inflación.",
+  "speechText": "El mapa monetário global se endurece mientras el shock energético pierde intensidád inmediáta, pero no desaparece. La Resérva Federál mantiene una postúra restríctiva y el petróleo sigue bajo presión. La señal relevánte será si los báncos centráles confírman este escenário y si la normalizáción logística reduce los riesgos de inflación.",
+  "audio": {
+    "path": "/lab/audio/alexc-stress-v1/alexc-accent-corrected.mp3",
+    "durationSeconds": 20.4,
+    "bytes": 245421
+  }
+}
