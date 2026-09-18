@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T13:26:37.261922+00:00",
-  "sourceCommit": "78e2f96838bd2a5956619913feb6a5d480eb4c1c",
+  "generatedAt": "2026-09-18T16:17:44.096369+00:00",
+  "sourceCommit": "d0690a72b7c05ad4f24e1d8a203f31a86efdd323",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -12,19 +12,27 @@
     "status": "published",
     "sourceId": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
     "path": "/audio/2026-09-18-international-analysis.mp3",
-    "durationSeconds": 164.7,
-    "durationLabel": "3 min",
-    "bytes": 1977165,
-    "scriptVersion": 1,
-    "scriptHash": "386871702607d0f15cf5e4ea09b65ce1dff9c6f292359715768642467e527c97",
+    "durationSeconds": 139.0,
+    "durationLabel": "2 min",
+    "bytes": 1668141,
+    "scriptVersion": 2,
+    "scriptHash": "df99671f0c9d0a43107b837e0919c2a2a4c9866786830bbcefeb5cbd223eb8e4",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 5,
     "language": "es",
-    "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
     "voiceProfileVersion": "alex-c-v1",
-    "voice": "alex-c-v1",
+    "voices": {
+      "reporter": "alex-c-v1",
+      "interviewer": "ef_dora"
+    },
+    "roles": {
+      "reporter": "VOZ 2",
+      "interviewer": "VOZ 1"
+    },
     "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 1,
     "fallbackUsed": false
   },
   "national": {
