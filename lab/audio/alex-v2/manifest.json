@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alex-naturalness-v2",
+  "date": "2026-09-17",
+  "sourceId": "2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo",
+  "productionTouched": false,
+  "doraFrozen": true,
+  "alexVoice": "em_alex",
+  "alexSpeed": 0.96,
+  "kokoroFastApiVersion": "v0.9.0",
+  "kokoroLabPyCommit": "9820dd38f40e71f8df318cdcf017bd24c62a03f7",
+  "variants": {
+    "B1": {
+      "label": "FastAPI aprobada",
+      "file": "b1-fastapi-approved.mp3",
+      "durationSeconds": 81.1
+    },
+    "B2": {
+      "label": "Alex broadcast",
+      "file": "b2-alex-broadcast.mp3",
+      "durationSeconds": 81.7,
+      "alexTransform": {
+        "pitchSemitones": -0.28,
+        "pitchRangeScale": 0.95,
+        "energyScale": 0.99
+      }
+    },
+    "B3": {
+      "label": "Alex conversacional",
+      "file": "b3-alex-conversational.mp3",
+      "durationSeconds": 81.7,
+      "alexStatementTransform": {
+        "pitchSemitones": -0.12,
+        "pitchRangeScale": 1.01,
+        "energyScale": 1.0
+      },
+      "alexQuestionTransform": {
+        "pitchSemitones": 0.04,
+        "pitchRangeScale": 1.1,
+        "energyScale": 1.01
+      }
+    }
+  }
+}
