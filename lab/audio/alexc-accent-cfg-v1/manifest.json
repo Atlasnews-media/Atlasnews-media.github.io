@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alexc-accent-cfg-v1",
+  "scope": "LAB_ONLY",
+  "productionTouched": false,
+  "sourceId": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
+  "scriptHash": "df99671f0c9d0a43107b837e0919c2a2a4c9866786830bbcefeb5cbd223eb8e4",
+  "audioPath": "/lab/audio/alexc-accent-cfg-v1/international-cfg-030.mp3",
+  "durationSeconds": 185.6,
+  "bytes": 2227437,
+  "voiceProfile": "alex-c-v1",
+  "checkpoint": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+  "referencePublicPath": "lab/audio/alex-chatterbox-v1/c-chatterbox-neutral.mp3",
+  "baseline": {
+    "cfgWeight": 0.5,
+    "temperature": 0.8,
+    "maxPhraseWords": 12,
+    "phrasePauseSeconds": 0.55,
+    "seedBase": 9200
+  },
+  "candidate": {
+    "cfgWeight": 0.3,
+    "temperature": 0.8,
+    "maxPhraseWords": 12,
+    "phrasePauseSeconds": 0.55,
+    "seedBase": 9200
+  },
+  "onlyChangedVariable": "cfg_weight",
+  "listeningTargets": [
+    "dólares",
+    "cayó",
+    "Inglaterra",
+    "subió",
+    "energético"
+  ]
+}
