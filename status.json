@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2431efdf8e2f5d185eb076ec97e64e3a26352cbf",
+  "sourceCommit": "78e2f96838bd2a5956619913feb6a5d480eb4c1c",
   "latestDaily": {
-    "id": "2026-09-17-daily-fed-endurece-el-mapa-global-de-tasas",
-    "issueNumber": 46,
-    "title": "La Fed endurece el mapa global de tasas mientras la energía mantiene el riesgo",
-    "publishedAt": "2026-09-17T05:59:05-03:00",
-    "cutoffAt": "2026-09-17T05:58:03-03:00"
+    "id": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
+    "issueNumber": 47,
+    "title": "Bancos centrales endurecen el mapa global mientras la energía mantiene presión",
+    "publishedAt": "2026-09-18T10:20:57-03:00",
+    "cutoffAt": "2026-09-18T09:49:25-03:00"
   },
   "latestNational": {
-    "id": "2026-09-17-national-minuta-confirma-pausa-pero-eleva-el-valor-del-empleo",
-    "title": "La minuta confirma la pausa, pero eleva el valor del empleo para la próxima decisión",
-    "publishedAt": "2026-09-17T06:19:00-03:00",
-    "cutoffAt": "2026-09-17T06:17:00-03:00"
+    "id": "2026-09-18-national-empleo-prueba-ejecucion",
+    "title": "El plan laboral enfrenta su prueba: convertir ejecución rápida en empleo efectivo",
+    "publishedAt": "2026-09-18T10:21:09-03:00",
+    "cutoffAt": "2026-09-18T09:45:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo",
-    "title": "La Fed aplana la curva y el dólar toma el relevo mientras las acciones resisten",
-    "publishedAt": "2026-09-17T06:21:00-03:00",
-    "cutoffAt": "2026-09-17T06:20:00-03:00"
+    "id": "2026-09-18-markets-tasas-flujos-selectividad",
+    "title": "Tasas globales y flujos elevan la selectividad mientras el petróleo da alivio parcial",
+    "publishedAt": "2026-09-18T10:21:20-03:00",
+    "cutoffAt": "2026-09-18T10:03:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-17",
+    "date": "2026-09-18",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 46,
+    "daily": 47,
     "weekly": 4,
-    "national": 39,
-    "markets": 38,
+    "national": 40,
+    "markets": 39,
     "readings": 11,
-    "total": 138
+    "total": 141
   },
   "indicators": {
     "status": "current",
