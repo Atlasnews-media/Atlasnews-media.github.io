@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "experiment": "dora-alexc-dialogue-v1",
+  "productionTouched": false,
+  "sourceDate": "2026-09-17",
+  "control": {
+    "file": "a-dialogue-b2-1-control.mp3",
+    "label": "B2.1 aprobado",
+    "durationSeconds": 81.5,
+    "source": "exact public LAB artifact"
+  },
+  "candidate": {
+    "file": "b-dora-alexc.mp3",
+    "label": "Dora + Alex C",
+    "durationSeconds": 80.8,
+    "dora": {
+      "engine": "Kokoro 0.9.4",
+      "voice": "ef_dora",
+      "speed": 1.0
+    },
+    "alexC": {
+      "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+      "profile": "neutral C",
+      "exaggeration": 0.5,
+      "temperature": 0.8,
+      "cfg": 0.5,
+      "reference": "em_alex B2",
+      "turns": [
+        {
+          "text": "¿Qué nos dice eso?",
+          "seed": 3101,
+          "durationSeconds": 1.44
+        },
+        {
+          "text": "¿Y el bono a diez años, que venía sobre 5%?",
+          "seed": 3102,
+          "durationSeconds": 3.4
+        },
+        {
+          "text": "¿Por qué es importante la forma de la curva y no sólo que las tasas estén altas?",
+          "seed": 3103,
+          "durationSeconds": 4.64
+        },
+        {
+          "text": "¿Qué está descontando ahora el mercado?",
+          "seed": 3104,
+          "durationSeconds": 2.56
+        }
+      ]
+    },
+    "pauses": {
+      "afterStatementSeconds": 0.34,
+      "afterQuestionSeconds": 0.4
+    }
+  }
+}
