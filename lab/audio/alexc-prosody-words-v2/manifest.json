@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alexc-prosody-words-v2",
+  "generatedAt": "2026-09-18T17:30:25.221590+00:00",
+  "productionTouched": false,
+  "sourceDate": "2026-09-18",
+  "engine": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+  "voiceProfileVersion": "alex-c-v1",
+  "strategy": "correct-orthography-short-sentence-segmentation",
+  "pauseSeconds": 0.55,
+  "sentences": [
+    "Con mayor intensidad, la presión energética vuelve al centro del debate.",
+    "El próximo dato será decisivo para la Reserva Federal.",
+    "Este escenario exige una lectura más cautelosa de los mercados.",
+    "La normalización logística será gradual y dependerá del tráfico por Hormuz."
+  ],
+  "targets": [
+    "intensidad",
+    "será",
+    "escenario",
+    "normalización"
+  ],
+  "audio": {
+    "path": "/lab/audio/alexc-prosody-words-v2/alexc-prosody-words-v2.mp3",
+    "durationSeconds": 20.2,
+    "bytes": 242541
+  }
+}
