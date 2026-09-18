@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alex-chatterbox-v1-cpu",
+  "productionTouched": false,
+  "date": "2026-09-18",
+  "sourceDate": "2026-09-17",
+  "testText": "La novedad no es sólo el alza: la Reserva Federal vuelve a colocar el endurecimiento monetario como una opción activa. China profundiza su apuesta por manufactura avanzada mientras crece la fricción comercial con Europa.",
+  "referenceText": "¿Por qué es importante la forma de la curva y no sólo que las tasas estén altas? ¿Qué está descontando ahora el mercado?",
+  "referenceVoice": "em_alex B2",
+  "model": "ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+  "modelLicense": "MIT",
+  "runtime": "GitHub Actions CPU",
+  "kokoroLabPyCommit": "9820dd38f40e71f8df318cdcf017bd24c62a03f7",
+  "tracks": {
+    "A": {
+      "label": "Alex actual",
+      "file": "a-alex-current.mp3",
+      "durationSeconds": 13.4
+    },
+    "B": {
+      "label": "Alex B2",
+      "file": "b-alex-b2.mp3",
+      "durationSeconds": 13.4
+    },
+    "C": {
+      "label": "Chatterbox LatAm neutral",
+      "file": "c-chatterbox-neutral.mp3",
+      "durationSeconds": 13.5,
+      "exaggeration": 0.5,
+      "temperature": 0.8,
+      "cfg": 0.5,
+      "seed": 1701
+    },
+    "D": {
+      "label": "Chatterbox LatAm narrador",
+      "file": "d-chatterbox-narrator.mp3",
+      "durationSeconds": 14.3,
+      "exaggeration": 0.42,
+      "temperature": 0.72,
+      "cfg": 0.35,
+      "seed": 2701
+    }
+  }
+}
