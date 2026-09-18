@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "experiment": "kokoro-naturalness-v1",
+  "date": "2026-09-17",
+  "sourceId": "2026-09-17-markets-fed-aplana-la-curva-y-el-dolar-toma-el-relevo",
+  "productionTouched": false,
+  "fastApiVersion": "v0.9.0",
+  "baseline": {
+    "voice1": "ef_dora",
+    "voice2": "em_alex",
+    "questionSpeed": 0.92,
+    "questionPitchSemitones": 1.5,
+    "turnPauseSeconds": 0.28,
+    "questionTurnPauseSeconds": 0.42,
+    "file": "a-production-current.mp3",
+    "durationSeconds": 81.9
+  },
+  "fastApiDialogue": {
+    "voice1": "ef_dora",
+    "voice2": "em_alex",
+    "voice2Rate": 0.96,
+    "turnPauseSeconds": 0.34,
+    "questionTurnPauseSeconds": 0.4,
+    "file": "b-fastapi-dialogue.mp3",
+    "durationSeconds": 81.1
+  },
+  "fastApiBlend": {
+    "voice1": "ef_dora",
+    "voice2": "em_alex(3)+em_santa(1)",
+    "voice2Rate": 0.96,
+    "turnPauseSeconds": 0.34,
+    "questionTurnPauseSeconds": 0.4,
+    "file": "c-fastapi-alex-blend.mp3",
+    "durationSeconds": 81.2
+  }
+}

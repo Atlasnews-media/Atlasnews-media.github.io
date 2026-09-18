@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <title>ATLAS NEWS LAB · Naturalidad Kokoro</title>
+  <style>
+    :root{font-family:Georgia,serif;color:#171717;background:#f2efe5}
+    *{box-sizing:border-box} body{margin:0}
+    main{width:min(1100px,calc(100% - 32px));margin:auto;padding:64px 0}
+    .k{font:800 12px/1.2 Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+    h1{font-size:clamp(42px,8vw,88px);line-height:.92;margin:12px 0 18px}
+    .lead{max-width:760px;font-size:18px;line-height:1.6}
+    .rule{border-top:1px solid;border-bottom:1px solid;height:5px;margin:36px 0}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    article{border:1px solid;padding:20px;background:rgba(255,255,255,.18)}
+    article.candidate{border-top:5px solid #a71920}
+    h2{font-size:26px;margin:8px 0 12px}
+    p{line-height:1.55} audio{width:100%;margin-top:12px}
+    .note{margin-top:32px;font-size:14px}
+    @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<main>
+  <p class="k">ATLAS NEWS · AUDIO LAB</p>
+  <h1>Naturalidad de voces</h1>
+  <p class="lead">Mismo fragmento real de Mercados del 17 de septiembre. Tres tratamientos para comparar naturalidad, ritmo y contraste entre Dora y Alex. Ninguna pista modifica Audio V2 productivo.</p>
+  <div class="rule"></div>
+  <div class="grid">
+    <article>
+      <p class="k">A · Referencia</p>
+      <h2>Producción actual</h2>
+      <p>Dora y Alex con la prosodia vigente de ATLAS NEWS.</p>
+      <audio controls preload="metadata" src="./a-production-current.mp3"></audio>
+    </article>
+    <article class="candidate">
+      <p class="k">B · Interfaz moderna</p>
+      <h2>Kokoro-FastAPI</h2>
+      <p>Dora + Alex originales, diálogo con pausas y ritmo explícitos, sin pitch posterior.</p>
+      <audio controls preload="metadata" src="./b-fastapi-dialogue.mp3"></audio>
+    </article>
+    <article class="candidate">
+      <p class="k">C · Mezcla experimental</p>
+      <h2>Alex 75% + Santa 25%</h2>
+      <p>Dora sin cambios y segunda voz mezclada, manteniendo el mismo tratamiento de B.</p>
+      <audio controls preload="metadata" src="./c-fastapi-alex-blend.mp3"></audio>
+    </article>
+  </div>
+  <p class="note"><strong>Guardrail:</strong> LAB aislado. No cambia Speech Normalizer, Lexicon, manifests, F4B ni F1–F4A.</p>
+</main>
+</body>
+</html>
