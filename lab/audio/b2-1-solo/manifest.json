@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "experiment": "alex-b2-1-and-solo",
+  "productionTouched": false,
+  "sourceDate": "2026-09-17",
+  "kokoroLabPyCommit": "9820dd38f40e71f8df318cdcf017bd24c62a03f7",
+  "shortQuestionThresholdWords": 5,
+  "dialogue": {
+    "B2": {
+      "file": "dialogue-b2-control.mp3",
+      "durationSeconds": 81.7,
+      "source": "exact prior approved LAB artifact"
+    },
+    "B2.1": {
+      "file": "dialogue-b2-1-hybrid.mp3",
+      "durationSeconds": 81.5,
+      "rule": "Alex short question <=5 words uses FastAPI; all other Alex turns stay B2"
+    }
+  },
+  "internationalSolo": {
+    "current": {
+      "file": "international-current.mp3",
+      "durationSeconds": 147.9,
+      "source": "exact production artifact 2026-09-17"
+    },
+    "B2": {
+      "file": "international-b2.mp3",
+      "durationSeconds": 161.9,
+      "speed": 1.0,
+      "pitchSemitones": -0.28,
+      "pitchRangeScale": 0.95,
+      "energyScale": 0.99
+    }
+  },
+  "internationalScriptHash": "8e94cd99200d89c913ba5b7b30127a720ff1bebf92f69138706d8a8262424012"
+}
