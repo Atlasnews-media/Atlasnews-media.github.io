@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ed37dd3edbeea113b4f3547cead3d3283bc049a5",
+  "sourceCommit": "fe105e4d86aa0257a575db7598b223f6dd6ce938",
   "latestDaily": {
     "id": "2026-09-17-daily-fed-endurece-el-mapa-global-de-tasas",
     "issueNumber": 46,
@@ -36,7 +36,7 @@
     "total": 138
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-18",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
