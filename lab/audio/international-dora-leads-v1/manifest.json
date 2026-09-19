@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "experiment": "international-dora-leads-v1",
-  "generatedAt": "2026-09-19T16:56:00.580525+00:00",
+  "generatedAt": "2026-09-19T17:07:01.290333+00:00",
   "productionTouched": false,
   "fallbackAllowed": false,
   "source": {
@@ -15,10 +15,10 @@
   "hypothesis": "Dora abre y conduce; Alex C responde y desarrolla.",
   "candidate": {
     "path": "/lab/audio/international-dora-leads-v1/preview-dora-leads.mp3",
-    "durationSeconds": 111.4,
-    "bytes": 1337229,
-    "dialogueWords": 277,
-    "productionWordFraction": 0.729,
+    "durationSeconds": 74.4,
+    "bytes": 892845,
+    "dialogueWords": 187,
+    "productionWordFraction": 0.492,
     "turnCount": 4,
     "leader": "ef_dora",
     "responder": "alex-c-v1",
@@ -28,10 +28,10 @@
     "lexiconRevision": 5,
     "dialogueRhythmVersion": 2,
     "alexSeedBase": 5100,
-    "alexSentenceCount": 7,
+    "alexSentenceCount": 4,
     "alexSentencePauseSeconds": 0.55,
     "statementPauseSeconds": 0.34,
     "questionPauseSeconds": 0.4,
-    "dialogueSha256": "0bf2f609ba7ba42db24f5ae1c0e16378dd57d2b7e31c9670ed5a6cbbcf56b29f"
+    "dialogueSha256": "3c00c58d22c713d1afd6e53f695e0c24c40f1cf535aa4c45ea66a0576c0e26dd"
   }
 }
