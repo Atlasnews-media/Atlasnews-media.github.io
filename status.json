@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1be32a37348da215006a59fbda5a2aaf4207b21c",
+  "sourceCommit": "ab9c39fbee0dd697547075d25bb87bf698db38ad",
   "latestDaily": {
     "id": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
     "issueNumber": 47,
@@ -36,7 +36,7 @@
     "total": 141
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-09-18",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
