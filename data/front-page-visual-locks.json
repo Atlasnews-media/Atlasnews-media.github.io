@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T02:55:07.684Z",
+  "updatedAt": "2026-09-19T11:57:25.632Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -191,6 +191,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-19-daily-endurecimiento-global-gana-alcance": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "alt": "Petrolero cargando crudo en la terminal Al Basrah del Golfo Pérsico.",
+      "source": "Wikimedia Commons / U.S. Navy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "author": "Eben Boothby, U.S. Navy",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-09-19-national-presupuesto-empleo-inversion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-19-markets-flujos-defensivos-selectividad": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

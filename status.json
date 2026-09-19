@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "d42313a35d8fd0cbb28ca19330a2a254154abfe9",
+  "sourceCommit": "0c92582d17f70c7b6801d1a2d1b8b7fcff259c60",
   "latestDaily": {
-    "id": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
-    "issueNumber": 47,
-    "title": "Bancos centrales endurecen el mapa global mientras la energía mantiene presión",
-    "publishedAt": "2026-09-18T10:20:57-03:00",
-    "cutoffAt": "2026-09-18T09:49:25-03:00"
+    "id": "2026-09-19-daily-endurecimiento-global-gana-alcance",
+    "issueNumber": 48,
+    "title": "El endurecimiento monetario global gana alcance",
+    "publishedAt": "2026-09-19T06:45:00-03:00",
+    "cutoffAt": "2026-09-19T06:03:00-03:00"
   },
   "latestNational": {
-    "id": "2026-09-18-national-empleo-prueba-ejecucion",
-    "title": "El plan laboral enfrenta su prueba: convertir ejecución rápida en empleo efectivo",
-    "publishedAt": "2026-09-18T10:21:09-03:00",
-    "cutoffAt": "2026-09-18T09:45:00-03:00"
+    "id": "2026-09-19-national-presupuesto-empleo-inversion",
+    "title": "Presupuesto 2027 concentra la prueba en empleo e inversión con margen fiscal estrecho",
+    "publishedAt": "2026-09-19T06:45:00-03:00",
+    "cutoffAt": "2026-09-19T06:19:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-18-markets-tasas-flujos-selectividad",
-    "title": "Tasas globales y flujos elevan la selectividad mientras el petróleo da alivio parcial",
-    "publishedAt": "2026-09-18T10:21:20-03:00",
-    "cutoffAt": "2026-09-18T10:03:00-03:00"
+    "id": "2026-09-19-markets-flujos-defensivos-selectividad",
+    "title": "Flujos defensivos ganan peso mientras acciones resisten el endurecimiento global",
+    "publishedAt": "2026-09-19T06:45:00-03:00",
+    "cutoffAt": "2026-09-19T06:22:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 47,
+    "daily": 48,
     "weekly": 4,
-    "national": 40,
-    "markets": 39,
+    "national": 41,
+    "markets": 40,
     "readings": 11,
-    "total": 141
+    "total": 144
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-18",
+    "asOf": "2026-09-19",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
