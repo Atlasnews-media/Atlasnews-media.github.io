@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "experiment": "international-dora-leads-v1",
+  "generatedAt": "2026-09-19T16:56:00.580525+00:00",
+  "productionTouched": false,
+  "fallbackAllowed": false,
+  "source": {
+    "date": "2026-09-19",
+    "sourceId": "2026-09-19-daily-endurecimiento-global-gana-alcance",
+    "sourceRepoCommit": "229a0793eb18b95b7846d81be463026d80a3e86a",
+    "productionAudioSourceCommit": "0c92582d17f70c7b6801d1a2d1b8b7fcff259c60",
+    "productionScriptHash": "7b131441f78a312d825a94a1e101b9c86fa0ad39554aa0c08d017d1223a9991f",
+    "productionWordCount": 380
+  },
+  "hypothesis": "Dora abre y conduce; Alex C responde y desarrolla.",
+  "candidate": {
+    "path": "/lab/audio/international-dora-leads-v1/preview-dora-leads.mp3",
+    "durationSeconds": 111.4,
+    "bytes": 1337229,
+    "dialogueWords": 277,
+    "productionWordFraction": 0.729,
+    "turnCount": 4,
+    "leader": "ef_dora",
+    "responder": "alex-c-v1",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 5,
+    "dialogueRhythmVersion": 2,
+    "alexSeedBase": 5100,
+    "alexSentenceCount": 7,
+    "alexSentencePauseSeconds": 0.55,
+    "statementPauseSeconds": 0.34,
+    "questionPauseSeconds": 0.4,
+    "dialogueSha256": "0bf2f609ba7ba42db24f5ae1c0e16378dd57d2b7e31c9670ed5a6cbbcf56b29f"
+  }
+}
