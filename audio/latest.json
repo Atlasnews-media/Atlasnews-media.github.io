@@ -6,23 +6,23 @@
   "lexiconRevision": 5,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-18",
-  "title": "ATLAS NEWS — Resumen diario — viernes 18 de septiembre de 2026",
+  "date": "2026-09-19",
+  "title": "ATLAS NEWS — Resumen diario — sábado 19 de septiembre de 2026",
   "summary": "Briefing de Portada V13: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-18-resumen-diario.mp3",
-  "durationSeconds": 303.1,
+  "path": "/audio/2026-09-19-resumen-diario.mp3",
+  "durationSeconds": 297.3,
   "durationLabel": "5 min",
-  "bytes": 3638061,
-  "generatedAt": "2026-09-18T13:26:37.261922+00:00",
+  "bytes": 3568077,
+  "generatedAt": "2026-09-19T12:17:50.608410+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
-    "general": "2026-09-18-daily-bancos-centrales-endurecen-el-mapa-global",
-    "national": "2026-09-18-national-empleo-prueba-ejecucion",
-    "markets": "2026-09-18-markets-tasas-flujos-selectividad"
+    "international": "2026-09-19-daily-endurecimiento-global-gana-alcance",
+    "general": "2026-09-19-daily-endurecimiento-global-gana-alcance",
+    "national": "2026-09-19-national-presupuesto-empleo-inversion",
+    "markets": "2026-09-19-markets-flujos-defensivos-selectividad"
   },
-  "sourceCommit": "78e2f96838bd2a5956619913feb6a5d480eb4c1c"
+  "sourceCommit": "0c92582d17f70c7b6801d1a2d1b8b7fcff259c60"
 }
