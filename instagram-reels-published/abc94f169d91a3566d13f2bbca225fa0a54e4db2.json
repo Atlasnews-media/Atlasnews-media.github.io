@@ -1,0 +1,11 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "sourceCommit": "abc94f169d91a3566d13f2bbca225fa0a54e4db2",
+  "mediaId": "18427570531197802",
+  "permalink": "https://www.instagram.com/reel/DdgTxUoiCjR/",
+  "publishedAt": "2026-09-20T09:54:04+0000",
+  "artifactName": "atlas-news-reel-canonical-abc94f169d91a3566d13f2bbca225fa0a54e4db2",
+  "artifactRunId": "35503442568",
+  "mp4Sha256": "aa91f85b262766fb60481e4bab1d2e5a8ac21a61005e60c5a651d29b4e51d65c",
+  "recoveryMode": "DIRECT_MEDIA_ID"
+}
