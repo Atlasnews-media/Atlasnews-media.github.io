@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-20T09:53:08.021Z",
+  "generatedAt": "2026-09-20T22:10:18.368Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-20T09:53:07.715Z",
+      "effectiveAt": "2026-09-20T22:10:17.721Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -178,7 +178,7 @@
       "unit": "usd-per-barrel",
       "changePercent": -1.9,
       "trend": "down",
-      "effectiveAt": "2026-09-18T20:58:56.000Z",
+      "effectiveAt": "2026-09-20T22:00:02.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -193,7 +193,7 @@
       "unit": "usd-per-ounce",
       "changePercent": -0.8,
       "trend": "down",
-      "effectiveAt": "2026-09-18T20:59:59.000Z",
+      "effectiveAt": "2026-09-20T22:00:13.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 80464,
+      "value": 80997,
       "unit": "usd",
-      "changePercent": -1.04,
+      "changePercent": -0.03,
       "trend": "down",
-      "effectiveAt": "2026-09-20T09:53:08.021Z",
+      "effectiveAt": "2026-09-20T22:10:18.368Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-20T09:53:09.066Z",
+  "historyGeneratedAt": "2026-09-20T22:10:19.325Z",
   "history": [
     {
       "id": "usdclp",
@@ -374,7 +374,8 @@
         { "date": "2026-09-15", "value": 108.75 },
         { "date": "2026-09-16", "value": 105.83000183105469 },
         { "date": "2026-09-17", "value": 104.81999969482422 },
-        { "date": "2026-09-18", "value": 99.29000091552734 }
+        { "date": "2026-09-18", "value": 103.87000274658203 },
+        { "date": "2026-09-20", "value": 99.29000091552734 }
       ]
     }
   ],
@@ -401,9 +402,9 @@
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 20
+      "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-20T09:53:09.161Z",
+  "freshnessCheckedAt": "2026-09-20T22:10:19.429Z",
   "freshnessPolicy": "intraday-v2"
 }
