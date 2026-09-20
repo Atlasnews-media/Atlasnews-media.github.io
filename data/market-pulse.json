@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-20T02:28:59.103Z",
+  "generatedAt": "2026-09-20T05:04:24.715Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -54,11 +54,11 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 40967.24,
+      "value": 40975.41,
       "unit": "clp",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-19T12:00:00-03:00",
+      "effectiveAt": "2026-09-20T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current",
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-20T02:28:58.739Z",
+      "effectiveAt": "2026-09-20T05:04:23.831Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -176,8 +176,8 @@
       "group": "commodities",
       "value": 99.29,
       "unit": "usd-per-barrel",
-      "changePercent": 1.4,
-      "trend": "up",
+      "changePercent": -1.9,
+      "trend": "down",
       "effectiveAt": "2026-09-18T20:58:56.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
@@ -191,7 +191,7 @@
       "group": "commodities",
       "value": 4424.9,
       "unit": "usd-per-ounce",
-      "changePercent": -0.32,
+      "changePercent": -0.8,
       "trend": "down",
       "effectiveAt": "2026-09-18T20:59:59.000Z",
       "provider": "yahoo-public-chart",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 80969,
+      "value": 80406,
       "unit": "usd",
-      "changePercent": -0.48,
+      "changePercent": -0.75,
       "trend": "down",
-      "effectiveAt": "2026-09-20T02:28:59.102Z",
+      "effectiveAt": "2026-09-20T05:04:24.715Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -247,59 +247,19 @@
     }
   ],
   "diagnostics": [
-    {
-      "id": "sp500",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "nasdaq",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "dow",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "stoxx50",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "ipsa",
-      "ok": true,
-      "provider": "diario-financiero-public"
-    },
-    {
-      "id": "ust10y",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "brent",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "gold",
-      "ok": true,
-      "provider": "yahoo-public-chart"
-    },
-    {
-      "id": "fx-global",
-      "ok": true,
-      "provider": "frankfurter-ecb"
-    },
-    {
-      "id": "bitcoin",
-      "ok": true,
-      "provider": "coingecko-public"
-    }
+    { "id": "sp500", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "nasdaq", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "dow", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "stoxx50", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "ipsa", "ok": true, "provider": "diario-financiero-public" },
+    { "id": "ust10y", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "brent", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "gold", "ok": true, "provider": "yahoo-public-chart" },
+    { "id": "fx-global", "ok": true, "provider": "frankfurter-ecb" },
+    { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-20T02:29:00.066Z",
+  "historyGeneratedAt": "2026-09-20T05:04:25.664Z",
   "history": [
     {
       "id": "usdclp",
@@ -308,90 +268,26 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        {
-          "date": "2026-08-20",
-          "value": 920.26
-        },
-        {
-          "date": "2026-08-21",
-          "value": 923.23
-        },
-        {
-          "date": "2026-08-24",
-          "value": 918.17
-        },
-        {
-          "date": "2026-08-25",
-          "value": 914.64
-        },
-        {
-          "date": "2026-08-26",
-          "value": 911.43
-        },
-        {
-          "date": "2026-08-27",
-          "value": 918.42
-        },
-        {
-          "date": "2026-08-28",
-          "value": 925.25
-        },
-        {
-          "date": "2026-08-31",
-          "value": 929.18
-        },
-        {
-          "date": "2026-09-01",
-          "value": 933.4
-        },
-        {
-          "date": "2026-09-02",
-          "value": 936.86
-        },
-        {
-          "date": "2026-09-03",
-          "value": 936.32
-        },
-        {
-          "date": "2026-09-04",
-          "value": 933.47
-        },
-        {
-          "date": "2026-09-07",
-          "value": 934.35
-        },
-        {
-          "date": "2026-09-08",
-          "value": 933.82
-        },
-        {
-          "date": "2026-09-09",
-          "value": 926.94
-        },
-        {
-          "date": "2026-09-10",
-          "value": 925.97
-        },
-        {
-          "date": "2026-09-11",
-          "value": 937.17
-        },
-        {
-          "date": "2026-09-14",
-          "value": 940.91
-        },
-        {
-          "date": "2026-09-15",
-          "value": 957.53
-        },
-        {
-          "date": "2026-09-16",
-          "value": 955.37
-        },
-        {
-          "date": "2026-09-17",
-          "value": 954.85
-        }
+        { "date": "2026-08-21", "value": 923.23 },
+        { "date": "2026-08-24", "value": 918.17 },
+        { "date": "2026-08-25", "value": 914.64 },
+        { "date": "2026-08-26", "value": 911.43 },
+        { "date": "2026-08-27", "value": 918.42 },
+        { "date": "2026-08-28", "value": 925.25 },
+        { "date": "2026-08-31", "value": 929.18 },
+        { "date": "2026-09-01", "value": 933.4 },
+        { "date": "2026-09-02", "value": 936.86 },
+        { "date": "2026-09-03", "value": 936.32 },
+        { "date": "2026-09-04", "value": 933.47 },
+        { "date": "2026-09-07", "value": 934.35 },
+        { "date": "2026-09-08", "value": 933.82 },
+        { "date": "2026-09-09", "value": 926.94 },
+        { "date": "2026-09-10", "value": 925.97 },
+        { "date": "2026-09-11", "value": 937.17 },
+        { "date": "2026-09-14", "value": 940.91 },
+        { "date": "2026-09-15", "value": 957.53 },
+        { "date": "2026-09-16", "value": 955.37 },
+        { "date": "2026-09-17", "value": 954.85 }
       ]
     },
     {
@@ -401,90 +297,26 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        {
-          "date": "2026-08-20",
-          "value": 6.46
-        },
-        {
-          "date": "2026-08-21",
-          "value": 6.52
-        },
-        {
-          "date": "2026-08-24",
-          "value": 6.4
-        },
-        {
-          "date": "2026-08-25",
-          "value": 6.48
-        },
-        {
-          "date": "2026-08-26",
-          "value": 6.51
-        },
-        {
-          "date": "2026-08-27",
-          "value": 6.58
-        },
-        {
-          "date": "2026-08-28",
-          "value": 6.56
-        },
-        {
-          "date": "2026-08-31",
-          "value": 6.56
-        },
-        {
-          "date": "2026-09-01",
-          "value": 6.55
-        },
-        {
-          "date": "2026-09-02",
-          "value": 6.55
-        },
-        {
-          "date": "2026-09-03",
-          "value": 6.53
-        },
-        {
-          "date": "2026-09-04",
-          "value": 6.49
-        },
-        {
-          "date": "2026-09-07",
-          "value": 6.53
-        },
-        {
-          "date": "2026-09-08",
-          "value": 6.57
-        },
-        {
-          "date": "2026-09-09",
-          "value": 6.62
-        },
-        {
-          "date": "2026-09-10",
-          "value": 6.69
-        },
-        {
-          "date": "2026-09-11",
-          "value": 6.72
-        },
-        {
-          "date": "2026-09-14",
-          "value": 6.45
-        },
-        {
-          "date": "2026-09-15",
-          "value": 6.45
-        },
-        {
-          "date": "2026-09-16",
-          "value": 6.31
-        },
-        {
-          "date": "2026-09-17",
-          "value": 6.36
-        }
+        { "date": "2026-08-21", "value": 6.52 },
+        { "date": "2026-08-24", "value": 6.4 },
+        { "date": "2026-08-25", "value": 6.48 },
+        { "date": "2026-08-26", "value": 6.51 },
+        { "date": "2026-08-27", "value": 6.58 },
+        { "date": "2026-08-28", "value": 6.56 },
+        { "date": "2026-08-31", "value": 6.56 },
+        { "date": "2026-09-01", "value": 6.55 },
+        { "date": "2026-09-02", "value": 6.55 },
+        { "date": "2026-09-03", "value": 6.53 },
+        { "date": "2026-09-04", "value": 6.49 },
+        { "date": "2026-09-07", "value": 6.53 },
+        { "date": "2026-09-08", "value": 6.57 },
+        { "date": "2026-09-09", "value": 6.62 },
+        { "date": "2026-09-10", "value": 6.69 },
+        { "date": "2026-09-11", "value": 6.72 },
+        { "date": "2026-09-14", "value": 6.45 },
+        { "date": "2026-09-15", "value": 6.45 },
+        { "date": "2026-09-16", "value": 6.31 },
+        { "date": "2026-09-17", "value": 6.36 }
       ]
     },
     {
@@ -494,90 +326,26 @@
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "points": [
-        {
-          "date": "2026-08-20",
-          "value": 7641.16015625
-        },
-        {
-          "date": "2026-08-21",
-          "value": 7674.3701171875
-        },
-        {
-          "date": "2026-08-24",
-          "value": 7652.85986328125
-        },
-        {
-          "date": "2026-08-25",
-          "value": 7677.27978515625
-        },
-        {
-          "date": "2026-08-26",
-          "value": 7675.7001953125
-        },
-        {
-          "date": "2026-08-27",
-          "value": 7730.990234375
-        },
-        {
-          "date": "2026-08-28",
-          "value": 7711.759765625
-        },
-        {
-          "date": "2026-08-31",
-          "value": 7686.14013671875
-        },
-        {
-          "date": "2026-09-01",
-          "value": 7631.47021484375
-        },
-        {
-          "date": "2026-09-02",
-          "value": 7666.60009765625
-        },
-        {
-          "date": "2026-09-03",
-          "value": 7747.7099609375
-        },
-        {
-          "date": "2026-09-04",
-          "value": 7718.60009765625
-        },
-        {
-          "date": "2026-09-08",
-          "value": 7673.52001953125
-        },
-        {
-          "date": "2026-09-09",
-          "value": 7636.35986328125
-        },
-        {
-          "date": "2026-09-10",
-          "value": 7591.7001953125
-        },
-        {
-          "date": "2026-09-11",
-          "value": 7656.97998046875
-        },
-        {
-          "date": "2026-09-14",
-          "value": 7619.97998046875
-        },
-        {
-          "date": "2026-09-15",
-          "value": 7585.72998046875
-        },
-        {
-          "date": "2026-09-16",
-          "value": 7551.81005859375
-        },
-        {
-          "date": "2026-09-17",
-          "value": 7637.759765625
-        },
-        {
-          "date": "2026-09-18",
-          "value": 7650.5
-        }
+        { "date": "2026-08-21", "value": 7674.3701171875 },
+        { "date": "2026-08-24", "value": 7652.85986328125 },
+        { "date": "2026-08-25", "value": 7677.27978515625 },
+        { "date": "2026-08-26", "value": 7675.7001953125 },
+        { "date": "2026-08-27", "value": 7730.990234375 },
+        { "date": "2026-08-28", "value": 7711.759765625 },
+        { "date": "2026-08-31", "value": 7686.14013671875 },
+        { "date": "2026-09-01", "value": 7631.47021484375 },
+        { "date": "2026-09-02", "value": 7666.60009765625 },
+        { "date": "2026-09-03", "value": 7747.7099609375 },
+        { "date": "2026-09-04", "value": 7718.60009765625 },
+        { "date": "2026-09-08", "value": 7673.52001953125 },
+        { "date": "2026-09-09", "value": 7636.35986328125 },
+        { "date": "2026-09-10", "value": 7591.7001953125 },
+        { "date": "2026-09-11", "value": 7656.97998046875 },
+        { "date": "2026-09-14", "value": 7619.97998046875 },
+        { "date": "2026-09-15", "value": 7585.72998046875 },
+        { "date": "2026-09-16", "value": 7551.81005859375 },
+        { "date": "2026-09-17", "value": 7637.759765625 },
+        { "date": "2026-09-18", "value": 7650.5 }
       ]
     },
     {
@@ -587,90 +355,26 @@
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "points": [
-        {
-          "date": "2026-08-20",
-          "value": 93.77999877929688
-        },
-        {
-          "date": "2026-08-21",
-          "value": 94.38999938964844
-        },
-        {
-          "date": "2026-08-24",
-          "value": 92.16999816894531
-        },
-        {
-          "date": "2026-08-25",
-          "value": 88.58000183105469
-        },
-        {
-          "date": "2026-08-26",
-          "value": 87.83999633789062
-        },
-        {
-          "date": "2026-08-27",
-          "value": 89.69999694824219
-        },
-        {
-          "date": "2026-08-28",
-          "value": 89.30999755859375
-        },
-        {
-          "date": "2026-08-31",
-          "value": 90.48999786376953
-        },
-        {
-          "date": "2026-09-01",
-          "value": 94.6500015258789
-        },
-        {
-          "date": "2026-09-02",
-          "value": 95.62999725341797
-        },
-        {
-          "date": "2026-09-03",
-          "value": 95.5199966430664
-        },
-        {
-          "date": "2026-09-04",
-          "value": 96.27999877929688
-        },
-        {
-          "date": "2026-09-08",
-          "value": 97.91999816894531
-        },
-        {
-          "date": "2026-09-09",
-          "value": 101.20999908447266
-        },
-        {
-          "date": "2026-09-10",
-          "value": 107.62999725341797
-        },
-        {
-          "date": "2026-09-11",
-          "value": 104.61000061035156
-        },
-        {
-          "date": "2026-09-14",
-          "value": 105.68000030517578
-        },
-        {
-          "date": "2026-09-15",
-          "value": 108.75
-        },
-        {
-          "date": "2026-09-16",
-          "value": 105.83000183105469
-        },
-        {
-          "date": "2026-09-17",
-          "value": 104.81999969482422
-        },
-        {
-          "date": "2026-09-18",
-          "value": 103.87000274658203
-        }
+        { "date": "2026-08-21", "value": 94.38999938964844 },
+        { "date": "2026-08-24", "value": 92.16999816894531 },
+        { "date": "2026-08-25", "value": 88.58000183105469 },
+        { "date": "2026-08-26", "value": 87.83999633789062 },
+        { "date": "2026-08-27", "value": 89.69999694824219 },
+        { "date": "2026-08-28", "value": 89.30999755859375 },
+        { "date": "2026-08-31", "value": 90.48999786376953 },
+        { "date": "2026-09-01", "value": 94.6500015258789 },
+        { "date": "2026-09-02", "value": 95.62999725341797 },
+        { "date": "2026-09-03", "value": 95.5199966430664 },
+        { "date": "2026-09-04", "value": 96.27999877929688 },
+        { "date": "2026-09-08", "value": 97.91999816894531 },
+        { "date": "2026-09-09", "value": 101.20999908447266 },
+        { "date": "2026-09-10", "value": 107.62999725341797 },
+        { "date": "2026-09-11", "value": 104.61000061035156 },
+        { "date": "2026-09-14", "value": 105.68000030517578 },
+        { "date": "2026-09-15", "value": 108.75 },
+        { "date": "2026-09-16", "value": 105.83000183105469 },
+        { "date": "2026-09-17", "value": 104.81999969482422 },
+        { "date": "2026-09-18", "value": 99.29000091552734 }
       ]
     }
   ],
@@ -679,27 +383,27 @@
       "id": "usdclp",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21
+      "observations": 20
     },
     {
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21
+      "observations": 20
     },
     {
       "id": "sp500",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 21
+      "observations": 20
     },
     {
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 21
+      "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-09-20T02:29:00.175Z",
+  "freshnessCheckedAt": "2026-09-20T05:04:25.808Z",
   "freshnessPolicy": "intraday-v2"
 }

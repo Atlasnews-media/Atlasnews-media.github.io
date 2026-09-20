@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c04de97a288e2a476aea10d51b987dd021df5221",
+  "sourceCommit": "fb8e04547901d0794d69d06a1030dac5eaa4134d",
   "latestDaily": {
     "id": "2026-09-19-daily-endurecimiento-global-gana-alcance",
     "issueNumber": 48,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-19",
+    "asOf": "2026-09-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
