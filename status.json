@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "fb8e04547901d0794d69d06a1030dac5eaa4134d",
+  "sourceCommit": "abc94f169d91a3566d13f2bbca225fa0a54e4db2",
   "latestDaily": {
-    "id": "2026-09-19-daily-endurecimiento-global-gana-alcance",
-    "issueNumber": 48,
-    "title": "El endurecimiento monetario global gana alcance",
-    "publishedAt": "2026-09-19T06:45:00-03:00",
-    "cutoffAt": "2026-09-19T06:03:00-03:00"
+    "id": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
+    "issueNumber": 49,
+    "title": "El riesgo geopolítico vuelve a golpear infraestructura crítica",
+    "publishedAt": "2026-09-20T06:46:00-03:00",
+    "cutoffAt": "2026-09-20T06:00:47-03:00"
   },
   "latestNational": {
-    "id": "2026-09-19-national-presupuesto-empleo-inversion",
-    "title": "Presupuesto 2027 concentra la prueba en empleo e inversión con margen fiscal estrecho",
-    "publishedAt": "2026-09-19T06:45:00-03:00",
-    "cutoffAt": "2026-09-19T06:19:00-03:00"
+    "id": "2026-09-20-national-codelco-reestructuracion-empleo",
+    "title": "Codelco suma una prueba laboral a su reestructuración productiva",
+    "publishedAt": "2026-09-20T06:46:00-03:00",
+    "cutoffAt": "2026-09-20T06:12:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-19-markets-flujos-defensivos-selectividad",
-    "title": "Flujos defensivos ganan peso mientras acciones resisten el endurecimiento global",
-    "publishedAt": "2026-09-19T06:45:00-03:00",
-    "cutoffAt": "2026-09-19T06:22:00-03:00"
+    "id": "2026-09-20-markets-golfo-prima-riesgo",
+    "title": "El riesgo saudí ya se refleja en bolsa mientras el petróleo espera la reapertura global",
+    "publishedAt": "2026-09-20T06:46:00-03:00",
+    "cutoffAt": "2026-09-20T06:15:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 48,
+    "daily": 49,
     "weekly": 4,
-    "national": 41,
-    "markets": 40,
+    "national": 42,
+    "markets": 41,
     "readings": 11,
-    "total": 144
+    "total": 147
   },
   "indicators": {
     "status": "current",
