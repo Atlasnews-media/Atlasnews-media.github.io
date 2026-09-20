@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura/",
+  "childContainerIds": [
+    "18089633339386975",
+    "18089633363386975",
+    "18089633390386975",
+    "18089633492386975",
+    "18089633516386975"
+  ],
+  "carouselContainerId": "18089633534386975",
+  "mediaId": "17969515890158661",
+  "permalink": "https://www.instagram.com/p/DdgTq1aG9j5/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-20T09:52:45+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/abc94f169d91a3566d13f2bbca225fa0a54e4db2/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/abc94f169d91a3566d13f2bbca225fa0a54e4db2/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/abc94f169d91a3566d13f2bbca225fa0a54e4db2/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/abc94f169d91a3566d13f2bbca225fa0a54e4db2/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/abc94f169d91a3566d13f2bbca225fa0a54e4db2/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "35503442555",
+  "githubRunAttempt": "1",
+  "sourceCommit": "abc94f169d91a3566d13f2bbca225fa0a54e4db2"
+}
