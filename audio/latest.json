@@ -6,23 +6,23 @@
   "lexiconRevision": 5,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-19",
-  "title": "ATLAS NEWS — Resumen diario — sábado 19 de septiembre de 2026",
+  "date": "2026-09-20",
+  "title": "ATLAS NEWS — Resumen diario — domingo 20 de septiembre de 2026",
   "summary": "Briefing de Portada V13: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-19-resumen-diario.mp3",
-  "durationSeconds": 297.3,
+  "path": "/audio/2026-09-20-resumen-diario.mp3",
+  "durationSeconds": 299.8,
   "durationLabel": "5 min",
-  "bytes": 3568077,
-  "generatedAt": "2026-09-19T12:17:50.608410+00:00",
+  "bytes": 3597453,
+  "generatedAt": "2026-09-20T09:52:02.978482+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-19-daily-endurecimiento-global-gana-alcance",
-    "general": "2026-09-19-daily-endurecimiento-global-gana-alcance",
-    "national": "2026-09-19-national-presupuesto-empleo-inversion",
-    "markets": "2026-09-19-markets-flujos-defensivos-selectividad"
+    "international": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
+    "general": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
+    "national": "2026-09-20-national-codelco-reestructuracion-empleo",
+    "markets": "2026-09-20-markets-golfo-prima-riesgo"
   },
-  "sourceCommit": "0c92582d17f70c7b6801d1a2d1b8b7fcff259c60"
+  "sourceCommit": "abc94f169d91a3566d13f2bbca225fa0a54e4db2"
 }
