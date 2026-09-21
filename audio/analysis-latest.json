@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-20",
-  "generatedAt": "2026-09-20T09:52:02.978482+00:00",
-  "sourceCommit": "abc94f169d91a3566d13f2bbca225fa0a54e4db2",
+  "generatedAt": "2026-09-21T03:27:55.709289+00:00",
+  "sourceCommit": "ceb215b2e00709f36f3fb00ae190f62a2cf70000",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -12,11 +12,11 @@
     "status": "published",
     "sourceId": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
     "path": "/audio/2026-09-20-international-analysis.mp3",
-    "durationSeconds": 155.4,
-    "durationLabel": "3 min",
-    "bytes": 1865421,
-    "scriptVersion": 2,
-    "scriptHash": "ce10741d4ea03bca1ebdbf36395985ce7c99f31167e19b385e58b50adcd60c9d",
+    "durationSeconds": 147.7,
+    "durationLabel": "2 min",
+    "bytes": 1772973,
+    "scriptVersion": 3,
+    "scriptHash": "d2a856a803500a6514df26018f815701159dcccd985d7184de908f3ff0673249",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 5,
@@ -24,12 +24,12 @@
     "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
     "voiceProfileVersion": "alex-c-v1",
     "voices": {
-      "reporter": "alex-c-v1",
-      "interviewer": "ef_dora"
+      "host": "ef_dora",
+      "analyst": "alex-c-v1"
     },
     "roles": {
-      "reporter": "VOZ 2",
-      "interviewer": "VOZ 1"
+      "host": "VOZ 1",
+      "analyst": "VOZ 2"
     },
     "questionProsodyVersion": 0,
     "dialogueRhythmVersion": 2,
