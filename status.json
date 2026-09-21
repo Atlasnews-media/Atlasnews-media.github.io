@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "847ff6e229564ecc19d147b307f30170156bb6b7",
+  "sourceCommit": "e7b8049785ae268fdc2895cbea15427cb6537ddc",
   "latestDaily": {
     "id": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
     "issueNumber": 50,
@@ -36,7 +36,7 @@
     "total": 150
   },
   "indicators": {
-    "status": "stale",
+    "status": "current",
     "asOf": "2026-09-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
