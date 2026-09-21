@@ -1,0 +1,200 @@
+{
+  "experiment": "dora-speech-v5-repro-20260921",
+  "productionTouched": false,
+  "fallbackAllowed": false,
+  "voice": "ef_dora",
+  "engine": "Kokoro-82M / kokoro==0.9.4",
+  "speed": 1.0,
+  "splitPattern": "\\n+",
+  "speechNormalizerVersion": 5,
+  "lexiconVersion": 3,
+  "lexiconRevision": 5,
+  "sourceText": "En monedas, el dólar observado marcó 958 pesos con 42 centavos, con una variación positiva de 0,37% frente a la jornada hábil anterior. El euro se ubicó en 1.099 pesos con 86 centavos, con un retroceso de 0,1%. La UF vigente alcanza los 40.983 pesos con 58 centavos. En renta variable y energía, el IPSA retrocede 0,99%, el S&P 500 cae 1,25% y el Brent retrocede 9,23%. El cobre, en tanto, sube 1,26%. El Treasury a diez años se ubica en 5%. Entre los movimientos destacados, Bitcoin avanza 5,61%.",
+  "speechText": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos. En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento. Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+  "existingLabAB": {
+    "sampleA": "a-current.mp3",
+    "sampleB": "b-approved.mp3",
+    "sampleADecodedPcmSha256": "53a144ec98907bfc3fe3ce88bf93b327376f8efa15962e143e5408be358f2889",
+    "sampleBDecodedPcmSha256": "0edecad20b5979d33286ea15a232d195e3d3b81e4d0faaa47d0c9c80a72bb7a6",
+    "comparison": {
+      "leftSamples": 1149000,
+      "rightSamples": 1149000,
+      "sameLength": true,
+      "exactEqual": false,
+      "commonSamples": 1149000,
+      "maxAbsSampleDiff": 6656,
+      "rmsSampleDiff": 183.018566
+    }
+  },
+  "repeats": [
+    {
+      "index": 1,
+      "audio": "repeat-1.mp3",
+      "floatPcmSha256": "9fc61d8ab08e0a45d2c060a22c5cb300811cca53f115a0039cb3961942883447",
+      "decodedPcmSha256": "0e40f6da11017f0a776d1af74731546bfc862be75c31999b638180dd1f0a583e",
+      "samplesFloat": 1149000,
+      "samplesDecoded": 1149000,
+      "durationSeconds": 47.875,
+      "bytes": 575469,
+      "trace": [
+        {
+          "graphemes": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos.",
+          "phonemes": "en monˈeðas, el ðˈolaɾ ˌoβseɾβˈaðo maɾkˈo nˌoβeθjˈɛntos θinkwˈɛnta i ˈoʧo pˈesos kon kwaɾˌɛntaiðˈos θentˈaβos, kon ˈuna βˌaɾjaθjˈom pˌositˈiβa ðe θˈeɾo kˈoma tɾˈAnta i sjˈete poɾ θjˈɛnto fɾˈɛnte a la xoɾnˈaða ˈaβil ˌanteɾjˈoɾ. el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i nwˈeβe pˈesos kon oʧˌɛntaisˈAs θentˈaβos, kon ˈun rˌetɾoθˈeso ðe θˈeɾo kˈoma ˈuno poɾ θjˈɛnto. la ˌuˈɛfe βixˈɛnte alkˈanθa los kwaɾˈɛnta mˈil nˌoβeθjˈɛntos oʧˈɛnta i tɾˈes pˈesos kon θinkwˌɛntaiˈoʧo θentˈaβos."
+        },
+        {
+          "graphemes": "En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento.",
+          "phonemes": "en rˈɛnta βaɾjˈaβle i ˌeneɾxˈia, el ˈipsa rˌetɾoθˈeðe θˈeɾo kˈoma noβˈɛnta i nwˈeβe poɾ θjˈɛnto, el ˈese i pˈe kinjˈɛntos kˈae ˈuno kˈoma βˌAntiθˈinko poɾ θjˈɛnto i el βɾˈɛnt rˌetɾoθˈeðe nwˈeβe kˈoma βˌAntitɾˈes poɾ θjˈɛnto. el kˈoβɾe, en tˈanto, sˈuβe ˈuno kˈoma βˌAntisˈeis poɾ θjˈɛnto. el βˈono ðel tesˈoɾo ˌestaðˌowniðˈɛnse a ðjˈeθ ˈaɲos se uβˈika en θˈinko poɾ θjˈɛnto."
+        },
+        {
+          "graphemes": "Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+          "phonemes": "ˌentɾe los mˌoβimjˈɛntos ðˌestakˈaðos, bˈitkoɪn aβˈanθa θˈinko kˈoma sesˈɛnta i ˈuno poɾ θjˈɛnto."
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "audio": "repeat-2.mp3",
+      "floatPcmSha256": "4eaf99867a1c0c0882032a11d9f88cad7a352e462891df4003844ffa6f47c15a",
+      "decodedPcmSha256": "02b4b00c592f5bf51d3beba45b4235bffd9bc1692a85fd6e94c8fb2ed9d917a0",
+      "samplesFloat": 1149000,
+      "samplesDecoded": 1149000,
+      "durationSeconds": 47.875,
+      "bytes": 575469,
+      "trace": [
+        {
+          "graphemes": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos.",
+          "phonemes": "en monˈeðas, el ðˈolaɾ ˌoβseɾβˈaðo maɾkˈo nˌoβeθjˈɛntos θinkwˈɛnta i ˈoʧo pˈesos kon kwaɾˌɛntaiðˈos θentˈaβos, kon ˈuna βˌaɾjaθjˈom pˌositˈiβa ðe θˈeɾo kˈoma tɾˈAnta i sjˈete poɾ θjˈɛnto fɾˈɛnte a la xoɾnˈaða ˈaβil ˌanteɾjˈoɾ. el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i nwˈeβe pˈesos kon oʧˌɛntaisˈAs θentˈaβos, kon ˈun rˌetɾoθˈeso ðe θˈeɾo kˈoma ˈuno poɾ θjˈɛnto. la ˌuˈɛfe βixˈɛnte alkˈanθa los kwaɾˈɛnta mˈil nˌoβeθjˈɛntos oʧˈɛnta i tɾˈes pˈesos kon θinkwˌɛntaiˈoʧo θentˈaβos."
+        },
+        {
+          "graphemes": "En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento.",
+          "phonemes": "en rˈɛnta βaɾjˈaβle i ˌeneɾxˈia, el ˈipsa rˌetɾoθˈeðe θˈeɾo kˈoma noβˈɛnta i nwˈeβe poɾ θjˈɛnto, el ˈese i pˈe kinjˈɛntos kˈae ˈuno kˈoma βˌAntiθˈinko poɾ θjˈɛnto i el βɾˈɛnt rˌetɾoθˈeðe nwˈeβe kˈoma βˌAntitɾˈes poɾ θjˈɛnto. el kˈoβɾe, en tˈanto, sˈuβe ˈuno kˈoma βˌAntisˈeis poɾ θjˈɛnto. el βˈono ðel tesˈoɾo ˌestaðˌowniðˈɛnse a ðjˈeθ ˈaɲos se uβˈika en θˈinko poɾ θjˈɛnto."
+        },
+        {
+          "graphemes": "Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+          "phonemes": "ˌentɾe los mˌoβimjˈɛntos ðˌestakˈaðos, bˈitkoɪn aβˈanθa θˈinko kˈoma sesˈɛnta i ˈuno poɾ θjˈɛnto."
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "audio": "repeat-3.mp3",
+      "floatPcmSha256": "a8efb95858f7f775fa7a30ee700b5988f332c5071dfdf5f1444dcc60bcd4a543",
+      "decodedPcmSha256": "de3a8daff9d642e9474862dce11bb4bfb8a0b13e42d0f9efedbb40bfdef227f2",
+      "samplesFloat": 1149000,
+      "samplesDecoded": 1149000,
+      "durationSeconds": 47.875,
+      "bytes": 575469,
+      "trace": [
+        {
+          "graphemes": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos.",
+          "phonemes": "en monˈeðas, el ðˈolaɾ ˌoβseɾβˈaðo maɾkˈo nˌoβeθjˈɛntos θinkwˈɛnta i ˈoʧo pˈesos kon kwaɾˌɛntaiðˈos θentˈaβos, kon ˈuna βˌaɾjaθjˈom pˌositˈiβa ðe θˈeɾo kˈoma tɾˈAnta i sjˈete poɾ θjˈɛnto fɾˈɛnte a la xoɾnˈaða ˈaβil ˌanteɾjˈoɾ. el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i nwˈeβe pˈesos kon oʧˌɛntaisˈAs θentˈaβos, kon ˈun rˌetɾoθˈeso ðe θˈeɾo kˈoma ˈuno poɾ θjˈɛnto. la ˌuˈɛfe βixˈɛnte alkˈanθa los kwaɾˈɛnta mˈil nˌoβeθjˈɛntos oʧˈɛnta i tɾˈes pˈesos kon θinkwˌɛntaiˈoʧo θentˈaβos."
+        },
+        {
+          "graphemes": "En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento.",
+          "phonemes": "en rˈɛnta βaɾjˈaβle i ˌeneɾxˈia, el ˈipsa rˌetɾoθˈeðe θˈeɾo kˈoma noβˈɛnta i nwˈeβe poɾ θjˈɛnto, el ˈese i pˈe kinjˈɛntos kˈae ˈuno kˈoma βˌAntiθˈinko poɾ θjˈɛnto i el βɾˈɛnt rˌetɾoθˈeðe nwˈeβe kˈoma βˌAntitɾˈes poɾ θjˈɛnto. el kˈoβɾe, en tˈanto, sˈuβe ˈuno kˈoma βˌAntisˈeis poɾ θjˈɛnto. el βˈono ðel tesˈoɾo ˌestaðˌowniðˈɛnse a ðjˈeθ ˈaɲos se uβˈika en θˈinko poɾ θjˈɛnto."
+        },
+        {
+          "graphemes": "Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+          "phonemes": "ˌentɾe los mˌoβimjˈɛntos ðˌestakˈaðos, bˈitkoɪn aβˈanθa θˈinko kˈoma sesˈɛnta i ˈuno poɾ θjˈɛnto."
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "audio": "repeat-4.mp3",
+      "floatPcmSha256": "4aff4458b3625d53023da7e5f46f5adda186174f7bf5cf898a52f34c3c9e94b3",
+      "decodedPcmSha256": "6421bc3ef1b1f0036c269bdc8173620cde6424d0a677a2fe94b86de309221315",
+      "samplesFloat": 1149000,
+      "samplesDecoded": 1149000,
+      "durationSeconds": 47.875,
+      "bytes": 575469,
+      "trace": [
+        {
+          "graphemes": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos.",
+          "phonemes": "en monˈeðas, el ðˈolaɾ ˌoβseɾβˈaðo maɾkˈo nˌoβeθjˈɛntos θinkwˈɛnta i ˈoʧo pˈesos kon kwaɾˌɛntaiðˈos θentˈaβos, kon ˈuna βˌaɾjaθjˈom pˌositˈiβa ðe θˈeɾo kˈoma tɾˈAnta i sjˈete poɾ θjˈɛnto fɾˈɛnte a la xoɾnˈaða ˈaβil ˌanteɾjˈoɾ. el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i nwˈeβe pˈesos kon oʧˌɛntaisˈAs θentˈaβos, kon ˈun rˌetɾoθˈeso ðe θˈeɾo kˈoma ˈuno poɾ θjˈɛnto. la ˌuˈɛfe βixˈɛnte alkˈanθa los kwaɾˈɛnta mˈil nˌoβeθjˈɛntos oʧˈɛnta i tɾˈes pˈesos kon θinkwˌɛntaiˈoʧo θentˈaβos."
+        },
+        {
+          "graphemes": "En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento.",
+          "phonemes": "en rˈɛnta βaɾjˈaβle i ˌeneɾxˈia, el ˈipsa rˌetɾoθˈeðe θˈeɾo kˈoma noβˈɛnta i nwˈeβe poɾ θjˈɛnto, el ˈese i pˈe kinjˈɛntos kˈae ˈuno kˈoma βˌAntiθˈinko poɾ θjˈɛnto i el βɾˈɛnt rˌetɾoθˈeðe nwˈeβe kˈoma βˌAntitɾˈes poɾ θjˈɛnto. el kˈoβɾe, en tˈanto, sˈuβe ˈuno kˈoma βˌAntisˈeis poɾ θjˈɛnto. el βˈono ðel tesˈoɾo ˌestaðˌowniðˈɛnse a ðjˈeθ ˈaɲos se uβˈika en θˈinko poɾ θjˈɛnto."
+        },
+        {
+          "graphemes": "Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+          "phonemes": "ˌentɾe los mˌoβimjˈɛntos ðˌestakˈaðos, bˈitkoɪn aβˈanθa θˈinko kˈoma sesˈɛnta i ˈuno poɾ θjˈɛnto."
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "audio": "repeat-5.mp3",
+      "floatPcmSha256": "13283e18f63863a664a37ff299a1d287dd325a58aad523eff612b3a0f95feb8d",
+      "decodedPcmSha256": "6db680f08c667015fc68f75604f39297056f85dd6271f9e39e097360bb75f039",
+      "samplesFloat": 1149000,
+      "samplesDecoded": 1149000,
+      "durationSeconds": 47.875,
+      "bytes": 575469,
+      "trace": [
+        {
+          "graphemes": "En monedas, el dólar observado marcó novecientos cincuenta y ocho pesos con 42 centavos, con una variación positiva de cero coma treinta y siete por ciento frente a la jornada hábil anterior. El euro se ubicó en mil noventa y nueve pesos con 86 centavos, con un retroceso de cero coma uno por ciento. La UF vigente alcanza los cuarenta mil novecientos ochenta y tres pesos con 58 centavos.",
+          "phonemes": "en monˈeðas, el ðˈolaɾ ˌoβseɾβˈaðo maɾkˈo nˌoβeθjˈɛntos θinkwˈɛnta i ˈoʧo pˈesos kon kwaɾˌɛntaiðˈos θentˈaβos, kon ˈuna βˌaɾjaθjˈom pˌositˈiβa ðe θˈeɾo kˈoma tɾˈAnta i sjˈete poɾ θjˈɛnto fɾˈɛnte a la xoɾnˈaða ˈaβil ˌanteɾjˈoɾ. el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i nwˈeβe pˈesos kon oʧˌɛntaisˈAs θentˈaβos, kon ˈun rˌetɾoθˈeso ðe θˈeɾo kˈoma ˈuno poɾ θjˈɛnto. la ˌuˈɛfe βixˈɛnte alkˈanθa los kwaɾˈɛnta mˈil nˌoβeθjˈɛntos oʧˈɛnta i tɾˈes pˈesos kon θinkwˌɛntaiˈoʧo θentˈaβos."
+        },
+        {
+          "graphemes": "En renta variable y energía, el IPSA retrocede cero coma noventa y nueve por ciento, el ese y pe quinientos cae uno coma veinticinco por ciento y el Brent retrocede nueve coma veintitrés por ciento. El cobre, en tanto, sube uno coma veintiséis por ciento. El bono del Tesoro estadounidense a diez años se ubica en cinco por ciento.",
+          "phonemes": "en rˈɛnta βaɾjˈaβle i ˌeneɾxˈia, el ˈipsa rˌetɾoθˈeðe θˈeɾo kˈoma noβˈɛnta i nwˈeβe poɾ θjˈɛnto, el ˈese i pˈe kinjˈɛntos kˈae ˈuno kˈoma βˌAntiθˈinko poɾ θjˈɛnto i el βɾˈɛnt rˌetɾoθˈeðe nwˈeβe kˈoma βˌAntitɾˈes poɾ θjˈɛnto. el kˈoβɾe, en tˈanto, sˈuβe ˈuno kˈoma βˌAntisˈeis poɾ θjˈɛnto. el βˈono ðel tesˈoɾo ˌestaðˌowniðˈɛnse a ðjˈeθ ˈaɲos se uβˈika en θˈinko poɾ θjˈɛnto."
+        },
+        {
+          "graphemes": "Entre los movimientos destacados, Bitcoin avanza cinco coma sesenta y uno por ciento.",
+          "phonemes": "ˌentɾe los mˌoβimjˈɛntos ðˌestakˈaðos, bˈitkoɪn aβˈanθa θˈinko kˈoma sesˈɛnta i ˈuno poɾ θjˈɛnto."
+        }
+      ]
+    }
+  ],
+  "repeatComparisons": [
+    {
+      "left": "repeat-1",
+      "right": "repeat-2",
+      "leftSamples": 1149000,
+      "rightSamples": 1149000,
+      "sameLength": true,
+      "exactEqual": false,
+      "commonSamples": 1149000,
+      "maxAbsSampleDiff": 7956,
+      "rmsSampleDiff": 202.251084
+    },
+    {
+      "left": "repeat-1",
+      "right": "repeat-3",
+      "leftSamples": 1149000,
+      "rightSamples": 1149000,
+      "sameLength": true,
+      "exactEqual": false,
+      "commonSamples": 1149000,
+      "maxAbsSampleDiff": 6368,
+      "rmsSampleDiff": 188.593584
+    },
+    {
+      "left": "repeat-1",
+      "right": "repeat-4",
+      "leftSamples": 1149000,
+      "rightSamples": 1149000,
+      "sameLength": true,
+      "exactEqual": false,
+      "commonSamples": 1149000,
+      "maxAbsSampleDiff": 6247,
+      "rmsSampleDiff": 195.374665
+    },
+    {
+      "left": "repeat-1",
+      "right": "repeat-5",
+      "leftSamples": 1149000,
+      "rightSamples": 1149000,
+      "sameLength": true,
+      "exactEqual": false,
+      "commonSamples": 1149000,
+      "maxAbsSampleDiff": 7893,
+      "rmsSampleDiff": 196.404391
+    }
+  ],
+  "allFloatPcmHashesEqual": false,
+  "allDecodedPcmHashesEqual": false,
+  "allTracesEqual": true
+}
