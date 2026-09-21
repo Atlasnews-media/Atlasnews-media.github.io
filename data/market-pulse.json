@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "current",
+  "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-21T09:52:12.393Z",
+  "generatedAt": "2026-09-21T09:55:42.462Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -129,28 +129,13 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6315.32,
+      "value": 6317.38,
       "unit": "points",
-      "changePercent": -1.53,
+      "changePercent": -1.49,
       "trend": "down",
-      "effectiveAt": "2026-09-21T09:37:00.000Z",
+      "effectiveAt": "2026-09-21T09:40:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
-      "status": "current",
-      "displayEligible": true,
-      "freshnessState": "closed"
-    },
-    {
-      "id": "ipsa",
-      "label": "IPSA",
-      "group": "chile",
-      "value": 11315.26,
-      "unit": "points",
-      "changePercent": -0.99,
-      "trend": "down",
-      "effectiveAt": "2026-09-21T09:52:12.108Z",
-      "provider": "diario-financiero-public",
-      "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
       "displayEligible": true,
       "freshnessState": "closed"
@@ -174,11 +159,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 97.6,
+      "value": 97.68,
       "unit": "usd-per-barrel",
-      "changePercent": -9.32,
+      "changePercent": -9.24,
       "trend": "down",
-      "effectiveAt": "2026-09-21T09:41:07.000Z",
+      "effectiveAt": "2026-09-21T09:45:24.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -189,11 +174,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4383.2,
+      "value": 4385.9,
       "unit": "usd-per-ounce",
-      "changePercent": -0.55,
+      "changePercent": -0.49,
       "trend": "down",
-      "effectiveAt": "2026-09-21T09:42:06.000Z",
+      "effectiveAt": "2026-09-21T09:45:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -234,16 +219,33 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 84887,
+      "value": 84661,
       "unit": "usd",
-      "changePercent": 5.51,
+      "changePercent": 5.25,
       "trend": "up",
-      "effectiveAt": "2026-09-21T09:52:12.393Z",
+      "effectiveAt": "2026-09-21T09:55:42.462Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
       "displayEligible": true,
       "freshnessState": "current"
+    },
+    {
+      "id": "ipsa",
+      "label": "IPSA",
+      "group": "chile",
+      "value": 11315.26,
+      "unit": "points",
+      "changePercent": -0.99,
+      "trend": "down",
+      "effectiveAt": "2026-09-21T04:15:27.854Z",
+      "provider": "diario-financiero-public",
+      "sourceUrl": "https://www.df.cl/marketdata/bolsas",
+      "status": "fallback",
+      "displayEligible": true,
+      "freshnessState": "closed",
+      "recoverySource": "published-market-snapshot",
+      "recoveredAt": "2026-09-21T09:55:42.782Z"
     }
   ],
   "diagnostics": [
@@ -251,15 +253,27 @@
     { "id": "nasdaq", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "dow", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "stoxx50", "ok": true, "provider": "yahoo-public-chart" },
-    { "id": "ipsa", "ok": true, "provider": "diario-financiero-public" },
+    {
+      "id": "ipsa",
+      "ok": false,
+      "error": "https://www.df.cl/marketdata/bolsas respondió 502. Respaldo: ^ipsa: respuesta Stooq sin serie válida. Respaldo: https://query1.finance.yahoo.com/v8/finance/chart/%5EIPSA?interval=1d&range=10d respondió 404."
+    },
     { "id": "ust10y", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "brent", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "gold", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "fx-global", "ok": true, "provider": "frankfurter-ecb" },
-    { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
+    { "id": "bitcoin", "ok": true, "provider": "coingecko-public" },
+    {
+      "id": "ipsa-recovery",
+      "ok": true,
+      "recovered": true,
+      "source": "published-market-snapshot"
+    }
   ],
+  "recoveredAssets": ["ipsa"],
+  "recoverySourceGeneratedAt": "2026-09-21T04:15:28.428Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-21T09:52:13.183Z",
+  "historyGeneratedAt": "2026-09-21T09:55:43.406Z",
   "history": [
     {
       "id": "usdclp",
@@ -373,7 +387,7 @@
         { "date": "2026-09-16", "value": 105.83000183105469 },
         { "date": "2026-09-17", "value": 104.81999969482422 },
         { "date": "2026-09-18", "value": 103.87000274658203 },
-        { "date": "2026-09-21", "value": 97.5999984741211 }
+        { "date": "2026-09-21", "value": 97.68000030517578 }
       ]
     }
   ],
@@ -403,6 +417,6 @@
       "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-09-21T09:52:13.332Z",
+  "freshnessCheckedAt": "2026-09-21T09:55:43.552Z",
   "freshnessPolicy": "intraday-v2"
 }
