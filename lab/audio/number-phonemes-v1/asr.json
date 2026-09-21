@@ -1,0 +1,227 @@
+{
+  "model": "faster-whisper-small",
+  "items": [
+    {
+      "audio": "costo-8743-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El costo medio llegó a $8,743 pesos."
+    },
+    {
+      "audio": "costo-8743-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El costo medio llegó a $8,743 pesos."
+    },
+    {
+      "audio": "costo-8743-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El costo medio llegó a $8,743 pesos."
+    },
+    {
+      "audio": "euro-1099-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-phoneme-baseline.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-phoneme-mil-joined-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-phoneme-mil-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1099-phoneme-mil-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1099 pesos con 86 centavos."
+    },
+    {
+      "audio": "euro-1100-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil, 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1.100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-phoneme-baseline.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-phoneme-mil-joined-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-phoneme-mil-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1100-phoneme-mil-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en mil 100 pesos con 95 centavos."
+    },
+    {
+      "audio": "euro-1101-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-phoneme-baseline.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-phoneme-mil-joined-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 111 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-phoneme-mil-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "euro-1101-phoneme-mil-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "El euro se ubicó en 1101 pesos con 20 centavos."
+    },
+    {
+      "audio": "fondos-22330-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "Los fondos retiraron 22.330 millones de pesos."
+    },
+    {
+      "audio": "fondos-22330-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "Los fondos retiraron 22.330 millones de pesos."
+    },
+    {
+      "audio": "fondos-22330-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "Los fondos retiraron 22.330 millones de pesos."
+    },
+    {
+      "audio": "portada-paragraph-current.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "Monedas, el dólar observado marcó 958 pesos con 42 centavos, con una variación positiva de 0,30 y 7% frente a la jornada Abil anterior. El euro se ubicó en 1099 pesos con 86 centavos, con un retroceso de 0,1%. La UF Vigente alcanza los 40,980 y 3 pesos con 58 centavos. En renta variable y energía, el Ipsa retrocede 0,99%, el S y P500 cae 1,25% y el Brent retrocede 9,23%. El cobre en tanto sube 1,26%. El bono del tesoro estadounidense a 10 años se ubica en 5%. Entre los movimientos destacados, Bitcoin avanza 5,61%."
+    },
+    {
+      "audio": "portada-paragraph-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "Monedas, el dólar observado marcó 958 pesos con 42 centavos, con una variación positiva de 0,30 y 7% frente a la jornada Abil anterior. El euro se ubicó en 1099 pesos con 86 centavos, con un retroceso de 0,1%. La UF Vigente alcanza los 40,980 y 3 pesos con 58 centavos. En renta variable y energía, el Ipsa retrocede 0,99%. El S y P500 cae 1,25% y el Brent retrocede 9,23%. El cobre en tanto sube 1,26%. El bono del tesoro estadounidense a 10 años se ubica en 5%. Entre los movimientos destacados, Bitcoin avanza 5,61%."
+    },
+    {
+      "audio": "portada-paragraph-sentence-chunks.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "En monedas, el dólar observado marcó 958 pesos con 42 centavos, con una variación positiva de 0,30 y 7% frente a la jornada hábil anterior. El euro se ubicó en 1, 99 pesos con 86 centavos, con un retroceso de 0,1%. La UF vigente alcanza los 40, 980 y 3 pesos con 58 centavos. En renta, variable y energía, el IPSA retrocede 0,99%. El S y P500 cae 1,25% y el Brent retrocede 9,23%. El cobre en tanto sube 1,26%. El bono del tesoro, estadounidense a 10 años, se ubica en 5%. Entre los movimientos destacados, Bitcoin avanza 5,61%."
+    },
+    {
+      "audio": "uf-40983-dora-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza a los 40.980 y 3 pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-dora.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza los 40.980 y tres pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-generic.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza a los 40.980 y 3 pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-phoneme-baseline.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza a los 40.980 y 3 pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-phoneme-mil-joined-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza los 40.980 y tres pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-phoneme-mil-joined.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza a los 40.980 y 3 pesos con 58 centavos."
+    },
+    {
+      "audio": "uf-40983-phoneme-mil-unstressed.mp3",
+      "language": "es",
+      "languageProbability": 1.0,
+      "transcript": "La UF Vigente alcanza a los 40.980 y 3 pesos con 58 centavos."
+    }
+  ]
+}
