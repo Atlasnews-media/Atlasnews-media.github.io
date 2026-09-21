@@ -6,23 +6,23 @@
   "lexiconRevision": 5,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-20",
-  "title": "ATLAS NEWS — Resumen diario — domingo 20 de septiembre de 2026",
+  "date": "2026-09-21",
+  "title": "ATLAS NEWS — Resumen diario — lunes 21 de septiembre de 2026",
   "summary": "Briefing de Portada V14: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-20-resumen-diario.mp3",
-  "durationSeconds": 300.5,
+  "path": "/audio/2026-09-21-resumen-diario.mp3",
+  "durationSeconds": 324.1,
   "durationLabel": "5 min",
-  "bytes": 3606669,
-  "generatedAt": "2026-09-21T04:06:50.837339+00:00",
+  "bytes": 3889773,
+  "generatedAt": "2026-09-21T09:51:33.887135+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
-    "general": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
-    "national": "2026-09-20-national-codelco-reestructuracion-empleo",
-    "markets": "2026-09-20-markets-golfo-prima-riesgo"
+    "international": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
+    "general": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
+    "national": "2026-09-21-national-presupuesto-empleo-ejecucion",
+    "markets": "2026-09-21-markets-tecnologia-tasas-petroleo"
   },
-  "sourceCommit": "74a8efd34df5fb33bfc1d1c865a5ce3f27d2ae05"
+  "sourceCommit": "419cb294185e020e2333f620203477abea762808"
 }
