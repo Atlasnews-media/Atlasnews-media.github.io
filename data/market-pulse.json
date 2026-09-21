@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-21T02:59:22.840Z",
+  "generatedAt": "2026-09-21T03:24:44.216Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -43,7 +43,7 @@
       "unit": "percent",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-17T12:00:00-03:00",
+      "effectiveAt": "2026-09-21T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current",
@@ -69,11 +69,11 @@
       "id": "copper",
       "label": "Cobre",
       "group": "commodities",
-      "value": 6.36,
+      "value": 6.44,
       "unit": "usd-per-pound",
-      "changePercent": 0.79,
+      "changePercent": 1.26,
       "trend": "up",
-      "effectiveAt": "2026-09-17T12:00:00-03:00",
+      "effectiveAt": "2026-09-21T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current",
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-21T02:59:22.641Z",
+      "effectiveAt": "2026-09-21T03:24:43.725Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -174,11 +174,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 97.36,
+      "value": 97.52,
       "unit": "usd-per-barrel",
-      "changePercent": -3.8,
+      "changePercent": -3.65,
       "trend": "down",
-      "effectiveAt": "2026-09-21T02:48:05.000Z",
+      "effectiveAt": "2026-09-21T03:08:40.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -189,11 +189,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4406.3,
+      "value": 4400.5,
       "unit": "usd-per-ounce",
-      "changePercent": -1.22,
+      "changePercent": -1.35,
       "trend": "down",
-      "effectiveAt": "2026-09-21T02:49:17.000Z",
+      "effectiveAt": "2026-09-21T03:14:39.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81330,
+      "value": 81382,
       "unit": "usd",
-      "changePercent": 1.23,
+      "changePercent": 1.18,
       "trend": "up",
-      "effectiveAt": "2026-09-21T02:59:22.840Z",
+      "effectiveAt": "2026-09-21T03:24:44.216Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-21T02:59:23.537Z",
+  "historyGeneratedAt": "2026-09-21T03:24:45.040Z",
   "history": [
     {
       "id": "usdclp",
@@ -316,7 +316,8 @@
         { "date": "2026-09-14", "value": 6.45 },
         { "date": "2026-09-15", "value": 6.45 },
         { "date": "2026-09-16", "value": 6.31 },
-        { "date": "2026-09-17", "value": 6.36 }
+        { "date": "2026-09-17", "value": 6.36 },
+        { "date": "2026-09-21", "value": 6.44 }
       ]
     },
     {
@@ -375,7 +376,7 @@
         { "date": "2026-09-16", "value": 105.83000183105469 },
         { "date": "2026-09-17", "value": 104.81999969482422 },
         { "date": "2026-09-18", "value": 103.87000274658203 },
-        { "date": "2026-09-20", "value": 97.36000061035156 }
+        { "date": "2026-09-21", "value": 97.5199966430664 }
       ]
     }
   ],
@@ -390,7 +391,7 @@
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 20
+      "observations": 21
     },
     {
       "id": "sp500",
@@ -405,6 +406,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-21T02:59:23.685Z",
+  "freshnessCheckedAt": "2026-09-21T03:24:45.179Z",
   "freshnessPolicy": "intraday-v2"
 }

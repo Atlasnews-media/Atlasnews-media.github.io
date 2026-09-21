@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "43318eb38897328a4c170bef2c5df0aa7c57f3ca",
+  "sourceCommit": "ceb215b2e00709f36f3fb00ae190f62a2cf70000",
   "latestDaily": {
     "id": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
     "issueNumber": 49,
@@ -37,7 +37,7 @@
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-20",
+    "asOf": "2026-09-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
