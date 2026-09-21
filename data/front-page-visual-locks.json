@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T04:16:12.314Z",
+  "updatedAt": "2026-09-21T09:48:27.068Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -239,6 +239,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "alt": "Petrolero cargando crudo en la terminal Al Basrah del Golfo Pérsico.",
+      "source": "Wikimedia Commons / U.S. Navy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "author": "Eben Boothby, U.S. Navy",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-09-21-national-presupuesto-empleo-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2003%20-%20Flat%20projection).jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2003%20-%20Flat%20projection).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-21-markets-tecnologia-tasas-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

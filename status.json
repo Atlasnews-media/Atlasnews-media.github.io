@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "07a354a762c7d49b9699551730fef0598f61ec6e",
+  "sourceCommit": "419cb294185e020e2333f620203477abea762808",
   "latestDaily": {
-    "id": "2026-09-20-daily-riesgo-geopolitico-vuelve-a-la-infraestructura",
-    "issueNumber": 49,
-    "title": "El riesgo geopolítico vuelve a golpear infraestructura crítica",
-    "publishedAt": "2026-09-20T06:46:00-03:00",
-    "cutoffAt": "2026-09-20T06:00:47-03:00"
+    "id": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
+    "issueNumber": 50,
+    "title": "Hormuz adapta los flujos sin normalizar el riesgo energético global",
+    "publishedAt": "2026-09-21T06:45:00-03:00",
+    "cutoffAt": "2026-09-21T05:57:00-03:00"
   },
   "latestNational": {
-    "id": "2026-09-20-national-codelco-reestructuracion-empleo",
-    "title": "Codelco suma una prueba laboral a su reestructuración productiva",
-    "publishedAt": "2026-09-20T06:46:00-03:00",
-    "cutoffAt": "2026-09-20T06:12:00-03:00"
+    "id": "2026-09-21-national-presupuesto-empleo-ejecucion",
+    "title": "Presupuesto 2027 enfrenta la prueba de convertir reasignación fiscal en empleo e inversión",
+    "publishedAt": "2026-09-21T06:45:00-03:00",
+    "cutoffAt": "2026-09-21T06:14:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-20-markets-golfo-prima-riesgo",
-    "title": "El riesgo saudí ya se refleja en bolsa mientras el petróleo espera la reapertura global",
-    "publishedAt": "2026-09-20T06:46:00-03:00",
-    "cutoffAt": "2026-09-20T06:15:00-03:00"
+    "id": "2026-09-21-markets-tecnologia-tasas-petroleo",
+    "title": "Tecnología sostiene el riesgo mientras tasas altas y petróleo separan ganadores de perdedores",
+    "publishedAt": "2026-09-21T06:45:00-03:00",
+    "cutoffAt": "2026-09-21T06:18:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 49,
+    "daily": 50,
     "weekly": 4,
-    "national": 42,
-    "markets": 41,
+    "national": 43,
+    "markets": 42,
     "readings": 11,
-    "total": 147
+    "total": 150
   },
   "indicators": {
     "status": "current",
