@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-09-21",
-  "fetchedAt": "2026-09-21T23:56:49.471Z",
-  "lastAttemptAt": "2026-09-22T00:01:06.699Z",
+  "status": "current",
+  "asOf": "2026-09-22",
+  "fetchedAt": "2026-09-22T09:49:50.387Z",
+  "lastAttemptAt": "2026-09-22T09:49:50.387Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,23 +11,31 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 40983.58,
+      "value": 40991.75,
       "unit": "clp",
-      "effectiveDate": "2026-09-21"
+      "effectiveDate": "2026-09-22"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 958.42,
+      "value": 952,
       "unit": "clp",
-      "effectiveDate": "2026-09-21"
+      "effectiveDate": "2026-09-22",
+      "previousValue": 958.42,
+      "previousEffectiveDate": "2026-09-21",
+      "changePercent": -0.67,
+      "trend": "down"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1099.86,
+      "value": 1091.74,
       "unit": "clp",
-      "effectiveDate": "2026-09-21"
+      "effectiveDate": "2026-09-22",
+      "previousValue": 1099.86,
+      "previousEffectiveDate": "2026-09-21",
+      "changePercent": -0.74,
+      "trend": "down"
     },
     {
       "code": "utm",
@@ -41,17 +49,17 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-09-21"
+      "effectiveDate": "2026-09-22"
     },
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.44,
+      "value": 6.6,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-09-21",
-      "previousValue": 6.36,
-      "previousEffectiveDate": "2026-09-17",
-      "changePercent": 1.26,
+      "effectiveDate": "2026-09-22",
+      "previousValue": 6.44,
+      "previousEffectiveDate": "2026-09-21",
+      "changePercent": 2.48,
       "trend": "up"
     }
   ]
