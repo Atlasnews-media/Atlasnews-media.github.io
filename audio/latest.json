@@ -6,23 +6,23 @@
   "lexiconRevision": 5,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-21",
-  "title": "ATLAS NEWS — Resumen diario — lunes 21 de septiembre de 2026",
+  "date": "2026-09-22",
+  "title": "ATLAS NEWS — Resumen diario — martes 22 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-21-resumen-diario.mp3",
-  "durationSeconds": 321.3,
+  "path": "/audio/2026-09-22-resumen-diario.mp3",
+  "durationSeconds": 302.3,
   "durationLabel": "5 min",
-  "bytes": 3856077,
-  "generatedAt": "2026-09-22T00:04:51.039355+00:00",
+  "bytes": 3627981,
+  "generatedAt": "2026-09-22T09:53:51.328553+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
-    "general": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
-    "national": "2026-09-21-national-presupuesto-empleo-ejecucion",
-    "markets": "2026-09-21-markets-tecnologia-tasas-petroleo"
+    "international": "2026-09-22-daily-energia-y-tasas-endurecen-el-mapa-global",
+    "general": "2026-09-22-daily-energia-y-tasas-endurecen-el-mapa-global",
+    "national": "2026-09-22-national-bonos-peso-capital-extranjero",
+    "markets": "2026-09-22-markets-ia-petroleo-tasas"
   },
-  "sourceCommit": "8a6c73d8cafc5a4ddc21fcfd45019353a5da724c"
+  "sourceCommit": "31816e50c0764ddfbade7584da74a7bb3d51571b"
 }
