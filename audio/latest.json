@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 14,
+  "scriptVersion": 15,
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -8,12 +8,12 @@
   "status": "published",
   "date": "2026-09-21",
   "title": "ATLAS NEWS — Resumen diario — lunes 21 de septiembre de 2026",
-  "summary": "Briefing de Portada V14: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
+  "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-09-21-resumen-diario.mp3",
-  "durationSeconds": 324.1,
+  "durationSeconds": 321.3,
   "durationLabel": "5 min",
-  "bytes": 3889773,
-  "generatedAt": "2026-09-21T09:51:33.887135+00:00",
+  "bytes": 3856077,
+  "generatedAt": "2026-09-22T00:04:51.039355+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -24,5 +24,5 @@
     "national": "2026-09-21-national-presupuesto-empleo-ejecucion",
     "markets": "2026-09-21-markets-tecnologia-tasas-petroleo"
   },
-  "sourceCommit": "419cb294185e020e2333f620203477abea762808"
+  "sourceCommit": "8a6c73d8cafc5a4ddc21fcfd45019353a5da724c"
 }
