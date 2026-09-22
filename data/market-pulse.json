@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-22T09:50:03.909Z",
+  "generatedAt": "2026-09-22T09:54:47.538Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -96,6 +96,21 @@
       "freshnessState": "closed"
     },
     {
+      "id": "nasdaq",
+      "label": "Nasdaq Composite",
+      "group": "indices",
+      "value": 27122.094,
+      "unit": "points",
+      "changePercent": 2.32,
+      "trend": "up",
+      "effectiveAt": "2026-09-21T21:15:59.000Z",
+      "provider": "yahoo-public-chart",
+      "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
+      "status": "current",
+      "displayEligible": true,
+      "freshnessState": "closed"
+    },
+    {
       "id": "dow",
       "label": "Dow Jones",
       "group": "indices",
@@ -114,11 +129,11 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6330.09,
+      "value": 6325.13,
       "unit": "points",
-      "changePercent": 0.29,
+      "changePercent": 0.22,
       "trend": "up",
-      "effectiveAt": "2026-09-22T09:35:00.000Z",
+      "effectiveAt": "2026-09-22T09:39:45.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
@@ -133,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-22T09:49:53.877Z",
+      "effectiveAt": "2026-09-22T09:54:46.746Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -159,11 +174,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 99.36,
+      "value": 99.24,
       "unit": "usd-per-barrel",
-      "changePercent": -5.02,
+      "changePercent": -5.13,
       "trend": "down",
-      "effectiveAt": "2026-09-22T09:38:26.000Z",
+      "effectiveAt": "2026-09-22T09:44:26.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -174,11 +189,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4352.9,
+      "value": 4356.8,
       "unit": "usd-per-ounce",
-      "changePercent": -1.27,
+      "changePercent": -1.18,
       "trend": "down",
-      "effectiveAt": "2026-09-22T09:39:45.000Z",
+      "effectiveAt": "2026-09-22T09:44:41.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -219,42 +234,21 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 86035,
+      "value": 86059,
       "unit": "usd",
-      "changePercent": 1.29,
+      "changePercent": 1.65,
       "trend": "up",
-      "effectiveAt": "2026-09-22T09:50:03.909Z",
+      "effectiveAt": "2026-09-22T09:54:47.538Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
       "displayEligible": true,
       "freshnessState": "current"
-    },
-    {
-      "id": "nasdaq",
-      "label": "Nasdaq Composite",
-      "group": "indices",
-      "value": 27122.094,
-      "unit": "points",
-      "changePercent": 2.32,
-      "trend": "up",
-      "effectiveAt": "2026-09-21T21:15:59.000Z",
-      "provider": "yahoo-public-chart",
-      "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
-      "status": "fallback",
-      "displayEligible": true,
-      "freshnessState": "closed",
-      "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-09-22T09:50:04.374Z"
     }
   ],
   "diagnostics": [
     { "id": "sp500", "ok": true, "provider": "yahoo-public-chart" },
-    {
-      "id": "nasdaq",
-      "ok": false,
-      "error": "The operation was aborted due to timeout Respaldo: fetch failed"
-    },
+    { "id": "nasdaq", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "dow", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "stoxx50", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "ipsa", "ok": true, "provider": "diario-financiero-public" },
@@ -262,18 +256,10 @@
     { "id": "brent", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "gold", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "fx-global", "ok": true, "provider": "frankfurter-ecb" },
-    { "id": "bitcoin", "ok": true, "provider": "coingecko-public" },
-    {
-      "id": "nasdaq-recovery",
-      "ok": true,
-      "recovered": true,
-      "source": "published-market-snapshot"
-    }
+    { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
-  "recoveredAssets": ["nasdaq"],
-  "recoverySourceGeneratedAt": "2026-09-22T00:01:39.710Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-22T09:50:14.605Z",
+  "historyGeneratedAt": "2026-09-22T09:54:48.545Z",
   "history": [
     {
       "id": "usdclp",
@@ -391,7 +377,7 @@
         { "date": "2026-09-17", "value": 104.81999969482422 },
         { "date": "2026-09-18", "value": 103.87000274658203 },
         { "date": "2026-09-21", "value": 100.33999633789062 },
-        { "date": "2026-09-22", "value": 99.36000061035156 }
+        { "date": "2026-09-22", "value": 99.23999786376953 }
       ]
     }
   ],
@@ -421,6 +407,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-22T09:50:15.091Z",
+  "freshnessCheckedAt": "2026-09-22T09:54:48.687Z",
   "freshnessPolicy": "intraday-v2"
 }
