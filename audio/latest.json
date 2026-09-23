@@ -6,23 +6,23 @@
   "lexiconRevision": 5,
   "questionProsodyVersion": 2,
   "status": "published",
-  "date": "2026-09-22",
-  "title": "ATLAS NEWS — Resumen diario — martes 22 de septiembre de 2026",
+  "date": "2026-09-23",
+  "title": "ATLAS NEWS — Resumen diario — miércoles 23 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-22-resumen-diario.mp3",
-  "durationSeconds": 302.3,
+  "path": "/audio/2026-09-23-resumen-diario.mp3",
+  "durationSeconds": 295.7,
   "durationLabel": "5 min",
-  "bytes": 3627981,
-  "generatedAt": "2026-09-22T09:53:51.328553+00:00",
+  "bytes": 3548205,
+  "generatedAt": "2026-09-23T10:32:22.378566+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-22-daily-energia-y-tasas-endurecen-el-mapa-global",
-    "general": "2026-09-22-daily-energia-y-tasas-endurecen-el-mapa-global",
-    "national": "2026-09-22-national-bonos-peso-capital-extranjero",
-    "markets": "2026-09-22-markets-ia-petroleo-tasas"
+    "international": "2026-09-23-daily-energia-y-crecimiento-reordenan-el-riesgo-global",
+    "general": "2026-09-23-daily-energia-y-crecimiento-reordenan-el-riesgo-global",
+    "national": "2026-09-23-national-empleo-construccion-ejecucion",
+    "markets": "2026-09-23-markets-petroleo-ia-tasas"
   },
-  "sourceCommit": "31816e50c0764ddfbade7584da74a7bb3d51571b"
+  "sourceCommit": "8c2b96f634e9e539742d965bd7196ca0e4bbc896"
 }
