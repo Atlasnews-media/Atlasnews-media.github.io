@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T01:13:57.045Z",
+  "updatedAt": "2026-09-23T10:29:19.603Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -287,6 +287,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-23-daily-energia-y-crecimiento-reordenan-el-riesgo-global": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20NATO%20Headquarters.jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20NATO%20Headquarters.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-23-national-empleo-construccion-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "alt": "Edificio de oficinas en Las Condes, Santiago de Chile.",
+      "source": "Wikimedia Commons / Flickr",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "author": "Jimmy Baikovicius",
+      "license": "CC BY-SA 2.0"
+    },
+    "markets:2026-09-23-markets-petroleo-ia-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rare%20earth%20minerals%201.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rare%20earth%20minerals%201.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
