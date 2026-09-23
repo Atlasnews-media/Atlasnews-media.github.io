@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 1,
   "radarRunId": "RADAR-BASELINE-20260923-1725",
   "sourceMainCommit": "0a29bf17e396e5d24d5088a3ed366023e1d1eef4",
   "radarStateVersion": "radar-state-v1",
@@ -10,7 +10,6 @@
   "productionWritesAllowed": false,
   "runPath": "lab/radar-editorial/runtime/runs/RADAR-BASELINE-20260923-1725",
   "resultPath": "lab/radar-editorial/runtime/runs/RADAR-BASELINE-20260923-1725/result.json",
-  "publishRequestPath": "lab/radar-editorial/runtime/runs/RADAR-BASELINE-20260923-1725/publish-request.json",
   "viewPath": "lab/radar-editorial/runtime/runs/RADAR-BASELINE-20260923-1725/index.html",
-  "message": "ATLAS NEWS LAB baseline READY"
+  "createdAt": "2026-09-23T17:35:45-03:00"
 }
