@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-24T14:02:14.721Z",
+  "checkedAt": "2026-09-24T18:45:58.204Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -14,14 +14,14 @@
     "ine": {
       "status": 200,
       "error": null,
-      "bytes": 108813,
+      "bytes": 107522,
       "foundAgenda2026": true,
       "sample": null
     },
     "bancoCentral": {
       "status": 200,
       "error": null,
-      "bytes": 512661,
+      "bytes": 513550,
       "foundCalendar": true,
       "sample": "icas Experimentales Selecciona el año 2026 2025 Enero 7 Encuesta de Operadores Financieros (EOF) post RPM diciembre 6 Encuesta de Determinantes y Expectativas de Precios (EDEP) 12 Encuesta de Expectativas Económicas (EEE) 14 Encuesta de Crédito Bancario (ECB) 4to trimestre 2025 22 Encuesta de Operadores Financieros (EOF) pre RPM enero 2 Comercio exterior semanal 7 Comercio exterior - diciembr"
     }
