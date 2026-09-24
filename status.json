@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0a29bf17e396e5d24d5088a3ed366023e1d1eef4",
+  "sourceCommit": "e2feab29b463df1c8814c2ce3ad4452e7a1e2438",
   "latestDaily": {
-    "id": "2026-09-23-daily-energia-y-crecimiento-reordenan-el-riesgo-global",
-    "issueNumber": 52,
-    "title": "Energía y crecimiento reordenan el riesgo global",
-    "publishedAt": "2026-09-23T06:46:00-03:00",
-    "cutoffAt": "2026-09-23T06:00:45-03:00"
+    "id": "2026-09-24-daily-energia-comercio-y-tasas-endurecen-el-mapa-global",
+    "issueNumber": 53,
+    "title": "Energía, comercio y tasas endurecen el mapa global",
+    "publishedAt": "2026-09-24T06:44:01-03:00",
+    "cutoffAt": "2026-09-24T06:00:45-03:00"
   },
   "latestNational": {
-    "id": "2026-09-23-national-empleo-construccion-ejecucion",
-    "title": "Empleo: la prueba pasa de los anuncios a la ejecución en construcción",
-    "publishedAt": "2026-09-23T06:46:00-03:00",
-    "cutoffAt": "2026-09-23T06:17:00-03:00"
+    "id": "2026-09-24-national-empleo-construccion-ejecucion",
+    "title": "Construcción pone a prueba la velocidad del plan de empleo",
+    "publishedAt": "2026-09-24T06:44:01-03:00",
+    "cutoffAt": "2026-09-24T06:16:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-23-markets-petroleo-ia-tasas",
-    "title": "Petróleo cede y la IA lidera, pero las tasas mantienen el filtro de riesgo",
-    "publishedAt": "2026-09-23T06:46:00-03:00",
-    "cutoffAt": "2026-09-23T06:20:00-03:00"
+    "id": "2026-09-24-markets-tasas-petroleo-dolar",
+    "title": "Tasas sobre 5% devuelven al dólar el mando del mercado",
+    "publishedAt": "2026-09-24T06:44:01-03:00",
+    "cutoffAt": "2026-09-24T06:20:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 52,
+    "daily": 53,
     "weekly": 4,
-    "national": 45,
-    "markets": 44,
+    "national": 46,
+    "markets": 45,
     "readings": 12,
-    "total": 157
+    "total": 160
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-23",
+    "asOf": "2026-09-24",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

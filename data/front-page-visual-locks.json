@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T19:34:01.404Z",
+  "updatedAt": "2026-09-24T09:46:56.973Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -311,6 +311,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rare%20earth%20minerals%201.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-24-daily-energia-comercio-y-tasas-endurecen-el-mapa-global": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/NewYorkStockExchangeWallStreetManhattan.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NewYorkStockExchangeWallStreetManhattan.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-24-national-empleo-construccion-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%2001).JPG?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%2001).JPG?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-24-markets-tasas-petroleo-dolar": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
