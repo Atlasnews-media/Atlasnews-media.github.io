@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-24T00:40:24.167Z",
+  "checkedAt": "2026-09-24T01:33:03.163Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -14,7 +14,7 @@
     "ine": {
       "status": 200,
       "error": null,
-      "bytes": 107826,
+      "bytes": 109117,
       "foundAgenda2026": true,
       "sample": null
     },
