@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T09:49:40.739551+00:00",
-  "sourceCommit": "e2feab29b463df1c8814c2ce3ad4452e7a1e2438",
+  "generatedAt": "2026-09-24T10:46:54.190908+00:00",
+  "sourceCommit": "732612f261e87e4d881f4251be46c9683f5644dd",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 5,
@@ -12,9 +12,9 @@
     "status": "published",
     "sourceId": "2026-09-24-daily-energia-comercio-y-tasas-endurecen-el-mapa-global",
     "path": "/audio/2026-09-24-international-analysis.mp3",
-    "durationSeconds": 147.0,
-    "durationLabel": "2 min",
-    "bytes": 1764045,
+    "durationSeconds": 150.8,
+    "durationLabel": "3 min",
+    "bytes": 1809837,
     "scriptVersion": 3,
     "scriptHash": "d30f55ed4b0daa979a8d436f6ce85946cdaedfe6c3185fcbc2012aca407e81a1",
     "speechNormalizerVersion": 5,
@@ -33,6 +33,7 @@
     },
     "questionProsodyVersion": 0,
     "dialogueRhythmVersion": 2,
+    "doraRenderVersion": 2,
     "fallbackUsed": false
   },
   "national": {
