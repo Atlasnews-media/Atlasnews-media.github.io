@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3d17aa0bb2579bd1dfa7f850e9132b0aa4b0fd3e",
+  "sourceCommit": "97347d35ac6431f35c9ce13c4362458d5425ad1d",
   "latestDaily": {
     "id": "2026-09-24-daily-energia-comercio-y-tasas-endurecen-el-mapa-global",
     "issueNumber": 53,
@@ -36,7 +36,7 @@
     "total": 160
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-09-24",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
