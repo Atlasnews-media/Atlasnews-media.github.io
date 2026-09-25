@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-25-daily-washington-beijing-compran-tiempo.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-25-daily-washington-beijing-compran-tiempo/",
+  "childContainerIds": [
+    "18090740285386975",
+    "18090740306386975",
+    "18090740327386975",
+    "18090740351386975",
+    "18090740372386975"
+  ],
+  "carouselContainerId": "18090740393386975",
+  "mediaId": "17932245204144753",
+  "permalink": "https://www.instagram.com/p/DdtSF_om0SU/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-25T10:49:07+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/177ad4bf9fd4140816531c3d870ed0ec9a2f815a/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/177ad4bf9fd4140816531c3d870ed0ec9a2f815a/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/177ad4bf9fd4140816531c3d870ed0ec9a2f815a/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/177ad4bf9fd4140816531c3d870ed0ec9a2f815a/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/177ad4bf9fd4140816531c3d870ed0ec9a2f815a/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "36125886490",
+  "githubRunAttempt": "1",
+  "sourceCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a"
+}
