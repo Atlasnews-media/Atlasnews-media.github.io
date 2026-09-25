@@ -1,0 +1,28 @@
+{
+  "radarRunId": "RADAR-BASELINE-20260925-1223",
+  "sourceMainCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a",
+  "radarStateVersion": "radar-state-v1",
+  "editorialDate": "2026-09-25",
+  "experimentMode": "BASELINE",
+  "mode": "LAB_ONLY",
+  "productionWritesAllowed": false,
+  "schemaVersion": 1,
+  "section": "markets",
+  "startedAt": "2026-09-25T09:09:01-03:00",
+  "frameworkRead": [
+    "AGENTS.md",
+    "docs/PROCEDIMIENTO_GPT_PUBLICACION.md",
+    "docs/CONTRATO_EDITORIAL.md",
+    "data/editorial_state.json"
+  ],
+  "searchQueryIds": [
+    "m-q1",
+    "m-q2"
+  ],
+  "candidateIds": [
+    "m-global",
+    "m-yields",
+    "m-dollar-cl",
+    "m-equityflows"
+  ]
+}
