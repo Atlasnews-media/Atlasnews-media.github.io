@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "radarRunId": "RADAR-BASELINE-20260925-1223",
+  "radarRunId": "RADAR-BASELINE-20260925-1404",
   "editorialDate": "2026-09-25",
   "experimentMode": "BASELINE",
   "mode": "LAB_ONLY",
-  "sourceMainCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a",
+  "sourceMainCommit": "2a901821866a980434b8d7a423266d9c7fcf967d",
   "historyRunIds": [
+    "RADAR-BASELINE-20260925-1404",
     "RADAR-BASELINE-20260925-1223",
     "RADAR-BASELINE-20260923-2105",
     "RADAR-CANARY-CONC-20260923-E1",
