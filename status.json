@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "91033616a0a8e0dc39b478899f2a18e5d8758d1c",
+  "sourceCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a",
   "latestDaily": {
-    "id": "2026-09-24-daily-energia-comercio-y-tasas-endurecen-el-mapa-global",
-    "issueNumber": 53,
-    "title": "Energía, comercio y tasas endurecen el mapa global",
-    "publishedAt": "2026-09-24T06:44:01-03:00",
-    "cutoffAt": "2026-09-24T06:00:45-03:00"
+    "id": "2026-09-25-daily-washington-beijing-compran-tiempo",
+    "issueNumber": 54,
+    "title": "Washington y Beijing compran tiempo, pero no resuelven su rivalidad",
+    "publishedAt": "2026-09-25T07:42:00-03:00",
+    "cutoffAt": "2026-09-25T06:00:39-03:00"
   },
   "latestNational": {
-    "id": "2026-09-24-national-empleo-construccion-ejecucion",
-    "title": "Construcción pone a prueba la velocidad del plan de empleo",
-    "publishedAt": "2026-09-24T06:44:01-03:00",
-    "cutoffAt": "2026-09-24T06:16:00-03:00"
+    "id": "2026-09-25-national-presupuesto-inversion-regional",
+    "title": "El Presupuesto 2027 enfrenta una prueba regional: ajustar gasto sin frenar inversión",
+    "publishedAt": "2026-09-25T07:42:00-03:00",
+    "cutoffAt": "2026-09-25T07:35:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-24-markets-tasas-petroleo-dolar",
-    "title": "Tasas sobre 5% devuelven al dólar el mando del mercado",
-    "publishedAt": "2026-09-24T06:44:01-03:00",
-    "cutoffAt": "2026-09-24T06:20:00-03:00"
+    "id": "2026-09-25-markets-bonos-precio-riesgo",
+    "title": "Las acciones resisten mientras los bonos elevan el precio del riesgo",
+    "publishedAt": "2026-09-25T07:42:00-03:00",
+    "cutoffAt": "2026-09-25T07:40:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 53,
+    "daily": 54,
     "weekly": 4,
-    "national": 46,
-    "markets": 45,
+    "national": 47,
+    "markets": 46,
     "readings": 12,
-    "total": 160
+    "total": 163
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-24",
+    "asOf": "2026-09-25",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

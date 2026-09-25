@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T00:49:33.638Z",
+  "updatedAt": "2026-09-25T10:45:42.231Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -337,6 +337,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Dollar%20banknotes%20I.jpg?width=1280",
       "author": "Milad Mosapoor",
       "license": "Dominio público en Estados Unidos — moneda estadounidense"
+    },
+    "international:2026-09-25-daily-washington-beijing-compran-tiempo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "alt": "Skyline financiero de Pudong en Shanghái, China.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "author": "Ernest Jourdier",
+      "license": "CC BY 4.0"
+    },
+    "national:2026-09-25-national-presupuesto-inversion-regional": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-09-25-markets-bonos-precio-riesgo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
