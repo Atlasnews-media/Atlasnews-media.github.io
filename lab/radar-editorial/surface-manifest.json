@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "radarRunId": "RADAR-BASELINE-20260925-1404",
-  "editorialDate": "2026-09-25",
-  "experimentMode": "BASELINE",
+  "radarRunId": "RADAR-JEV-20260926-0018-D",
+  "editorialDate": "2026-09-26",
+  "experimentMode": "RADAR_JEV",
   "mode": "LAB_ONLY",
-  "sourceMainCommit": "2a901821866a980434b8d7a423266d9c7fcf967d",
+  "sourceMainCommit": "51ab2e4cacefbde565892a40fad86a9ea4458a31",
   "historyRunIds": [
+    "RADAR-JEV-20260926-0018-D",
     "RADAR-BASELINE-20260925-1404",
     "RADAR-BASELINE-20260925-1223",
     "RADAR-BASELINE-20260923-2105",
