@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-26-daily-treguas-acotan-riesgos-globales.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-26-daily-treguas-acotan-riesgos-globales/",
+  "childContainerIds": [
+    "18090950930386975",
+    "18090950951386975",
+    "18090950975386975",
+    "18090950996386975",
+    "18090951038386975"
+  ],
+  "carouselContainerId": "18090951059386975",
+  "mediaId": "17966150511186825",
+  "permalink": "https://www.instagram.com/p/DdvwbdwGwse/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-26T09:52:40+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/beb0abc67cb24faa9f495d202f03e4949a9fe27c/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/beb0abc67cb24faa9f495d202f03e4949a9fe27c/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/beb0abc67cb24faa9f495d202f03e4949a9fe27c/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/beb0abc67cb24faa9f495d202f03e4949a9fe27c/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/beb0abc67cb24faa9f495d202f03e4949a9fe27c/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "36234013167",
+  "githubRunAttempt": "1",
+  "sourceCommit": "beb0abc67cb24faa9f495d202f03e4949a9fe27c"
+}
