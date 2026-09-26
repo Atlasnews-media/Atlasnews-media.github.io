@@ -3,7 +3,7 @@
   "scriptVersion": 15,
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
-  "lexiconRevision": 5,
+  "lexiconRevision": 6,
   "questionProsodyVersion": 2,
   "coverRenderVersion": 2,
   "status": "published",
@@ -11,10 +11,10 @@
   "title": "ATLAS NEWS — Resumen diario — sábado 26 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-09-26-resumen-diario.mp3",
-  "durationSeconds": 310.9,
+  "durationSeconds": 307.4,
   "durationLabel": "5 min",
-  "bytes": 3730797,
-  "generatedAt": "2026-09-26T09:52:17.149792+00:00",
+  "bytes": 3689037,
+  "generatedAt": "2026-09-26T18:20:11.973008+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -25,5 +25,5 @@
     "national": "2026-09-26-national-riesgo-soberano-inversion",
     "markets": "2026-09-26-markets-bonos-ia-petroleo"
   },
-  "sourceCommit": "beb0abc67cb24faa9f495d202f03e4949a9fe27c"
+  "sourceCommit": "151b75b60619d7db7d073814477ea938996bbc03"
 }
