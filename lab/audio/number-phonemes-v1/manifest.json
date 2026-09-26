@@ -1,12 +1,12 @@
 {
   "experiment": "audio-number-phonemes-v1",
-  "generatedAt": "2026-09-21T21:11:00.095385+00:00",
+  "generatedAt": "2026-09-26T21:36:48.184418+00:00",
   "productionTouched": false,
   "fallbackAllowed": false,
-  "date": "2026-09-21",
-  "sourceId": "2026-09-21-daily-hormuz-adapta-flujos-sin-normalizar-riesgo",
-  "sourceRepoCommit": "7886d9b98725ec82b9df20f161938f97ca61b5ac",
-  "productionAudioSourceCommit": "419cb294185e020e2333f620203477abea762808",
+  "date": "2026-09-26",
+  "sourceId": "2026-09-26-daily-treguas-acotan-riesgos-globales",
+  "sourceRepoCommit": "849bf624aed9727465c0e571bd0bc56554866866",
+  "productionAudioSourceCommit": "151b75b60619d7db7d073814477ea938996bbc03",
   "productionScriptHash": null,
   "publicBasePath": "/lab/audio/number-phonemes-v1",
   "engine": "Kokoro-82M / kokoro==0.9.4",
@@ -17,12 +17,572 @@
   "language": "es",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
-  "lexiconRevision": 5,
+  "lexiconRevision": 6,
   "dialogueRhythmVersion": null,
   "seed": null,
   "relevantPauses": "Sólo cambia segmentación; sin pausas añadidas salvo variante productiva mil\\ncien usada como control.",
   "baselineFile": "baseline.json",
   "cases": [
+    {
+      "id": "euro-1098",
+      "source": "El euro se ubicó en 1.098 pesos con 15 centavos.",
+      "genericSpeechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+      "doraSpeechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+      "variants": [
+        {
+          "name": "generic",
+          "speechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+          "trace": [
+            {
+              "graphemes": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+              "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+              "milDurationWindows": [
+                {
+                  "matchIndex": 23,
+                  "milFrames": 5,
+                  "milSeconds": 0.125,
+                  "followingBoundaryFrames": 1,
+                  "followingBoundarySeconds": 0.025,
+                  "window": [
+                    {
+                      "index": 19,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 20,
+                      "char": "e",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 21,
+                      "char": "n",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 22,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 23,
+                      "char": "m",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 24,
+                      "char": "ˈ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 25,
+                      "char": "i",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 26,
+                      "char": "l",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 27,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 28,
+                      "char": "n",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 29,
+                      "char": "o",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 30,
+                      "char": "β",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 31,
+                      "char": "ˈ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 32,
+                      "char": "ɛ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "audio": "euro-1098-generic.mp3",
+          "publicPath": "/lab/audio/number-phonemes-v1/euro-1098-generic.mp3",
+          "samples": 98400,
+          "durationSeconds": 4.1,
+          "bytes": 50157
+        },
+        {
+          "name": "dora",
+          "speechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+          "trace": [
+            {
+              "graphemes": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+              "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+              "milDurationWindows": [
+                {
+                  "matchIndex": 23,
+                  "milFrames": 5,
+                  "milSeconds": 0.125,
+                  "followingBoundaryFrames": 1,
+                  "followingBoundarySeconds": 0.025,
+                  "window": [
+                    {
+                      "index": 19,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 20,
+                      "char": "e",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 21,
+                      "char": "n",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 22,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 23,
+                      "char": "m",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 24,
+                      "char": "ˈ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 25,
+                      "char": "i",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 26,
+                      "char": "l",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 27,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 28,
+                      "char": "n",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 29,
+                      "char": "o",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 30,
+                      "char": "β",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 31,
+                      "char": "ˈ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 32,
+                      "char": "ɛ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "audio": "euro-1098-dora.mp3",
+          "publicPath": "/lab/audio/number-phonemes-v1/euro-1098-dora.mp3",
+          "samples": 98400,
+          "durationSeconds": 4.1,
+          "bytes": 50157
+        },
+        {
+          "name": "dora-joined",
+          "speechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+          "trace": [
+            {
+              "graphemes": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos.",
+              "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+              "milDurationWindows": [
+                {
+                  "matchIndex": 23,
+                  "milFrames": 5,
+                  "milSeconds": 0.125,
+                  "followingBoundaryFrames": 1,
+                  "followingBoundarySeconds": 0.025,
+                  "window": [
+                    {
+                      "index": 19,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 20,
+                      "char": "e",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 21,
+                      "char": "n",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 22,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 23,
+                      "char": "m",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 24,
+                      "char": "ˈ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 25,
+                      "char": "i",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 26,
+                      "char": "l",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 27,
+                      "char": " ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 28,
+                      "char": "n",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 29,
+                      "char": "o",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 30,
+                      "char": "β",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 31,
+                      "char": "ˈ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 32,
+                      "char": "ɛ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "audio": "euro-1098-dora-joined.mp3",
+          "publicPath": "/lab/audio/number-phonemes-v1/euro-1098-dora-joined.mp3",
+          "samples": 98400,
+          "durationSeconds": 4.1,
+          "bytes": 50157
+        }
+      ],
+      "phonemeVariants": [
+        {
+          "name": "phoneme-baseline",
+          "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+          "audio": "euro-1098-phoneme-baseline.mp3",
+          "samples": 98400,
+          "durationSeconds": 4.1,
+          "milDurationWindows": [
+            {
+              "matchIndex": 23,
+              "milFrames": 5,
+              "milSeconds": 0.125,
+              "followingBoundaryFrames": 1,
+              "followingBoundarySeconds": 0.025,
+              "window": [
+                {
+                  "index": 19,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 20,
+                  "char": "e",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 21,
+                  "char": "n",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 22,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 23,
+                  "char": "m",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 24,
+                  "char": "ˈ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 25,
+                  "char": "i",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 26,
+                  "char": "l",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 27,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 28,
+                  "char": "n",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 29,
+                  "char": "o",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 30,
+                  "char": "β",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 31,
+                  "char": "ˈ",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 32,
+                  "char": "ɛ",
+                  "frames": 2,
+                  "seconds": 0.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "phoneme-mil-joined",
+          "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈilnoβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+          "audio": "euro-1098-phoneme-mil-joined.mp3",
+          "samples": 97800,
+          "durationSeconds": 4.075,
+          "milDurationWindows": [
+            {
+              "matchIndex": 23,
+              "milFrames": 6,
+              "milSeconds": 0.15,
+              "followingBoundaryFrames": null,
+              "followingBoundarySeconds": null,
+              "window": [
+                {
+                  "index": 19,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 20,
+                  "char": "e",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 21,
+                  "char": "n",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 22,
+                  "char": " ",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 23,
+                  "char": "m",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 24,
+                  "char": "ˈ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 25,
+                  "char": "i",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 26,
+                  "char": "l",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 27,
+                  "char": "n",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 28,
+                  "char": "o",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 29,
+                  "char": "β",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 30,
+                  "char": "ˈ",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 31,
+                  "char": "ɛ",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 32,
+                  "char": "n",
+                  "frames": 4,
+                  "seconds": 0.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "phoneme-mil-unstressed",
+          "phonemes": "el ˈeʊɾo se ˌuβikˈo en mil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+          "audio": "euro-1098-phoneme-mil-unstressed.mp3",
+          "samples": 97800,
+          "durationSeconds": 4.075,
+          "milDurationWindows": []
+        },
+        {
+          "name": "phoneme-mil-joined-unstressed",
+          "phonemes": "el ˈeʊɾo se ˌuβikˈo en milnoβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos.",
+          "audio": "euro-1098-phoneme-mil-joined-unstressed.mp3",
+          "samples": 96600,
+          "durationSeconds": 4.025,
+          "milDurationWindows": []
+        }
+      ]
+    },
     {
       "id": "euro-1099",
       "source": "El euro se ubicó en 1.099 pesos con 86 centavos.",
@@ -587,7 +1147,7 @@
       "id": "euro-1100",
       "source": "El euro se ubicó en 1.100 pesos con 95 centavos.",
       "genericSpeechText": "El euro se ubicó en mil cien pesos con 95 centavos.",
-      "doraSpeechText": "El euro se ubicó en mil\ncien pesos con 95 centavos.",
+      "doraSpeechText": "El euro se ubicó en mil cien pesos con 95 centavos.",
       "variants": [
         {
           "name": "generic",
@@ -701,18 +1261,18 @@
         },
         {
           "name": "dora",
-          "speechText": "El euro se ubicó en mil\ncien pesos con 95 centavos.",
+          "speechText": "El euro se ubicó en mil cien pesos con 95 centavos.",
           "trace": [
             {
-              "graphemes": "El euro se ubicó en mil",
-              "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil",
+              "graphemes": "El euro se ubicó en mil cien pesos con 95 centavos.",
+              "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil θjˈem pˈesos kon noβˌɛntaiθˈinko θentˈaβos.",
               "milDurationWindows": [
                 {
                   "matchIndex": 23,
-                  "milFrames": 14,
-                  "milSeconds": 0.35,
-                  "followingBoundaryFrames": null,
-                  "followingBoundarySeconds": null,
+                  "milFrames": 6,
+                  "milSeconds": 0.15,
+                  "followingBoundaryFrames": 2,
+                  "followingBoundarySeconds": 0.05,
                   "window": [
                     {
                       "index": 19,
@@ -741,42 +1301,73 @@
                     {
                       "index": 23,
                       "char": "m",
-                      "frames": 2,
-                      "seconds": 0.05
+                      "frames": 1,
+                      "seconds": 0.025
                     },
                     {
                       "index": 24,
                       "char": "ˈ",
-                      "frames": 3,
-                      "seconds": 0.075
+                      "frames": 1,
+                      "seconds": 0.025
                     },
                     {
                       "index": 25,
                       "char": "i",
-                      "frames": 3,
-                      "seconds": 0.075
+                      "frames": 2,
+                      "seconds": 0.05
                     },
                     {
                       "index": 26,
                       "char": "l",
-                      "frames": 6,
-                      "seconds": 0.15
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 27,
+                      "char": " ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 28,
+                      "char": "θ",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 29,
+                      "char": "j",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 30,
+                      "char": "ˈ",
+                      "frames": 1,
+                      "seconds": 0.025
+                    },
+                    {
+                      "index": 31,
+                      "char": "e",
+                      "frames": 2,
+                      "seconds": 0.05
+                    },
+                    {
+                      "index": 32,
+                      "char": "m",
+                      "frames": 2,
+                      "seconds": 0.05
                     }
                   ]
                 }
               ]
-            },
-            {
-              "graphemes": "cien pesos con 95 centavos.",
-              "phonemes": "θjˈem pˈesos kon noβˌɛntaiθˈinko θentˈaβos.",
-              "milDurationWindows": []
             }
           ],
           "audio": "euro-1100-dora.mp3",
           "publicPath": "/lab/audio/number-phonemes-v1/euro-1100-dora.mp3",
-          "samples": 106800,
-          "durationSeconds": 4.45,
-          "bytes": 54477
+          "samples": 91200,
+          "durationSeconds": 3.8,
+          "bytes": 46701
         },
         {
           "name": "dora-joined",
