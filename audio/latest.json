@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 2,
   "status": "published",
-  "date": "2026-09-25",
-  "title": "ATLAS NEWS — Resumen diario — viernes 25 de septiembre de 2026",
+  "date": "2026-09-26",
+  "title": "ATLAS NEWS — Resumen diario — sábado 26 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-25-resumen-diario.mp3",
-  "durationSeconds": 342.1,
-  "durationLabel": "6 min",
-  "bytes": 4105773,
-  "generatedAt": "2026-09-25T10:48:51.444483+00:00",
+  "path": "/audio/2026-09-26-resumen-diario.mp3",
+  "durationSeconds": 310.9,
+  "durationLabel": "5 min",
+  "bytes": 3730797,
+  "generatedAt": "2026-09-26T09:52:17.149792+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-25-daily-washington-beijing-compran-tiempo",
-    "general": "2026-09-25-daily-washington-beijing-compran-tiempo",
-    "national": "2026-09-25-national-presupuesto-inversion-regional",
-    "markets": "2026-09-25-markets-bonos-precio-riesgo"
+    "international": "2026-09-26-daily-treguas-acotan-riesgos-globales",
+    "general": "2026-09-26-daily-treguas-acotan-riesgos-globales",
+    "national": "2026-09-26-national-riesgo-soberano-inversion",
+    "markets": "2026-09-26-markets-bonos-ia-petroleo"
   },
-  "sourceCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a"
+  "sourceCommit": "beb0abc67cb24faa9f495d202f03e4949a9fe27c"
 }
