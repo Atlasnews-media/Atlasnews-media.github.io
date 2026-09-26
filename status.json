@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "177ad4bf9fd4140816531c3d870ed0ec9a2f815a",
+  "sourceCommit": "beb0abc67cb24faa9f495d202f03e4949a9fe27c",
   "latestDaily": {
-    "id": "2026-09-25-daily-washington-beijing-compran-tiempo",
-    "issueNumber": 54,
-    "title": "Washington y Beijing compran tiempo, pero no resuelven su rivalidad",
-    "publishedAt": "2026-09-25T07:42:00-03:00",
-    "cutoffAt": "2026-09-25T06:00:39-03:00"
+    "id": "2026-09-26-daily-treguas-acotan-riesgos-globales",
+    "issueNumber": 55,
+    "title": "Treguas acotan el riesgo inmediato, pero dejan abiertos los frentes globales",
+    "publishedAt": "2026-09-26T06:46:47-03:00",
+    "cutoffAt": "2026-09-26T06:04:36-03:00"
   },
   "latestNational": {
-    "id": "2026-09-25-national-presupuesto-inversion-regional",
-    "title": "El Presupuesto 2027 enfrenta una prueba regional: ajustar gasto sin frenar inversión",
-    "publishedAt": "2026-09-25T07:42:00-03:00",
-    "cutoffAt": "2026-09-25T07:35:00-03:00"
+    "id": "2026-09-26-national-riesgo-soberano-inversion",
+    "title": "S&P mantiene la nota de Chile, pero condiciona la mejora a inversión y disciplina fiscal",
+    "publishedAt": "2026-09-26T06:46:47-03:00",
+    "cutoffAt": "2026-09-26T06:18:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-25-markets-bonos-precio-riesgo",
-    "title": "Las acciones resisten mientras los bonos elevan el precio del riesgo",
-    "publishedAt": "2026-09-25T07:42:00-03:00",
-    "cutoffAt": "2026-09-25T07:40:00-03:00"
+    "id": "2026-09-26-markets-bonos-ia-petroleo",
+    "title": "Bonos en máximos de rendimiento obligan al rally de acciones a demostrar beneficios",
+    "publishedAt": "2026-09-26T06:46:47-03:00",
+    "cutoffAt": "2026-09-26T06:17:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 54,
+    "daily": 55,
     "weekly": 4,
-    "national": 47,
-    "markets": 46,
+    "national": 48,
+    "markets": 47,
     "readings": 12,
-    "total": 163
+    "total": 166
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-25",
+    "asOf": "2026-09-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
