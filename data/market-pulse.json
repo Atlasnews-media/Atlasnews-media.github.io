@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-27T01:10:39.077Z",
+  "generatedAt": "2026-09-27T01:56:11.385Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -11,12 +11,12 @@
       "group": "fx",
       "value": 965.71,
       "unit": "clp",
-      "changePercent": 0.66,
-      "trend": "up",
+      "changePercent": null,
+      "trend": "flat",
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -31,7 +31,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -46,7 +46,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -61,7 +61,7 @@
       "effectiveAt": "2026-09-26T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -76,7 +76,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-27T01:10:38.315Z",
+      "effectiveAt": "2026-09-27T01:56:11.120Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 84286,
+      "value": 84512,
       "unit": "usd",
-      "changePercent": 0.45,
+      "changePercent": 0.54,
       "trend": "up",
-      "effectiveAt": "2026-09-27T01:10:39.077Z",
+      "effectiveAt": "2026-09-27T01:56:11.385Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-27T01:10:40.004Z",
+  "historyGeneratedAt": "2026-09-27T01:56:21.614Z",
   "history": [
     {
       "id": "usdclp",
@@ -387,7 +387,11 @@
       "id": "usdclp",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21
+      "observations": 21,
+      "recovered": true,
+      "recoverySource": "published-market-snapshot",
+      "recoveredFrom": "2026-09-27T01:10:40.004Z",
+      "warning": "The operation was aborted due to timeout"
     },
     {
       "id": "copper",
@@ -408,6 +412,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-27T01:10:40.107Z",
+  "freshnessCheckedAt": "2026-09-27T01:56:21.812Z",
   "freshnessPolicy": "intraday-v2"
 }
