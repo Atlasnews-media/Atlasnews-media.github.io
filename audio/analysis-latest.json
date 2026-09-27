@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T12:46:05.117550+00:00",
-  "sourceCommit": "71b6965be0703175cf16a9d0c1a5f0ca8cf3d035",
+  "generatedAt": "2026-09-27T13:00:15.466673+00:00",
+  "sourceCommit": "65c1dafdf33e1eb5cec115c8308d7a663e19b97b",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -37,17 +37,49 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "unavailable",
+    "status": "published",
     "sourceId": "2026-09-27-national-actividad-regional-mineria-servicios",
-    "reason": "script_missing",
+    "path": "/audio/2026-09-27-national-analysis.mp3",
+    "durationSeconds": 293.6,
+    "durationLabel": "5 min",
+    "bytes": 3523725,
     "scriptVersion": 3,
-    "scriptHash": null
+    "scriptHash": "a6ce2aa5f8178a956a935d9e5b7d8b1c30c56e7eaa3f5ae2b4d221383750fd07",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   },
   "markets": {
-    "status": "unavailable",
+    "status": "published",
     "sourceId": "2026-09-27-markets-peso-tasas-energia",
-    "reason": "script_missing",
+    "path": "/audio/2026-09-27-markets-analysis.mp3",
+    "durationSeconds": 310.3,
+    "durationLabel": "5 min",
+    "bytes": 3723885,
     "scriptVersion": 3,
-    "scriptHash": null
+    "scriptHash": "e08ffc330e0780fde0cda051cbce977937b0455728675574c3d8519c723a7136",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   }
 }
