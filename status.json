@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ebbaa46168e55968f9ca7c97932ab67f6fa7d3d5",
+  "sourceCommit": "71b6965be0703175cf16a9d0c1a5f0ca8cf3d035",
   "latestDaily": {
     "id": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
     "issueNumber": 56,
@@ -9,31 +9,31 @@
     "cutoffAt": "2026-09-27T06:03:36-03:00"
   },
   "latestNational": {
-    "id": "2026-09-26-national-riesgo-soberano-inversion",
-    "title": "S&P mantiene la nota de Chile, pero condiciona la mejora a inversión y disciplina fiscal",
-    "publishedAt": "2026-09-26T06:46:47-03:00",
-    "cutoffAt": "2026-09-26T06:18:00-03:00"
+    "id": "2026-09-27-national-actividad-regional-mineria-servicios",
+    "title": "La debilidad chilena se concentra en minería y construcción, pero los servicios sostienen parte de la actividad regional",
+    "publishedAt": "2026-09-27T09:41:10-03:00",
+    "cutoffAt": "2026-09-27T09:30:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-26-markets-bonos-ia-petroleo",
-    "title": "Bonos en máximos de rendimiento obligan al rally de acciones a demostrar beneficios",
-    "publishedAt": "2026-09-26T06:46:47-03:00",
-    "cutoffAt": "2026-09-26T06:17:00-03:00"
+    "id": "2026-09-27-markets-peso-tasas-energia",
+    "title": "El peso chileno llega a la reapertura sobre $960 con tasas largas y energía definiendo el riesgo",
+    "publishedAt": "2026-09-27T09:41:10-03:00",
+    "cutoffAt": "2026-09-27T09:30:00-03:00"
   },
   "morningPackage": {
     "date": "2026-09-27",
     "generalPublished": true,
-    "nationalPublished": false,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalPublished": true,
+    "marketsPublished": true,
+    "completeness": 3
   },
   "publications": {
     "daily": 56,
     "weekly": 4,
-    "national": 48,
-    "markets": 47,
+    "national": 49,
+    "markets": 48,
     "readings": 12,
-    "total": 167
+    "total": 169
   },
   "indicators": {
     "status": "current",

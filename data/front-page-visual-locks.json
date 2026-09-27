@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T10:17:44.062Z",
+  "updatedAt": "2026-09-27T12:43:28.653Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -391,6 +391,22 @@
       "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-09-27-national-actividad-regional-mineria-servicios": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "alt": "Edificio de oficinas en Las Condes, Santiago de Chile.",
+      "source": "Wikimedia Commons / Flickr",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "author": "Jimmy Baikovicius",
+      "license": "CC BY-SA 2.0"
+    },
+    "markets:2026-09-27-markets-peso-tasas-energia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Atacama%20-%20Chile.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Atacama%20-%20Chile.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
