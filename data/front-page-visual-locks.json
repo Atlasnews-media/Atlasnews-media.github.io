@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T03:46:53.334Z",
+  "updatedAt": "2026-09-27T10:13:13.465Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -383,6 +383,14 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
