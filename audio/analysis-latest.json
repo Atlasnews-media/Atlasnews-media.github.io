@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-27T01:59:40.301252+00:00",
-  "sourceCommit": "733ddffe1f94d7c70e682b3518fd462a0f8a1982",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T10:16:01.447184+00:00",
+  "sourceCommit": "ebbaa46168e55968f9ca7c97932ab67f6fa7d3d5",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -10,13 +10,13 @@
   "questionProsodyVersion": 2,
   "international": {
     "status": "published",
-    "sourceId": "2026-09-26-daily-treguas-acotan-riesgos-globales",
-    "path": "/audio/2026-09-26-international-analysis.mp3",
-    "durationSeconds": 171.0,
+    "sourceId": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
+    "path": "/audio/2026-09-27-international-analysis.mp3",
+    "durationSeconds": 152.8,
     "durationLabel": "3 min",
-    "bytes": 2052333,
+    "bytes": 1833453,
     "scriptVersion": 3,
-    "scriptHash": "078b5337d34d22a37002a768b6105880e288f5d8fbf8786eb2ca788a83cffb73",
+    "scriptHash": "b61a9479057b5451f1fcbcb7ada8b3e1487e6e35edfcec6f8b7a9bbed46f5321",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 6,
@@ -37,49 +37,13 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "published",
-    "sourceId": "2026-09-26-national-riesgo-soberano-inversion",
-    "path": "/audio/2026-09-26-national-analysis.mp3",
-    "durationSeconds": 284.6,
-    "durationLabel": "5 min",
-    "bytes": 3415437,
-    "scriptVersion": 3,
-    "scriptHash": "d79e62845e87eaf9548f439aec9b34a2f501f0b04f736f80c210589ab7863c48",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   },
   "markets": {
-    "status": "published",
-    "sourceId": "2026-09-26-markets-bonos-ia-petroleo",
-    "path": "/audio/2026-09-26-markets-analysis.mp3",
-    "durationSeconds": 338.9,
-    "durationLabel": "6 min",
-    "bytes": 4067469,
-    "scriptVersion": 3,
-    "scriptHash": "77e57818a51a8b5ede2113335dff5d5b1fb36902fb215cc9db61718d30cf4948",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   }
 }
