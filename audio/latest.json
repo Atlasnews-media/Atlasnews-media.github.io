@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 2,
   "status": "published",
-  "date": "2026-09-26",
-  "title": "ATLAS NEWS — Resumen diario — sábado 26 de septiembre de 2026",
+  "date": "2026-09-27",
+  "title": "ATLAS NEWS — Resumen diario — domingo 27 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-26-resumen-diario.mp3",
-  "durationSeconds": 307.4,
+  "path": "/audio/2026-09-27-resumen-diario.mp3",
+  "durationSeconds": 318.5,
   "durationLabel": "5 min",
-  "bytes": 3689037,
-  "generatedAt": "2026-09-26T18:20:11.973008+00:00",
+  "bytes": 3821805,
+  "generatedAt": "2026-09-27T12:46:05.117550+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-26-daily-treguas-acotan-riesgos-globales",
-    "general": "2026-09-26-daily-treguas-acotan-riesgos-globales",
-    "national": "2026-09-26-national-riesgo-soberano-inversion",
-    "markets": "2026-09-26-markets-bonos-ia-petroleo"
+    "international": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
+    "general": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
+    "national": "2026-09-27-national-actividad-regional-mineria-servicios",
+    "markets": "2026-09-27-markets-peso-tasas-energia"
   },
-  "sourceCommit": "151b75b60619d7db7d073814477ea938996bbc03"
+  "sourceCommit": "71b6965be0703175cf16a9d0c1a5f0ca8cf3d035"
 }

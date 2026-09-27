@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T10:16:01.447184+00:00",
-  "sourceCommit": "ebbaa46168e55968f9ca7c97932ab67f6fa7d3d5",
+  "generatedAt": "2026-09-27T12:46:05.117550+00:00",
+  "sourceCommit": "71b6965be0703175cf16a9d0c1a5f0ca8cf3d035",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -38,12 +38,16 @@
   },
   "national": {
     "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "sourceId": "2026-09-27-national-actividad-regional-mineria-servicios",
+    "reason": "script_missing",
+    "scriptVersion": 3,
+    "scriptHash": null
   },
   "markets": {
     "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "sourceId": "2026-09-27-markets-peso-tasas-energia",
+    "reason": "script_missing",
+    "scriptVersion": 3,
+    "scriptHash": null
   }
 }
