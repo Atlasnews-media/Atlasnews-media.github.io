@@ -1,11 +1,11 @@
 {
   "experiment": "audio-number-phonemes-v1",
-  "generatedAt": "2026-09-26T21:36:48.184418+00:00",
+  "generatedAt": "2026-09-27T04:00:11.453054+00:00",
   "productionTouched": false,
   "fallbackAllowed": false,
   "date": "2026-09-26",
   "sourceId": "2026-09-26-daily-treguas-acotan-riesgos-globales",
-  "sourceRepoCommit": "849bf624aed9727465c0e571bd0bc56554866866",
+  "sourceRepoCommit": "e156504e4c5729f8d54f37e51577c9ad01531cd1",
   "productionAudioSourceCommit": "151b75b60619d7db7d073814477ea938996bbc03",
   "productionScriptHash": null,
   "publicBasePath": "/lab/audio/number-phonemes-v1",
@@ -3502,6 +3502,219 @@
       ]
     }
   ],
+  "routeBBaselineValidation": {
+    "source": "El euro se ubicó en 1.098 pesos con 15 centavos, con un avance de 0,58%.",
+    "speechText": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos, con un avance de cero coma cincuenta y ocho por ciento.",
+    "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos, kon ˈun aβˈanθe ðe θˈeɾo kˈoma θinkwˈɛnta i ˈoʧo poɾ θjˈɛnto.",
+    "normal": {
+      "audio": "portada-real-euro-1098-normal.mp3",
+      "publicPath": "/lab/audio/number-phonemes-v1/portada-real-euro-1098-normal.mp3",
+      "trace": [
+        {
+          "graphemes": "El euro se ubicó en mil noventa y ocho pesos con 15 centavos, con un avance de cero coma cincuenta y ocho por ciento.",
+          "phonemes": "el ˈeʊɾo se ˌuβikˈo en mˈil noβˈɛnta i ˈoʧo pˈesos kon kˈinθe θentˈaβos, kon ˈun aβˈanθe ðe θˈeɾo kˈoma θinkwˈɛnta i ˈoʧo poɾ θjˈɛnto.",
+          "milDurationWindows": [
+            {
+              "matchIndex": 23,
+              "milFrames": 5,
+              "milSeconds": 0.125,
+              "followingBoundaryFrames": 1,
+              "followingBoundarySeconds": 0.025,
+              "window": [
+                {
+                  "index": 19,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 20,
+                  "char": "e",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 21,
+                  "char": "n",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 22,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 23,
+                  "char": "m",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 24,
+                  "char": "ˈ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 25,
+                  "char": "i",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 26,
+                  "char": "l",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 27,
+                  "char": " ",
+                  "frames": 1,
+                  "seconds": 0.025
+                },
+                {
+                  "index": 28,
+                  "char": "n",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 29,
+                  "char": "o",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 30,
+                  "char": "β",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 31,
+                  "char": "ˈ",
+                  "frames": 2,
+                  "seconds": 0.05
+                },
+                {
+                  "index": 32,
+                  "char": "ɛ",
+                  "frames": 2,
+                  "seconds": 0.05
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "durationSeconds": 7.325,
+      "bytes": 89037
+    },
+    "phonemeBaseline": {
+      "audio": "portada-real-euro-1098-phoneme-baseline.mp3",
+      "publicPath": "/lab/audio/number-phonemes-v1/portada-real-euro-1098-phoneme-baseline.mp3",
+      "milDurationWindows": [
+        {
+          "matchIndex": 23,
+          "milFrames": 5,
+          "milSeconds": 0.125,
+          "followingBoundaryFrames": 1,
+          "followingBoundarySeconds": 0.025,
+          "window": [
+            {
+              "index": 19,
+              "char": " ",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 20,
+              "char": "e",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 21,
+              "char": "n",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 22,
+              "char": " ",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 23,
+              "char": "m",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 24,
+              "char": "ˈ",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 25,
+              "char": "i",
+              "frames": 2,
+              "seconds": 0.05
+            },
+            {
+              "index": 26,
+              "char": "l",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 27,
+              "char": " ",
+              "frames": 1,
+              "seconds": 0.025
+            },
+            {
+              "index": 28,
+              "char": "n",
+              "frames": 2,
+              "seconds": 0.05
+            },
+            {
+              "index": 29,
+              "char": "o",
+              "frames": 2,
+              "seconds": 0.05
+            },
+            {
+              "index": 30,
+              "char": "β",
+              "frames": 2,
+              "seconds": 0.05
+            },
+            {
+              "index": 31,
+              "char": "ˈ",
+              "frames": 2,
+              "seconds": 0.05
+            },
+            {
+              "index": 32,
+              "char": "ɛ",
+              "frames": 2,
+              "seconds": 0.05
+            }
+          ]
+        }
+      ],
+      "durationSeconds": 7.325,
+      "bytes": 89037
+    }
+  },
   "productionParagraph": {
     "source": "En monedas, el dólar observado marcó 958 pesos con 42 centavos, con una variación positiva de 0,37% frente a la jornada hábil anterior. El euro se ubicó en 1.099 pesos con 86 centavos, con un retroceso de 0,1%. La UF vigente alcanza los 40.983 pesos con 58 centavos. En renta variable y energía, el IPSA retrocede 0,99%, el S&P 500 cae 1,25% y el Brent retrocede 9,23%. El cobre, en tanto, sube 1,26%. El Treasury a diez años se ubica en 5%. Entre los movimientos destacados, Bitcoin avanza 5,61%.",
     "variants": [
