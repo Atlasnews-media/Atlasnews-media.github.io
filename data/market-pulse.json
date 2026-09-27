@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-09-27T03:01:31.523Z",
+  "generatedAt": "2026-09-27T03:37:27.550Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -11,12 +11,12 @@
       "group": "fx",
       "value": 965.71,
       "unit": "clp",
-      "changePercent": null,
-      "trend": "flat",
+      "changePercent": 0.66,
+      "trend": "up",
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -31,7 +31,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -46,7 +46,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -54,14 +54,14 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 41024.46,
+      "value": 41032.64,
       "unit": "clp",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-09-26T12:00:00-03:00",
+      "effectiveAt": "2026-09-27T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -76,7 +76,7 @@
       "effectiveAt": "2026-09-25T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-09-27T03:01:31.038Z",
+      "effectiveAt": "2026-09-27T03:37:27.273Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 84433,
+      "value": 84409,
       "unit": "usd",
-      "changePercent": 0.52,
+      "changePercent": 0.49,
       "trend": "up",
-      "effectiveAt": "2026-09-27T03:01:31.523Z",
+      "effectiveAt": "2026-09-27T03:37:27.550Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-09-27T03:01:33.868Z",
+  "historyGeneratedAt": "2026-09-27T03:37:28.369Z",
   "history": [
     {
       "id": "usdclp",
@@ -408,6 +408,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-09-27T03:01:34.018Z",
+  "freshnessCheckedAt": "2026-09-27T03:37:28.512Z",
   "freshnessPolicy": "intraday-v2"
 }

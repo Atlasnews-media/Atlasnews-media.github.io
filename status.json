@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1025438d2b2d2e929e5359d4680692dc87c7fe41",
+  "sourceCommit": "11801a09ac118b5b64a101549580ac13239032f0",
   "latestDaily": {
     "id": "2026-09-26-daily-treguas-acotan-riesgos-globales",
     "issueNumber": 55,
@@ -36,8 +36,8 @@
     "total": 166
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-09-26",
+    "status": "current",
+    "asOf": "2026-09-27",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
