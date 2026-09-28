@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 2,
   "status": "published",
-  "date": "2026-09-27",
-  "title": "ATLAS NEWS — Resumen diario — domingo 27 de septiembre de 2026",
+  "date": "2026-09-28",
+  "title": "ATLAS NEWS — Resumen diario — lunes 28 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-27-resumen-diario.mp3",
-  "durationSeconds": 318.5,
+  "path": "/audio/2026-09-28-resumen-diario.mp3",
+  "durationSeconds": 321.6,
   "durationLabel": "5 min",
-  "bytes": 3821805,
-  "generatedAt": "2026-09-27T12:46:05.117550+00:00",
+  "bytes": 3858957,
+  "generatedAt": "2026-09-28T09:52:14.923815+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
-    "general": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
-    "national": "2026-09-27-national-actividad-regional-mineria-servicios",
-    "markets": "2026-09-27-markets-peso-tasas-energia"
+    "international": "2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta",
+    "general": "2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta",
+    "national": "2026-09-28-national-vivienda-ejecucion-empleo",
+    "markets": "2026-09-28-markets-tasas-petroleo-duracion"
   },
-  "sourceCommit": "71b6965be0703175cf16a9d0c1a5f0ca8cf3d035"
+  "sourceCommit": "e2b796d811b8b4d21f7f7aff0600aacb39cbf2af"
 }
