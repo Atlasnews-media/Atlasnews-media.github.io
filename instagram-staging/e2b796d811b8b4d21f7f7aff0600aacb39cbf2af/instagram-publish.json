@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta/",
+  "childContainerIds": [
+    "18091386032386975",
+    "18091386053386975",
+    "18091386077386975",
+    "18091386098386975",
+    "18091386116386975"
+  ],
+  "carouselContainerId": "18091386134386975",
+  "mediaId": "18003674471793414",
+  "permalink": "https://www.instagram.com/p/Dd059I_lQVM/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-28T09:52:07+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/e2b796d811b8b4d21f7f7aff0600aacb39cbf2af/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/e2b796d811b8b4d21f7f7aff0600aacb39cbf2af/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/e2b796d811b8b4d21f7f7aff0600aacb39cbf2af/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/e2b796d811b8b4d21f7f7aff0600aacb39cbf2af/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/e2b796d811b8b4d21f7f7aff0600aacb39cbf2af/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "36406047109",
+  "githubRunAttempt": "1",
+  "sourceCommit": "e2b796d811b8b4d21f7f7aff0600aacb39cbf2af"
+}
