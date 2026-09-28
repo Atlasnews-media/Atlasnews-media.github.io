@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3f1172ad280aae3b2a64be1fa62b5904e6231c16",
+  "sourceCommit": "e2b796d811b8b4d21f7f7aff0600aacb39cbf2af",
   "latestDaily": {
-    "id": "2026-09-27-daily-comercio-gana-estabilidad-hormuz-eleva-riesgo",
-    "issueNumber": 56,
-    "title": "El comercio gana estabilidad mientras Hormuz vuelve a elevar el riesgo",
-    "publishedAt": "2026-09-27T07:10:31-03:00",
-    "cutoffAt": "2026-09-27T06:03:36-03:00"
+    "id": "2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta",
+    "issueNumber": 57,
+    "title": "Hormuz mejora sus flujos, pero el conflicto mantiene alta la presión energética",
+    "publishedAt": "2026-09-28T06:45:33-03:00",
+    "cutoffAt": "2026-09-28T05:59:32-03:00"
   },
   "latestNational": {
-    "id": "2026-09-27-national-actividad-regional-mineria-servicios",
-    "title": "La debilidad chilena se concentra en minería y construcción, pero los servicios sostienen parte de la actividad regional",
-    "publishedAt": "2026-09-27T09:41:10-03:00",
-    "cutoffAt": "2026-09-27T09:30:00-03:00"
+    "id": "2026-09-28-national-vivienda-ejecucion-empleo",
+    "title": "Vivienda enfrenta una prueba de ejecución antes del Presupuesto 2027",
+    "publishedAt": "2026-09-28T06:45:33-03:00",
+    "cutoffAt": "2026-09-28T06:22:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-27-markets-peso-tasas-energia",
-    "title": "El peso chileno llega a la reapertura sobre $960 con tasas largas y energía definiendo el riesgo",
-    "publishedAt": "2026-09-27T09:41:10-03:00",
-    "cutoffAt": "2026-09-27T09:30:00-03:00"
+    "id": "2026-09-28-markets-tasas-petroleo-duracion",
+    "title": "El mercado cobra duración: petróleo alto eleva tasas y separa ganadores",
+    "publishedAt": "2026-09-28T06:45:33-03:00",
+    "cutoffAt": "2026-09-28T06:29:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 56,
+    "daily": 57,
     "weekly": 4,
-    "national": 49,
-    "markets": 48,
+    "national": 50,
+    "markets": 49,
     "readings": 12,
-    "total": 169
+    "total": 172
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-27",
+    "asOf": "2026-09-28",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
