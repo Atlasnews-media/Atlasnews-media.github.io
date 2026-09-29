@@ -5,16 +5,16 @@
   "lexiconVersion": 3,
   "lexiconRevision": 6,
   "questionProsodyVersion": 2,
-  "coverRenderVersion": 2,
+  "coverRenderVersion": 3,
   "status": "published",
   "date": "2026-09-29",
   "title": "ATLAS NEWS — Resumen diario — martes 29 de septiembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-09-29-resumen-diario.mp3",
-  "durationSeconds": 332.4,
-  "durationLabel": "6 min",
-  "bytes": 3989421,
-  "generatedAt": "2026-09-29T10:34:01.382051+00:00",
+  "durationSeconds": 329.4,
+  "durationLabel": "5 min",
+  "bytes": 3952845,
+  "generatedAt": "2026-09-29T13:12:08.070373+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -25,5 +25,5 @@
     "national": "2026-09-29-national-plan-empleo-ejecucion",
     "markets": "2026-09-29-markets-tasas-dispersion"
   },
-  "sourceCommit": "e67a319b230cbeafde5edb6a0662fee6403f8e48"
+  "sourceCommit": "8757c7845691b56ef3f1bb786beb785651aaae2d"
 }

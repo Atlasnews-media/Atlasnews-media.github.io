@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T10:34:01.382051+00:00",
-  "sourceCommit": "e67a319b230cbeafde5edb6a0662fee6403f8e48",
+  "generatedAt": "2026-09-29T13:12:08.070373+00:00",
+  "sourceCommit": "8757c7845691b56ef3f1bb786beb785651aaae2d",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
