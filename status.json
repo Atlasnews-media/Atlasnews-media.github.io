@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e2b796d811b8b4d21f7f7aff0600aacb39cbf2af",
+  "sourceCommit": "e67a319b230cbeafde5edb6a0662fee6403f8e48",
   "latestDaily": {
-    "id": "2026-09-28-daily-hormuz-mejora-flujos-presion-energetica-sigue-alta",
-    "issueNumber": 57,
-    "title": "Hormuz mejora sus flujos, pero el conflicto mantiene alta la presión energética",
-    "publishedAt": "2026-09-28T06:45:33-03:00",
-    "cutoffAt": "2026-09-28T05:59:32-03:00"
+    "id": "2026-09-29-daily-arabia-saudita-recupera-ruta-shock-energetico-encarece-capital",
+    "issueNumber": 58,
+    "title": "Arabia Saudita recupera una ruta clave, pero el shock energético sigue encareciendo el capital",
+    "publishedAt": "2026-09-29T07:27:56-03:00",
+    "cutoffAt": "2026-09-29T06:03:29-03:00"
   },
   "latestNational": {
-    "id": "2026-09-28-national-vivienda-ejecucion-empleo",
-    "title": "Vivienda enfrenta una prueba de ejecución antes del Presupuesto 2027",
-    "publishedAt": "2026-09-28T06:45:33-03:00",
-    "cutoffAt": "2026-09-28T06:22:00-03:00"
+    "id": "2026-09-29-national-plan-empleo-ejecucion",
+    "title": "Chile Despega convierte el empleo en una prueba de ejecución territorial",
+    "publishedAt": "2026-09-29T07:27:56-03:00",
+    "cutoffAt": "2026-09-29T06:16:50-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-28-markets-tasas-petroleo-duracion",
-    "title": "El mercado cobra duración: petróleo alto eleva tasas y separa ganadores",
-    "publishedAt": "2026-09-28T06:45:33-03:00",
-    "cutoffAt": "2026-09-28T06:29:00-03:00"
+    "id": "2026-09-29-markets-tasas-dispersion",
+    "title": "El castigo a la duración domina y obliga a buscar protección más allá del oro",
+    "publishedAt": "2026-09-29T07:27:56-03:00",
+    "cutoffAt": "2026-09-29T06:18:30-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 57,
+    "daily": 58,
     "weekly": 4,
-    "national": 50,
-    "markets": 49,
+    "national": 51,
+    "markets": 50,
     "readings": 12,
-    "total": 172
+    "total": 175
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-28",
+    "asOf": "2026-09-29",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
