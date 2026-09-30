@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T13:07:41.118Z",
+  "updatedAt": "2026-09-30T09:52:29.268Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -457,6 +457,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "alt": "Soldados durante una operación de seguridad y asistencia humanitaria.",
+      "source": "Wikimedia Commons / U.S. Department of Defense",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "author": "Spc. Olanrewaju Akinwunmi",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-09-30-national-apoyos-combustibles-fiscal": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Ministerio%20de%20Hacienda%20Chile%20(1932).JPG?width=1280",
+      "alt": "Edificio del Ministerio de Hacienda de Chile en una imagen histórica del Barrio Cívico.",
+      "source": "Memoria Chilena / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Ministerio%20de%20Hacienda%20Chile%20(1932).JPG?width=1280",
+      "author": "En Viaje / Empresa de los Ferrocarriles del Estado",
+      "license": "Dominio público"
+    },
+    "markets:2026-09-30-markets-duracion-amplitud-curva-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

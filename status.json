@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8757c7845691b56ef3f1bb786beb785651aaae2d",
+  "sourceCommit": "a82bb5f6fa266821f6d94d50ca3f101a5c37bc95",
   "latestDaily": {
-    "id": "2026-09-29-daily-arabia-saudita-recupera-ruta-shock-energetico-encarece-capital",
-    "issueNumber": 58,
-    "title": "Arabia Saudita recupera una ruta clave, pero el shock energético sigue encareciendo el capital",
-    "publishedAt": "2026-09-29T07:27:56-03:00",
-    "cutoffAt": "2026-09-29T06:03:29-03:00"
+    "id": "2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial",
+    "issueNumber": 59,
+    "title": "China amenaza con responder a Europa y abre otro frente de fragmentación comercial",
+    "publishedAt": "2026-09-30T06:49:44-03:00",
+    "cutoffAt": "2026-09-30T06:09:04-03:00"
   },
   "latestNational": {
-    "id": "2026-09-29-national-plan-empleo-ejecucion",
-    "title": "Chile Despega convierte el empleo en una prueba de ejecución territorial",
-    "publishedAt": "2026-09-29T07:27:56-03:00",
-    "cutoffAt": "2026-09-29T06:16:50-03:00"
+    "id": "2026-09-30-national-apoyos-combustibles-fiscal",
+    "title": "Extender las ayudas energéticas reconoce que el shock dejó de ser transitorio",
+    "publishedAt": "2026-09-30T06:49:44-03:00",
+    "cutoffAt": "2026-09-30T06:18:35-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-29-markets-tasas-dispersion",
-    "title": "El castigo a la duración domina y obliga a buscar protección más allá del oro",
-    "publishedAt": "2026-09-29T07:27:56-03:00",
-    "cutoffAt": "2026-09-29T06:18:30-03:00"
+    "id": "2026-09-30-markets-duracion-amplitud-curva-petroleo",
+    "title": "El alivio diario de tasas no borra un mes de duración castigada y bolsas estrechas",
+    "publishedAt": "2026-09-30T06:49:44-03:00",
+    "cutoffAt": "2026-09-30T06:23:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 58,
+    "daily": 59,
     "weekly": 4,
-    "national": 51,
-    "markets": 50,
+    "national": 52,
+    "markets": 51,
     "readings": 12,
-    "total": 175
+    "total": 178
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-29",
+    "asOf": "2026-09-30",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
