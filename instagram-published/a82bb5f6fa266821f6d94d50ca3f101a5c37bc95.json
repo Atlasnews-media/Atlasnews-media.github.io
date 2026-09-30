@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial/",
+  "childContainerIds": [
+    "18091820678386975",
+    "18091820699386975",
+    "18091820720386975",
+    "18091820738386975",
+    "18091820765386975"
+  ],
+  "carouselContainerId": "18091820789386975",
+  "mediaId": "17919635274530889",
+  "permalink": "https://www.instagram.com/p/Dd6EJXvm6DJ/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-09-30T09:57:22+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a82bb5f6fa266821f6d94d50ca3f101a5c37bc95/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a82bb5f6fa266821f6d94d50ca3f101a5c37bc95/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a82bb5f6fa266821f6d94d50ca3f101a5c37bc95/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a82bb5f6fa266821f6d94d50ca3f101a5c37bc95/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a82bb5f6fa266821f6d94d50ca3f101a5c37bc95/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "36699226295",
+  "githubRunAttempt": "1",
+  "sourceCommit": "a82bb5f6fa266821f6d94d50ca3f101a5c37bc95"
+}
