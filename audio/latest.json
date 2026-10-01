@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-09-30",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 30 de septiembre de 2026",
+  "date": "2026-10-01",
+  "title": "ATLAS NEWS — Resumen diario — jueves 1 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-09-30-resumen-diario.mp3",
-  "durationSeconds": 336.8,
-  "durationLabel": "6 min",
-  "bytes": 4042125,
-  "generatedAt": "2026-09-30T09:56:05.243197+00:00",
+  "path": "/audio/2026-10-01-resumen-diario.mp3",
+  "durationSeconds": 321.3,
+  "durationLabel": "5 min",
+  "bytes": 3856365,
+  "generatedAt": "2026-10-01T09:52:34.246928+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial",
-    "general": "2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial",
-    "national": "2026-09-30-national-apoyos-combustibles-fiscal",
-    "markets": "2026-09-30-markets-duracion-amplitud-curva-petroleo"
+    "international": "2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece",
+    "general": "2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece",
+    "national": "2026-10-01-national-empleo-subsidio-ejecucion",
+    "markets": "2026-10-01-markets-ia-curva-larga-dispersion"
   },
-  "sourceCommit": "a82bb5f6fa266821f6d94d50ca3f101a5c37bc95"
+  "sourceCommit": "db495b6fa9957cce19c2ed924aee028bf9169332"
 }
