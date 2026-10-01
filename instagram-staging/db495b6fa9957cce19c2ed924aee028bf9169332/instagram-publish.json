@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece/",
+  "childContainerIds": [
+    "18092039591386975",
+    "18092039612386975",
+    "18092039633386975",
+    "18092039651386975",
+    "18092039681386975"
+  ],
+  "carouselContainerId": "18092039780386975",
+  "mediaId": "18395081518164227",
+  "permalink": "https://www.instagram.com/p/Dd8ooUTm8wd/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-01T09:54:39+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/db495b6fa9957cce19c2ed924aee028bf9169332/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/db495b6fa9957cce19c2ed924aee028bf9169332/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/db495b6fa9957cce19c2ed924aee028bf9169332/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/db495b6fa9957cce19c2ed924aee028bf9169332/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/db495b6fa9957cce19c2ed924aee028bf9169332/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "36845533829",
+  "githubRunAttempt": "1",
+  "sourceCommit": "db495b6fa9957cce19c2ed924aee028bf9169332"
+}
