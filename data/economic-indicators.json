@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "current",
-  "asOf": "2026-09-30",
-  "fetchedAt": "2026-09-30T09:57:46.791Z",
-  "lastAttemptAt": "2026-09-30T09:57:46.791Z",
+  "asOf": "2026-10-01",
+  "fetchedAt": "2026-10-01T09:49:22.154Z",
+  "lastAttemptAt": "2026-10-01T09:49:22.154Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,56 +11,56 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41057.2,
+      "value": 41065.38,
       "unit": "clp",
-      "effectiveDate": "2026-09-30"
+      "effectiveDate": "2026-10-01"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 970.46,
+      "value": 972.6,
       "unit": "clp",
-      "effectiveDate": "2026-09-30",
-      "previousValue": 969.7,
-      "previousEffectiveDate": "2026-09-29",
-      "changePercent": 0.08,
+      "effectiveDate": "2026-10-01",
+      "previousValue": 970.46,
+      "previousEffectiveDate": "2026-09-30",
+      "changePercent": 0.22,
       "trend": "up"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1098.3,
+      "value": 1102.72,
       "unit": "clp",
-      "effectiveDate": "2026-09-30",
-      "previousValue": 1103.06,
-      "previousEffectiveDate": "2026-09-29",
-      "changePercent": -0.43,
-      "trend": "down"
+      "effectiveDate": "2026-10-01",
+      "previousValue": 1098.3,
+      "previousEffectiveDate": "2026-09-30",
+      "changePercent": 0.4,
+      "trend": "up"
     },
     {
       "code": "utm",
       "label": "UTM",
-      "value": 71721,
+      "value": 72151,
       "unit": "clp-integer",
-      "effectiveDate": "2026-09-01"
+      "effectiveDate": "2026-10-01"
     },
     {
       "code": "tpm",
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-09-30"
+      "effectiveDate": "2026-10-01"
     },
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.55,
+      "value": 6.57,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-09-30",
-      "previousValue": 6.68,
-      "previousEffectiveDate": "2026-09-29",
-      "changePercent": -1.95,
-      "trend": "down"
+      "effectiveDate": "2026-10-01",
+      "previousValue": 6.55,
+      "previousEffectiveDate": "2026-09-30",
+      "changePercent": 0.31,
+      "trend": "up"
     }
   ]
 }

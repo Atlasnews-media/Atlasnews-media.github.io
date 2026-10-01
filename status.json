@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "a82bb5f6fa266821f6d94d50ca3f101a5c37bc95",
+  "sourceCommit": "db495b6fa9957cce19c2ed924aee028bf9169332",
   "latestDaily": {
-    "id": "2026-09-30-daily-china-europa-abren-frente-fragmentacion-comercial",
-    "issueNumber": 59,
-    "title": "China amenaza con responder a Europa y abre otro frente de fragmentación comercial",
-    "publishedAt": "2026-09-30T06:49:44-03:00",
-    "cutoffAt": "2026-09-30T06:09:04-03:00"
+    "id": "2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece",
+    "issueNumber": 60,
+    "title": "La IA reactiva las fábricas de Asia, pero el capital se encarece",
+    "publishedAt": "2026-10-01T06:47:21-03:00",
+    "cutoffAt": "2026-10-01T05:56:26-03:00"
   },
   "latestNational": {
-    "id": "2026-09-30-national-apoyos-combustibles-fiscal",
-    "title": "Extender las ayudas energéticas reconoce que el shock dejó de ser transitorio",
-    "publishedAt": "2026-09-30T06:49:44-03:00",
-    "cutoffAt": "2026-09-30T06:18:35-03:00"
+    "id": "2026-10-01-national-empleo-subsidio-ejecucion",
+    "title": "El desempleo de 9,6% convierte el subsidio laboral en una prueba de ejecución",
+    "publishedAt": "2026-10-01T06:47:21-03:00",
+    "cutoffAt": "2026-10-01T06:13:20-03:00"
   },
   "latestMarkets": {
-    "id": "2026-09-30-markets-duracion-amplitud-curva-petroleo",
-    "title": "El alivio diario de tasas no borra un mes de duración castigada y bolsas estrechas",
-    "publishedAt": "2026-09-30T06:49:44-03:00",
-    "cutoffAt": "2026-09-30T06:23:00-03:00"
+    "id": "2026-10-01-markets-ia-curva-larga-dispersion",
+    "title": "La IA separa a las bolsas mientras la curva larga encarece todo el mercado",
+    "publishedAt": "2026-10-01T06:47:21-03:00",
+    "cutoffAt": "2026-10-01T06:16:28-03:00"
   },
   "morningPackage": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 59,
+    "daily": 60,
     "weekly": 4,
-    "national": 52,
-    "markets": 51,
+    "national": 53,
+    "markets": 52,
     "readings": 12,
-    "total": 178
+    "total": 181
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-09-30",
+    "asOf": "2026-10-01",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

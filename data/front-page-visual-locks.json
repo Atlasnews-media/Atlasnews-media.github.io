@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T09:58:16.804Z",
+  "updatedAt": "2026-10-01T09:49:50.042Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -481,6 +481,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-01-daily-ia-reactiva-fabricas-asia-capital-se-encarece": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-01-national-empleo-subsidio-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-01-markets-ia-curva-larga-dispersion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos visto desde Washington, D.C.",
+      "source": "Wikimedia Commons / U.S. Department of the Treasury",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "author": "U.S. Department of the Treasury",
+      "license": "Dominio público"
     }
   }
 }
