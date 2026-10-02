@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T09:55:38.077Z",
+  "updatedAt": "2026-10-02T09:53:07.854Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -505,6 +505,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
       "author": "U.S. Department of the Treasury",
       "license": "Dominio público"
+    },
+    "international:2026-10-02-daily-energia-deuda-el-nino-presion-emergentes": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "alt": "Petrolero cargando crudo en la terminal Al Basrah del Golfo Pérsico.",
+      "source": "Wikimedia Commons / U.S. Navy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "author": "Eben Boothby, U.S. Navy",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-10-02-national-industria-comercio-selectivo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-02-markets-riesgo-soberano-europa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
