@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-03-daily-ia-enfrenta-prueba-productividad-capital.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-03-daily-ia-enfrenta-prueba-productividad-capital/",
+  "childContainerIds": [
+    "18092484740386975",
+    "18092484764386975",
+    "18092484803386975",
+    "18092484827386975",
+    "18092484848386975"
+  ],
+  "carouselContainerId": "18092484932386975",
+  "mediaId": "17948201310306133",
+  "permalink": "https://www.instagram.com/p/DeBx4lElVUJ/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-03T09:51:43+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5934717c8eab28f910b2bd5fc12044384517369b/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5934717c8eab28f910b2bd5fc12044384517369b/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5934717c8eab28f910b2bd5fc12044384517369b/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5934717c8eab28f910b2bd5fc12044384517369b/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5934717c8eab28f910b2bd5fc12044384517369b/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37114366366",
+  "githubRunAttempt": "1",
+  "sourceCommit": "5934717c8eab28f910b2bd5fc12044384517369b"
+}
