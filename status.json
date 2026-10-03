@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3cdbb3e4a264b167b26242d145810996ccd209d1",
+  "sourceCommit": "5934717c8eab28f910b2bd5fc12044384517369b",
   "latestDaily": {
-    "id": "2026-10-02-daily-energia-deuda-el-nino-presion-emergentes",
-    "issueNumber": 61,
-    "title": "Energía, deuda y El Niño estrechan el margen de los países en desarrollo",
-    "publishedAt": "2026-10-02T06:50:56-03:00",
-    "cutoffAt": "2026-10-02T06:06:51-03:00"
+    "id": "2026-10-03-daily-ia-enfrenta-prueba-productividad-capital",
+    "issueNumber": 62,
+    "title": "La IA enfrenta la prueba de productividad antes de que se agote el capital",
+    "publishedAt": "2026-10-03T06:45:42-03:00",
+    "cutoffAt": "2026-10-03T05:58:07-03:00"
   },
   "latestNational": {
-    "id": "2026-10-02-national-industria-comercio-selectivo",
-    "title": "La caída del cobre parte la actividad: producción débil y demanda selectiva",
-    "publishedAt": "2026-10-02T06:50:56-03:00",
-    "cutoffAt": "2026-10-02T06:19:42-03:00"
+    "id": "2026-10-03-national-imacec-mineria-no-minero",
+    "title": "El Imacec cae por minería, pero la economía no minera recupera tracción",
+    "publishedAt": "2026-10-03T06:45:42-03:00",
+    "cutoffAt": "2026-10-03T06:12:45-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-02-markets-riesgo-soberano-europa",
-    "title": "El riesgo soberano europeo rompe el rebote: bonos, bancos y euro se desacoplan",
-    "publishedAt": "2026-10-02T06:50:56-03:00",
-    "cutoffAt": "2026-10-02T06:21:18-03:00"
+    "id": "2026-10-03-markets-empleo-bonos-divergencia",
+    "title": "El empleo enfría a la Fed, pero los bonos niegan el alivio",
+    "publishedAt": "2026-10-03T06:45:42-03:00",
+    "cutoffAt": "2026-10-03T06:14:30-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 61,
+    "daily": 62,
     "weekly": 4,
-    "national": 54,
-    "markets": 53,
+    "national": 55,
+    "markets": 54,
     "readings": 12,
-    "total": 184
+    "total": 187
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-02",
+    "asOf": "2026-10-03",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

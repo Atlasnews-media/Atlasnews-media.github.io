@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T09:58:02.256Z",
+  "updatedAt": "2026-10-03T09:47:52.726Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -529,6 +529,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-03-daily-ia-enfrenta-prueba-productividad-capital": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos en Washington, D.C.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "author": "Loren",
+      "license": "Dominio público"
+    },
+    "national:2026-10-03-national-imacec-mineria-no-minero": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-03-markets-empleo-bonos-divergencia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A0475%20(13724861975).jpg?width=1280",
+      "alt": "Reunión de miembros y personal de la Reserva Federal en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A0475%20(13724861975).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
     }
   }
 }
