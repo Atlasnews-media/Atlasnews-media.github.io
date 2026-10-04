@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-03",
-  "title": "ATLAS NEWS — Resumen diario — sábado 3 de octubre de 2026",
+  "date": "2026-10-04",
+  "title": "ATLAS NEWS — Resumen diario — domingo 4 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-03-resumen-diario.mp3",
-  "durationSeconds": 349.6,
-  "durationLabel": "6 min",
-  "bytes": 4195341,
-  "generatedAt": "2026-10-03T09:50:37.356651+00:00",
+  "path": "/audio/2026-10-04-resumen-diario.mp3",
+  "durationSeconds": 322.3,
+  "durationLabel": "5 min",
+  "bytes": 3868461,
+  "generatedAt": "2026-10-04T09:52:31.156953+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-03-daily-ia-enfrenta-prueba-productividad-capital",
-    "general": "2026-10-03-daily-ia-enfrenta-prueba-productividad-capital",
-    "national": "2026-10-03-national-imacec-mineria-no-minero",
-    "markets": "2026-10-03-markets-empleo-bonos-divergencia"
+    "international": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
+    "general": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
+    "national": "2026-10-04-national-mediaciones-mineras-cobre",
+    "markets": "2026-10-04-markets-bonos-diesel-prima-riesgo"
   },
-  "sourceCommit": "5934717c8eab28f910b2bd5fc12044384517369b"
+  "sourceCommit": "b3e2d916c035bb3ac3756eb313c1c49536d6e717"
 }
