@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "5934717c8eab28f910b2bd5fc12044384517369b",
+  "sourceCommit": "b3e2d916c035bb3ac3756eb313c1c49536d6e717",
   "latestDaily": {
-    "id": "2026-10-03-daily-ia-enfrenta-prueba-productividad-capital",
-    "issueNumber": 62,
-    "title": "La IA enfrenta la prueba de productividad antes de que se agote el capital",
-    "publishedAt": "2026-10-03T06:45:42-03:00",
-    "cutoffAt": "2026-10-03T05:58:07-03:00"
+    "id": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
+    "issueNumber": 63,
+    "title": "Europa lleva la industria de drones a Ucrania y abre otro frente energético",
+    "publishedAt": "2026-10-04T06:47:16-03:00",
+    "cutoffAt": "2026-10-04T06:01:10-03:00"
   },
   "latestNational": {
-    "id": "2026-10-03-national-imacec-mineria-no-minero",
-    "title": "El Imacec cae por minería, pero la economía no minera recupera tracción",
-    "publishedAt": "2026-10-03T06:45:42-03:00",
-    "cutoffAt": "2026-10-03T06:12:45-03:00"
+    "id": "2026-10-04-national-mediaciones-mineras-cobre",
+    "title": "Dos mediaciones mineras concentran el riesgo operativo del cobre chileno",
+    "publishedAt": "2026-10-04T06:47:16-03:00",
+    "cutoffAt": "2026-10-04T06:20:40-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-03-markets-empleo-bonos-divergencia",
-    "title": "El empleo enfría a la Fed, pero los bonos niegan el alivio",
-    "publishedAt": "2026-10-03T06:45:42-03:00",
-    "cutoffAt": "2026-10-03T06:14:30-03:00"
+    "id": "2026-10-04-markets-bonos-diesel-prima-riesgo",
+    "title": "Las acciones compran una pausa, pero bonos y diésel retienen la prima de riesgo",
+    "publishedAt": "2026-10-04T06:47:16-03:00",
+    "cutoffAt": "2026-10-04T06:24:50-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 62,
+    "daily": 63,
     "weekly": 4,
-    "national": 55,
-    "markets": 54,
+    "national": 56,
+    "markets": 55,
     "readings": 12,
-    "total": 187
+    "total": 190
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-03",
+    "asOf": "2026-10-04",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
