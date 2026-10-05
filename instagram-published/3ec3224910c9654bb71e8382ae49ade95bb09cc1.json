@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-05-daily-deuda-francesa-riesgo-soberano-europa.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-05-daily-deuda-francesa-riesgo-soberano-europa/",
+  "childContainerIds": [
+    "18092938109386975",
+    "18092938127386975",
+    "18092938253386975",
+    "18092938295386975",
+    "18092938355386975"
+  ],
+  "carouselContainerId": "18092938382386975",
+  "mediaId": "17975681555932863",
+  "permalink": "https://www.instagram.com/p/DeG7weYIOsg/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-05T09:54:13+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ec3224910c9654bb71e8382ae49ade95bb09cc1/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ec3224910c9654bb71e8382ae49ade95bb09cc1/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ec3224910c9654bb71e8382ae49ade95bb09cc1/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ec3224910c9654bb71e8382ae49ade95bb09cc1/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ec3224910c9654bb71e8382ae49ade95bb09cc1/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37292827580",
+  "githubRunAttempt": "1",
+  "sourceCommit": "3ec3224910c9654bb71e8382ae49ade95bb09cc1"
+}
