@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-05T17:41:48.141Z",
+  "generatedAt": "2026-10-05T17:44:54.051Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -84,11 +84,11 @@
       "id": "sp500",
       "label": "S&P 500",
       "group": "indices",
-      "value": 7770.83,
+      "value": 7776.58,
       "unit": "points",
-      "changePercent": 0.08,
+      "changePercent": 0.15,
       "trend": "up",
-      "effectiveAt": "2026-10-05T17:41:46.000Z",
+      "effectiveAt": "2026-10-05T17:44:52.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "status": "current",
@@ -99,11 +99,11 @@
       "id": "nasdaq",
       "label": "Nasdaq Composite",
       "group": "indices",
-      "value": 27447.27,
+      "value": 27470.318,
       "unit": "points",
-      "changePercent": 1.2,
+      "changePercent": 1.28,
       "trend": "up",
-      "effectiveAt": "2026-10-05T17:41:45.000Z",
+      "effectiveAt": "2026-10-05T17:44:49.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
       "status": "current",
@@ -114,11 +114,11 @@
       "id": "dow",
       "label": "Dow Jones",
       "group": "indices",
-      "value": 51248.94,
+      "value": 51283.89,
       "unit": "points",
-      "changePercent": -1.54,
+      "changePercent": -1.47,
       "trend": "down",
-      "effectiveAt": "2026-10-05T17:41:43.000Z",
+      "effectiveAt": "2026-10-05T17:44:52.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EDJI",
       "status": "current",
@@ -139,7 +139,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 102 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 105 min desde su marca efectiva"
     },
     {
       "id": "ipsa",
@@ -149,7 +149,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-10-05T17:41:47.773Z",
+      "effectiveAt": "2026-10-05T17:44:53.322Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -160,11 +160,11 @@
       "id": "ust10y",
       "label": "Treasury EE.UU. 10Y",
       "group": "rates",
-      "value": 5.345,
+      "value": 5.347,
       "unit": "percent",
-      "changePercent": 7.59,
+      "changePercent": 7.63,
       "trend": "up",
-      "effectiveAt": "2026-10-05T17:26:41.000Z",
+      "effectiveAt": "2026-10-05T17:29:41.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
       "status": "current",
@@ -175,11 +175,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 100.7,
+      "value": 100.64,
       "unit": "usd-per-barrel",
-      "changePercent": -5.53,
+      "changePercent": -5.59,
       "trend": "down",
-      "effectiveAt": "2026-10-05T17:31:44.000Z",
+      "effectiveAt": "2026-10-05T17:34:36.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -190,11 +190,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4156.7,
+      "value": 4156.4,
       "unit": "usd-per-ounce",
       "changePercent": -3.29,
       "trend": "down",
-      "effectiveAt": "2026-10-05T17:31:46.000Z",
+      "effectiveAt": "2026-10-05T17:34:36.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -215,7 +215,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 102 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 105 min desde su marca efectiva"
     },
     {
       "id": "usdjpy",
@@ -231,17 +231,17 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 102 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 105 min desde su marca efectiva"
     },
     {
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 85313,
+      "value": 85325,
       "unit": "usd",
       "changePercent": -0.02,
       "trend": "down",
-      "effectiveAt": "2026-10-05T17:41:48.141Z",
+      "effectiveAt": "2026-10-05T17:44:54.051Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -264,23 +264,23 @@
       "id": "stoxx50-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 102 min desde su marca efectiva"
+      "warning": "último dato disponible; 105 min desde su marca efectiva"
     },
     {
       "id": "eurusd-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 102 min desde su marca efectiva"
+      "warning": "último dato disponible; 105 min desde su marca efectiva"
     },
     {
       "id": "usdjpy-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 102 min desde su marca efectiva"
+      "warning": "último dato disponible; 105 min desde su marca efectiva"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-05T17:41:49.102Z",
+  "historyGeneratedAt": "2026-10-05T17:44:54.991Z",
   "history": [
     {
       "id": "usdclp",
@@ -366,7 +366,7 @@
         { "date": "2026-09-30", "value": 7651.5400390625 },
         { "date": "2026-10-01", "value": 7666.4501953125 },
         { "date": "2026-10-02", "value": 7722.72021484375 },
-        { "date": "2026-10-05", "value": 7770.81005859375 }
+        { "date": "2026-10-05", "value": 7776.5400390625 }
       ]
     },
     {
@@ -395,7 +395,7 @@
         { "date": "2026-09-30", "value": 103.52999877929688 },
         { "date": "2026-10-01", "value": 102.30999755859375 },
         { "date": "2026-10-02", "value": 102.25 },
-        { "date": "2026-10-05", "value": 100.69999694824219 }
+        { "date": "2026-10-05", "value": 100.63999938964844 }
       ]
     }
   ],
@@ -425,6 +425,6 @@
       "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-10-05T17:41:49.254Z",
+  "freshnessCheckedAt": "2026-10-05T17:44:55.139Z",
   "freshnessPolicy": "intraday-v2"
 }
