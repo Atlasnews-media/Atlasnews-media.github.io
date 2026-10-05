@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "b3e2d916c035bb3ac3756eb313c1c49536d6e717",
+  "sourceCommit": "3ec3224910c9654bb71e8382ae49ade95bb09cc1",
   "latestDaily": {
-    "id": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
-    "issueNumber": 63,
-    "title": "Europa lleva la industria de drones a Ucrania y abre otro frente energético",
-    "publishedAt": "2026-10-04T06:47:16-03:00",
-    "cutoffAt": "2026-10-04T06:01:10-03:00"
+    "id": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
+    "issueNumber": 64,
+    "title": "La deuda francesa reabre el riesgo soberano justo cuando Europa acelera",
+    "publishedAt": "2026-10-05T06:46:15-03:00",
+    "cutoffAt": "2026-10-05T05:58:22-03:00"
   },
   "latestNational": {
-    "id": "2026-10-04-national-mediaciones-mineras-cobre",
-    "title": "Dos mediaciones mineras concentran el riesgo operativo del cobre chileno",
-    "publishedAt": "2026-10-04T06:47:16-03:00",
-    "cutoffAt": "2026-10-04T06:20:40-03:00"
+    "id": "2026-10-05-national-cybermonday-consumo-digital",
+    "title": "CyberMonday abre una prueba de consumo para el comercio chileno",
+    "publishedAt": "2026-10-05T06:46:15-03:00",
+    "cutoffAt": "2026-10-05T06:22:05-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-04-markets-bonos-diesel-prima-riesgo",
-    "title": "Las acciones compran una pausa, pero bonos y diésel retienen la prima de riesgo",
-    "publishedAt": "2026-10-04T06:47:16-03:00",
-    "cutoffAt": "2026-10-04T06:24:50-03:00"
+    "id": "2026-10-05-markets-dolar-euro-fragmentacion",
+    "title": "El dólar ignora el alivio de la Fed mientras Europa se fragmenta",
+    "publishedAt": "2026-10-05T06:46:15-03:00",
+    "cutoffAt": "2026-10-05T06:26:55-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 63,
+    "daily": 64,
     "weekly": 4,
-    "national": 56,
-    "markets": 55,
+    "national": 57,
+    "markets": 56,
     "readings": 12,
-    "total": 190
+    "total": 193
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-04",
+    "asOf": "2026-10-05",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

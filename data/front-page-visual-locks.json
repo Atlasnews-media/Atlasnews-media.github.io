@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T09:55:01.781Z",
+  "updatedAt": "2026-10-05T09:49:01.699Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -577,6 +577,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-05-daily-deuda-francesa-riesgo-soberano-europa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos en Washington, D.C.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "author": "Loren",
+      "license": "Dominio público"
+    },
+    "national:2026-10-05-national-cybermonday-consumo-digital": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Armado%20Parque%20Eolico.jpg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Armado%20Parque%20Eolico.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-05-markets-dolar-euro-fragmentacion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Euro%20banknotes.png?width=1280",
+      "alt": "Conjunto de billetes de euro de distintas denominaciones y series.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Euro%20banknotes.png?width=1280",
+      "author": "Bericht",
+      "license": "CC0 1.0"
     }
   }
 }
