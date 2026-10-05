@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3761141cb53fa1b485ded27a9d8faae26061bc51",
+  "sourceCommit": "6e477d851ba3ff35a243c770b764b7af2201aa2c",
   "latestDaily": {
     "id": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
     "issueNumber": 64,
@@ -36,7 +36,7 @@
     "total": 193
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-05",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
