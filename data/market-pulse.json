@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-05T21:40:45.237Z",
+  "generatedAt": "2026-10-05T21:53:16.593Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -94,7 +94,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 52 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 65 min desde su marca efectiva"
     },
     {
       "id": "nasdaq",
@@ -125,7 +125,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 52 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 65 min desde su marca efectiva"
     },
     {
       "id": "stoxx50",
@@ -141,7 +141,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 341 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 353 min desde su marca efectiva"
     },
     {
       "id": "ipsa",
@@ -151,7 +151,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-10-05T21:40:44.999Z",
+      "effectiveAt": "2026-10-05T21:53:16.025Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -172,7 +172,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 161 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 173 min desde su marca efectiva"
     },
     {
       "id": "brent",
@@ -185,9 +185,10 @@
       "effectiveAt": "2026-10-05T20:59:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
-      "status": "current",
+      "status": "delayed",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "delayed",
+      "freshnessNote": "último dato disponible; 54 min desde su marca efectiva"
     },
     {
       "id": "gold",
@@ -200,9 +201,10 @@
       "effectiveAt": "2026-10-05T21:00:00.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
-      "status": "current",
+      "status": "delayed",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "delayed",
+      "freshnessNote": "último dato disponible; 53 min desde su marca efectiva"
     },
     {
       "id": "eurusd",
@@ -218,7 +220,7 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 341 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 353 min desde su marca efectiva"
     },
     {
       "id": "usdjpy",
@@ -234,17 +236,17 @@
       "status": "delayed",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; 341 min desde su marca efectiva"
+      "freshnessNote": "último dato disponible; 353 min desde su marca efectiva"
     },
     {
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 85890,
+      "value": 85938,
       "unit": "usd",
-      "changePercent": -0.08,
+      "changePercent": -0.01,
       "trend": "down",
-      "effectiveAt": "2026-10-05T21:40:45.237Z",
+      "effectiveAt": "2026-10-05T21:53:16.593Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -267,41 +269,53 @@
       "id": "sp500-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 52 min desde su marca efectiva"
+      "warning": "último dato disponible; 65 min desde su marca efectiva"
     },
     {
       "id": "dow-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 52 min desde su marca efectiva"
+      "warning": "último dato disponible; 65 min desde su marca efectiva"
     },
     {
       "id": "stoxx50-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 341 min desde su marca efectiva"
+      "warning": "último dato disponible; 353 min desde su marca efectiva"
     },
     {
       "id": "ust10y-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 161 min desde su marca efectiva"
+      "warning": "último dato disponible; 173 min desde su marca efectiva"
+    },
+    {
+      "id": "brent-freshness",
+      "ok": true,
+      "delayed": true,
+      "warning": "último dato disponible; 54 min desde su marca efectiva"
+    },
+    {
+      "id": "gold-freshness",
+      "ok": true,
+      "delayed": true,
+      "warning": "último dato disponible; 53 min desde su marca efectiva"
     },
     {
       "id": "eurusd-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 341 min desde su marca efectiva"
+      "warning": "último dato disponible; 353 min desde su marca efectiva"
     },
     {
       "id": "usdjpy-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "último dato disponible; 341 min desde su marca efectiva"
+      "warning": "último dato disponible; 353 min desde su marca efectiva"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-05T21:40:45.908Z",
+  "historyGeneratedAt": "2026-10-05T21:53:17.490Z",
   "history": [
     {
       "id": "usdclp",
@@ -446,6 +460,6 @@
       "observations": 20
     }
   ],
-  "freshnessCheckedAt": "2026-10-05T21:40:46.060Z",
+  "freshnessCheckedAt": "2026-10-05T21:53:17.587Z",
   "freshnessPolicy": "intraday-v2"
 }
