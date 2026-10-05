@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-04",
-  "title": "ATLAS NEWS — Resumen diario — domingo 4 de octubre de 2026",
+  "date": "2026-10-05",
+  "title": "ATLAS NEWS — Resumen diario — lunes 5 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-04-resumen-diario.mp3",
-  "durationSeconds": 322.3,
-  "durationLabel": "5 min",
-  "bytes": 3868461,
-  "generatedAt": "2026-10-04T09:52:31.156953+00:00",
+  "path": "/audio/2026-10-05-resumen-diario.mp3",
+  "durationSeconds": 335.6,
+  "durationLabel": "6 min",
+  "bytes": 4027725,
+  "generatedAt": "2026-10-05T09:52:12.051837+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
-    "general": "2026-10-04-daily-europa-drones-ucrania-frente-energetico",
-    "national": "2026-10-04-national-mediaciones-mineras-cobre",
-    "markets": "2026-10-04-markets-bonos-diesel-prima-riesgo"
+    "international": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
+    "general": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
+    "national": "2026-10-05-national-cybermonday-consumo-digital",
+    "markets": "2026-10-05-markets-dolar-euro-fragmentacion"
   },
-  "sourceCommit": "b3e2d916c035bb3ac3756eb313c1c49536d6e717"
+  "sourceCommit": "3ec3224910c9654bb71e8382ae49ade95bb09cc1"
 }
