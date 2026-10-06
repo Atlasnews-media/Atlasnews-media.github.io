@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal/",
+  "childContainerIds": [
+    "18093144314386975",
+    "18093144341386975",
+    "18093144362386975",
+    "18093144386386975",
+    "18093144482386975"
+  ],
+  "carouselContainerId": "18093144560386975",
+  "mediaId": "18129910579765432",
+  "permalink": "https://www.instagram.com/p/DeJgsCLG1Uy/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-06T09:55:23+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/405ffd27e8128a71d0aac5da09e635283bb4ef5f/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/405ffd27e8128a71d0aac5da09e635283bb4ef5f/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/405ffd27e8128a71d0aac5da09e635283bb4ef5f/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/405ffd27e8128a71d0aac5da09e635283bb4ef5f/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/405ffd27e8128a71d0aac5da09e635283bb4ef5f/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37446104072",
+  "githubRunAttempt": "1",
+  "sourceCommit": "405ffd27e8128a71d0aac5da09e635283bb4ef5f"
+}
