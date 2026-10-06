@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-05",
-  "title": "ATLAS NEWS — Resumen diario — lunes 5 de octubre de 2026",
+  "date": "2026-10-06",
+  "title": "ATLAS NEWS — Resumen diario — martes 6 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-05-resumen-diario.mp3",
-  "durationSeconds": 335.6,
-  "durationLabel": "6 min",
-  "bytes": 4027725,
-  "generatedAt": "2026-10-05T09:52:12.051837+00:00",
+  "path": "/audio/2026-10-06-resumen-diario.mp3",
+  "durationSeconds": 302.0,
+  "durationLabel": "5 min",
+  "bytes": 3624237,
+  "generatedAt": "2026-10-06T09:54:56.034759+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
-    "general": "2026-10-05-daily-deuda-francesa-riesgo-soberano-europa",
-    "national": "2026-10-05-national-cybermonday-consumo-digital",
-    "markets": "2026-10-05-markets-dolar-euro-fragmentacion"
+    "international": "2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal",
+    "general": "2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal",
+    "national": "2026-10-06-national-costos-demanda-precios",
+    "markets": "2026-10-06-markets-bonos-acciones-brasil"
   },
-  "sourceCommit": "3ec3224910c9654bb71e8382ae49ade95bb09cc1"
+  "sourceCommit": "405ffd27e8128a71d0aac5da09e635283bb4ef5f"
 }
