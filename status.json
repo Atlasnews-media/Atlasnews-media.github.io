@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "589b8a504fdf2e6cb348833b123ef065f2d299f3",
+  "sourceCommit": "661d69b7d76b8e902f456e53f434e1f742ecd4c1",
   "latestDaily": {
     "id": "2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal",
     "issueNumber": 65,
@@ -32,11 +32,11 @@
     "weekly": 4,
     "national": 58,
     "markets": 57,
-    "readings": 12,
-    "total": 196
+    "readings": 13,
+    "total": 197
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-06",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
