@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-07-daily-hipotecas-eeuu-tasas-vivienda.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-07-daily-hipotecas-eeuu-tasas-vivienda/",
+  "childContainerIds": [
+    "18093465551386975",
+    "18093465569386975",
+    "18093465587386975",
+    "18093465605386975",
+    "18093465629386975"
+  ],
+  "carouselContainerId": "18093465647386975",
+  "mediaId": "18133869736679224",
+  "permalink": "https://www.instagram.com/p/DeNY9XRmgVT/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-07T22:04:49+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/12e612d7b50abe643059ce8e640ac5cb88818cec/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/12e612d7b50abe643059ce8e640ac5cb88818cec/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/12e612d7b50abe643059ce8e640ac5cb88818cec/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/12e612d7b50abe643059ce8e640ac5cb88818cec/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/12e612d7b50abe643059ce8e640ac5cb88818cec/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37693641843",
+  "githubRunAttempt": "1",
+  "sourceCommit": "12e612d7b50abe643059ce8e640ac5cb88818cec"
+}
