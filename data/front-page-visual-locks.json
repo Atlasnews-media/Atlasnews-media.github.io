@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T21:19:27.402Z",
+  "updatedAt": "2026-10-07T22:01:14.710Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -649,6 +649,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-07-daily-hipotecas-eeuu-tasas-vivienda": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en el edificio Marriner S. Eccles de la Reserva Federal.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-10-07-national-exportaciones-inversion-dos-velocidades": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-07-markets-salida-capital-emergentes": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "alt": "Corredores trabajando en el piso de operaciones de la Bolsa de Nueva York.",
+      "source": "Library of Congress / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "author": "Thomas J. O'Halloran",
+      "license": "Sin restricciones conocidas / dominio público en EE.UU."
     }
   }
 }

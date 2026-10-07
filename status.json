@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "50b7b4151c68141e8b5c511c3c3b6ddb109a4371",
-  "buildCommit": "a67012864c46701f8512fd3c72cb1d5431fce924",
+  "sourceCommit": "12e612d7b50abe643059ce8e640ac5cb88818cec",
+  "buildCommit": "12e612d7b50abe643059ce8e640ac5cb88818cec",
   "latestDaily": {
-    "id": "2026-10-07-daily-corea-transicion-verde-industrial",
-    "editionSlot": "morning",
+    "id": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
+    "editionSlot": "midday",
     "issueNumber": 66,
-    "title": "Corea del Sur apuesta US$747.000 millones para liderar la transición verde",
-    "publishedAt": "2026-10-07T06:46:50-03:00",
-    "cutoffAt": "2026-10-07T06:00:13-03:00"
+    "title": "Las hipotecas de EE.UU. saltan a 7,49% y trasladan el shock de tasas a la vivienda",
+    "publishedAt": "2026-10-07T18:58:19-03:00",
+    "cutoffAt": "2026-10-07T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-07-national-ahorro-inversion-deuda",
-    "editionSlot": "morning",
-    "title": "Chile vuelve a financiar al resto, pero por menor inversión y más deuda de hogares",
-    "publishedAt": "2026-10-07T06:46:50-03:00",
-    "cutoffAt": "2026-10-07T06:21:00-03:00"
+    "id": "2026-10-07-national-exportaciones-inversion-dos-velocidades",
+    "editionSlot": "midday",
+    "title": "Exportaciones superan US$10.500 millones, pero la compra de maquinaria cae 9,4%",
+    "publishedAt": "2026-10-07T18:58:19-03:00",
+    "cutoffAt": "2026-10-07T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-07-markets-petroleo-bonos-amplitud",
-    "editionSlot": "morning",
-    "title": "Petróleo y bonos rompen la calma tras nuevos récords de Wall Street",
-    "publishedAt": "2026-10-07T06:46:50-03:00",
-    "cutoffAt": "2026-10-07T06:28:00-03:00"
+    "id": "2026-10-07-markets-salida-capital-emergentes",
+    "editionSlot": "midday",
+    "title": "Inversionistas retiran US$26.300 millones de emergentes y castigan acciones y bonos",
+    "publishedAt": "2026-10-07T18:58:19-03:00",
+    "cutoffAt": "2026-10-07T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-07",
@@ -35,17 +35,27 @@
     "marketsPublished": true,
     "completeness": 3
   },
-  "middayPackage": null,
+  "middayPackage": {
+    "date": "2026-10-07",
+    "editionSlot": "midday",
+    "generalId": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
+    "generalPublished": true,
+    "nationalId": "2026-10-07-national-exportaciones-inversion-dos-velocidades",
+    "nationalPublished": true,
+    "marketsId": "2026-10-07-markets-salida-capital-emergentes",
+    "marketsPublished": true,
+    "completeness": 3
+  },
   "publications": {
-    "daily": 66,
+    "daily": 67,
     "weekly": 4,
-    "national": 59,
-    "markets": 58,
+    "national": 60,
+    "markets": 59,
     "readings": 13,
-    "total": 200
+    "total": 203
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-07",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
