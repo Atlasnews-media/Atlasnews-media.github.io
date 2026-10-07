@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T02:39:17.880Z",
+  "updatedAt": "2026-10-07T09:52:16.320Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -623,6 +623,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-07-daily-corea-transicion-verde-industrial": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos en Washington, D.C.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "author": "Loren",
+      "license": "Dominio público"
+    },
+    "national:2026-10-07-national-ahorro-inversion-deuda": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "alt": "Vista del skyline de Santiago de Chile.",
+      "source": "Wikimedia Commons / Unsplash",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "author": "Pablo García Saldaña",
+      "license": "CC0 1.0"
+    },
+    "markets:2026-10-07-markets-petroleo-bonos-amplitud": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

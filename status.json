@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "18a7a87b7089223f716fe58b7dba2eda68c1d692",
+  "sourceCommit": "cf85a6d179d9e48d703c652c74e6107224d718b8",
   "latestDaily": {
-    "id": "2026-10-06-daily-brasil-gira-derecha-balotaje-fiscal",
-    "issueNumber": 65,
-    "title": "Brasil gira a la derecha y lleva la disputa fiscal al balotaje",
-    "publishedAt": "2026-10-06T06:49:45-03:00",
-    "cutoffAt": "2026-10-06T06:04:38-03:00"
+    "id": "2026-10-07-daily-corea-transicion-verde-industrial",
+    "issueNumber": 66,
+    "title": "Corea del Sur apuesta US$747.000 millones para liderar la transición verde",
+    "publishedAt": "2026-10-07T06:46:50-03:00",
+    "cutoffAt": "2026-10-07T06:00:13-03:00"
   },
   "latestNational": {
-    "id": "2026-10-06-national-costos-demanda-precios",
-    "title": "Empresas ven menos presión de costos, pero la demanda sigue perdiendo fuerza",
-    "publishedAt": "2026-10-06T06:49:45-03:00",
-    "cutoffAt": "2026-10-06T06:20:00-03:00"
+    "id": "2026-10-07-national-ahorro-inversion-deuda",
+    "title": "Chile vuelve a financiar al resto, pero por menor inversión y más deuda de hogares",
+    "publishedAt": "2026-10-07T06:46:50-03:00",
+    "cutoffAt": "2026-10-07T06:21:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-06-markets-bonos-acciones-brasil",
-    "title": "Acciones desafían el castigo en bonos mientras Brasil reprecifica riesgo político",
-    "publishedAt": "2026-10-06T06:49:45-03:00",
-    "cutoffAt": "2026-10-06T06:27:00-03:00"
+    "id": "2026-10-07-markets-petroleo-bonos-amplitud",
+    "title": "Petróleo y bonos rompen la calma tras nuevos récords de Wall Street",
+    "publishedAt": "2026-10-07T06:46:50-03:00",
+    "cutoffAt": "2026-10-07T06:28:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "generalPublished": true,
     "nationalPublished": true,
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 65,
+    "daily": 66,
     "weekly": 4,
-    "national": 58,
-    "markets": 57,
+    "national": 59,
+    "markets": 58,
     "readings": 13,
-    "total": 197
+    "total": 200
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-06",
+    "asOf": "2026-10-07",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
