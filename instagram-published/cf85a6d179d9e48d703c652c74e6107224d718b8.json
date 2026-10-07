@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-07-daily-corea-transicion-verde-industrial.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-07-daily-corea-transicion-verde-industrial/",
+  "childContainerIds": [
+    "18093352703386975",
+    "18093352724386975",
+    "18093352745386975",
+    "18093352766386975",
+    "18093352790386975"
+  ],
+  "carouselContainerId": "18093352820386975",
+  "mediaId": "17882348406527682",
+  "permalink": "https://www.instagram.com/p/DeMFiUnG2Zc/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-07T09:55:50+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cf85a6d179d9e48d703c652c74e6107224d718b8/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cf85a6d179d9e48d703c652c74e6107224d718b8/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cf85a6d179d9e48d703c652c74e6107224d718b8/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cf85a6d179d9e48d703c652c74e6107224d718b8/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cf85a6d179d9e48d703c652c74e6107224d718b8/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37603798182",
+  "githubRunAttempt": "1",
+  "sourceCommit": "cf85a6d179d9e48d703c652c74e6107224d718b8"
+}
