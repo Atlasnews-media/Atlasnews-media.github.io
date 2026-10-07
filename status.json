@@ -1,8 +1,10 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "50b7b4151c68141e8b5c511c3c3b6ddb109a4371",
+  "buildCommit": "a67012864c46701f8512fd3c72cb1d5431fce924",
   "latestDaily": {
     "id": "2026-10-07-daily-corea-transicion-verde-industrial",
+    "editionSlot": "morning",
     "issueNumber": 66,
     "title": "Corea del Sur apuesta US$747.000 millones para liderar la transición verde",
     "publishedAt": "2026-10-07T06:46:50-03:00",
@@ -10,23 +12,30 @@
   },
   "latestNational": {
     "id": "2026-10-07-national-ahorro-inversion-deuda",
+    "editionSlot": "morning",
     "title": "Chile vuelve a financiar al resto, pero por menor inversión y más deuda de hogares",
     "publishedAt": "2026-10-07T06:46:50-03:00",
     "cutoffAt": "2026-10-07T06:21:00-03:00"
   },
   "latestMarkets": {
     "id": "2026-10-07-markets-petroleo-bonos-amplitud",
+    "editionSlot": "morning",
     "title": "Petróleo y bonos rompen la calma tras nuevos récords de Wall Street",
     "publishedAt": "2026-10-07T06:46:50-03:00",
     "cutoffAt": "2026-10-07T06:28:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-07",
+    "editionSlot": "morning",
+    "generalId": "2026-10-07-daily-corea-transicion-verde-industrial",
     "generalPublished": true,
+    "nationalId": "2026-10-07-national-ahorro-inversion-deuda",
     "nationalPublished": true,
+    "marketsId": "2026-10-07-markets-petroleo-bonos-amplitud",
     "marketsPublished": true,
     "completeness": 3
   },
+  "middayPackage": null,
   "publications": {
     "daily": 66,
     "weekly": 4,
