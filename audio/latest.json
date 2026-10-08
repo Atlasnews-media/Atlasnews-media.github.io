@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-07",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 7 de octubre de 2026",
+  "date": "2026-10-08",
+  "title": "ATLAS NEWS — Resumen diario — jueves 8 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-07-resumen-diario.mp3",
-  "durationSeconds": 329.1,
-  "durationLabel": "5 min",
-  "bytes": 3949677,
-  "generatedAt": "2026-10-07T22:03:48.559371+00:00",
+  "path": "/audio/2026-10-08-resumen-diario.mp3",
+  "durationSeconds": 339.2,
+  "durationLabel": "6 min",
+  "bytes": 4070349,
+  "generatedAt": "2026-10-08T09:53:02.543156+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
-    "general": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
-    "national": "2026-10-07-national-exportaciones-inversion-dos-velocidades",
-    "markets": "2026-10-07-markets-salida-capital-emergentes"
+    "international": "2026-10-08-daily-ia-migra-credito-capital",
+    "general": "2026-10-08-daily-ia-migra-credito-capital",
+    "national": "2026-10-08-national-huelga-centinela",
+    "markets": "2026-10-08-markets-bonos-petroleo-cobre"
   },
-  "sourceCommit": "12e612d7b50abe643059ce8e640ac5cb88818cec"
+  "sourceCommit": "0f33f1ec9bfb51199d0230efc45357a0ff9f4972"
 }
