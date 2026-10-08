@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T09:54:36.829Z",
+  "updatedAt": "2026-10-08T15:06:25.358Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -695,6 +695,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-08-daily-china-defiende-yuan-presion-europea": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "alt": "Skyline financiero de Pudong en Shanghái, China.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "author": "Ernest Jourdier",
+      "license": "CC BY 4.0"
+    },
+    "national:2026-10-08-national-ipc-alimentos-transporte": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Seguridad%20en%20el%20mar%20-%20Flickr%20-%20moralescv.jpg?width=1280",
+      "alt": "Puerto de San Antonio, logística, comercio exterior o actividad portuaria en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Seguridad%20en%20el%20mar%20-%20Flickr%20-%20moralescv.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-08-markets-petroleo-bonos-wall-street": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0f33f1ec9bfb51199d0230efc45357a0ff9f4972",
-  "buildCommit": "0f33f1ec9bfb51199d0230efc45357a0ff9f4972",
+  "sourceCommit": "d522e580abbe32a585f3bd5bd189346336a5a892",
+  "buildCommit": "d522e580abbe32a585f3bd5bd189346336a5a892",
   "latestDaily": {
-    "id": "2026-10-08-daily-ia-migra-credito-capital",
-    "editionSlot": "morning",
+    "id": "2026-10-08-daily-china-defiende-yuan-presion-europea",
+    "editionSlot": "midday",
     "issueNumber": 67,
-    "title": "La carrera por la IA migra al crédito y disputa capital con los gobiernos",
-    "publishedAt": "2026-10-08T06:47:18-03:00",
-    "cutoffAt": "2026-10-08T05:57:09-03:00"
+    "title": "China niega devaluar el yuan mientras Europa eleva la presión por su superávit récord",
+    "publishedAt": "2026-10-08T12:03:50-03:00",
+    "cutoffAt": "2026-10-08T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-08-national-huelga-centinela",
-    "editionSlot": "morning",
-    "title": "La huelga en Centinela abre una prueba operativa para el cobre chileno",
-    "publishedAt": "2026-10-08T06:47:18-03:00",
-    "cutoffAt": "2026-10-08T06:20:00-03:00"
+    "id": "2026-10-08-national-ipc-alimentos-transporte",
+    "editionSlot": "midday",
+    "title": "IPC sube 0,4% y queda bajo lo esperado, pero alimentos y transporte mantienen la presión",
+    "publishedAt": "2026-10-08T12:03:50-03:00",
+    "cutoffAt": "2026-10-08T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-08-markets-bonos-petroleo-cobre",
-    "editionSlot": "morning",
-    "title": "Bonos, petróleo y deuda de IA rompen la calma de las bolsas",
-    "publishedAt": "2026-10-08T06:47:18-03:00",
-    "cutoffAt": "2026-10-08T06:26:00-03:00"
+    "id": "2026-10-08-markets-petroleo-bonos-wall-street",
+    "editionSlot": "midday",
+    "title": "Brent salta 4,2% y Wall Street abre a la baja mientras los bonos amplían el ajuste",
+    "publishedAt": "2026-10-08T12:03:50-03:00",
+    "cutoffAt": "2026-10-08T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-08",
@@ -36,23 +36,23 @@
     "completeness": 3
   },
   "middayPackage": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "editionSlot": "midday",
-    "generalId": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
+    "generalId": "2026-10-08-daily-china-defiende-yuan-presion-europea",
     "generalPublished": true,
-    "nationalId": "2026-10-07-national-exportaciones-inversion-dos-velocidades",
+    "nationalId": "2026-10-08-national-ipc-alimentos-transporte",
     "nationalPublished": true,
-    "marketsId": "2026-10-07-markets-salida-capital-emergentes",
+    "marketsId": "2026-10-08-markets-petroleo-bonos-wall-street",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 68,
+    "daily": 69,
     "weekly": 4,
-    "national": 61,
-    "markets": 60,
+    "national": 62,
+    "markets": 61,
     "readings": 13,
-    "total": 206
+    "total": 209
   },
   "indicators": {
     "status": "current",
