@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "12e612d7b50abe643059ce8e640ac5cb88818cec",
-  "buildCommit": "b8abb713c85279923e84372c27af9cb8d4eed4cb",
+  "sourceCommit": "0f33f1ec9bfb51199d0230efc45357a0ff9f4972",
+  "buildCommit": "0f33f1ec9bfb51199d0230efc45357a0ff9f4972",
   "latestDaily": {
-    "id": "2026-10-07-daily-hipotecas-eeuu-tasas-vivienda",
-    "editionSlot": "midday",
-    "issueNumber": 66,
-    "title": "Las hipotecas de EE.UU. saltan a 7,49% y trasladan el shock de tasas a la vivienda",
-    "publishedAt": "2026-10-07T18:58:19-03:00",
-    "cutoffAt": "2026-10-07T12:00:00-03:00"
+    "id": "2026-10-08-daily-ia-migra-credito-capital",
+    "editionSlot": "morning",
+    "issueNumber": 67,
+    "title": "La carrera por la IA migra al crédito y disputa capital con los gobiernos",
+    "publishedAt": "2026-10-08T06:47:18-03:00",
+    "cutoffAt": "2026-10-08T05:57:09-03:00"
   },
   "latestNational": {
-    "id": "2026-10-07-national-exportaciones-inversion-dos-velocidades",
-    "editionSlot": "midday",
-    "title": "Exportaciones superan US$10.500 millones, pero la compra de maquinaria cae 9,4%",
-    "publishedAt": "2026-10-07T18:58:19-03:00",
-    "cutoffAt": "2026-10-07T12:00:00-03:00"
+    "id": "2026-10-08-national-huelga-centinela",
+    "editionSlot": "morning",
+    "title": "La huelga en Centinela abre una prueba operativa para el cobre chileno",
+    "publishedAt": "2026-10-08T06:47:18-03:00",
+    "cutoffAt": "2026-10-08T06:20:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-07-markets-salida-capital-emergentes",
-    "editionSlot": "midday",
-    "title": "Inversionistas retiran US$26.300 millones de emergentes y castigan acciones y bonos",
-    "publishedAt": "2026-10-07T18:58:19-03:00",
-    "cutoffAt": "2026-10-07T12:00:00-03:00"
+    "id": "2026-10-08-markets-bonos-petroleo-cobre",
+    "editionSlot": "morning",
+    "title": "Bonos, petróleo y deuda de IA rompen la calma de las bolsas",
+    "publishedAt": "2026-10-08T06:47:18-03:00",
+    "cutoffAt": "2026-10-08T06:26:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "editionSlot": "morning",
-    "generalId": "2026-10-07-daily-corea-transicion-verde-industrial",
+    "generalId": "2026-10-08-daily-ia-migra-credito-capital",
     "generalPublished": true,
-    "nationalId": "2026-10-07-national-ahorro-inversion-deuda",
+    "nationalId": "2026-10-08-national-huelga-centinela",
     "nationalPublished": true,
-    "marketsId": "2026-10-07-markets-petroleo-bonos-amplitud",
+    "marketsId": "2026-10-08-markets-bonos-petroleo-cobre",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 67,
+    "daily": 68,
     "weekly": 4,
-    "national": 60,
-    "markets": 59,
+    "national": 61,
+    "markets": 60,
     "readings": 13,
-    "total": 203
+    "total": 206
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-07",
+    "asOf": "2026-10-08",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

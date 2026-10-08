@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T02:37:34.834Z",
+  "updatedAt": "2026-10-08T09:49:47.003Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -673,6 +673,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
       "author": "Thomas J. O'Halloran",
       "license": "Sin restricciones conocidas / dominio público en EE.UU."
+    },
+    "international:2026-10-08-daily-ia-migra-credito-capital": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%201898%2C%20Exterior%20LCCN96510891.jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%201898%2C%20Exterior%20LCCN96510891.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-08-national-huelga-centinela": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chile%20copper%20mine.JPG?width=1280",
+      "alt": "Vista aérea de una mina de cobre en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chile%20copper%20mine.JPG?width=1280",
+      "author": "Sebastian Kawa, Tomasz Kawa",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-10-08-markets-bonos-petroleo-cobre": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
