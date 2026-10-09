@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "d522e580abbe32a585f3bd5bd189346336a5a892",
-  "buildCommit": "d522e580abbe32a585f3bd5bd189346336a5a892",
+  "sourceCommit": "2af3cca0a8f790bb548a2d4041d4bb8dd69d4db2",
+  "buildCommit": "2af3cca0a8f790bb548a2d4041d4bb8dd69d4db2",
   "latestDaily": {
-    "id": "2026-10-08-daily-china-defiende-yuan-presion-europea",
-    "editionSlot": "midday",
-    "issueNumber": 67,
-    "title": "China niega devaluar el yuan mientras Europa eleva la presión por su superávit récord",
-    "publishedAt": "2026-10-08T12:03:50-03:00",
-    "cutoffAt": "2026-10-08T12:00:00-03:00"
+    "id": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
+    "editionSlot": "morning",
+    "issueNumber": 68,
+    "title": "Colombia lleva su crisis fiscal al FMI y enfrenta un ajuste decisivo",
+    "publishedAt": "2026-10-09T06:42:33-03:00",
+    "cutoffAt": "2026-10-09T06:02:04-03:00"
   },
   "latestNational": {
-    "id": "2026-10-08-national-ipc-alimentos-transporte",
-    "editionSlot": "midday",
-    "title": "IPC sube 0,4% y queda bajo lo esperado, pero alimentos y transporte mantienen la presión",
-    "publishedAt": "2026-10-08T12:03:50-03:00",
-    "cutoffAt": "2026-10-08T12:00:00-03:00"
+    "id": "2026-10-09-national-inflacion-energia-nucleo",
+    "editionSlot": "morning",
+    "title": "La inflación cede en el margen, pero energía y alimentos sostienen la presión",
+    "publishedAt": "2026-10-09T06:42:33-03:00",
+    "cutoffAt": "2026-10-09T06:25:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-08-markets-petroleo-bonos-wall-street",
-    "editionSlot": "midday",
-    "title": "Brent salta 4,2% y Wall Street abre a la baja mientras los bonos amplían el ajuste",
-    "publishedAt": "2026-10-08T12:03:50-03:00",
-    "cutoffAt": "2026-10-08T12:00:00-03:00"
+    "id": "2026-10-09-markets-alivio-petroleo-capital-selectivo",
+    "editionSlot": "morning",
+    "title": "El petróleo cede, pero el capital sigue caro y selectivo",
+    "publishedAt": "2026-10-09T06:42:33-03:00",
+    "cutoffAt": "2026-10-09T06:33:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "editionSlot": "morning",
-    "generalId": "2026-10-08-daily-ia-migra-credito-capital",
+    "generalId": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
     "generalPublished": true,
-    "nationalId": "2026-10-08-national-huelga-centinela",
+    "nationalId": "2026-10-09-national-inflacion-energia-nucleo",
     "nationalPublished": true,
-    "marketsId": "2026-10-08-markets-bonos-petroleo-cobre",
+    "marketsId": "2026-10-09-markets-alivio-petroleo-capital-selectivo",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 69,
+    "daily": 70,
     "weekly": 4,
-    "national": 62,
-    "markets": 61,
+    "national": 63,
+    "markets": 62,
     "readings": 13,
-    "total": 209
+    "total": 212
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
