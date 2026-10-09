@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T09:49:45.535Z",
+  "updatedAt": "2026-10-09T15:09:58.895Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -745,6 +745,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-09-daily-china-ue-hibridos-comercio": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "alt": "Edificio sede del Banco Central Europeo en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "author": "Tobiasi0",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-10-09-national-aluvion-danos-investigacion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificios%20Santiago%20centro.jpg?width=1280",
+      "alt": "Edificios residenciales y urbanos en el centro de Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificios%20Santiago%20centro.jpg?width=1280",
+      "author": "Promeroy",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-09-markets-flujos-liquidez-bonos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Treasuries_from_Iran_War.webp?width=1280",
+      "alt": "Gráfico de rendimientos de bonos del Tesoro de Estados Unidos a dos, diez y treinta años",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Treasuries_from_Iran_War.webp?width=1280",
+      "author": "Wikideas1",
+      "license": "CC0 1.0 Universal"
     }
   }
 }

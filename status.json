@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2af3cca0a8f790bb548a2d4041d4bb8dd69d4db2",
-  "buildCommit": "2af3cca0a8f790bb548a2d4041d4bb8dd69d4db2",
+  "sourceCommit": "c7da3fdb8ad89783fa434e781bff9863c5addaed",
+  "buildCommit": "c7da3fdb8ad89783fa434e781bff9863c5addaed",
   "latestDaily": {
-    "id": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
-    "editionSlot": "morning",
+    "id": "2026-10-09-daily-china-ue-hibridos-comercio",
+    "editionSlot": "midday",
     "issueNumber": 68,
-    "title": "Colombia lleva su crisis fiscal al FMI y enfrenta un ajuste decisivo",
-    "publishedAt": "2026-10-09T06:42:33-03:00",
-    "cutoffAt": "2026-10-09T06:02:04-03:00"
+    "title": "China y la UE acuerdan reducir a la mitad los híbridos chinos y destraban tierras raras",
+    "publishedAt": "2026-10-09T12:04:32-03:00",
+    "cutoffAt": "2026-10-09T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-09-national-inflacion-energia-nucleo",
-    "editionSlot": "morning",
-    "title": "La inflación cede en el margen, pero energía y alimentos sostienen la presión",
-    "publishedAt": "2026-10-09T06:42:33-03:00",
-    "cutoffAt": "2026-10-09T06:25:00-03:00"
+    "id": "2026-10-09-national-aluvion-danos-investigacion",
+    "editionSlot": "midday",
+    "title": "Aluvión deja más de 2.000 viviendas dañadas y abre una investigación sobre su origen",
+    "publishedAt": "2026-10-09T12:04:32-03:00",
+    "cutoffAt": "2026-10-09T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-09-markets-alivio-petroleo-capital-selectivo",
-    "editionSlot": "morning",
-    "title": "El petróleo cede, pero el capital sigue caro y selectivo",
-    "publishedAt": "2026-10-09T06:42:33-03:00",
-    "cutoffAt": "2026-10-09T06:33:00-03:00"
+    "id": "2026-10-09-markets-flujos-liquidez-bonos",
+    "editionSlot": "midday",
+    "title": "US$153.810 millones entran a fondos monetarios mientras acciones de EE.UU. pierden flujos",
+    "publishedAt": "2026-10-09T12:04:32-03:00",
+    "cutoffAt": "2026-10-09T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-09",
@@ -36,23 +36,23 @@
     "completeness": 3
   },
   "middayPackage": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "editionSlot": "midday",
-    "generalId": "2026-10-08-daily-china-defiende-yuan-presion-europea",
+    "generalId": "2026-10-09-daily-china-ue-hibridos-comercio",
     "generalPublished": true,
-    "nationalId": "2026-10-08-national-ipc-alimentos-transporte",
+    "nationalId": "2026-10-09-national-aluvion-danos-investigacion",
     "nationalPublished": true,
-    "marketsId": "2026-10-08-markets-petroleo-bonos-wall-street",
+    "marketsId": "2026-10-09-markets-flujos-liquidez-bonos",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 70,
+    "daily": 71,
     "weekly": 4,
-    "national": 63,
-    "markets": 62,
+    "national": 64,
+    "markets": 63,
     "readings": 13,
-    "total": 212
+    "total": 215
   },
   "indicators": {
     "status": "current",

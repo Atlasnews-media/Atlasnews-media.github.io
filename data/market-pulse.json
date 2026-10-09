@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-09T09:49:22.842Z",
+  "generatedAt": "2026-10-09T15:09:31.546Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -84,61 +84,61 @@
       "id": "sp500",
       "label": "S&P 500",
       "group": "indices",
-      "value": 7765.36,
+      "value": 7793.35,
       "unit": "points",
-      "changePercent": 0.79,
+      "changePercent": 0.64,
       "trend": "up",
-      "effectiveAt": "2026-10-08T20:46:43.000Z",
+      "effectiveAt": "2026-10-09T15:09:29.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "nasdaq",
       "label": "Nasdaq Composite",
       "group": "indices",
-      "value": 27193.34,
+      "value": 27294.639,
       "unit": "points",
-      "changePercent": 0.94,
+      "changePercent": 0.83,
       "trend": "up",
-      "effectiveAt": "2026-10-08T21:15:59.000Z",
+      "effectiveAt": "2026-10-09T15:09:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "dow",
       "label": "Dow Jones",
       "group": "indices",
-      "value": 51231.64,
+      "value": 51443.08,
       "unit": "points",
-      "changePercent": -0.23,
+      "changePercent": -0.74,
       "trend": "down",
-      "effectiveAt": "2026-10-08T20:46:52.000Z",
+      "effectiveAt": "2026-10-09T15:09:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EDJI",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6188.88,
+      "value": 6179.46,
       "unit": "points",
-      "changePercent": -1.78,
+      "changePercent": -1.93,
       "trend": "down",
-      "effectiveAt": "2026-10-09T09:34:15.000Z",
+      "effectiveAt": "2026-10-09T14:54:30.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "ipsa",
@@ -148,97 +148,97 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-10-09T09:49:22.154Z",
+      "effectiveAt": "2026-10-09T15:09:30.992Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "ust10y",
       "label": "Treasury EE.UU. 10Y",
       "group": "rates",
-      "value": 5.231,
+      "value": 5.274,
       "unit": "percent",
-      "changePercent": 0.91,
+      "changePercent": 0.65,
       "trend": "up",
-      "effectiveAt": "2026-10-08T18:59:55.000Z",
+      "effectiveAt": "2026-10-09T14:54:25.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 103.1,
+      "value": 104.62,
       "unit": "usd-per-barrel",
-      "changePercent": 0.5,
+      "changePercent": 1.98,
       "trend": "up",
-      "effectiveAt": "2026-10-09T09:38:46.000Z",
+      "effectiveAt": "2026-10-09T14:59:04.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4208,
+      "value": 4208.7,
       "unit": "usd-per-ounce",
-      "changePercent": 0.68,
+      "changePercent": 0.69,
       "trend": "up",
-      "effectiveAt": "2026-10-09T09:39:15.000Z",
+      "effectiveAt": "2026-10-09T14:59:28.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "eurusd",
       "label": "EUR/USD",
       "group": "fx",
-      "value": 1.1186,
+      "value": 1.1206,
       "unit": "ratio",
-      "changePercent": 0.08,
+      "changePercent": 0.18,
       "trend": "up",
-      "effectiveAt": "2026-10-08T16:00:00Z",
+      "effectiveAt": "2026-10-09T16:00:00Z",
       "provider": "frankfurter-ecb",
       "sourceUrl": "https://frankfurter.app/",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "usdjpy",
       "label": "USD/JPY",
       "group": "fx",
-      "value": 158.28,
+      "value": 158.25,
       "unit": "ratio",
-      "changePercent": 0.03,
-      "trend": "up",
-      "effectiveAt": "2026-10-08T16:00:00Z",
+      "changePercent": -0.02,
+      "trend": "down",
+      "effectiveAt": "2026-10-09T16:00:00Z",
       "provider": "frankfurter-ecb",
       "sourceUrl": "https://frankfurter.app/",
       "status": "current",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 82561,
+      "value": 82867,
       "unit": "usd",
-      "changePercent": -0.59,
-      "trend": "down",
-      "effectiveAt": "2026-10-09T09:49:22.842Z",
+      "changePercent": 0.62,
+      "trend": "up",
+      "effectiveAt": "2026-10-09T15:09:31.546Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-09T09:49:23.750Z",
+  "historyGeneratedAt": "2026-10-09T15:09:32.529Z",
   "history": [
     {
       "id": "usdclp",
@@ -351,7 +351,8 @@
         { "date": "2026-10-05", "value": 7773.9501953125 },
         { "date": "2026-10-06", "value": 7818.93017578125 },
         { "date": "2026-10-07", "value": 7801.77001953125 },
-        { "date": "2026-10-08", "value": 7765.35986328125 }
+        { "date": "2026-10-08", "value": 7765.35986328125 },
+        { "date": "2026-10-09", "value": 7793.419921875 }
       ]
     },
     {
@@ -383,7 +384,7 @@
         { "date": "2026-10-06", "value": 100.58000183105469 },
         { "date": "2026-10-07", "value": 100.19999694824219 },
         { "date": "2026-10-08", "value": 104.27999877929688 },
-        { "date": "2026-10-09", "value": 103.0999984741211 }
+        { "date": "2026-10-09", "value": 104.62000274658203 }
       ]
     }
   ],
@@ -404,7 +405,7 @@
       "id": "sp500",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 22
+      "observations": 23
     },
     {
       "id": "brent",
@@ -413,6 +414,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-09T09:49:23.870Z",
+  "freshnessCheckedAt": "2026-10-09T15:09:32.681Z",
   "freshnessPolicy": "intraday-v2"
 }
