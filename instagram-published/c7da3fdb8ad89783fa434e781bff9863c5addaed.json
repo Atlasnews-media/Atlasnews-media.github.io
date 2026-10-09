@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-09-daily-china-ue-hibridos-comercio.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-09-daily-china-ue-hibridos-comercio/",
+  "childContainerIds": [
+    "18093809426386975",
+    "18093809447386975",
+    "18093809492386975",
+    "18093809513386975",
+    "18093809537386975"
+  ],
+  "carouselContainerId": "18093809579386975",
+  "mediaId": "18040891130835838",
+  "permalink": "https://www.instagram.com/p/DeRzgy1nCDT/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-09T15:13:47+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/c7da3fdb8ad89783fa434e781bff9863c5addaed/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/c7da3fdb8ad89783fa434e781bff9863c5addaed/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/c7da3fdb8ad89783fa434e781bff9863c5addaed/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/c7da3fdb8ad89783fa434e781bff9863c5addaed/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/c7da3fdb8ad89783fa434e781bff9863c5addaed/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "37949953780",
+  "githubRunAttempt": "1",
+  "sourceCommit": "c7da3fdb8ad89783fa434e781bff9863c5addaed"
+}
