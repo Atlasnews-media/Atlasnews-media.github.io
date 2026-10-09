@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-08",
-  "title": "ATLAS NEWS — Resumen diario — jueves 8 de octubre de 2026",
+  "date": "2026-10-09",
+  "title": "ATLAS NEWS — Resumen diario — viernes 9 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-08-resumen-diario.mp3",
-  "durationSeconds": 327.7,
-  "durationLabel": "5 min",
-  "bytes": 3932973,
-  "generatedAt": "2026-10-08T15:09:52.832617+00:00",
+  "path": "/audio/2026-10-09-resumen-diario.mp3",
+  "durationSeconds": 351.5,
+  "durationLabel": "6 min",
+  "bytes": 4218093,
+  "generatedAt": "2026-10-09T09:48:08.954290+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-08-daily-china-defiende-yuan-presion-europea",
-    "general": "2026-10-08-daily-china-defiende-yuan-presion-europea",
-    "national": "2026-10-08-national-ipc-alimentos-transporte",
-    "markets": "2026-10-08-markets-petroleo-bonos-wall-street"
+    "international": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
+    "general": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
+    "national": "2026-10-09-national-inflacion-energia-nucleo",
+    "markets": "2026-10-09-markets-alivio-petroleo-capital-selectivo"
   },
-  "sourceCommit": "d522e580abbe32a585f3bd5bd189346336a5a892"
+  "sourceCommit": "2af3cca0a8f790bb548a2d4041d4bb8dd69d4db2"
 }
