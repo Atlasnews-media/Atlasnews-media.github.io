@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c7da3fdb8ad89783fa434e781bff9863c5addaed",
-  "buildCommit": "c7da3fdb8ad89783fa434e781bff9863c5addaed",
+  "sourceCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9",
+  "buildCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9",
   "latestDaily": {
-    "id": "2026-10-09-daily-china-ue-hibridos-comercio",
-    "editionSlot": "midday",
-    "issueNumber": 68,
-    "title": "China y la UE acuerdan reducir a la mitad los híbridos chinos y destraban tierras raras",
-    "publishedAt": "2026-10-09T12:04:32-03:00",
-    "cutoffAt": "2026-10-09T12:00:00-03:00"
+    "id": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
+    "editionSlot": "morning",
+    "issueNumber": 69,
+    "title": "Energía, fragmentación e IA frenan el crecimiento mundial",
+    "publishedAt": "2026-10-10T06:44:16-03:00",
+    "cutoffAt": "2026-10-10T06:04:19-03:00"
   },
   "latestNational": {
-    "id": "2026-10-09-national-aluvion-danos-investigacion",
-    "editionSlot": "midday",
-    "title": "Aluvión deja más de 2.000 viviendas dañadas y abre una investigación sobre su origen",
-    "publishedAt": "2026-10-09T12:04:32-03:00",
-    "cutoffAt": "2026-10-09T12:00:00-03:00"
+    "id": "2026-10-10-national-insolvencia-renegociacion",
+    "editionSlot": "morning",
+    "title": "La insolvencia personal sube, pero la renegociación gana espacio antes de la liquidación",
+    "publishedAt": "2026-10-10T06:44:16-03:00",
+    "cutoffAt": "2026-10-10T06:20:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-09-markets-flujos-liquidez-bonos",
-    "editionSlot": "midday",
-    "title": "US$153.810 millones entran a fondos monetarios mientras acciones de EE.UU. pierden flujos",
-    "publishedAt": "2026-10-09T12:04:32-03:00",
-    "cutoffAt": "2026-10-09T12:00:00-03:00"
+    "id": "2026-10-10-markets-indices-small-caps-bonos",
+    "editionSlot": "morning",
+    "title": "Wall Street sube, pero las small caps y los bonos niegan un alivio amplio",
+    "publishedAt": "2026-10-10T06:44:16-03:00",
+    "cutoffAt": "2026-10-10T06:29:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "editionSlot": "morning",
-    "generalId": "2026-10-09-daily-colombia-fmi-ajuste-fiscal",
+    "generalId": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
     "generalPublished": true,
-    "nationalId": "2026-10-09-national-inflacion-energia-nucleo",
+    "nationalId": "2026-10-10-national-insolvencia-renegociacion",
     "nationalPublished": true,
-    "marketsId": "2026-10-09-markets-alivio-petroleo-capital-selectivo",
+    "marketsId": "2026-10-10-markets-indices-small-caps-bonos",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,15 +47,15 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 71,
+    "daily": 72,
     "weekly": 4,
-    "national": 64,
-    "markets": 63,
+    "national": 65,
+    "markets": 64,
     "readings": 13,
-    "total": 215
+    "total": 218
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
