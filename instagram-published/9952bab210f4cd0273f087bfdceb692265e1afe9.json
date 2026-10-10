@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-10-daily-energia-fragmentacion-frenan-crecimiento.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-10-daily-energia-fragmentacion-frenan-crecimiento/",
+  "childContainerIds": [
+    "18093975998386975",
+    "18093976022386975",
+    "18093976040386975",
+    "18093976061386975",
+    "18093976118386975"
+  ],
+  "carouselContainerId": "18093976139386975",
+  "mediaId": "17950441197328369",
+  "permalink": "https://www.instagram.com/p/DeTzeJdFt5E/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-10T09:51:55+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/9952bab210f4cd0273f087bfdceb692265e1afe9/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/9952bab210f4cd0273f087bfdceb692265e1afe9/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/9952bab210f4cd0273f087bfdceb692265e1afe9/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/9952bab210f4cd0273f087bfdceb692265e1afe9/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/9952bab210f4cd0273f087bfdceb692265e1afe9/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38042800305",
+  "githubRunAttempt": "1",
+  "sourceCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9"
+}
