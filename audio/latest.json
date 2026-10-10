@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — sábado 10 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-10-resumen-diario.mp3",
-  "durationSeconds": 348.8,
+  "durationSeconds": 334.6,
   "durationLabel": "6 min",
-  "bytes": 4185549,
-  "generatedAt": "2026-10-10T09:50:57.785494+00:00",
+  "bytes": 4015053,
+  "generatedAt": "2026-10-10T15:12:08.922740+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
-    "general": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
-    "national": "2026-10-10-national-insolvencia-renegociacion",
-    "markets": "2026-10-10-markets-indices-small-caps-bonos"
+    "international": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
+    "general": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
+    "national": "2026-10-10-national-barreras-aluvion-pendientes",
+    "markets": "2026-10-10-markets-bitcoin-rebote-frenado"
   },
-  "sourceCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9"
+  "sourceCommit": "fc4609143d9a7f5912794082307585e8eaab17a9"
 }
