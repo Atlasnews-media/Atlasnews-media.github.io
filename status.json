@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9",
-  "buildCommit": "9952bab210f4cd0273f087bfdceb692265e1afe9",
+  "sourceCommit": "fc4609143d9a7f5912794082307585e8eaab17a9",
+  "buildCommit": "fc4609143d9a7f5912794082307585e8eaab17a9",
   "latestDaily": {
-    "id": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
-    "editionSlot": "morning",
+    "id": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
+    "editionSlot": "midday",
     "issueNumber": 69,
-    "title": "Energía, fragmentación e IA frenan el crecimiento mundial",
-    "publishedAt": "2026-10-10T06:44:16-03:00",
-    "cutoffAt": "2026-10-10T06:04:19-03:00"
+    "title": "Alemania mantiene las sanciones a Rusia y abre una fractura con EE.UU. por el diésel",
+    "publishedAt": "2026-10-10T12:06:28-03:00",
+    "cutoffAt": "2026-10-10T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-10-national-insolvencia-renegociacion",
-    "editionSlot": "morning",
-    "title": "La insolvencia personal sube, pero la renegociación gana espacio antes de la liquidación",
-    "publishedAt": "2026-10-10T06:44:16-03:00",
-    "cutoffAt": "2026-10-10T06:20:00-03:00"
+    "id": "2026-10-10-national-barreras-aluvion-pendientes",
+    "editionSlot": "midday",
+    "title": "Las barreras para el aluvión seguían pendientes pese a una alerta municipal de junio",
+    "publishedAt": "2026-10-10T12:06:28-03:00",
+    "cutoffAt": "2026-10-10T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-10-markets-indices-small-caps-bonos",
-    "editionSlot": "morning",
-    "title": "Wall Street sube, pero las small caps y los bonos niegan un alivio amplio",
-    "publishedAt": "2026-10-10T06:44:16-03:00",
-    "cutoffAt": "2026-10-10T06:29:00-03:00"
+    "id": "2026-10-10-markets-bitcoin-rebote-frenado",
+    "editionSlot": "midday",
+    "title": "Bitcoin pierde 3% en la semana y el rebote vuelve a frenarse bajo US$83.000",
+    "publishedAt": "2026-10-10T12:06:28-03:00",
+    "cutoffAt": "2026-10-10T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-10",
@@ -36,27 +36,27 @@
     "completeness": 3
   },
   "middayPackage": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "editionSlot": "midday",
-    "generalId": "2026-10-09-daily-china-ue-hibridos-comercio",
+    "generalId": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
     "generalPublished": true,
-    "nationalId": "2026-10-09-national-aluvion-danos-investigacion",
+    "nationalId": "2026-10-10-national-barreras-aluvion-pendientes",
     "nationalPublished": true,
-    "marketsId": "2026-10-09-markets-flujos-liquidez-bonos",
+    "marketsId": "2026-10-10-markets-bitcoin-rebote-frenado",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 72,
+    "daily": 73,
     "weekly": 4,
-    "national": 65,
-    "markets": 64,
+    "national": 66,
+    "markets": 65,
     "readings": 13,
-    "total": 218
+    "total": 221
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-09",
+    "status": "current",
+    "asOf": "2026-10-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

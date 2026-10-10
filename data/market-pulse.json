@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-10T09:52:58.566Z",
+  "generatedAt": "2026-10-10T15:08:45.679Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "effectiveAt": "2026-10-09T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -26,12 +26,12 @@
       "group": "fx",
       "value": 1100.46,
       "unit": "clp",
-      "changePercent": null,
-      "trend": "flat",
+      "changePercent": 0.3,
+      "trend": "up",
       "effectiveAt": "2026-10-09T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -46,7 +46,7 @@
       "effectiveAt": "2026-10-09T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -54,14 +54,14 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 41130.94,
+      "value": 41136.24,
       "unit": "clp",
       "changePercent": null,
       "trend": "flat",
-      "effectiveAt": "2026-10-09T12:00:00-03:00",
+      "effectiveAt": "2026-10-10T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -71,12 +71,12 @@
       "group": "commodities",
       "value": 6.61,
       "unit": "usd-per-pound",
-      "changePercent": null,
-      "trend": "flat",
+      "changePercent": 0.61,
+      "trend": "up",
       "effectiveAt": "2026-10-09T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "displayEligible": true,
       "freshnessState": "official"
     },
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-10-10T09:52:57.938Z",
+      "effectiveAt": "2026-10-10T15:08:45.147Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 82782,
+      "value": 82963,
       "unit": "usd",
-      "changePercent": 0.25,
+      "changePercent": 0.16,
       "trend": "up",
-      "effectiveAt": "2026-10-10T09:52:58.566Z",
+      "effectiveAt": "2026-10-10T15:08:45.679Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-10T09:53:09.035Z",
+  "historyGeneratedAt": "2026-10-10T15:08:46.542Z",
   "history": [
     {
       "id": "usdclp",
@@ -389,21 +389,13 @@
       "id": "usdclp",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21,
-      "recovered": true,
-      "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-10-10T09:47:59.528Z",
-      "warning": "The operation was aborted due to timeout"
+      "observations": 21
     },
     {
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21,
-      "recovered": true,
-      "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-10-10T09:47:59.528Z",
-      "warning": "The operation was aborted due to timeout"
+      "observations": 21
     },
     {
       "id": "sp500",
@@ -418,6 +410,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-10-10T09:53:09.191Z",
+  "freshnessCheckedAt": "2026-10-10T15:08:46.641Z",
   "freshnessPolicy": "intraday-v2"
 }

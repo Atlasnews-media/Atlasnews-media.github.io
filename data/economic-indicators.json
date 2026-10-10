@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-10-09",
-  "fetchedAt": "2026-10-09T15:14:10.032Z",
-  "lastAttemptAt": "2026-10-10T09:52:30.599Z",
+  "status": "current",
+  "asOf": "2026-10-10",
+  "fetchedAt": "2026-10-10T15:08:41.924Z",
+  "lastAttemptAt": "2026-10-10T15:08:41.924Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,9 +11,9 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41130.94,
+      "value": 41136.24,
       "unit": "clp",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-10"
     },
     {
       "code": "dolar",
@@ -31,7 +31,11 @@
       "label": "Euro",
       "value": 1100.46,
       "unit": "clp",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-09",
+      "previousValue": 1097.13,
+      "previousEffectiveDate": "2026-10-08",
+      "changePercent": 0.3,
+      "trend": "up"
     },
     {
       "code": "utm",
@@ -52,7 +56,11 @@
       "label": "Cobre",
       "value": 6.61,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-09",
+      "previousValue": 6.57,
+      "previousEffectiveDate": "2026-10-08",
+      "changePercent": 0.61,
+      "trend": "up"
     }
   ]
 }

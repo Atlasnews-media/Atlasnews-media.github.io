@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T09:53:38.105Z",
+  "updatedAt": "2026-10-10T15:09:07.697Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -791,6 +791,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-10-daily-diesel-ruso-fractura-sanciones": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels-NATO%20headquarters.jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels-NATO%20headquarters.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-10-national-barreras-aluvion-pendientes": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Santiago%20de%20Chile%20-%20Construcci%C3%B3n%20del%20Centro%20Gabriela%20Mistral%20(GAM)%20-%20Avenida%20Libertador%20Bernardo%20O'Higgins%20227.jpg?width=1280",
+      "alt": "Obras de construcción del Centro Gabriela Mistral en Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Santiago%20de%20Chile%20-%20Construcci%C3%B3n%20del%20Centro%20Gabriela%20Mistral%20(GAM)%20-%20Avenida%20Libertador%20Bernardo%20O'Higgins%20227.jpg?width=1280",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-10-markets-bitcoin-rebote-frenado": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
