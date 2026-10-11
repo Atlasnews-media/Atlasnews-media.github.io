@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "fc4609143d9a7f5912794082307585e8eaab17a9",
-  "buildCommit": "fc4609143d9a7f5912794082307585e8eaab17a9",
+  "sourceCommit": "5359c5fc90a8e5108255810389fd98840ec4bc02",
+  "buildCommit": "5359c5fc90a8e5108255810389fd98840ec4bc02",
   "latestDaily": {
-    "id": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
-    "editionSlot": "midday",
-    "issueNumber": 69,
-    "title": "Alemania mantiene las sanciones a Rusia y abre una fractura con EE.UU. por el diésel",
-    "publishedAt": "2026-10-10T12:06:28-03:00",
-    "cutoffAt": "2026-10-10T12:00:00-03:00"
+    "id": "2026-10-11-daily-banco-mundial-prepara-ayuda-crisis",
+    "editionSlot": "morning",
+    "issueNumber": 70,
+    "title": "El Banco Mundial prepara hasta US$100.000 millones ante una nueva ola de crisis",
+    "publishedAt": "2026-10-11T06:49:21-03:00",
+    "cutoffAt": "2026-10-11T06:00:34-03:00"
   },
   "latestNational": {
-    "id": "2026-10-10-national-barreras-aluvion-pendientes",
-    "editionSlot": "midday",
-    "title": "Las barreras para el aluvión seguían pendientes pese a una alerta municipal de junio",
-    "publishedAt": "2026-10-10T12:06:28-03:00",
-    "cutoffAt": "2026-10-10T12:00:00-03:00"
+    "id": "2026-10-11-national-presupuesto-inversion-ejecucion",
+    "editionSlot": "morning",
+    "title": "El Presupuesto 2027 depende de inversión y ejecución, no sólo de mayor espacio fiscal",
+    "publishedAt": "2026-10-11T06:49:21-03:00",
+    "cutoffAt": "2026-10-11T06:10:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-10-markets-bitcoin-rebote-frenado",
-    "editionSlot": "midday",
-    "title": "Bitcoin pierde 3% en la semana y el rebote vuelve a frenarse bajo US$83.000",
-    "publishedAt": "2026-10-10T12:06:28-03:00",
-    "cutoffAt": "2026-10-10T12:00:00-03:00"
+    "id": "2026-10-11-markets-energia-monedas-reservas",
+    "editionSlot": "morning",
+    "title": "El shock energético salta del petróleo a monedas, reservas y transporte",
+    "publishedAt": "2026-10-11T06:49:21-03:00",
+    "cutoffAt": "2026-10-11T06:20:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "editionSlot": "morning",
-    "generalId": "2026-10-10-daily-energia-fragmentacion-frenan-crecimiento",
+    "generalId": "2026-10-11-daily-banco-mundial-prepara-ayuda-crisis",
     "generalPublished": true,
-    "nationalId": "2026-10-10-national-insolvencia-renegociacion",
+    "nationalId": "2026-10-11-national-presupuesto-inversion-ejecucion",
     "nationalPublished": true,
-    "marketsId": "2026-10-10-markets-indices-small-caps-bonos",
+    "marketsId": "2026-10-11-markets-energia-monedas-reservas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 73,
+    "daily": 74,
     "weekly": 4,
-    "national": 66,
-    "markets": 65,
+    "national": 67,
+    "markets": 66,
     "readings": 13,
-    "total": 221
+    "total": 224
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-10",
+    "asOf": "2026-10-11",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

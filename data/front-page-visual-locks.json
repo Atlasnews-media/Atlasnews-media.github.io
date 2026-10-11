@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T15:13:52.035Z",
+  "updatedAt": "2026-10-11T09:55:06.643Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -815,6 +815,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-11-daily-banco-mundial-prepara-ayuda-crisis": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos en Washington, D.C.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "author": "Loren",
+      "license": "Dominio público"
+    },
+    "national:2026-10-11-national-presupuesto-inversion-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "alt": "Plaza de la Constitución y edificios del centro cívico de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "author": "Usuario de Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-11-markets-energia-monedas-reservas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Exchange%20Building%20(London).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Exchange%20Building%20(London).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
