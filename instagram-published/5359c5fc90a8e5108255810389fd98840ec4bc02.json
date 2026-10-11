@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-11-daily-banco-mundial-prepara-ayuda-crisis.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-11-daily-banco-mundial-prepara-ayuda-crisis/",
+  "childContainerIds": [
+    "18094216862386975",
+    "18094216886386975",
+    "18094216919386975",
+    "18094216937386975",
+    "18094216958386975"
+  ],
+  "carouselContainerId": "18094216982386975",
+  "mediaId": "18114814699832903",
+  "permalink": "https://www.instagram.com/p/DeWZDODFU-G/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-11T09:58:46+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5359c5fc90a8e5108255810389fd98840ec4bc02/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5359c5fc90a8e5108255810389fd98840ec4bc02/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5359c5fc90a8e5108255810389fd98840ec4bc02/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5359c5fc90a8e5108255810389fd98840ec4bc02/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/5359c5fc90a8e5108255810389fd98840ec4bc02/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38130186416",
+  "githubRunAttempt": "1",
+  "sourceCommit": "5359c5fc90a8e5108255810389fd98840ec4bc02"
+}
