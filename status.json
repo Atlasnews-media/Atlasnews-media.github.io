@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "5359c5fc90a8e5108255810389fd98840ec4bc02",
-  "buildCommit": "5359c5fc90a8e5108255810389fd98840ec4bc02",
+  "sourceCommit": "cae26927e73b7fe81b1a42a5d9bf473905683f37",
+  "buildCommit": "cae26927e73b7fe81b1a42a5d9bf473905683f37",
   "latestDaily": {
-    "id": "2026-10-11-daily-banco-mundial-prepara-ayuda-crisis",
-    "editionSlot": "morning",
+    "id": "2026-10-11-daily-tregua-energetica-rusia-ucrania",
+    "editionSlot": "midday",
     "issueNumber": 70,
-    "title": "El Banco Mundial prepara hasta US$100.000 millones ante una nueva ola de crisis",
-    "publishedAt": "2026-10-11T06:49:21-03:00",
-    "cutoffAt": "2026-10-11T06:00:34-03:00"
+    "title": "Trump anuncia una tregua energética entre Rusia y Ucrania sin confirmación bilateral",
+    "publishedAt": "2026-10-11T12:11:00-03:00",
+    "cutoffAt": "2026-10-11T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-11-national-presupuesto-inversion-ejecucion",
-    "editionSlot": "morning",
-    "title": "El Presupuesto 2027 depende de inversión y ejecución, no sólo de mayor espacio fiscal",
-    "publishedAt": "2026-10-11T06:49:21-03:00",
-    "cutoffAt": "2026-10-11T06:10:00-03:00"
+    "id": "2026-10-11-national-reforma-laboral-dos-fases",
+    "editionSlot": "midday",
+    "title": "El Gobierno prepara diez medidas laborales y deja la indemnización para una segunda fase",
+    "publishedAt": "2026-10-11T12:11:00-03:00",
+    "cutoffAt": "2026-10-11T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-11-markets-energia-monedas-reservas",
-    "editionSlot": "morning",
-    "title": "El shock energético salta del petróleo a monedas, reservas y transporte",
-    "publishedAt": "2026-10-11T06:49:21-03:00",
-    "cutoffAt": "2026-10-11T06:20:00-03:00"
+    "id": "2026-10-11-markets-golfo-reaccion-riad",
+    "editionSlot": "midday",
+    "title": "La reacción al ataque de Riad lleva a Qatar a mínimos de 2020 y enfría al Golfo",
+    "publishedAt": "2026-10-11T12:11:00-03:00",
+    "cutoffAt": "2026-10-11T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-11",
@@ -36,23 +36,23 @@
     "completeness": 3
   },
   "middayPackage": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "editionSlot": "midday",
-    "generalId": "2026-10-10-daily-diesel-ruso-fractura-sanciones",
+    "generalId": "2026-10-11-daily-tregua-energetica-rusia-ucrania",
     "generalPublished": true,
-    "nationalId": "2026-10-10-national-barreras-aluvion-pendientes",
+    "nationalId": "2026-10-11-national-reforma-laboral-dos-fases",
     "nationalPublished": true,
-    "marketsId": "2026-10-10-markets-bitcoin-rebote-frenado",
+    "marketsId": "2026-10-11-markets-golfo-reaccion-riad",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 74,
+    "daily": 75,
     "weekly": 4,
-    "national": 67,
-    "markets": 66,
+    "national": 68,
+    "markets": 67,
     "readings": 13,
-    "total": 224
+    "total": 227
   },
   "indicators": {
     "status": "current",

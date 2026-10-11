@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T09:59:47.107Z",
+  "updatedAt": "2026-10-11T15:13:59.108Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -841,6 +841,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Exchange%20Building%20(London).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-11-daily-tregua-energetica-rusia-ucrania": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "alt": "Petrolero cargando crudo en la terminal Al Basrah del Golfo Pérsico.",
+      "source": "Wikimedia Commons / U.S. Navy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "author": "Eben Boothby, U.S. Navy",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-10-11-national-reforma-laboral-dos-fases": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "alt": "Vista del skyline de Santiago de Chile.",
+      "source": "Wikimedia Commons / Unsplash",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "author": "Pablo García Saldaña",
+      "license": "CC0 1.0"
+    },
+    "markets:2026-10-11-markets-golfo-reaccion-riad": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street%201.jpg?width=1280",
+      "alt": "Fachada de la Bolsa de Nueva York en Wall Street, Nueva York.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street%201.jpg?width=1280",
+      "author": "Mike Peel",
+      "license": "CC BY-SA 4.0"
     }
   }
 }
