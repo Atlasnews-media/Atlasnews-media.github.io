@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral/",
+  "childContainerIds": [
+    "18094443257386975",
+    "18094443296386975",
+    "18094443314386975",
+    "18094443353386975",
+    "18094443371386975"
+  ],
+  "carouselContainerId": "18094443395386975",
+  "mediaId": "18071480153768325",
+  "permalink": "https://www.instagram.com/p/DeY9n__FTjZ/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-12T09:56:50+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0fac2b9e44447ee5f32bcc948934e88412818f94/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0fac2b9e44447ee5f32bcc948934e88412818f94/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0fac2b9e44447ee5f32bcc948934e88412818f94/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0fac2b9e44447ee5f32bcc948934e88412818f94/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0fac2b9e44447ee5f32bcc948934e88412818f94/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38232925718",
+  "githubRunAttempt": "1",
+  "sourceCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94"
+}
