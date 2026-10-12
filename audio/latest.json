@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — lunes 12 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-12-resumen-diario.mp3",
-  "durationSeconds": 329.4,
+  "durationSeconds": 311.2,
   "durationLabel": "5 min",
-  "bytes": 3952557,
-  "generatedAt": "2026-10-12T09:54:40.511081+00:00",
+  "bytes": 3735117,
+  "generatedAt": "2026-10-12T15:18:10.448809+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
-    "general": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
-    "national": "2026-10-12-national-ia-capacitacion-medicion",
-    "markets": "2026-10-12-markets-petroleo-coberturas-inflacion"
+    "international": "2026-10-12-daily-india-padron-corte-suprema",
+    "general": "2026-10-12-daily-india-padron-corte-suprema",
+    "national": "2026-10-12-national-comercio-abre-feriado",
+    "markets": "2026-10-12-markets-brent-revierte-wall-street"
   },
-  "sourceCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94"
+  "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b"
 }
