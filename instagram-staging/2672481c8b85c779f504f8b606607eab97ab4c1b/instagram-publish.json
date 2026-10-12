@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-12-daily-india-padron-corte-suprema.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-12-daily-india-padron-corte-suprema/",
+  "childContainerIds": [
+    "18094504913386975",
+    "18094504934386975",
+    "18094504952386975",
+    "18094504976386975",
+    "18094504994386975"
+  ],
+  "carouselContainerId": "18094505027386975",
+  "mediaId": "18130679650801714",
+  "permalink": "https://www.instagram.com/p/DeZifB1G4wL/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-12T15:18:56+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2672481c8b85c779f504f8b606607eab97ab4c1b/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2672481c8b85c779f504f8b606607eab97ab4c1b/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2672481c8b85c779f504f8b606607eab97ab4c1b/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2672481c8b85c779f504f8b606607eab97ab4c1b/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2672481c8b85c779f504f8b606607eab97ab4c1b/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38269107861",
+  "githubRunAttempt": "1",
+  "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b"
+}
