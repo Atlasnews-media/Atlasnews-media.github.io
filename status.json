@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "cae26927e73b7fe81b1a42a5d9bf473905683f37",
-  "buildCommit": "cae26927e73b7fe81b1a42a5d9bf473905683f37",
+  "sourceCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94",
+  "buildCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94",
   "latestDaily": {
-    "id": "2026-10-11-daily-tregua-energetica-rusia-ucrania",
-    "editionSlot": "midday",
-    "issueNumber": 70,
-    "title": "Trump anuncia una tregua energética entre Rusia y Ucrania sin confirmación bilateral",
-    "publishedAt": "2026-10-11T12:11:00-03:00",
-    "cutoffAt": "2026-10-11T12:00:00-03:00"
+    "id": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
+    "editionSlot": "morning",
+    "issueNumber": 71,
+    "title": "La IA sostiene el crecimiento mundial, pero abre una brecha laboral",
+    "publishedAt": "2026-10-12T06:49:16-03:00",
+    "cutoffAt": "2026-10-12T06:01:44-03:00"
   },
   "latestNational": {
-    "id": "2026-10-11-national-reforma-laboral-dos-fases",
-    "editionSlot": "midday",
-    "title": "El Gobierno prepara diez medidas laborales y deja la indemnización para una segunda fase",
-    "publishedAt": "2026-10-11T12:11:00-03:00",
-    "cutoffAt": "2026-10-11T12:00:00-03:00"
+    "id": "2026-10-12-national-ia-capacitacion-medicion",
+    "editionSlot": "morning",
+    "title": "Chile adopta IA por cuenta propia, sin medir aún su efecto real en el empleo",
+    "publishedAt": "2026-10-12T06:49:16-03:00",
+    "cutoffAt": "2026-10-12T06:20:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-11-markets-golfo-reaccion-riad",
-    "editionSlot": "midday",
-    "title": "La reacción al ataque de Riad lleva a Qatar a mínimos de 2020 y enfría al Golfo",
-    "publishedAt": "2026-10-11T12:11:00-03:00",
-    "cutoffAt": "2026-10-11T12:00:00-03:00"
+    "id": "2026-10-12-markets-petroleo-coberturas-inflacion",
+    "editionSlot": "morning",
+    "title": "El petróleo cede, pero el mercado no desarma la cobertura contra inflación",
+    "publishedAt": "2026-10-12T06:49:16-03:00",
+    "cutoffAt": "2026-10-12T06:27:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "editionSlot": "morning",
-    "generalId": "2026-10-11-daily-banco-mundial-prepara-ayuda-crisis",
+    "generalId": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
     "generalPublished": true,
-    "nationalId": "2026-10-11-national-presupuesto-inversion-ejecucion",
+    "nationalId": "2026-10-12-national-ia-capacitacion-medicion",
     "nationalPublished": true,
-    "marketsId": "2026-10-11-markets-energia-monedas-reservas",
+    "marketsId": "2026-10-12-markets-petroleo-coberturas-inflacion",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 75,
+    "daily": 76,
     "weekly": 4,
-    "national": 68,
-    "markets": 67,
+    "national": 69,
+    "markets": 68,
     "readings": 13,
-    "total": 227
+    "total": 230
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-11",
+    "asOf": "2026-10-12",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

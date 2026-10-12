@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T15:19:08.416Z",
+  "updatedAt": "2026-10-12T09:52:10.998Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -865,6 +865,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street%201.jpg?width=1280",
       "author": "Mike Peel",
       "license": "CC BY-SA 4.0"
+    },
+    "international:2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "alt": "Skyline financiero de Pudong en Shanghái, China.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20skyline%20Pudong.jpg?width=1280",
+      "author": "Ernest Jourdier",
+      "license": "CC BY 4.0"
+    },
+    "national:2026-10-12-national-ia-capacitacion-medicion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Santiago%20-%20Estaci%C3%B3n%20Escuela%20Militar.jpg?width=1280",
+      "alt": "Andén de la estación Escuela Militar del Metro de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Santiago%20-%20Estaci%C3%B3n%20Escuela%20Militar.jpg?width=1280",
+      "author": "Corsario CL",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-12-markets-petroleo-coberturas-inflacion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
