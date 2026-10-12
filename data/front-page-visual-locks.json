@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T09:58:02.291Z",
+  "updatedAt": "2026-10-12T15:14:50.932Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -887,6 +887,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-12-daily-india-padron-corte-suprema": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eccles%20Building%20(26088200676).jpg?width=1280",
+      "alt": "Entrada principal del edificio Marriner S. Eccles de la Reserva Federal en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eccles%20Building%20(26088200676).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-10-12-national-comercio-abre-feriado": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Seguridad%20en%20el%20mar%20-%20Flickr%20-%20moralescv.jpg?width=1280",
+      "alt": "Puerto de San Antonio, logística, comercio exterior o actividad portuaria en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Seguridad%20en%20el%20mar%20-%20Flickr%20-%20moralescv.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-12-markets-brent-revierte-wall-street": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

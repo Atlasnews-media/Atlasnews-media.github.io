@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94",
-  "buildCommit": "0fac2b9e44447ee5f32bcc948934e88412818f94",
+  "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
+  "buildCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
   "latestDaily": {
-    "id": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
-    "editionSlot": "morning",
+    "id": "2026-10-12-daily-india-padron-corte-suprema",
+    "editionSlot": "midday",
     "issueNumber": 71,
-    "title": "La IA sostiene el crecimiento mundial, pero abre una brecha laboral",
-    "publishedAt": "2026-10-12T06:49:16-03:00",
-    "cutoffAt": "2026-10-12T06:01:44-03:00"
+    "title": "India lleva a la Corte Suprema la disputa por 130 millones de bajas del padrón",
+    "publishedAt": "2026-10-12T12:10:26-03:00",
+    "cutoffAt": "2026-10-12T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-12-national-ia-capacitacion-medicion",
-    "editionSlot": "morning",
-    "title": "Chile adopta IA por cuenta propia, sin medir aún su efecto real en el empleo",
-    "publishedAt": "2026-10-12T06:49:16-03:00",
-    "cutoffAt": "2026-10-12T06:20:00-03:00"
+    "id": "2026-10-12-national-comercio-abre-feriado",
+    "editionSlot": "midday",
+    "title": "El comercio abre en el feriado del 12 de octubre por no ser irrenunciable",
+    "publishedAt": "2026-10-12T12:10:26-03:00",
+    "cutoffAt": "2026-10-12T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-12-markets-petroleo-coberturas-inflacion",
-    "editionSlot": "morning",
-    "title": "El petróleo cede, pero el mercado no desarma la cobertura contra inflación",
-    "publishedAt": "2026-10-12T06:49:16-03:00",
-    "cutoffAt": "2026-10-12T06:27:00-03:00"
+    "id": "2026-10-12-markets-brent-revierte-wall-street",
+    "editionSlot": "midday",
+    "title": "El Brent revierte la baja matinal y supera US$106 al abrir Wall Street",
+    "publishedAt": "2026-10-12T12:10:26-03:00",
+    "cutoffAt": "2026-10-12T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-12",
@@ -36,23 +36,23 @@
     "completeness": 3
   },
   "middayPackage": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "editionSlot": "midday",
-    "generalId": "2026-10-11-daily-tregua-energetica-rusia-ucrania",
+    "generalId": "2026-10-12-daily-india-padron-corte-suprema",
     "generalPublished": true,
-    "nationalId": "2026-10-11-national-reforma-laboral-dos-fases",
+    "nationalId": "2026-10-12-national-comercio-abre-feriado",
     "nationalPublished": true,
-    "marketsId": "2026-10-11-markets-golfo-reaccion-riad",
+    "marketsId": "2026-10-12-markets-brent-revierte-wall-street",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 76,
+    "daily": 77,
     "weekly": 4,
-    "national": 69,
-    "markets": 68,
+    "national": 70,
+    "markets": 69,
     "readings": 13,
-    "total": 230
+    "total": 233
   },
   "indicators": {
     "status": "stale",
