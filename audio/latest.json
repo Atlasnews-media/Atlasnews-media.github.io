@@ -1,14 +1,20 @@
 {
   "schemaVersion": 1,
-  "scriptVersion": 12,
+  "scriptVersion": 15,
+  "speechNormalizerVersion": 5,
+  "lexiconVersion": 3,
+  "lexiconRevision": 6,
+  "questionProsodyVersion": 2,
+  "coverRenderVersion": 3,
   "status": "published",
   "date": "2026-10-13",
   "title": "ATLAS NEWS — Resumen diario — martes 13 de octubre de 2026",
-  "summary": "Briefing de Portada por funciones editoriales: snapshot, señal central, Chile, lectura de mercados y variables a seguir.",
+  "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-13-resumen-diario.mp3",
-  "durationSeconds": 289.4,
+  "durationSeconds": 325.4,
   "durationLabel": "5 min",
-  "generatedAt": "2026-10-13T11:22:42.673048+00:00",
+  "bytes": 3905613,
+  "generatedAt": "2026-10-13T13:30:01.644537+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
@@ -18,5 +24,6 @@
     "general": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
     "national": "2026-10-13-national-mineria-precio-volumen",
     "markets": "2026-10-13-markets-chips-bonos-petroleo"
-  }
+  },
+  "sourceCommit": "ca7e2c8dfee7cfe2ae9d50a3bdb3ea3e4e84d1a6"
 }

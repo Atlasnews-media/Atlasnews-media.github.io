@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:16:39.670582+00:00",
-  "sourceCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
+  "generatedAt": "2026-10-13T13:30:01.644537+00:00",
+  "sourceCommit": "ca7e2c8dfee7cfe2ae9d50a3bdb3ea3e4e84d1a6",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -37,13 +37,49 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "status": "published",
+    "sourceId": "2026-10-13-national-mineria-precio-volumen",
+    "path": "/audio/2026-10-13-national-analysis.mp3",
+    "durationSeconds": 210.7,
+    "durationLabel": "4 min",
+    "bytes": 2528397,
+    "scriptVersion": 3,
+    "scriptHash": "d15059f385ea0b021ca5f34d53495d2c289797ae066b00bdff1b2cce118158d7",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   },
   "markets": {
-    "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "status": "published",
+    "sourceId": "2026-10-13-markets-chips-bonos-petroleo",
+    "path": "/audio/2026-10-13-markets-analysis.mp3",
+    "durationSeconds": 227.8,
+    "durationLabel": "4 min",
+    "bytes": 2734029,
+    "scriptVersion": 3,
+    "scriptHash": "43bf981189d8cb51e26136be775faa6d8980c39c03bdb26232b73ab180b2258f",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   }
 }
