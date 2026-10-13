@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T15:18:10.448809+00:00",
-  "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:16:39.670582+00:00",
+  "sourceCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -10,13 +10,13 @@
   "questionProsodyVersion": 2,
   "international": {
     "status": "published",
-    "sourceId": "2026-10-12-daily-india-padron-corte-suprema",
-    "path": "/audio/2026-10-12-international-analysis.mp3",
-    "durationSeconds": 142.7,
-    "durationLabel": "2 min",
-    "bytes": 1712781,
+    "sourceId": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
+    "path": "/audio/2026-10-13-international-analysis.mp3",
+    "durationSeconds": 155.1,
+    "durationLabel": "3 min",
+    "bytes": 1861965,
     "scriptVersion": 3,
-    "scriptHash": "84b9b53a7c0b784632be93bd522ed2e5a3c0cf8b95553d5c870dd0c5b1d92d06",
+    "scriptHash": "efd10a3a9a71cc34d5760f231be294963241052321a52aa26689a6e6da915d6d",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 6,
@@ -37,49 +37,13 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "published",
-    "sourceId": "2026-10-12-national-comercio-abre-feriado",
-    "path": "/audio/2026-10-12-national-analysis.mp3",
-    "durationSeconds": 283.7,
-    "durationLabel": "5 min",
-    "bytes": 3404781,
-    "scriptVersion": 3,
-    "scriptHash": "35480bb862fa80881d8db74817bb3ef619bc3e633a9ffe1f3664f125c4400b7c",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   },
   "markets": {
-    "status": "published",
-    "sourceId": "2026-10-12-markets-brent-revierte-wall-street",
-    "path": "/audio/2026-10-12-markets-analysis.mp3",
-    "durationSeconds": 351.2,
-    "durationLabel": "6 min",
-    "bytes": 4214925,
-    "scriptVersion": 3,
-    "scriptHash": "8f29760ae5e88793122cadbd6a730885552bb8b43a3679a8615b3a991f14d1ff",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   }
 }
