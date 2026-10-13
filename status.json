@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
-  "buildCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
+  "buildCommit": "0a379b78450cc3cabfafa119925ef14885241c3e",
   "latestDaily": {
     "id": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
     "editionSlot": "morning",
@@ -11,29 +11,29 @@
     "cutoffAt": "2026-10-13T06:32:29-03:00"
   },
   "latestNational": {
-    "id": "2026-10-12-national-comercio-abre-feriado",
-    "editionSlot": "midday",
-    "title": "El comercio abre en el feriado del 12 de octubre por no ser irrenunciable",
-    "publishedAt": "2026-10-12T12:10:26-03:00",
-    "cutoffAt": "2026-10-12T12:00:00-03:00"
+    "id": "2026-10-13-national-mineria-precio-volumen",
+    "editionSlot": "morning",
+    "title": "La caída minera chilena profundiza la brecha entre el precio del cobre y la actividad",
+    "publishedAt": "2026-10-13T07:36:09-03:00",
+    "cutoffAt": "2026-10-13T07:30:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-12-markets-brent-revierte-wall-street",
-    "editionSlot": "midday",
-    "title": "El Brent revierte la baja matinal y supera US$106 al abrir Wall Street",
-    "publishedAt": "2026-10-12T12:10:26-03:00",
-    "cutoffAt": "2026-10-12T12:00:00-03:00"
+    "id": "2026-10-13-markets-chips-bonos-petroleo",
+    "editionSlot": "morning",
+    "title": "La venta de semiconductores separa al mercado tecnológico del alivio en petróleo y bonos",
+    "publishedAt": "2026-10-13T07:36:09-03:00",
+    "cutoffAt": "2026-10-13T07:30:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-13",
     "editionSlot": "morning",
     "generalId": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
     "generalPublished": true,
-    "nationalId": null,
-    "nationalPublished": false,
-    "marketsId": null,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalId": "2026-10-13-national-mineria-precio-volumen",
+    "nationalPublished": true,
+    "marketsId": "2026-10-13-markets-chips-bonos-petroleo",
+    "marketsPublished": true,
+    "completeness": 3
   },
   "middayPackage": {
     "date": "2026-10-12",
@@ -49,10 +49,10 @@
   "publications": {
     "daily": 78,
     "weekly": 4,
-    "national": 70,
-    "markets": 69,
+    "national": 71,
+    "markets": 70,
     "readings": 13,
-    "total": 234
+    "total": 236
   },
   "indicators": {
     "status": "current",

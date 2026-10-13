@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T10:13:38.696Z",
+  "updatedAt": "2026-10-13T10:40:03.302Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -920,6 +920,22 @@
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
       "author": "Grubb",
+      "license": "Dominio público"
+    },
+    "national:2026-10-13-national-mineria-precio-volumen": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20Miners.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20Miners.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-13-markets-chips-bonos-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos visto desde Washington, D.C.",
+      "source": "Wikimedia Commons / U.S. Department of the Treasury",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "author": "U.S. Department of the Treasury",
       "license": "Dominio público"
     }
   }
