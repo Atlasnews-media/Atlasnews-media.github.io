@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
-  "buildCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
+  "buildCommit": "11374408d0fc853e081f3b080ed3368d4b68aa5b",
   "latestDaily": {
     "id": "2026-10-12-daily-india-padron-corte-suprema",
     "editionSlot": "midday",
@@ -55,8 +55,8 @@
     "total": 233
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-12",
+    "status": "current",
+    "asOf": "2026-10-13",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

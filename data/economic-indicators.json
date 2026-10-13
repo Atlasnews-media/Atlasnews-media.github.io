@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-10-12",
-  "fetchedAt": "2026-10-12T09:51:46.131Z",
-  "lastAttemptAt": "2026-10-12T15:19:30.498Z",
+  "status": "current",
+  "asOf": "2026-10-13",
+  "fetchedAt": "2026-10-13T09:41:08.679Z",
+  "lastAttemptAt": "2026-10-13T09:41:08.679Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,27 +11,31 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41146.83,
+      "value": 41152.13,
       "unit": "clp",
-      "effectiveDate": "2026-10-12"
+      "effectiveDate": "2026-10-13"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 981.61,
+      "value": 978.61,
       "unit": "clp",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-13",
+      "previousValue": 981.61,
+      "previousEffectiveDate": "2026-10-09",
+      "changePercent": -0.31,
+      "trend": "down"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1100.46,
+      "value": 1095.5,
       "unit": "clp",
-      "effectiveDate": "2026-10-09",
-      "previousValue": 1097.13,
-      "previousEffectiveDate": "2026-10-08",
-      "changePercent": 0.3,
-      "trend": "up"
+      "effectiveDate": "2026-10-13",
+      "previousValue": 1100.46,
+      "previousEffectiveDate": "2026-10-09",
+      "changePercent": -0.45,
+      "trend": "down"
     },
     {
       "code": "utm",
@@ -45,14 +49,18 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-13"
     },
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.61,
+      "value": 6.53,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-10-09"
+      "effectiveDate": "2026-10-13",
+      "previousValue": 6.61,
+      "previousEffectiveDate": "2026-10-09",
+      "changePercent": -1.21,
+      "trend": "down"
     }
   ]
 }
