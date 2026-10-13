@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2672481c8b85c779f504f8b606607eab97ab4c1b",
-  "buildCommit": "11374408d0fc853e081f3b080ed3368d4b68aa5b",
+  "sourceCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
+  "buildCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
   "latestDaily": {
-    "id": "2026-10-12-daily-india-padron-corte-suprema",
-    "editionSlot": "midday",
-    "issueNumber": 71,
-    "title": "India lleva a la Corte Suprema la disputa por 130 millones de bajas del padrón",
-    "publishedAt": "2026-10-12T12:10:26-03:00",
-    "cutoffAt": "2026-10-12T12:00:00-03:00"
+    "id": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
+    "editionSlot": "morning",
+    "issueNumber": 72,
+    "title": "El crecimiento global resiste, pero la brecha entre ganadores se amplía",
+    "publishedAt": "2026-10-13T07:10:39-03:00",
+    "cutoffAt": "2026-10-13T06:32:29-03:00"
   },
   "latestNational": {
     "id": "2026-10-12-national-comercio-abre-feriado",
@@ -25,15 +25,15 @@
     "cutoffAt": "2026-10-12T12:00:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "editionSlot": "morning",
-    "generalId": "2026-10-12-daily-ia-sostiene-crecimiento-brecha-laboral",
+    "generalId": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
     "generalPublished": true,
-    "nationalId": "2026-10-12-national-ia-capacitacion-medicion",
-    "nationalPublished": true,
-    "marketsId": "2026-10-12-markets-petroleo-coberturas-inflacion",
-    "marketsPublished": true,
-    "completeness": 3
+    "nationalId": null,
+    "nationalPublished": false,
+    "marketsId": null,
+    "marketsPublished": false,
+    "completeness": 1
   },
   "middayPackage": {
     "date": "2026-10-12",
@@ -47,12 +47,12 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 77,
+    "daily": 78,
     "weekly": 4,
     "national": 70,
     "markets": 69,
     "readings": 13,
-    "total": 233
+    "total": 234
   },
   "indicators": {
     "status": "current",

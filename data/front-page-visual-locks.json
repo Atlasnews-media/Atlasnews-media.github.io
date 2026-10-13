@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T09:41:31.773Z",
+  "updatedAt": "2026-10-13T10:13:38.696Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -913,6 +913,14 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "alt": "Refinería de petróleo de Mina Al-Ahmadi, Kuwait, iluminada durante la noche.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "author": "Grubb",
+      "license": "Dominio público"
     }
   }
 }
