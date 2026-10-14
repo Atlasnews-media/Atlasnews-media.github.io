@@ -55,8 +55,8 @@
     "total": 239
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-13",
+    "status": "current",
+    "asOf": "2026-10-14",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
