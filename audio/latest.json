@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-13",
-  "title": "ATLAS NEWS — Resumen diario — martes 13 de octubre de 2026",
+  "date": "2026-10-14",
+  "title": "ATLAS NEWS — Resumen diario — miércoles 14 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-13-resumen-diario.mp3",
-  "durationSeconds": 325.4,
+  "path": "/audio/2026-10-14-resumen-diario.mp3",
+  "durationSeconds": 322.0,
   "durationLabel": "5 min",
-  "bytes": 3905613,
-  "generatedAt": "2026-10-13T13:30:01.644537+00:00",
+  "bytes": 3864141,
+  "generatedAt": "2026-10-14T09:54:37.152656+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
-    "general": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
-    "national": "2026-10-13-national-mineria-precio-volumen",
-    "markets": "2026-10-13-markets-chips-bonos-petroleo"
+    "international": "2026-10-14-daily-diesel-escaso-hasta-2027",
+    "general": "2026-10-14-daily-diesel-escaso-hasta-2027",
+    "national": "2026-10-14-national-cobre-produccion-minera",
+    "markets": "2026-10-14-markets-chips-tasas-diesel"
   },
-  "sourceCommit": "ca7e2c8dfee7cfe2ae9d50a3bdb3ea3e4e84d1a6"
+  "sourceCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58"
 }
