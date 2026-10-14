@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-14-daily-diesel-escaso-hasta-2027.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-14-daily-diesel-escaso-hasta-2027/",
+  "childContainerIds": [
+    "18094863365386975",
+    "18094863383386975",
+    "18094863413386975",
+    "18094863437386975",
+    "18094863458386975"
+  ],
+  "carouselContainerId": "18094863476386975",
+  "mediaId": "18099725450305229",
+  "permalink": "https://www.instagram.com/p/DeeHQuxG0ol/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-14T09:57:15+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2879a9fc4ec846f706aa1412592a87741ad2ac58/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2879a9fc4ec846f706aa1412592a87741ad2ac58/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2879a9fc4ec846f706aa1412592a87741ad2ac58/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2879a9fc4ec846f706aa1412592a87741ad2ac58/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/2879a9fc4ec846f706aa1412592a87741ad2ac58/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38545796727",
+  "githubRunAttempt": "1",
+  "sourceCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58"
+}
