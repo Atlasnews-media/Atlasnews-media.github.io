@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9226db6d1634bcd704c41cc78251ac720d27e9a6",
-  "buildCommit": "152906f0fbb8c56f190f413c7bdd57bb648133ae",
+  "sourceCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58",
+  "buildCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58",
   "latestDaily": {
-    "id": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
+    "id": "2026-10-14-daily-diesel-escaso-hasta-2027",
     "editionSlot": "morning",
-    "issueNumber": 72,
-    "title": "El crecimiento global resiste, pero la brecha entre ganadores se amplía",
-    "publishedAt": "2026-10-13T07:10:39-03:00",
-    "cutoffAt": "2026-10-13T06:32:29-03:00"
+    "issueNumber": 73,
+    "title": "El diésel seguirá escaso hasta 2027 pese a la caída de la demanda",
+    "publishedAt": "2026-10-14T06:47:37-03:00",
+    "cutoffAt": "2026-10-14T06:06:15-03:00"
   },
   "latestNational": {
-    "id": "2026-10-13-national-mineria-precio-volumen",
+    "id": "2026-10-14-national-cobre-produccion-minera",
     "editionSlot": "morning",
-    "title": "La caída minera chilena profundiza la brecha entre el precio del cobre y la actividad",
-    "publishedAt": "2026-10-13T07:36:09-03:00",
-    "cutoffAt": "2026-10-13T07:30:00-03:00"
+    "title": "El cobre caro no compensa la caída de producción minera en Chile",
+    "publishedAt": "2026-10-14T06:47:37-03:00",
+    "cutoffAt": "2026-10-14T06:21:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-13-markets-chips-bonos-petroleo",
+    "id": "2026-10-14-markets-chips-tasas-diesel",
     "editionSlot": "morning",
-    "title": "La venta de semiconductores separa al mercado tecnológico del alivio en petróleo y bonos",
-    "publishedAt": "2026-10-13T07:36:09-03:00",
-    "cutoffAt": "2026-10-13T07:30:00-03:00"
+    "title": "El rebote de chips convive con una prima energética persistente",
+    "publishedAt": "2026-10-14T06:47:37-03:00",
+    "cutoffAt": "2026-10-14T06:29:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "editionSlot": "morning",
-    "generalId": "2026-10-13-daily-crecimiento-global-resiste-brecha-se-amplia",
+    "generalId": "2026-10-14-daily-diesel-escaso-hasta-2027",
     "generalPublished": true,
-    "nationalId": "2026-10-13-national-mineria-precio-volumen",
+    "nationalId": "2026-10-14-national-cobre-produccion-minera",
     "nationalPublished": true,
-    "marketsId": "2026-10-13-markets-chips-bonos-petroleo",
+    "marketsId": "2026-10-14-markets-chips-tasas-diesel",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,12 +47,12 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 78,
+    "daily": 79,
     "weekly": 4,
-    "national": 71,
-    "markets": 70,
+    "national": 72,
+    "markets": 71,
     "readings": 13,
-    "total": 236
+    "total": 239
   },
   "indicators": {
     "status": "stale",
