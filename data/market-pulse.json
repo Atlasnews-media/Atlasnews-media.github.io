@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "current",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-15T09:48:21.554Z",
+  "generatedAt": "2026-10-15T09:53:11.418Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -129,11 +129,11 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6153.1,
+      "value": 6152.87,
       "unit": "points",
       "changePercent": -1.37,
       "trend": "down",
-      "effectiveAt": "2026-10-15T09:33:15.000Z",
+      "effectiveAt": "2026-10-15T09:38:00.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
@@ -148,7 +148,7 @@
       "unit": "points",
       "changePercent": -0.99,
       "trend": "down",
-      "effectiveAt": "2026-10-15T09:48:20.910Z",
+      "effectiveAt": "2026-10-15T09:53:01.666Z",
       "provider": "diario-financiero-public",
       "sourceUrl": "https://www.df.cl/marketdata/bolsas",
       "status": "current",
@@ -174,11 +174,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 104.08,
+      "value": 104.14,
       "unit": "usd-per-barrel",
-      "changePercent": 3.75,
+      "changePercent": 3.81,
       "trend": "up",
-      "effectiveAt": "2026-10-15T09:38:00.000Z",
+      "effectiveAt": "2026-10-15T09:42:59.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -189,11 +189,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4179.9,
+      "value": 4180.1,
       "unit": "usd-per-ounce",
       "changePercent": 0.56,
       "trend": "up",
-      "effectiveAt": "2026-10-15T09:38:15.000Z",
+      "effectiveAt": "2026-10-15T09:42:59.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -234,11 +234,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81161,
+      "value": 81193,
       "unit": "usd",
-      "changePercent": -2.44,
+      "changePercent": -2.42,
       "trend": "down",
-      "effectiveAt": "2026-10-15T09:48:21.554Z",
+      "effectiveAt": "2026-10-15T09:53:11.418Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -259,7 +259,7 @@
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-15T09:48:23.309Z",
+  "historyGeneratedAt": "2026-10-15T09:53:21.686Z",
   "history": [
     {
       "id": "usdclp",
@@ -381,7 +381,7 @@
         { "date": "2026-10-12", "value": 106.6500015258789 },
         { "date": "2026-10-13", "value": 105.69000244140625 },
         { "date": "2026-10-14", "value": 106.05999755859375 },
-        { "date": "2026-10-15", "value": 104.08000183105469 }
+        { "date": "2026-10-15", "value": 104.11000061035156 }
       ]
     }
   ],
@@ -411,6 +411,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-15T09:48:23.467Z",
+  "freshnessCheckedAt": "2026-10-15T09:53:22.136Z",
   "freshnessPolicy": "intraday-v2"
 }
