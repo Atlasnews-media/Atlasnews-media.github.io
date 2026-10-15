@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-14",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 14 de octubre de 2026",
+  "date": "2026-10-15",
+  "title": "ATLAS NEWS — Resumen diario — jueves 15 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-14-resumen-diario.mp3",
-  "durationSeconds": 322.0,
+  "path": "/audio/2026-10-15-resumen-diario.mp3",
+  "durationSeconds": 323.9,
   "durationLabel": "5 min",
-  "bytes": 3864141,
-  "generatedAt": "2026-10-14T09:54:37.152656+00:00",
+  "bytes": 3887181,
+  "generatedAt": "2026-10-15T09:52:09.198968+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-14-daily-diesel-escaso-hasta-2027",
-    "general": "2026-10-14-daily-diesel-escaso-hasta-2027",
-    "national": "2026-10-14-national-cobre-produccion-minera",
-    "markets": "2026-10-14-markets-chips-tasas-diesel"
+    "international": "2026-10-15-daily-ue-defensa-comercial-china",
+    "general": "2026-10-15-daily-ue-defensa-comercial-china",
+    "national": "2026-10-15-national-credito-inversion",
+    "markets": "2026-10-15-markets-deuda-ia"
   },
-  "sourceCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58"
+  "sourceCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8"
 }
