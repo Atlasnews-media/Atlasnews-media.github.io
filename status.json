@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58",
-  "buildCommit": "2879a9fc4ec846f706aa1412592a87741ad2ac58",
+  "sourceCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8",
+  "buildCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8",
   "latestDaily": {
-    "id": "2026-10-14-daily-diesel-escaso-hasta-2027",
+    "id": "2026-10-15-daily-ue-defensa-comercial-china",
     "editionSlot": "morning",
-    "issueNumber": 73,
-    "title": "El diésel seguirá escaso hasta 2027 pese a la caída de la demanda",
-    "publishedAt": "2026-10-14T06:47:37-03:00",
-    "cutoffAt": "2026-10-14T06:06:15-03:00"
+    "issueNumber": 74,
+    "title": "La UE prepara una defensa comercial más amplia frente a China",
+    "publishedAt": "2026-10-15T06:45:36-03:00",
+    "cutoffAt": "2026-10-15T05:59:51-03:00"
   },
   "latestNational": {
-    "id": "2026-10-14-national-cobre-produccion-minera",
+    "id": "2026-10-15-national-credito-inversion",
     "editionSlot": "morning",
-    "title": "El cobre caro no compensa la caída de producción minera en Chile",
-    "publishedAt": "2026-10-14T06:47:37-03:00",
-    "cutoffAt": "2026-10-14T06:21:00-03:00"
+    "title": "El crédito mejora antes que la inversión efectiva en Chile",
+    "publishedAt": "2026-10-15T06:45:36-03:00",
+    "cutoffAt": "2026-10-15T06:25:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-14-markets-chips-tasas-diesel",
+    "id": "2026-10-15-markets-deuda-ia",
     "editionSlot": "morning",
-    "title": "El rebote de chips convive con una prima energética persistente",
-    "publishedAt": "2026-10-14T06:47:37-03:00",
-    "cutoffAt": "2026-10-14T06:29:00-03:00"
+    "title": "La deuda redefine el precio del crecimiento ligado a la IA",
+    "publishedAt": "2026-10-15T06:45:36-03:00",
+    "cutoffAt": "2026-10-15T06:32:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "editionSlot": "morning",
-    "generalId": "2026-10-14-daily-diesel-escaso-hasta-2027",
+    "generalId": "2026-10-15-daily-ue-defensa-comercial-china",
     "generalPublished": true,
-    "nationalId": "2026-10-14-national-cobre-produccion-minera",
+    "nationalId": "2026-10-15-national-credito-inversion",
     "nationalPublished": true,
-    "marketsId": "2026-10-14-markets-chips-tasas-diesel",
+    "marketsId": "2026-10-15-markets-deuda-ia",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 79,
+    "daily": 80,
     "weekly": 4,
-    "national": 72,
-    "markets": 71,
+    "national": 73,
+    "markets": 72,
     "readings": 13,
-    "total": 239
+    "total": 242
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-14",
+    "asOf": "2026-10-15",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

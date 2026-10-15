@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T09:58:16.733Z",
+  "updatedAt": "2026-10-15T09:48:51.524Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -961,6 +961,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-15-daily-ue-defensa-comercial-china": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "alt": "Soldados durante una operación de seguridad y asistencia humanitaria.",
+      "source": "Wikimedia Commons / U.S. Department of Defense",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "author": "Spc. Olanrewaju Akinwunmi",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-10-15-national-credito-inversion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20Skyline.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-15-markets-deuda-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en Washington durante una sesión de política monetaria.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
     }
   }
 }
