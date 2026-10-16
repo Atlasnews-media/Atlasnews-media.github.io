@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278",
-  "buildCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278",
+  "buildCommit": "922b7fbcba482bb038fc698918202d5287de656e",
   "latestDaily": {
     "id": "2026-10-16-daily-europa-ucrania-guerra-energetica",
     "editionSlot": "morning",
@@ -51,11 +51,11 @@
     "weekly": 4,
     "national": 74,
     "markets": 73,
-    "readings": 13,
-    "total": 245
+    "readings": 14,
+    "total": 246
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
