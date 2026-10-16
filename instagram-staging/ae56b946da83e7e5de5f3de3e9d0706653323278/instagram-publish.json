@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-16-daily-europa-ucrania-guerra-energetica.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-16-daily-europa-ucrania-guerra-energetica/",
+  "childContainerIds": [
+    "18095322797386975",
+    "18095322821386975",
+    "18095322842386975",
+    "18095322860386975",
+    "18095322884386975"
+  ],
+  "carouselContainerId": "18095322905386975",
+  "mediaId": "17974076193209001",
+  "permalink": "https://www.instagram.com/p/DejQh19nMCj/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-16T09:54:25+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ae56b946da83e7e5de5f3de3e9d0706653323278/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ae56b946da83e7e5de5f3de3e9d0706653323278/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ae56b946da83e7e5de5f3de3e9d0706653323278/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ae56b946da83e7e5de5f3de3e9d0706653323278/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ae56b946da83e7e5de5f3de3e9d0706653323278/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "38883423631",
+  "githubRunAttempt": "1",
+  "sourceCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278"
+}
