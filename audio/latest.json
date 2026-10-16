@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-15",
-  "title": "ATLAS NEWS — Resumen diario — jueves 15 de octubre de 2026",
+  "date": "2026-10-16",
+  "title": "ATLAS NEWS — Resumen diario — viernes 16 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-15-resumen-diario.mp3",
-  "durationSeconds": 323.9,
-  "durationLabel": "5 min",
-  "bytes": 3887181,
-  "generatedAt": "2026-10-15T09:52:09.198968+00:00",
+  "path": "/audio/2026-10-16-resumen-diario.mp3",
+  "durationSeconds": 338.8,
+  "durationLabel": "6 min",
+  "bytes": 4065453,
+  "generatedAt": "2026-10-16T09:52:30.994052+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-15-daily-ue-defensa-comercial-china",
-    "general": "2026-10-15-daily-ue-defensa-comercial-china",
-    "national": "2026-10-15-national-credito-inversion",
-    "markets": "2026-10-15-markets-deuda-ia"
+    "international": "2026-10-16-daily-europa-ucrania-guerra-energetica",
+    "general": "2026-10-16-daily-europa-ucrania-guerra-energetica",
+    "national": "2026-10-16-national-cobre-riesgo-laboral",
+    "markets": "2026-10-16-markets-rebote-concentracion"
   },
-  "sourceCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8"
+  "sourceCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278"
 }
