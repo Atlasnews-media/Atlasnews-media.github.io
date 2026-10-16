@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T09:53:42.269Z",
+  "updatedAt": "2026-10-16T09:49:50.485Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -985,6 +985,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-10-16-daily-europa-ucrania-guerra-energetica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "alt": "Refinería de petróleo de Mina Al-Ahmadi, Kuwait, iluminada durante la noche.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "author": "Grubb",
+      "license": "Dominio público"
+    },
+    "national:2026-10-16-national-cobre-riesgo-laboral": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-16-markets-rebote-concentracion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

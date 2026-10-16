@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8",
-  "buildCommit": "0640daa1fb12b5d79aff55575f6d2a6753cc9ed8",
+  "sourceCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278",
+  "buildCommit": "ae56b946da83e7e5de5f3de3e9d0706653323278",
   "latestDaily": {
-    "id": "2026-10-15-daily-ue-defensa-comercial-china",
+    "id": "2026-10-16-daily-europa-ucrania-guerra-energetica",
     "editionSlot": "morning",
-    "issueNumber": 74,
-    "title": "La UE prepara una defensa comercial más amplia frente a China",
-    "publishedAt": "2026-10-15T06:45:36-03:00",
-    "cutoffAt": "2026-10-15T05:59:51-03:00"
+    "issueNumber": 75,
+    "title": "Europa sostiene a Ucrania mientras Washington cuestiona su guerra energética",
+    "publishedAt": "2026-10-16T06:46:48-03:00",
+    "cutoffAt": "2026-10-16T06:05:41-03:00"
   },
   "latestNational": {
-    "id": "2026-10-15-national-credito-inversion",
+    "id": "2026-10-16-national-cobre-riesgo-laboral",
     "editionSlot": "morning",
-    "title": "El crédito mejora antes que la inversión efectiva en Chile",
-    "publishedAt": "2026-10-15T06:45:36-03:00",
-    "cutoffAt": "2026-10-15T06:25:00-03:00"
+    "title": "El riesgo laboral del cobre se concentra en Centinela",
+    "publishedAt": "2026-10-16T06:46:48-03:00",
+    "cutoffAt": "2026-10-16T06:24:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-15-markets-deuda-ia",
+    "id": "2026-10-16-markets-rebote-concentracion",
     "editionSlot": "morning",
-    "title": "La deuda redefine el precio del crecimiento ligado a la IA",
-    "publishedAt": "2026-10-15T06:45:36-03:00",
-    "cutoffAt": "2026-10-15T06:32:00-03:00"
+    "title": "El rebote asiático no elimina la prima por concentración",
+    "publishedAt": "2026-10-16T06:46:48-03:00",
+    "cutoffAt": "2026-10-16T06:33:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "editionSlot": "morning",
-    "generalId": "2026-10-15-daily-ue-defensa-comercial-china",
+    "generalId": "2026-10-16-daily-europa-ucrania-guerra-energetica",
     "generalPublished": true,
-    "nationalId": "2026-10-15-national-credito-inversion",
+    "nationalId": "2026-10-16-national-cobre-riesgo-laboral",
     "nationalPublished": true,
-    "marketsId": "2026-10-15-markets-deuda-ia",
+    "marketsId": "2026-10-16-markets-rebote-concentracion",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 80,
+    "daily": 81,
     "weekly": 4,
-    "national": 73,
-    "markets": 72,
+    "national": 74,
+    "markets": 73,
     "readings": 13,
-    "total": 242
+    "total": 245
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-15",
+    "asOf": "2026-10-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
