@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-17-daily-eeuu-sanciones-rusia-energia.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-17-daily-eeuu-sanciones-rusia-energia/",
+  "childContainerIds": [
+    "18095567411386975",
+    "18095567432386975",
+    "18095567450386975",
+    "18095567468386975",
+    "18095567516386975"
+  ],
+  "carouselContainerId": "18095567537386975",
+  "mediaId": "18192708790405720",
+  "permalink": "https://www.instagram.com/p/Del1MEKFt2Y/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-17T09:53:13+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3e471a0d09810f8a1a044bb15f477c25f582b6e8/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3e471a0d09810f8a1a044bb15f477c25f582b6e8/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3e471a0d09810f8a1a044bb15f477c25f582b6e8/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3e471a0d09810f8a1a044bb15f477c25f582b6e8/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3e471a0d09810f8a1a044bb15f477c25f582b6e8/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39022671403",
+  "githubRunAttempt": "1",
+  "sourceCommit": "3e471a0d09810f8a1a044bb15f477c25f582b6e8"
+}
