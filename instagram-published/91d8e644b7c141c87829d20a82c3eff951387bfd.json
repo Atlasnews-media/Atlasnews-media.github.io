@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-18-daily-china-control-tecnologia-critica.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-18-daily-china-control-tecnologia-critica/",
+  "childContainerIds": [
+    "18095806295386975",
+    "18095806313386975",
+    "18095806334386975",
+    "18095806358386975",
+    "18095806379386975"
+  ],
+  "carouselContainerId": "18095806406386975",
+  "mediaId": "18138911218729873",
+  "permalink": "https://www.instagram.com/p/DeoaeitlZkG/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-18T09:57:33+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/91d8e644b7c141c87829d20a82c3eff951387bfd/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/91d8e644b7c141c87829d20a82c3eff951387bfd/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/91d8e644b7c141c87829d20a82c3eff951387bfd/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/91d8e644b7c141c87829d20a82c3eff951387bfd/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/91d8e644b7c141c87829d20a82c3eff951387bfd/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39117250936",
+  "githubRunAttempt": "1",
+  "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd"
+}
