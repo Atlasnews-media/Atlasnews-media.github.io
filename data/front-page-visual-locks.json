@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T09:54:09.430Z",
+  "updatedAt": "2026-10-18T09:53:33.589Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1031,6 +1031,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CP%20FOMC%20Group%207.5x10%2011142022%20DSCF5769%20(52563724010).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-18-daily-china-control-tecnologia-critica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-18-national-centinela-acuerdo-ratificado": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escond-swir%20(ASTER).jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escond-swir%20(ASTER).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-18-markets-solar-energia-cobre-apertura": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

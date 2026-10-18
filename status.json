@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3e471a0d09810f8a1a044bb15f477c25f582b6e8",
-  "buildCommit": "3e471a0d09810f8a1a044bb15f477c25f582b6e8",
+  "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd",
+  "buildCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd",
   "latestDaily": {
-    "id": "2026-10-17-daily-eeuu-sanciones-rusia-energia",
+    "id": "2026-10-18-daily-china-control-tecnologia-critica",
     "editionSlot": "morning",
-    "issueNumber": 76,
-    "title": "Washington prioriza el precio de la energía y reduce la presión sobre Rusia",
-    "publishedAt": "2026-10-17T06:45:49-03:00",
-    "cutoffAt": "2026-10-17T06:00:24-03:00"
+    "issueNumber": 77,
+    "title": "China amplía la disputa industrial al control de tecnología crítica",
+    "publishedAt": "2026-10-18T06:49:39-03:00",
+    "cutoffAt": "2026-10-18T06:07:43-03:00"
   },
   "latestNational": {
-    "id": "2026-10-17-national-centinela-preacuerdo",
+    "id": "2026-10-18-national-centinela-acuerdo-ratificado",
     "editionSlot": "morning",
-    "title": "Centinela descomprime el riesgo laboral, pero la ratificación sigue pendiente",
-    "publishedAt": "2026-10-17T06:45:49-03:00",
-    "cutoffAt": "2026-10-17T06:18:00-03:00"
+    "title": "Centinela cierra la huelga y retira un riesgo adicional para la oferta de cobre",
+    "publishedAt": "2026-10-18T06:49:39-03:00",
+    "cutoffAt": "2026-10-18T06:23:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-17-markets-ia-petroleo-costo-capital",
+    "id": "2026-10-18-markets-solar-energia-cobre-apertura",
     "editionSlot": "morning",
-    "title": "El costo del capital rompe la uniformidad del rally de inteligencia artificial",
-    "publishedAt": "2026-10-17T06:45:49-03:00",
-    "cutoffAt": "2026-10-17T06:26:00-03:00"
+    "title": "Tecnología solar, energía y cobre acumulan señales para la apertura del lunes",
+    "publishedAt": "2026-10-18T06:49:39-03:00",
+    "cutoffAt": "2026-10-18T06:29:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "editionSlot": "morning",
-    "generalId": "2026-10-17-daily-eeuu-sanciones-rusia-energia",
+    "generalId": "2026-10-18-daily-china-control-tecnologia-critica",
     "generalPublished": true,
-    "nationalId": "2026-10-17-national-centinela-preacuerdo",
+    "nationalId": "2026-10-18-national-centinela-acuerdo-ratificado",
     "nationalPublished": true,
-    "marketsId": "2026-10-17-markets-ia-petroleo-costo-capital",
+    "marketsId": "2026-10-18-markets-solar-energia-cobre-apertura",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -47,16 +47,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 82,
+    "daily": 83,
     "weekly": 4,
-    "national": 75,
-    "markets": 74,
+    "national": 76,
+    "markets": 75,
     "readings": 14,
-    "total": 249
+    "total": 252
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-17",
+    "asOf": "2026-10-18",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
