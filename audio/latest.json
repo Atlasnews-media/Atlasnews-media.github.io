@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-17",
-  "title": "ATLAS NEWS — Resumen diario — sábado 17 de octubre de 2026",
+  "date": "2026-10-18",
+  "title": "ATLAS NEWS — Resumen diario — domingo 18 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-17-resumen-diario.mp3",
-  "durationSeconds": 328.2,
-  "durationLabel": "5 min",
-  "bytes": 3938445,
-  "generatedAt": "2026-10-17T09:51:58.408050+00:00",
+  "path": "/audio/2026-10-18-resumen-diario.mp3",
+  "durationSeconds": 338.6,
+  "durationLabel": "6 min",
+  "bytes": 4063149,
+  "generatedAt": "2026-10-18T09:56:22.858030+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-17-daily-eeuu-sanciones-rusia-energia",
-    "general": "2026-10-17-daily-eeuu-sanciones-rusia-energia",
-    "national": "2026-10-17-national-centinela-preacuerdo",
-    "markets": "2026-10-17-markets-ia-petroleo-costo-capital"
+    "international": "2026-10-18-daily-china-control-tecnologia-critica",
+    "general": "2026-10-18-daily-china-control-tecnologia-critica",
+    "national": "2026-10-18-national-centinela-acuerdo-ratificado",
+    "markets": "2026-10-18-markets-solar-energia-cobre-apertura"
   },
-  "sourceCommit": "3e471a0d09810f8a1a044bb15f477c25f582b6e8"
+  "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd"
 }
