@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd",
-  "buildCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd",
+  "buildCommit": "de3888ff1c6b6a69cab55c3172c7e4759539aa14",
   "latestDaily": {
     "id": "2026-10-18-daily-china-control-tecnologia-critica",
     "editionSlot": "morning",
@@ -46,6 +46,7 @@
     "marketsPublished": true,
     "completeness": 3
   },
+  "eveningPackage": null,
   "publications": {
     "daily": 83,
     "weekly": 4,
