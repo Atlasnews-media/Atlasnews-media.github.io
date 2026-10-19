@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd",
-  "buildCommit": "de3888ff1c6b6a69cab55c3172c7e4759539aa14",
+  "sourceCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb",
+  "buildCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb",
   "latestDaily": {
-    "id": "2026-10-18-daily-china-control-tecnologia-critica",
+    "id": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
     "editionSlot": "morning",
-    "issueNumber": 77,
-    "title": "China amplía la disputa industrial al control de tecnología crítica",
-    "publishedAt": "2026-10-18T06:49:39-03:00",
-    "cutoffAt": "2026-10-18T06:07:43-03:00"
+    "issueNumber": 78,
+    "title": "China acelera, pero profundiza su dependencia de las exportaciones",
+    "publishedAt": "2026-10-19T06:45:38-03:00",
+    "cutoffAt": "2026-10-19T06:03:49-03:00"
   },
   "latestNational": {
-    "id": "2026-10-18-national-centinela-acuerdo-ratificado",
+    "id": "2026-10-19-national-centinela-cierra-huelga",
     "editionSlot": "morning",
-    "title": "Centinela cierra la huelga y retira un riesgo adicional para la oferta de cobre",
-    "publishedAt": "2026-10-18T06:49:39-03:00",
-    "cutoffAt": "2026-10-18T06:23:00-03:00"
+    "title": "Centinela cierra la huelga sin pérdida de producción",
+    "publishedAt": "2026-10-19T06:45:38-03:00",
+    "cutoffAt": "2026-10-19T06:25:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-18-markets-solar-energia-cobre-apertura",
+    "id": "2026-10-19-markets-bonos-futuros-respiran",
     "editionSlot": "morning",
-    "title": "Tecnología solar, energía y cobre acumulan señales para la apertura del lunes",
-    "publishedAt": "2026-10-18T06:49:39-03:00",
-    "cutoffAt": "2026-10-18T06:29:00-03:00"
+    "title": "Bonos y futuros respiran, pero Asia castiga el costo de la IA",
+    "publishedAt": "2026-10-19T06:45:38-03:00",
+    "cutoffAt": "2026-10-19T06:31:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "editionSlot": "morning",
-    "generalId": "2026-10-18-daily-china-control-tecnologia-critica",
+    "generalId": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
     "generalPublished": true,
-    "nationalId": "2026-10-18-national-centinela-acuerdo-ratificado",
+    "nationalId": "2026-10-19-national-centinela-cierra-huelga",
     "nationalPublished": true,
-    "marketsId": "2026-10-18-markets-solar-energia-cobre-apertura",
+    "marketsId": "2026-10-19-markets-bonos-futuros-respiran",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -48,16 +48,16 @@
   },
   "eveningPackage": null,
   "publications": {
-    "daily": 83,
+    "daily": 84,
     "weekly": 4,
-    "national": 76,
-    "markets": 75,
+    "national": 77,
+    "markets": 76,
     "readings": 14,
-    "total": 252
+    "total": 255
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-18",
+    "asOf": "2026-10-19",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
