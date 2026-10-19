@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-18",
-  "title": "ATLAS NEWS — Resumen diario — domingo 18 de octubre de 2026",
+  "date": "2026-10-19",
+  "title": "ATLAS NEWS — Resumen diario — lunes 19 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-18-resumen-diario.mp3",
-  "durationSeconds": 338.6,
+  "path": "/audio/2026-10-19-resumen-diario.mp3",
+  "durationSeconds": 339.5,
   "durationLabel": "6 min",
-  "bytes": 4063149,
-  "generatedAt": "2026-10-18T09:56:22.858030+00:00",
+  "bytes": 4074669,
+  "generatedAt": "2026-10-19T09:51:26.089833+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-18-daily-china-control-tecnologia-critica",
-    "general": "2026-10-18-daily-china-control-tecnologia-critica",
-    "national": "2026-10-18-national-centinela-acuerdo-ratificado",
-    "markets": "2026-10-18-markets-solar-energia-cobre-apertura"
+    "international": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
+    "general": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
+    "national": "2026-10-19-national-centinela-cierra-huelga",
+    "markets": "2026-10-19-markets-bonos-futuros-respiran"
   },
-  "sourceCommit": "91d8e644b7c141c87829d20a82c3eff951387bfd"
+  "sourceCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb"
 }
