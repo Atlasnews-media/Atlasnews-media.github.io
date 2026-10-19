@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-19-daily-china-crece-exportaciones-consumo-rezagado.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-19-daily-china-crece-exportaciones-consumo-rezagado/",
+  "childContainerIds": [
+    "18096034550386975",
+    "18096034568386975",
+    "18096034589386975",
+    "18096034613386975",
+    "18096034667386975"
+  ],
+  "carouselContainerId": "18096034697386975",
+  "mediaId": "17963872014216026",
+  "permalink": "https://www.instagram.com/p/Deq-wMZFtDO/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-19T09:53:01+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39233125142",
+  "githubRunAttempt": "1",
+  "sourceCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb"
+}
