@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-20-daily-energia-reordena-politica-europea.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-20-daily-energia-reordena-politica-europea/",
+  "childContainerIds": [
+    "18096255530386975",
+    "18096255557386975",
+    "18096255581386975",
+    "18096255599386975",
+    "18096255620386975"
+  ],
+  "carouselContainerId": "18096255638386975",
+  "mediaId": "18167895901469113",
+  "permalink": "https://www.instagram.com/p/DetjPM1lRh3/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-20T09:50:19+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/b88447b7a1ee205feac89a8dcffa0fc2543b7615/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/b88447b7a1ee205feac89a8dcffa0fc2543b7615/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/b88447b7a1ee205feac89a8dcffa0fc2543b7615/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/b88447b7a1ee205feac89a8dcffa0fc2543b7615/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/b88447b7a1ee205feac89a8dcffa0fc2543b7615/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39403350250",
+  "githubRunAttempt": "1",
+  "sourceCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615"
+}
