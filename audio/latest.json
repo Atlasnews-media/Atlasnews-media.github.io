@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — martes 20 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-20-resumen-diario.mp3",
-  "durationSeconds": 318.5,
+  "durationSeconds": 322.9,
   "durationLabel": "5 min",
-  "bytes": 3822669,
-  "generatedAt": "2026-10-20T09:48:48.113211+00:00",
+  "bytes": 3875373,
+  "generatedAt": "2026-10-20T16:17:40.403839+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-20-daily-energia-reordena-politica-europea",
-    "general": "2026-10-20-daily-energia-reordena-politica-europea",
-    "national": "2026-10-20-national-reconstruccion-vigencia-escalonada",
-    "markets": "2026-10-20-markets-petroleo-ia-refugios"
+    "international": "2026-10-20-daily-china-responde-veto-deepseek",
+    "general": "2026-10-20-daily-china-responde-veto-deepseek",
+    "national": "2026-10-20-national-afp-procesos-sancionatorios",
+    "markets": "2026-10-20-markets-wall-street-reversion-petroleo"
   },
-  "sourceCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615"
+  "sourceCommit": "ff5b13fa99c8885c986bd6a20368079096f11fdf"
 }
