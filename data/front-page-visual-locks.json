@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T09:51:16.970Z",
+  "updatedAt": "2026-10-20T16:14:30.501Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1103,6 +1103,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-20-daily-china-responde-veto-deepseek": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-20-national-afp-procesos-sancionatorios": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "alt": "Plaza de la Constitución y edificios del centro cívico de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "author": "Usuario de Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-20-markets-wall-street-reversion-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

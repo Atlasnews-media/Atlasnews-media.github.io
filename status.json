@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615",
-  "buildCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615",
+  "sourceCommit": "ff5b13fa99c8885c986bd6a20368079096f11fdf",
+  "buildCommit": "ff5b13fa99c8885c986bd6a20368079096f11fdf",
   "latestDaily": {
-    "id": "2026-10-20-daily-energia-reordena-politica-europea",
-    "editionSlot": "morning",
+    "id": "2026-10-20-daily-china-responde-veto-deepseek",
+    "editionSlot": "evening",
     "issueNumber": 79,
-    "title": "El shock energético se convierte en riesgo político para Europa",
-    "publishedAt": "2026-10-20T06:42:55-03:00",
-    "cutoffAt": "2026-10-20T06:02:32-03:00"
+    "title": "China exige revocar el veto a DeepSeek y amenaza con responder",
+    "publishedAt": "2026-10-20T13:08:45-03:00",
+    "cutoffAt": "2026-10-20T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-20-national-reconstruccion-vigencia-escalonada",
-    "editionSlot": "morning",
-    "title": "La reconstrucción entra en vigor, pero sus incentivos llegan por etapas",
-    "publishedAt": "2026-10-20T06:42:55-03:00",
-    "cutoffAt": "2026-10-20T06:27:00-03:00"
+    "id": "2026-10-20-national-afp-procesos-sancionatorios",
+    "editionSlot": "evening",
+    "title": "Pensiones abre procesos contra las siete AFP por las pérdidas de los fondos D y E",
+    "publishedAt": "2026-10-20T13:08:45-03:00",
+    "cutoffAt": "2026-10-20T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-20-markets-petroleo-ia-refugios",
-    "editionSlot": "morning",
-    "title": "El petróleo y la duda sobre la IA fragmentan el refugio",
-    "publishedAt": "2026-10-20T06:42:55-03:00",
-    "cutoffAt": "2026-10-20T06:35:30-03:00"
+    "id": "2026-10-20-markets-wall-street-reversion-petroleo",
+    "editionSlot": "evening",
+    "title": "Wall Street revierte la cautela: cae el petróleo y el S&P 500 sube 0,7%",
+    "publishedAt": "2026-10-20T13:08:45-03:00",
+    "cutoffAt": "2026-10-20T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-20",
@@ -46,17 +46,27 @@
     "marketsPublished": true,
     "completeness": 3
   },
-  "eveningPackage": null,
+  "eveningPackage": {
+    "date": "2026-10-20",
+    "editionSlot": "evening",
+    "generalId": "2026-10-20-daily-china-responde-veto-deepseek",
+    "generalPublished": true,
+    "nationalId": "2026-10-20-national-afp-procesos-sancionatorios",
+    "nationalPublished": true,
+    "marketsId": "2026-10-20-markets-wall-street-reversion-petroleo",
+    "marketsPublished": true,
+    "completeness": 3
+  },
   "publications": {
-    "daily": 85,
+    "daily": 86,
     "weekly": 4,
-    "national": 78,
-    "markets": 77,
+    "national": 79,
+    "markets": 78,
     "readings": 14,
-    "total": 258
+    "total": 261
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
