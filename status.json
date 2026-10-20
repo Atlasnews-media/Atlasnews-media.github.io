@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb",
-  "buildCommit": "4afafea4078ecbf8a058b19fcc114ce9f9a8c0cb",
+  "sourceCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615",
+  "buildCommit": "b88447b7a1ee205feac89a8dcffa0fc2543b7615",
   "latestDaily": {
-    "id": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
+    "id": "2026-10-20-daily-energia-reordena-politica-europea",
     "editionSlot": "morning",
-    "issueNumber": 78,
-    "title": "China acelera, pero profundiza su dependencia de las exportaciones",
-    "publishedAt": "2026-10-19T06:45:38-03:00",
-    "cutoffAt": "2026-10-19T06:03:49-03:00"
+    "issueNumber": 79,
+    "title": "El shock energético se convierte en riesgo político para Europa",
+    "publishedAt": "2026-10-20T06:42:55-03:00",
+    "cutoffAt": "2026-10-20T06:02:32-03:00"
   },
   "latestNational": {
-    "id": "2026-10-19-national-centinela-cierra-huelga",
+    "id": "2026-10-20-national-reconstruccion-vigencia-escalonada",
     "editionSlot": "morning",
-    "title": "Centinela cierra la huelga sin pérdida de producción",
-    "publishedAt": "2026-10-19T06:45:38-03:00",
-    "cutoffAt": "2026-10-19T06:25:00-03:00"
+    "title": "La reconstrucción entra en vigor, pero sus incentivos llegan por etapas",
+    "publishedAt": "2026-10-20T06:42:55-03:00",
+    "cutoffAt": "2026-10-20T06:27:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-19-markets-bonos-futuros-respiran",
+    "id": "2026-10-20-markets-petroleo-ia-refugios",
     "editionSlot": "morning",
-    "title": "Bonos y futuros respiran, pero Asia castiga el costo de la IA",
-    "publishedAt": "2026-10-19T06:45:38-03:00",
-    "cutoffAt": "2026-10-19T06:31:00-03:00"
+    "title": "El petróleo y la duda sobre la IA fragmentan el refugio",
+    "publishedAt": "2026-10-20T06:42:55-03:00",
+    "cutoffAt": "2026-10-20T06:35:30-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "editionSlot": "morning",
-    "generalId": "2026-10-19-daily-china-crece-exportaciones-consumo-rezagado",
+    "generalId": "2026-10-20-daily-energia-reordena-politica-europea",
     "generalPublished": true,
-    "nationalId": "2026-10-19-national-centinela-cierra-huelga",
+    "nationalId": "2026-10-20-national-reconstruccion-vigencia-escalonada",
     "nationalPublished": true,
-    "marketsId": "2026-10-19-markets-bonos-futuros-respiran",
+    "marketsId": "2026-10-20-markets-petroleo-ia-refugios",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -48,16 +48,16 @@
   },
   "eveningPackage": null,
   "publications": {
-    "daily": 84,
+    "daily": 85,
     "weekly": 4,
-    "national": 77,
-    "markets": 76,
+    "national": 78,
+    "markets": 77,
     "readings": 14,
-    "total": 255
+    "total": 258
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-19",
+    "asOf": "2026-10-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
