@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T16:19:37.031Z",
+  "updatedAt": "2026-10-21T09:48:23.868Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1127,6 +1127,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-21-daily-bce-red-liquidez-euro": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "alt": "Edificio sede del Banco Central Europeo en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "author": "Tobiasi0",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-10-21-national-nieve-cobre-guia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiquicamata%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiquicamata%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-21-markets-utilidades-ia-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

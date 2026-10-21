@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ff5b13fa99c8885c986bd6a20368079096f11fdf",
-  "buildCommit": "ff5b13fa99c8885c986bd6a20368079096f11fdf",
+  "sourceCommit": "0d30faccb883a542cce4ea8e194dad1c47d821d7",
+  "buildCommit": "0d30faccb883a542cce4ea8e194dad1c47d821d7",
   "latestDaily": {
-    "id": "2026-10-20-daily-china-responde-veto-deepseek",
-    "editionSlot": "evening",
-    "issueNumber": 79,
-    "title": "China exige revocar el veto a DeepSeek y amenaza con responder",
-    "publishedAt": "2026-10-20T13:08:45-03:00",
-    "cutoffAt": "2026-10-20T12:00:00-03:00"
+    "id": "2026-10-21-daily-bce-red-liquidez-euro",
+    "editionSlot": "morning",
+    "issueNumber": 80,
+    "title": "El BCE convierte la liquidez internacional en una palanca para el euro",
+    "publishedAt": "2026-10-21T06:45:56-03:00",
+    "cutoffAt": "2026-10-21T05:58:26-03:00"
   },
   "latestNational": {
-    "id": "2026-10-20-national-afp-procesos-sancionatorios",
-    "editionSlot": "evening",
-    "title": "Pensiones abre procesos contra las siete AFP por las pérdidas de los fondos D y E",
-    "publishedAt": "2026-10-20T13:08:45-03:00",
-    "cutoffAt": "2026-10-20T12:00:00-03:00"
+    "id": "2026-10-21-national-nieve-cobre-guia",
+    "editionSlot": "morning",
+    "title": "La nieve recorta cobre chileno, pero Anglo mantiene su meta anual",
+    "publishedAt": "2026-10-21T06:45:56-03:00",
+    "cutoffAt": "2026-10-21T06:22:30-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-20-markets-wall-street-reversion-petroleo",
-    "editionSlot": "evening",
-    "title": "Wall Street revierte la cautela: cae el petróleo y el S&P 500 sube 0,7%",
-    "publishedAt": "2026-10-20T13:08:45-03:00",
-    "cutoffAt": "2026-10-20T12:00:00-03:00"
+    "id": "2026-10-21-markets-utilidades-ia-petroleo",
+    "editionSlot": "morning",
+    "title": "Las utilidades sostienen las bolsas, pero no cierran la prueba de la IA",
+    "publishedAt": "2026-10-21T06:45:56-03:00",
+    "cutoffAt": "2026-10-21T06:30:30-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "editionSlot": "morning",
-    "generalId": "2026-10-20-daily-energia-reordena-politica-europea",
+    "generalId": "2026-10-21-daily-bce-red-liquidez-euro",
     "generalPublished": true,
-    "nationalId": "2026-10-20-national-reconstruccion-vigencia-escalonada",
+    "nationalId": "2026-10-21-national-nieve-cobre-guia",
     "nationalPublished": true,
-    "marketsId": "2026-10-20-markets-petroleo-ia-refugios",
+    "marketsId": "2026-10-21-markets-utilidades-ia-petroleo",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 86,
+    "daily": 87,
     "weekly": 4,
-    "national": 79,
-    "markets": 78,
+    "national": 80,
+    "markets": 79,
     "readings": 14,
-    "total": 261
+    "total": 264
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-20",
+    "status": "current",
+    "asOf": "2026-10-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
