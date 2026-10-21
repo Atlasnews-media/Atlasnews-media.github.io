@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "0d30faccb883a542cce4ea8e194dad1c47d821d7",
-  "buildCommit": "0d30faccb883a542cce4ea8e194dad1c47d821d7",
+  "buildCommit": "9c3b34d2d3658a61b77d8c6e3f3028b9fae06d0a",
   "latestDaily": {
     "id": "2026-10-21-daily-bce-red-liquidez-euro",
     "editionSlot": "morning",
@@ -66,7 +66,7 @@
     "total": 264
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
