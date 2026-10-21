@@ -4,8 +4,8 @@
   "status": "published",
   "production": true,
   "sourceId": "2026-10-21-reading-iusif-utilidades-historicas",
-  "sourceCommit": "60931a2f7baa5cd3f748c31cc8dc9471e9d3d017",
-  "sourceSha256": "b6b563f76b8050e7f6c02e4a664edaf8de1af159a947070fbfafeba22f6c477a",
+  "sourceCommit": "e3c9dcc399816af3b15162f84d7ccb689ba6ff99",
+  "sourceSha256": "5a7e866c1da9515c35d50a2bb84657fa854503ec054e7fdecf44a19e5c6ce9a0",
   "scriptSha256": "afae13b7f7284530338a55047cf24cdaa459dadaf430a1d3dbbeda23ddb7fcd2",
   "voice": "ef_dora",
   "voiceLabel": "Dora",
@@ -18,7 +18,7 @@
   "durationSeconds": 135.3,
   "durationLabel": "2 min",
   "bytes": 1624077,
-  "sha256": "e786cb258a180406c2bfef5c181a28adcbd56620333554c08db82140e9f75b51",
+  "sha256": "d48d8a200d14dcf34e42025a8bddad84d37b00b742b1971013097f22afbf095c",
   "path": "/audio/readings/2026-10-21-reading-iusif-utilidades-historicas.mp3",
-  "generatedAt": "2026-10-21T16:57:38.765896+00:00"
+  "generatedAt": "2026-10-21T17:07:11.435274+00:00"
 }
