@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T14:41:53.310Z",
+  "updatedAt": "2026-10-21T16:17:18.758Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1151,6 +1151,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20centre%20in%20Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-21-daily-hungria-rosatom-paks": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Paksi%20atomer%C5%91m%C5%B1.JPG?width=1280",
+      "alt": "Vista de la central nuclear de Paks en Hungría, junto al río Danubio.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Paksi%20atomer%C5%91m%C5%B1.JPG?width=1280",
+      "author": "Barna Rovács (Rovibroni)",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-10-21-national-wom-subtel-5g": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-10-21-markets-nasdaq-petroleo-reversion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

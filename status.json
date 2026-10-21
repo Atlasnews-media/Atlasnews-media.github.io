@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0d30faccb883a542cce4ea8e194dad1c47d821d7",
-  "buildCommit": "9c3b34d2d3658a61b77d8c6e3f3028b9fae06d0a",
+  "sourceCommit": "5347100390b2adb271e9efe759b079fa75b94d9f",
+  "buildCommit": "5347100390b2adb271e9efe759b079fa75b94d9f",
   "latestDaily": {
-    "id": "2026-10-21-daily-bce-red-liquidez-euro",
-    "editionSlot": "morning",
+    "id": "2026-10-21-daily-hungria-rosatom-paks",
+    "editionSlot": "evening",
     "issueNumber": 80,
-    "title": "El BCE convierte la liquidez internacional en una palanca para el euro",
-    "publishedAt": "2026-10-21T06:45:56-03:00",
-    "cutoffAt": "2026-10-21T05:58:26-03:00"
+    "title": "Hungría evalúa reemplazar a Rosatom en su proyecto nuclear de €12.500 millones",
+    "publishedAt": "2026-10-21T13:09:57-03:00",
+    "cutoffAt": "2026-10-21T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-21-national-nieve-cobre-guia",
-    "editionSlot": "morning",
-    "title": "La nieve recorta cobre chileno, pero Anglo mantiene su meta anual",
-    "publishedAt": "2026-10-21T06:45:56-03:00",
-    "cutoffAt": "2026-10-21T06:22:30-03:00"
+    "id": "2026-10-21-national-wom-subtel-5g",
+    "editionSlot": "evening",
+    "title": "Subtel revisa 86 alegaciones de WOM y exigirá un pago en efectivo de US$38 millones",
+    "publishedAt": "2026-10-21T13:09:57-03:00",
+    "cutoffAt": "2026-10-21T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-21-markets-utilidades-ia-petroleo",
-    "editionSlot": "morning",
-    "title": "Las utilidades sostienen las bolsas, pero no cierran la prueba de la IA",
-    "publishedAt": "2026-10-21T06:45:56-03:00",
-    "cutoffAt": "2026-10-21T06:30:30-03:00"
+    "id": "2026-10-21-markets-nasdaq-petroleo-reversion",
+    "editionSlot": "evening",
+    "title": "El Nasdaq sube 0,6% con SpaceX y Super Micro mientras el petróleo borra su avance",
+    "publishedAt": "2026-10-21T13:09:57-03:00",
+    "cutoffAt": "2026-10-21T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-21",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "editionSlot": "evening",
-    "generalId": "2026-10-20-daily-china-responde-veto-deepseek",
+    "generalId": "2026-10-21-daily-hungria-rosatom-paks",
     "generalPublished": true,
-    "nationalId": "2026-10-20-national-afp-procesos-sancionatorios",
+    "nationalId": "2026-10-21-national-wom-subtel-5g",
     "nationalPublished": true,
-    "marketsId": "2026-10-20-markets-wall-street-reversion-petroleo",
+    "marketsId": "2026-10-21-markets-nasdaq-petroleo-reversion",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 87,
+    "daily": 88,
     "weekly": 4,
-    "national": 80,
-    "markets": 79,
+    "national": 81,
+    "markets": 80,
     "readings": 14,
-    "total": 264
+    "total": 267
   },
   "indicators": {
     "status": "stale",
