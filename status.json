@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "5347100390b2adb271e9efe759b079fa75b94d9f",
-  "buildCommit": "5347100390b2adb271e9efe759b079fa75b94d9f",
+  "buildCommit": "5d0541ec3cf536821076eedbc904776919064533",
   "latestDaily": {
     "id": "2026-10-21-daily-hungria-rosatom-paks",
     "editionSlot": "evening",
@@ -62,8 +62,8 @@
     "weekly": 4,
     "national": 81,
     "markets": 80,
-    "readings": 14,
-    "total": 267
+    "readings": 15,
+    "total": 268
   },
   "indicators": {
     "status": "stale",
