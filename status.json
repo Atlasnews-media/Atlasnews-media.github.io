@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
-  "buildCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
+  "buildCommit": "d246bceff3814b6872a783c8b8ab16a1834cfa77",
   "latestDaily": {
     "id": "2026-10-22-daily-fallas-php-exponen-internet",
     "editionSlot": "morning",
@@ -66,7 +66,7 @@
     "total": 271
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-22",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
