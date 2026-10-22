@@ -4,8 +4,8 @@
   "status": "published",
   "production": true,
   "sourceId": "2026-10-22-reading-eof-inflacion-dolar-tpm",
-  "sourceCommit": "c6ea6712fdbb8df0dca01b11d42c84b266aee25c",
-  "sourceSha256": "e0fd68b47792f40645e39b6652fb96fca5b35d422ee43b4ff6ff8da9a591f0e5",
+  "sourceCommit": "0e8a97b9a0735575700a305767cd87c0354e5d78",
+  "sourceSha256": "6095299b6b1c7c727845b6d97820fbfff8bb3dcb282e623c464a2a06e03b605b",
   "scriptSha256": "86879bf81835f87f532b32491c119d72f801e4466e38a3d50bb6b885a80a8f56",
   "voice": "ef_dora",
   "voiceLabel": "Dora",
@@ -18,7 +18,7 @@
   "durationSeconds": 134.9,
   "durationLabel": "2 min",
   "bytes": 1618893,
-  "sha256": "d91013831edd11664d035600d01b640778274a8f687d942fa19dfbaafb2fa0e5",
+  "sha256": "e526834b7ae606dfd76d6cd2b5afe46f6c6d1527f764d9cb68537b636c406203",
   "path": "/audio/readings/2026-10-22-reading-eof-inflacion-dolar-tpm.mp3",
-  "generatedAt": "2026-10-22T15:04:01.318004+00:00"
+  "generatedAt": "2026-10-22T15:16:27.089056+00:00"
 }
