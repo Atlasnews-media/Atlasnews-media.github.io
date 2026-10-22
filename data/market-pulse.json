@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-22T22:44:32.586Z",
+  "generatedAt": "2026-10-22T22:48:58.591Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -201,11 +201,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4044.7,
+      "value": 4045.1,
       "unit": "usd-per-ounce",
-      "changePercent": -3.48,
+      "changePercent": -3.47,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:34:26.000Z",
+      "effectiveAt": "2026-10-22T22:38:54.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -249,11 +249,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81281,
+      "value": 81257,
       "unit": "usd",
-      "changePercent": -3.81,
+      "changePercent": -3.76,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:44:32.586Z",
+      "effectiveAt": "2026-10-22T22:48:58.591Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -277,7 +277,7 @@
       "displayEligible": false,
       "freshnessState": "stale",
       "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-10-22T22:44:32.953Z",
+      "recoveredAt": "2026-10-22T22:48:58.850Z",
       "staleReason": "precio recuperado de una publicación anterior; sin validación nueva"
     }
   ],
@@ -310,9 +310,9 @@
     }
   ],
   "recoveredAssets": ["ipsa"],
-  "recoverySourceGeneratedAt": "2026-10-22T22:20:12.074Z",
+  "recoverySourceGeneratedAt": "2026-10-22T22:44:32.586Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-22T22:44:33.782Z",
+  "historyGeneratedAt": "2026-10-22T22:49:04.399Z",
   "history": [
     {
       "id": "usdclp",
@@ -466,6 +466,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-22T22:44:33.959Z",
+  "freshnessCheckedAt": "2026-10-22T22:49:04.548Z",
   "freshnessPolicy": "market-sessions-v3"
 }
