@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-22T22:48:58.591Z",
+  "generatedAt": "2026-10-22T22:52:32.660Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -201,11 +201,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4045.1,
+      "value": 4046.7,
       "unit": "usd-per-ounce",
-      "changePercent": -3.47,
+      "changePercent": -3.43,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:38:54.000Z",
+      "effectiveAt": "2026-10-22T22:42:28.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -251,9 +251,9 @@
       "group": "crypto",
       "value": 81257,
       "unit": "usd",
-      "changePercent": -3.76,
+      "changePercent": -3.77,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:48:58.591Z",
+      "effectiveAt": "2026-10-22T22:52:32.660Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -277,7 +277,7 @@
       "displayEligible": false,
       "freshnessState": "stale",
       "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-10-22T22:48:58.850Z",
+      "recoveredAt": "2026-10-22T22:52:32.899Z",
       "staleReason": "precio recuperado de una publicación anterior; sin validación nueva"
     }
   ],
@@ -310,9 +310,9 @@
     }
   ],
   "recoveredAssets": ["ipsa"],
-  "recoverySourceGeneratedAt": "2026-10-22T22:44:32.586Z",
+  "recoverySourceGeneratedAt": "2026-10-22T22:48:58.591Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-22T22:49:04.399Z",
+  "historyGeneratedAt": "2026-10-22T22:52:36.899Z",
   "history": [
     {
       "id": "usdclp",
@@ -466,6 +466,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-22T22:49:04.548Z",
+  "freshnessCheckedAt": "2026-10-22T22:52:37.058Z",
   "freshnessPolicy": "market-sessions-v3"
 }
