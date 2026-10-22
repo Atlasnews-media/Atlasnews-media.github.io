@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
-  "buildCommit": "0e8a97b9a0735575700a305767cd87c0354e5d78",
+  "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9",
+  "buildCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9",
   "latestDaily": {
-    "id": "2026-10-22-daily-fallas-php-exponen-internet",
-    "editionSlot": "morning",
+    "id": "2026-10-22-daily-ia-brecha-paises-trabajadores",
+    "editionSlot": "evening",
     "issueNumber": 81,
-    "title": "Dos fallas críticas en PHP exponen una capa invisible de internet",
-    "publishedAt": "2026-10-22T06:50:24-03:00",
-    "cutoffAt": "2026-10-22T06:05:18-03:00"
+    "title": "FMI y OCDE alertan que la IA puede ampliar la brecha entre países y trabajadores",
+    "publishedAt": "2026-10-22T13:11:25-03:00",
+    "cutoffAt": "2026-10-22T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-22-national-diesel-costos-logisticos",
-    "editionSlot": "morning",
-    "title": "El diésel concentra el nuevo shock de combustibles en Chile",
-    "publishedAt": "2026-10-22T06:50:24-03:00",
-    "cutoffAt": "2026-10-22T06:20:00-03:00"
+    "id": "2026-10-22-national-fne-aes-centros-datos",
+    "editionSlot": "evening",
+    "title": "La FNE despeja la compra de AES y descarta un bloqueo energético a centros de datos",
+    "publishedAt": "2026-10-22T13:11:25-03:00",
+    "cutoffAt": "2026-10-22T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-22-markets-ia-petroleo-bonos",
-    "editionSlot": "morning",
-    "title": "Petróleo y gasto en IA rompen el rebote tecnológico",
-    "publishedAt": "2026-10-22T06:50:24-03:00",
-    "cutoffAt": "2026-10-22T06:27:00-03:00"
+    "id": "2026-10-22-markets-tecnologia-credito-dolar",
+    "editionSlot": "evening",
+    "title": "Nasdaq cae 1,5%, el riesgo de Meta marca récord y el dólar bordea $990",
+    "publishedAt": "2026-10-22T13:11:25-03:00",
+    "cutoffAt": "2026-10-22T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-22",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "editionSlot": "evening",
-    "generalId": "2026-10-21-daily-hungria-rosatom-paks",
+    "generalId": "2026-10-22-daily-ia-brecha-paises-trabajadores",
     "generalPublished": true,
-    "nationalId": "2026-10-21-national-wom-subtel-5g",
+    "nationalId": "2026-10-22-national-fne-aes-centros-datos",
     "nationalPublished": true,
-    "marketsId": "2026-10-21-markets-nasdaq-petroleo-reversion",
+    "marketsId": "2026-10-22-markets-tecnologia-credito-dolar",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 89,
+    "daily": 90,
     "weekly": 4,
-    "national": 82,
-    "markets": 81,
+    "national": 83,
+    "markets": 82,
     "readings": 16,
-    "total": 272
+    "total": 275
   },
   "indicators": {
     "status": "stale",
