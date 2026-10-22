@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-22T23:21:47.298Z",
+  "generatedAt": "2026-10-22T23:25:58.299Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -202,11 +202,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 112.8,
+      "value": 113.03,
       "unit": "usd-per-barrel",
-      "changePercent": 5.77,
+      "changePercent": 5.98,
       "trend": "up",
-      "effectiveAt": "2026-10-22T22:44:01.000Z",
+      "effectiveAt": "2026-10-22T23:15:45.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -218,11 +218,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4040.9,
+      "value": 4042,
       "unit": "usd-per-ounce",
-      "changePercent": -3.57,
+      "changePercent": -3.55,
       "trend": "down",
-      "effectiveAt": "2026-10-22T23:11:37.000Z",
+      "effectiveAt": "2026-10-22T23:15:51.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81256,
+      "value": 81261,
       "unit": "usd",
-      "changePercent": -3.66,
+      "changePercent": -3.61,
       "trend": "down",
-      "effectiveAt": "2026-10-22T23:21:47.298Z",
+      "effectiveAt": "2026-10-22T23:25:58.299Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-22T23:21:48.291Z",
+  "historyGeneratedAt": "2026-10-22T23:26:00.508Z",
   "history": [
     {
       "id": "usdclp",
@@ -422,7 +422,7 @@
         { "date": "2026-10-19", "value": 109.55000305175781 },
         { "date": "2026-10-20", "value": 108.79000091552734 },
         { "date": "2026-10-21", "value": 108.81999969482422 },
-        { "date": "2026-10-22", "value": 112.80000305175781 }
+        { "date": "2026-10-22", "value": 113.02999877929688 }
       ]
     }
   ],
@@ -452,6 +452,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-22T23:21:48.438Z",
+  "freshnessCheckedAt": "2026-10-22T23:26:00.605Z",
   "freshnessPolicy": "market-sessions-v3"
 }
