@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T17:03:58.810Z",
+  "updatedAt": "2026-10-22T09:53:36.576Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1175,6 +1175,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-22-daily-fallas-php-exponen-internet": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "alt": "Soldados durante una operación de seguridad y asistencia humanitaria.",
+      "source": "Wikimedia Commons / U.S. Department of Defense",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Soldiers%20search%20for%20weapons%20and%20give%20humanitarian%20aid%20DVIDS37090.jpg?width=1280",
+      "author": "Spc. Olanrewaju Akinwunmi",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-10-22-national-diesel-costos-logisticos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Granja%20Alimentaria%20de%20Maip%C3%BA%20-%20001.jpg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Granja%20Alimentaria%20de%20Maip%C3%BA%20-%20001.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-22-markets-ia-petroleo-bonos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%20exterior%20LCCN96510901.jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%20exterior%20LCCN96510901.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

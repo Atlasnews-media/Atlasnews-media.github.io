@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "5347100390b2adb271e9efe759b079fa75b94d9f",
-  "buildCommit": "e3c9dcc399816af3b15162f84d7ccb689ba6ff99",
+  "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
+  "buildCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
   "latestDaily": {
-    "id": "2026-10-21-daily-hungria-rosatom-paks",
-    "editionSlot": "evening",
-    "issueNumber": 80,
-    "title": "Hungría evalúa reemplazar a Rosatom en su proyecto nuclear de €12.500 millones",
-    "publishedAt": "2026-10-21T13:09:57-03:00",
-    "cutoffAt": "2026-10-21T12:00:00-03:00"
+    "id": "2026-10-22-daily-fallas-php-exponen-internet",
+    "editionSlot": "morning",
+    "issueNumber": 81,
+    "title": "Dos fallas críticas en PHP exponen una capa invisible de internet",
+    "publishedAt": "2026-10-22T06:50:24-03:00",
+    "cutoffAt": "2026-10-22T06:05:18-03:00"
   },
   "latestNational": {
-    "id": "2026-10-21-national-wom-subtel-5g",
-    "editionSlot": "evening",
-    "title": "Subtel revisa 86 alegaciones de WOM y exigirá un pago en efectivo de US$38 millones",
-    "publishedAt": "2026-10-21T13:09:57-03:00",
-    "cutoffAt": "2026-10-21T12:00:00-03:00"
+    "id": "2026-10-22-national-diesel-costos-logisticos",
+    "editionSlot": "morning",
+    "title": "El diésel concentra el nuevo shock de combustibles en Chile",
+    "publishedAt": "2026-10-22T06:50:24-03:00",
+    "cutoffAt": "2026-10-22T06:20:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-21-markets-nasdaq-petroleo-reversion",
-    "editionSlot": "evening",
-    "title": "El Nasdaq sube 0,6% con SpaceX y Super Micro mientras el petróleo borra su avance",
-    "publishedAt": "2026-10-21T13:09:57-03:00",
-    "cutoffAt": "2026-10-21T12:00:00-03:00"
+    "id": "2026-10-22-markets-ia-petroleo-bonos",
+    "editionSlot": "morning",
+    "title": "Petróleo y gasto en IA rompen el rebote tecnológico",
+    "publishedAt": "2026-10-22T06:50:24-03:00",
+    "cutoffAt": "2026-10-22T06:27:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "editionSlot": "morning",
-    "generalId": "2026-10-21-daily-bce-red-liquidez-euro",
+    "generalId": "2026-10-22-daily-fallas-php-exponen-internet",
     "generalPublished": true,
-    "nationalId": "2026-10-21-national-nieve-cobre-guia",
+    "nationalId": "2026-10-22-national-diesel-costos-logisticos",
     "nationalPublished": true,
-    "marketsId": "2026-10-21-markets-utilidades-ia-petroleo",
+    "marketsId": "2026-10-22-markets-ia-petroleo-bonos",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 88,
+    "daily": 89,
     "weekly": 4,
-    "national": 81,
-    "markets": 80,
+    "national": 82,
+    "markets": 81,
     "readings": 15,
-    "total": 268
+    "total": 271
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-21",
+    "status": "current",
+    "asOf": "2026-10-22",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
