@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9",
-  "buildCommit": "7227fd24e15765655a06ab0900f30b5ccf450076",
+  "buildCommit": "7d2ed6c0415b869a69a6d7887b99109bc8328c72",
   "latestDaily": {
     "id": "2026-10-22-daily-ia-brecha-paises-trabajadores",
     "editionSlot": "evening",
@@ -66,7 +66,7 @@
     "total": 275
   },
   "indicators": {
-    "status": "current",
+    "status": "partial",
     "asOf": "2026-10-22",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
