@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-22-daily-ia-brecha-paises-trabajadores.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-22-daily-ia-brecha-paises-trabajadores/",
+  "childContainerIds": [
+    "18096765740386975",
+    "18096765773386975",
+    "18096765791386975",
+    "18096765812386975",
+    "18096765830386975"
+  ],
+  "carouselContainerId": "18096765851386975",
+  "mediaId": "17875181160650359",
+  "permalink": "https://www.instagram.com/p/DezZvEzlLIs/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-22T16:22:44+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/90eda153278a9d45b7b8815e3becb26a34ba8af9/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/90eda153278a9d45b7b8815e3becb26a34ba8af9/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/90eda153278a9d45b7b8815e3becb26a34ba8af9/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/90eda153278a9d45b7b8815e3becb26a34ba8af9/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/90eda153278a9d45b7b8815e3becb26a34ba8af9/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39813303796",
+  "githubRunAttempt": "1",
+  "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9"
+}
