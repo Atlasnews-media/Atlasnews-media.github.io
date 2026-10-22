@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — jueves 22 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-22-resumen-diario.mp3",
-  "durationSeconds": 345.8,
-  "durationLabel": "6 min",
-  "bytes": 4149549,
-  "generatedAt": "2026-10-22T09:57:27.987686+00:00",
+  "durationSeconds": 322.1,
+  "durationLabel": "5 min",
+  "bytes": 3865581,
+  "generatedAt": "2026-10-22T16:18:20.394214+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-22-daily-fallas-php-exponen-internet",
-    "general": "2026-10-22-daily-fallas-php-exponen-internet",
-    "national": "2026-10-22-national-diesel-costos-logisticos",
-    "markets": "2026-10-22-markets-ia-petroleo-bonos"
+    "international": "2026-10-22-daily-ia-brecha-paises-trabajadores",
+    "general": "2026-10-22-daily-ia-brecha-paises-trabajadores",
+    "national": "2026-10-22-national-fne-aes-centros-datos",
+    "markets": "2026-10-22-markets-tecnologia-credito-dolar"
   },
-  "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531"
+  "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9"
 }
