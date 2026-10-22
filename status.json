@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531",
-  "buildCommit": "d246bceff3814b6872a783c8b8ab16a1834cfa77",
+  "buildCommit": "0997e78e2306b016b74b0e5fd4bcfaee3a7cae35",
   "latestDaily": {
     "id": "2026-10-22-daily-fallas-php-exponen-internet",
     "editionSlot": "morning",
@@ -62,8 +62,8 @@
     "weekly": 4,
     "national": 82,
     "markets": 81,
-    "readings": 15,
-    "total": 271
+    "readings": 16,
+    "total": 272
   },
   "indicators": {
     "status": "stale",
