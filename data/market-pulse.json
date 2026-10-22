@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-22T22:20:12.074Z",
+  "generatedAt": "2026-10-22T22:44:32.586Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -185,11 +185,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 112.96,
+      "value": 112.98,
       "unit": "usd-per-barrel",
-      "changePercent": 5.92,
+      "changePercent": 5.94,
       "trend": "up",
-      "effectiveAt": "2026-10-22T22:07:00.000Z",
+      "effectiveAt": "2026-10-22T22:27:49.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -201,11 +201,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4042.3,
+      "value": 4044.7,
       "unit": "usd-per-ounce",
-      "changePercent": -3.54,
+      "changePercent": -3.48,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:09:38.000Z",
+      "effectiveAt": "2026-10-22T22:34:26.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -249,11 +249,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81363,
+      "value": 81281,
       "unit": "usd",
-      "changePercent": -3.8,
+      "changePercent": -3.81,
       "trend": "down",
-      "effectiveAt": "2026-10-22T22:20:12.074Z",
+      "effectiveAt": "2026-10-22T22:44:32.586Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -277,7 +277,7 @@
       "displayEligible": false,
       "freshnessState": "stale",
       "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-10-22T22:20:12.288Z",
+      "recoveredAt": "2026-10-22T22:44:32.953Z",
       "staleReason": "precio recuperado de una publicación anterior; sin validación nueva"
     }
   ],
@@ -310,9 +310,9 @@
     }
   ],
   "recoveredAssets": ["ipsa"],
-  "recoverySourceGeneratedAt": "2026-10-22T19:36:53.011Z",
+  "recoverySourceGeneratedAt": "2026-10-22T22:20:12.074Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-22T22:20:17.304Z",
+  "historyGeneratedAt": "2026-10-22T22:44:33.782Z",
   "history": [
     {
       "id": "usdclp",
@@ -436,7 +436,7 @@
         { "date": "2026-10-19", "value": 109.55000305175781 },
         { "date": "2026-10-20", "value": 108.79000091552734 },
         { "date": "2026-10-21", "value": 108.81999969482422 },
-        { "date": "2026-10-22", "value": 112.95999908447266 }
+        { "date": "2026-10-22", "value": 112.9800033569336 }
       ]
     }
   ],
@@ -466,6 +466,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-22T22:20:17.404Z",
+  "freshnessCheckedAt": "2026-10-22T22:44:33.959Z",
   "freshnessPolicy": "market-sessions-v3"
 }
