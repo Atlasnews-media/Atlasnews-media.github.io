@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-21",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 21 de octubre de 2026",
+  "date": "2026-10-22",
+  "title": "ATLAS NEWS — Resumen diario — jueves 22 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-21-resumen-diario.mp3",
-  "durationSeconds": 325.4,
-  "durationLabel": "5 min",
-  "bytes": 3905613,
-  "generatedAt": "2026-10-21T16:20:20.358212+00:00",
+  "path": "/audio/2026-10-22-resumen-diario.mp3",
+  "durationSeconds": 345.8,
+  "durationLabel": "6 min",
+  "bytes": 4149549,
+  "generatedAt": "2026-10-22T09:57:27.987686+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-21-daily-hungria-rosatom-paks",
-    "general": "2026-10-21-daily-hungria-rosatom-paks",
-    "national": "2026-10-21-national-wom-subtel-5g",
-    "markets": "2026-10-21-markets-nasdaq-petroleo-reversion"
+    "international": "2026-10-22-daily-fallas-php-exponen-internet",
+    "general": "2026-10-22-daily-fallas-php-exponen-internet",
+    "national": "2026-10-22-national-diesel-costos-logisticos",
+    "markets": "2026-10-22-markets-ia-petroleo-bonos"
   },
-  "sourceCommit": "5347100390b2adb271e9efe759b079fa75b94d9f"
+  "sourceCommit": "20e30fe4b54de7641799b6bc8af9a3ae722b5531"
 }
