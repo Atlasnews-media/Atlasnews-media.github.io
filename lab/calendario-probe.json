@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T15:12:40.454Z",
+  "checkedAt": "2026-10-22T16:14:23.854Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -21,7 +21,7 @@
     "bancoCentral": {
       "status": 200,
       "error": null,
-      "bytes": 518113,
+      "bytes": 518104,
       "foundCalendar": true,
       "sample": "manal (ICS) 23 Indicadores de Coyuntura Semanal (ICS) 7 Encuesta de Operadores Financieros (EOF) post RPM diciembre 6 Encuesta de Determinantes y Expectativas de Precios (EDEP) 12 Encuesta de Expectativas Económicas (EEE) 14 Encuesta de Crédito Bancario (ECB) 4to trimestre 2025 22 Encuesta de Operadores Financieros (EOF) pre RPM enero 2 Comercio exterior semanal 7 Comercio exterior - diciembr"
     }
