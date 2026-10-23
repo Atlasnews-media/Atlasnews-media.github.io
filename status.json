@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9",
-  "buildCommit": "db692fe80ff88e311a72d4466268ba22a8e8ac1e",
+  "sourceCommit": "cb3af4735855a03cf8b04d76d7c63ffc62c95116",
+  "buildCommit": "cb3af4735855a03cf8b04d76d7c63ffc62c95116",
   "latestDaily": {
-    "id": "2026-10-22-daily-ia-brecha-paises-trabajadores",
-    "editionSlot": "evening",
-    "issueNumber": 81,
-    "title": "FMI y OCDE alertan que la IA puede ampliar la brecha entre países y trabajadores",
-    "publishedAt": "2026-10-22T13:11:25-03:00",
-    "cutoffAt": "2026-10-22T12:00:00-03:00"
+    "id": "2026-10-23-daily-reformas-emergentes-bienestar",
+    "editionSlot": "morning",
+    "issueNumber": 82,
+    "title": "Las reformas estabilizan economías emergentes, pero aún no llegan a los hogares",
+    "publishedAt": "2026-10-23T06:45:21-03:00",
+    "cutoffAt": "2026-10-23T06:05:36-03:00"
   },
   "latestNational": {
-    "id": "2026-10-22-national-fne-aes-centros-datos",
-    "editionSlot": "evening",
-    "title": "La FNE despeja la compra de AES y descarta un bloqueo energético a centros de datos",
-    "publishedAt": "2026-10-22T13:11:25-03:00",
-    "cutoffAt": "2026-10-22T12:00:00-03:00"
+    "id": "2026-10-23-national-salarios-retencion-talento",
+    "editionSlot": "morning",
+    "title": "El alza salarial privada se concentra en operarios y profesionales",
+    "publishedAt": "2026-10-23T06:45:21-03:00",
+    "cutoffAt": "2026-10-23T06:24:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-22-markets-tecnologia-credito-dolar",
-    "editionSlot": "evening",
-    "title": "Nasdaq cae 1,5%, el riesgo de Meta marca récord y el dólar bordea $990",
-    "publishedAt": "2026-10-22T13:11:25-03:00",
-    "cutoffAt": "2026-10-22T12:00:00-03:00"
+    "id": "2026-10-23-markets-ia-deuda-riesgo",
+    "editionSlot": "morning",
+    "title": "La deuda de la IA cambia el mapa de riesgo entre acciones y bonos",
+    "publishedAt": "2026-10-23T06:45:21-03:00",
+    "cutoffAt": "2026-10-23T06:32:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "editionSlot": "morning",
-    "generalId": "2026-10-22-daily-fallas-php-exponen-internet",
+    "generalId": "2026-10-23-daily-reformas-emergentes-bienestar",
     "generalPublished": true,
-    "nationalId": "2026-10-22-national-diesel-costos-logisticos",
+    "nationalId": "2026-10-23-national-salarios-retencion-talento",
     "nationalPublished": true,
-    "marketsId": "2026-10-22-markets-ia-petroleo-bonos",
+    "marketsId": "2026-10-23-markets-ia-deuda-riesgo",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 90,
+    "daily": 91,
     "weekly": 4,
-    "national": 83,
-    "markets": 82,
+    "national": 84,
+    "markets": 83,
     "readings": 16,
-    "total": 275
+    "total": 278
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-22",
+    "asOf": "2026-10-23",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

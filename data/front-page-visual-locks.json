@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T23:22:27.590Z",
+  "updatedAt": "2026-10-23T09:48:39.342Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1225,6 +1225,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street%201.jpg?width=1280",
       "author": "Mike Peel",
       "license": "CC BY-SA 4.0"
+    },
+    "international:2026-10-23-daily-reformas-emergentes-bienestar": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stock%20Exchange%20NYC.jpg?width=1280",
+      "alt": "Fachada de la Bolsa de Nueva York en Wall Street.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stock%20Exchange%20NYC.jpg?width=1280",
+      "author": "Cody escadron delta",
+      "license": "Dominio público"
+    },
+    "national:2026-10-23-national-salarios-retencion-talento": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-10-23-markets-ia-deuda-riesgo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%20exterior%20LCCN96510901.jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%20exterior%20LCCN96510901.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
