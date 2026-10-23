@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "cb3af4735855a03cf8b04d76d7c63ffc62c95116",
-  "buildCommit": "cb3af4735855a03cf8b04d76d7c63ffc62c95116",
+  "sourceCommit": "f8ecc9a3348d703e8eed53782a8ed18eb471720e",
+  "buildCommit": "f8ecc9a3348d703e8eed53782a8ed18eb471720e",
   "latestDaily": {
-    "id": "2026-10-23-daily-reformas-emergentes-bienestar",
-    "editionSlot": "morning",
+    "id": "2026-10-23-daily-eurozona-frena-energia-francia",
+    "editionSlot": "evening",
     "issueNumber": 82,
-    "title": "Las reformas estabilizan economías emergentes, pero aún no llegan a los hogares",
-    "publishedAt": "2026-10-23T06:45:21-03:00",
-    "cutoffAt": "2026-10-23T06:05:36-03:00"
+    "title": "La eurozona frena a un mínimo de cuatro meses por energía cara y tensión francesa",
+    "publishedAt": "2026-10-23T13:03:30-03:00",
+    "cutoffAt": "2026-10-23T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-23-national-salarios-retencion-talento",
-    "editionSlot": "morning",
-    "title": "El alza salarial privada se concentra en operarios y profesionales",
-    "publishedAt": "2026-10-23T06:45:21-03:00",
-    "cutoffAt": "2026-10-23T06:24:00-03:00"
+    "id": "2026-10-23-national-mop-licitaciones-empleo",
+    "editionSlot": "evening",
+    "title": "El MOP ya licitó más de 60% del plan que busca crear 23.000 empleos",
+    "publishedAt": "2026-10-23T13:03:30-03:00",
+    "cutoffAt": "2026-10-23T11:45:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-23-markets-ia-deuda-riesgo",
-    "editionSlot": "morning",
-    "title": "La deuda de la IA cambia el mapa de riesgo entre acciones y bonos",
-    "publishedAt": "2026-10-23T06:45:21-03:00",
-    "cutoffAt": "2026-10-23T06:32:00-03:00"
+    "id": "2026-10-23-markets-cobre-dolar-petroleo",
+    "editionSlot": "evening",
+    "title": "Cobre contiene al dólar cerca de $990 mientras el Brent supera US$115",
+    "publishedAt": "2026-10-23T13:03:30-03:00",
+    "cutoffAt": "2026-10-23T11:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-23",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "editionSlot": "evening",
-    "generalId": "2026-10-22-daily-ia-brecha-paises-trabajadores",
+    "generalId": "2026-10-23-daily-eurozona-frena-energia-francia",
     "generalPublished": true,
-    "nationalId": "2026-10-22-national-fne-aes-centros-datos",
+    "nationalId": "2026-10-23-national-mop-licitaciones-empleo",
     "nationalPublished": true,
-    "marketsId": "2026-10-22-markets-tecnologia-credito-dolar",
+    "marketsId": "2026-10-23-markets-cobre-dolar-petroleo",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 91,
+    "daily": 92,
     "weekly": 4,
-    "national": 84,
-    "markets": 83,
+    "national": 85,
+    "markets": 84,
     "readings": 16,
-    "total": 278
+    "total": 281
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-23",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

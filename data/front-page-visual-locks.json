@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T09:54:14.888Z",
+  "updatedAt": "2026-10-23T16:08:53.466Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1247,6 +1247,30 @@
       "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%20exterior%20LCCN96510901.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-23-daily-eurozona-frena-energia-francia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20Seat%20of%20the%20European%20Central%20Bank%20(Skytower%20(ECB)).jpg?width=1280",
+      "alt": "Sede del Banco Central Europeo y su torre en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20Seat%20of%20the%20European%20Central%20Bank%20(Skytower%20(ECB)).jpg?width=1280",
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-10-23-national-mop-licitaciones-empleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Eolico%20(83088069).jpeg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Eolico%20(83088069).jpeg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-23-markets-cobre-dolar-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
