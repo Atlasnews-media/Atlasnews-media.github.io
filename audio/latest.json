@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-22",
-  "title": "ATLAS NEWS — Resumen diario — jueves 22 de octubre de 2026",
+  "date": "2026-10-23",
+  "title": "ATLAS NEWS — Resumen diario — viernes 23 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-22-resumen-diario.mp3",
-  "durationSeconds": 322.1,
+  "path": "/audio/2026-10-23-resumen-diario.mp3",
+  "durationSeconds": 323.3,
   "durationLabel": "5 min",
-  "bytes": 3865581,
-  "generatedAt": "2026-10-22T16:18:20.394214+00:00",
+  "bytes": 3879693,
+  "generatedAt": "2026-10-23T16:17:22.573215+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-22-daily-ia-brecha-paises-trabajadores",
-    "general": "2026-10-22-daily-ia-brecha-paises-trabajadores",
-    "national": "2026-10-22-national-fne-aes-centros-datos",
-    "markets": "2026-10-22-markets-tecnologia-credito-dolar"
+    "international": "2026-10-23-daily-eurozona-frena-energia-francia",
+    "general": "2026-10-23-daily-eurozona-frena-energia-francia",
+    "national": "2026-10-23-national-mop-licitaciones-empleo",
+    "markets": "2026-10-23-markets-cobre-dolar-petroleo"
   },
-  "sourceCommit": "90eda153278a9d45b7b8815e3becb26a34ba8af9"
+  "sourceCommit": "f8ecc9a3348d703e8eed53782a8ed18eb471720e"
 }
