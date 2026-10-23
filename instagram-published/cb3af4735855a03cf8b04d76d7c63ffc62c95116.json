@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-23-daily-reformas-emergentes-bienestar.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-23-daily-reformas-emergentes-bienestar/",
+  "childContainerIds": [
+    "18096917387386975",
+    "18096917426386975",
+    "18096917468386975",
+    "18096917489386975",
+    "18096917510386975"
+  ],
+  "carouselContainerId": "18096917546386975",
+  "mediaId": "18104217527018373",
+  "permalink": "https://www.instagram.com/p/De1R8-RFuWp/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-23T09:53:12+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cb3af4735855a03cf8b04d76d7c63ffc62c95116/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cb3af4735855a03cf8b04d76d7c63ffc62c95116/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cb3af4735855a03cf8b04d76d7c63ffc62c95116/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cb3af4735855a03cf8b04d76d7c63ffc62c95116/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/cb3af4735855a03cf8b04d76d7c63ffc62c95116/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "39934903378",
+  "githubRunAttempt": "1",
+  "sourceCommit": "cb3af4735855a03cf8b04d76d7c63ffc62c95116"
+}
