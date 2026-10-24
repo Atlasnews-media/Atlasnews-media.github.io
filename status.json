@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f8ecc9a3348d703e8eed53782a8ed18eb471720e",
-  "buildCommit": "f8ecc9a3348d703e8eed53782a8ed18eb471720e",
+  "sourceCommit": "39a5e39b34021dde0fd31880fba1a4bc8d271fb1",
+  "buildCommit": "39a5e39b34021dde0fd31880fba1a4bc8d271fb1",
   "latestDaily": {
-    "id": "2026-10-23-daily-eurozona-frena-energia-francia",
-    "editionSlot": "evening",
-    "issueNumber": 82,
-    "title": "La eurozona frena a un mínimo de cuatro meses por energía cara y tensión francesa",
-    "publishedAt": "2026-10-23T13:03:30-03:00",
-    "cutoffAt": "2026-10-23T12:00:00-03:00"
+    "id": "2026-10-24-daily-politica-exterior-eeuu-costo-electoral",
+    "editionSlot": "morning",
+    "issueNumber": 83,
+    "title": "El costo de la política exterior de EE.UU. empieza a cambiar sus decisiones globales",
+    "publishedAt": "2026-10-24T06:48:06-03:00",
+    "cutoffAt": "2026-10-24T06:03:12-03:00"
   },
   "latestNational": {
-    "id": "2026-10-23-national-mop-licitaciones-empleo",
-    "editionSlot": "evening",
-    "title": "El MOP ya licitó más de 60% del plan que busca crear 23.000 empleos",
-    "publishedAt": "2026-10-23T13:03:30-03:00",
-    "cutoffAt": "2026-10-23T11:45:00-03:00"
+    "id": "2026-10-24-national-precios-productor-costos",
+    "editionSlot": "morning",
+    "title": "Los precios de productor suben por cobre y refinación, no por una presión uniforme",
+    "publishedAt": "2026-10-24T06:48:06-03:00",
+    "cutoffAt": "2026-10-24T06:23:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-23-markets-cobre-dolar-petroleo",
-    "editionSlot": "evening",
-    "title": "Cobre contiene al dólar cerca de $990 mientras el Brent supera US$115",
-    "publishedAt": "2026-10-23T13:03:30-03:00",
-    "cutoffAt": "2026-10-23T11:00:00-03:00"
+    "id": "2026-10-24-markets-flujos-energia-liquidez",
+    "editionSlot": "morning",
+    "title": "Los flujos siguen entrando, pero el mercado rota desde la IA hacia energía y liquidez",
+    "publishedAt": "2026-10-24T06:48:06-03:00",
+    "cutoffAt": "2026-10-24T06:33:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "editionSlot": "morning",
-    "generalId": "2026-10-23-daily-reformas-emergentes-bienestar",
+    "generalId": "2026-10-24-daily-politica-exterior-eeuu-costo-electoral",
     "generalPublished": true,
-    "nationalId": "2026-10-23-national-salarios-retencion-talento",
+    "nationalId": "2026-10-24-national-precios-productor-costos",
     "nationalPublished": true,
-    "marketsId": "2026-10-23-markets-ia-deuda-riesgo",
+    "marketsId": "2026-10-24-markets-flujos-energia-liquidez",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 92,
+    "daily": 93,
     "weekly": 4,
-    "national": 85,
-    "markets": 84,
+    "national": 86,
+    "markets": 85,
     "readings": 16,
-    "total": 281
+    "total": 284
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-23",
+    "status": "current",
+    "asOf": "2026-10-24",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
