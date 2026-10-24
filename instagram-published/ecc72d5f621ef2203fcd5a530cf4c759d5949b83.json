@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-24-daily-china-controles-inversion-tecnologica.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-24-daily-china-controles-inversion-tecnologica/",
+  "childContainerIds": [
+    "18097223033386975",
+    "18097223054386975",
+    "18097223096386975",
+    "18097223135386975",
+    "18097223174386975"
+  ],
+  "carouselContainerId": "18097223204386975",
+  "mediaId": "18117321908118480",
+  "permalink": "https://www.instagram.com/p/De4iRAEGrIV/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-24T16:13:29+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ecc72d5f621ef2203fcd5a530cf4c759d5949b83/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ecc72d5f621ef2203fcd5a530cf4c759d5949b83/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ecc72d5f621ef2203fcd5a530cf4c759d5949b83/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ecc72d5f621ef2203fcd5a530cf4c759d5949b83/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/ecc72d5f621ef2203fcd5a530cf4c759d5949b83/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40110377658",
+  "githubRunAttempt": "1",
+  "sourceCommit": "ecc72d5f621ef2203fcd5a530cf4c759d5949b83"
+}
