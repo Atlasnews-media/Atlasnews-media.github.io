@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T09:57:05.585Z",
+  "updatedAt": "2026-10-24T16:08:45.038Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1295,6 +1295,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oil%20terminal.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-24-daily-china-controles-inversion-tecnologica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-24-national-fondo-e-frentes-institucionales": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "alt": "Plaza de la Constitución y edificios del centro cívico de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "author": "Usuario de Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-24-markets-bitcoin-senal-defensiva": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
