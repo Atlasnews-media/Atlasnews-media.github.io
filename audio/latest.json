@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — domingo 25 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-25-resumen-diario.mp3",
-  "durationSeconds": 326.3,
+  "durationSeconds": 305.6,
   "durationLabel": "5 min",
-  "bytes": 3916269,
-  "generatedAt": "2026-10-25T09:51:13.536723+00:00",
+  "bytes": 3667725,
+  "generatedAt": "2026-10-25T16:16:16.646560+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-25-daily-brasil-decide-giro-regional",
-    "general": "2026-10-25-daily-brasil-decide-giro-regional",
-    "national": "2026-10-25-national-fondo-e-riesgo-fiduciario",
-    "markets": "2026-10-25-markets-brasil-prima-electoral"
+    "international": "2026-10-25-daily-israel-cripto-sanciones",
+    "general": "2026-10-25-daily-israel-cripto-sanciones",
+    "national": "2026-10-25-national-justicia-reglas-ia",
+    "markets": "2026-10-25-markets-bancos-centrales-bonos-petroleo"
   },
-  "sourceCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd"
+  "sourceCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8"
 }
