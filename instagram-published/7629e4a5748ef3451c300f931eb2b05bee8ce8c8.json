@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-25-daily-israel-cripto-sanciones.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-25-daily-israel-cripto-sanciones/",
+  "childContainerIds": [
+    "18097478327386975",
+    "18097478354386975",
+    "18097478378386975",
+    "18097478396386975",
+    "18097478414386975"
+  ],
+  "carouselContainerId": "18097478432386975",
+  "mediaId": "18169137418477888",
+  "permalink": "https://www.instagram.com/p/De7H637GPrs/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-25T16:20:59+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/7629e4a5748ef3451c300f931eb2b05bee8ce8c8/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/7629e4a5748ef3451c300f931eb2b05bee8ce8c8/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/7629e4a5748ef3451c300f931eb2b05bee8ce8c8/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/7629e4a5748ef3451c300f931eb2b05bee8ce8c8/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/7629e4a5748ef3451c300f931eb2b05bee8ce8c8/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40210956830",
+  "githubRunAttempt": "1",
+  "sourceCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8"
+}
