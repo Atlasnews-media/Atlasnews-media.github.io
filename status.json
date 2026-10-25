@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd",
-  "buildCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd",
+  "sourceCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8",
+  "buildCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8",
   "latestDaily": {
-    "id": "2026-10-25-daily-brasil-decide-giro-regional",
-    "editionSlot": "morning",
+    "id": "2026-10-25-daily-israel-cripto-sanciones",
+    "editionSlot": "evening",
     "issueNumber": 84,
-    "title": "Brasil decide entre continuidad y un giro que reordenaría la región",
-    "publishedAt": "2026-10-25T06:44:31-03:00",
-    "cutoffAt": "2026-10-25T06:04:28-03:00"
+    "title": "El Banco de Israel rechaza usar cripto para eludir sanciones y advierte sobre aislamiento",
+    "publishedAt": "2026-10-25T13:08:38-03:00",
+    "cutoffAt": "2026-10-25T08:43:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-25-national-fondo-e-riesgo-fiduciario",
-    "editionSlot": "morning",
-    "title": "El fondo E convierte una pérdida de tasas en una prueba fiduciaria para las AFP",
-    "publishedAt": "2026-10-25T06:44:31-03:00",
-    "cutoffAt": "2026-10-25T06:13:00-03:00"
+    "id": "2026-10-25-national-justicia-reglas-ia",
+    "editionSlot": "evening",
+    "title": "La justicia chilena fija una frontera: la inteligencia artificial no puede decidir por jueces ni defensores",
+    "publishedAt": "2026-10-25T13:08:38-03:00",
+    "cutoffAt": "2026-10-25T11:49:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-25-markets-brasil-prima-electoral",
-    "editionSlot": "morning",
-    "title": "Brasil ya descontó un giro político; el resultado probará cuánto queda en los precios",
-    "publishedAt": "2026-10-25T06:44:31-03:00",
-    "cutoffAt": "2026-10-25T06:14:00-03:00"
+    "id": "2026-10-25-markets-bancos-centrales-bonos-petroleo",
+    "editionSlot": "evening",
+    "title": "Bonos franceses sobre 5% y petróleo caro elevan el costo de la semana de bancos centrales",
+    "publishedAt": "2026-10-25T13:08:38-03:00",
+    "cutoffAt": "2026-10-25T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-25",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "editionSlot": "evening",
-    "generalId": "2026-10-24-daily-china-controles-inversion-tecnologica",
+    "generalId": "2026-10-25-daily-israel-cripto-sanciones",
     "generalPublished": true,
-    "nationalId": "2026-10-24-national-fondo-e-frentes-institucionales",
+    "nationalId": "2026-10-25-national-justicia-reglas-ia",
     "nationalPublished": true,
-    "marketsId": "2026-10-24-markets-bitcoin-senal-defensiva",
+    "marketsId": "2026-10-25-markets-bancos-centrales-bonos-petroleo",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 95,
+    "daily": 96,
     "weekly": 4,
-    "national": 88,
-    "markets": 87,
+    "national": 89,
+    "markets": 88,
     "readings": 16,
-    "total": 290
+    "total": 293
   },
   "indicators": {
     "status": "current",

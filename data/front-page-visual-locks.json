@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T09:54:00.524Z",
+  "updatedAt": "2026-10-25T16:13:15.969Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1345,6 +1345,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-25-daily-israel-cripto-sanciones": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stock%20Exchange%20NYC.jpg?width=1280",
+      "alt": "Fachada de la Bolsa de Nueva York en Wall Street.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stock%20Exchange%20NYC.jpg?width=1280",
+      "author": "Cody escadron delta",
+      "license": "Dominio público"
+    },
+    "national:2026-10-25-national-justicia-reglas-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-10-25-markets-bancos-centrales-bonos-petroleo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos visto desde Washington, D.C.",
+      "source": "Wikimedia Commons / U.S. Department of the Treasury",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "author": "U.S. Department of the Treasury",
+      "license": "Dominio público"
     }
   }
 }
