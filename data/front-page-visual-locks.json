@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T16:14:20.684Z",
+  "updatedAt": "2026-10-25T09:48:01.184Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1319,6 +1319,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-25-daily-brasil-decide-giro-regional": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos en Washington, D.C.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Treasury%20Building.jpg?width=1280",
+      "author": "Loren",
+      "license": "Dominio público"
+    },
+    "national:2026-10-25-national-fondo-e-riesgo-fiduciario": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "alt": "Edificio del Congreso Nacional de Chile en Valparaíso.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "author": "ShootingStarMax",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-25-markets-brasil-prima-electoral": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

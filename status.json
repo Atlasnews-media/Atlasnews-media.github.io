@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ecc72d5f621ef2203fcd5a530cf4c759d5949b83",
-  "buildCommit": "ecc72d5f621ef2203fcd5a530cf4c759d5949b83",
+  "sourceCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd",
+  "buildCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd",
   "latestDaily": {
-    "id": "2026-10-24-daily-china-controles-inversion-tecnologica",
-    "editionSlot": "evening",
-    "issueNumber": 83,
-    "title": "China amenaza con responder si EE.UU. amplía los controles sobre inversión tecnológica",
-    "publishedAt": "2026-10-24T13:05:44-03:00",
-    "cutoffAt": "2026-10-24T11:00:00-03:00"
+    "id": "2026-10-25-daily-brasil-decide-giro-regional",
+    "editionSlot": "morning",
+    "issueNumber": 84,
+    "title": "Brasil decide entre continuidad y un giro que reordenaría la región",
+    "publishedAt": "2026-10-25T06:44:31-03:00",
+    "cutoffAt": "2026-10-25T06:04:28-03:00"
   },
   "latestNational": {
-    "id": "2026-10-24-national-fondo-e-frentes-institucionales",
-    "editionSlot": "evening",
-    "title": "La crisis del Fondo E pasa de las AFP a fiscalía, Senado y posibles multas de 15.000 UF",
-    "publishedAt": "2026-10-24T13:05:44-03:00",
-    "cutoffAt": "2026-10-24T11:45:00-03:00"
+    "id": "2026-10-25-national-fondo-e-riesgo-fiduciario",
+    "editionSlot": "morning",
+    "title": "El fondo E convierte una pérdida de tasas en una prueba fiduciaria para las AFP",
+    "publishedAt": "2026-10-25T06:44:31-03:00",
+    "cutoffAt": "2026-10-25T06:13:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-24-markets-bitcoin-senal-defensiva",
-    "editionSlot": "evening",
-    "title": "Bitcoin cae hacia US$80.000 y ether profundiza la señal defensiva del fin de semana",
-    "publishedAt": "2026-10-24T13:05:44-03:00",
-    "cutoffAt": "2026-10-24T12:00:00-03:00"
+    "id": "2026-10-25-markets-brasil-prima-electoral",
+    "editionSlot": "morning",
+    "title": "Brasil ya descontó un giro político; el resultado probará cuánto queda en los precios",
+    "publishedAt": "2026-10-25T06:44:31-03:00",
+    "cutoffAt": "2026-10-25T06:14:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "editionSlot": "morning",
-    "generalId": "2026-10-24-daily-politica-exterior-eeuu-costo-electoral",
+    "generalId": "2026-10-25-daily-brasil-decide-giro-regional",
     "generalPublished": true,
-    "nationalId": "2026-10-24-national-precios-productor-costos",
+    "nationalId": "2026-10-25-national-fondo-e-riesgo-fiduciario",
     "nationalPublished": true,
-    "marketsId": "2026-10-24-markets-flujos-energia-liquidez",
+    "marketsId": "2026-10-25-markets-brasil-prima-electoral",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 94,
+    "daily": 95,
     "weekly": 4,
-    "national": 87,
-    "markets": 86,
+    "national": 88,
+    "markets": 87,
     "readings": 16,
-    "total": 287
+    "total": 290
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-24",
+    "asOf": "2026-10-25",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
