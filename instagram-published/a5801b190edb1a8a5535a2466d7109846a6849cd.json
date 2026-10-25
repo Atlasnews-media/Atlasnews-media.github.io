@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-25-daily-brasil-decide-giro-regional.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-25-daily-brasil-decide-giro-regional/",
+  "childContainerIds": [
+    "18097395485386975",
+    "18097395509386975",
+    "18097395536386975",
+    "18097395560386975",
+    "18097395581386975"
+  ],
+  "carouselContainerId": "18097395602386975",
+  "mediaId": "17913858279547111",
+  "permalink": "https://www.instagram.com/p/De6bh_AHFjr/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-25T09:53:06+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a5801b190edb1a8a5535a2466d7109846a6849cd/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a5801b190edb1a8a5535a2466d7109846a6849cd/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a5801b190edb1a8a5535a2466d7109846a6849cd/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a5801b190edb1a8a5535a2466d7109846a6849cd/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a5801b190edb1a8a5535a2466d7109846a6849cd/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40182320595",
+  "githubRunAttempt": "1",
+  "sourceCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd"
+}
