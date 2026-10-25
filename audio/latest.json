@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-24",
-  "title": "ATLAS NEWS — Resumen diario — sábado 24 de octubre de 2026",
+  "date": "2026-10-25",
+  "title": "ATLAS NEWS — Resumen diario — domingo 25 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-24-resumen-diario.mp3",
-  "durationSeconds": 325.6,
+  "path": "/audio/2026-10-25-resumen-diario.mp3",
+  "durationSeconds": 326.3,
   "durationLabel": "5 min",
-  "bytes": 3907629,
-  "generatedAt": "2026-10-24T16:12:49.837517+00:00",
+  "bytes": 3916269,
+  "generatedAt": "2026-10-25T09:51:13.536723+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-24-daily-china-controles-inversion-tecnologica",
-    "general": "2026-10-24-daily-china-controles-inversion-tecnologica",
-    "national": "2026-10-24-national-fondo-e-frentes-institucionales",
-    "markets": "2026-10-24-markets-bitcoin-senal-defensiva"
+    "international": "2026-10-25-daily-brasil-decide-giro-regional",
+    "general": "2026-10-25-daily-brasil-decide-giro-regional",
+    "national": "2026-10-25-national-fondo-e-riesgo-fiduciario",
+    "markets": "2026-10-25-markets-brasil-prima-electoral"
   },
-  "sourceCommit": "ecc72d5f621ef2203fcd5a530cf4c759d5949b83"
+  "sourceCommit": "a5801b190edb1a8a5535a2466d7109846a6849cd"
 }
