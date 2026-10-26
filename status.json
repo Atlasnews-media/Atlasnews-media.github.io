@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8",
-  "buildCommit": "7629e4a5748ef3451c300f931eb2b05bee8ce8c8",
+  "sourceCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0",
+  "buildCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0",
   "latestDaily": {
-    "id": "2026-10-25-daily-israel-cripto-sanciones",
-    "editionSlot": "evening",
-    "issueNumber": 84,
-    "title": "El Banco de Israel rechaza usar cripto para eludir sanciones y advierte sobre aislamiento",
-    "publishedAt": "2026-10-25T13:08:38-03:00",
-    "cutoffAt": "2026-10-25T08:43:00-03:00"
+    "id": "2026-10-26-daily-lula-gana-congreso-conservador",
+    "editionSlot": "morning",
+    "issueNumber": 85,
+    "title": "Lula retiene Brasil, pero gobernará con un Congreso más conservador",
+    "publishedAt": "2026-10-26T06:47:46-03:00",
+    "cutoffAt": "2026-10-26T06:18:03-03:00"
   },
   "latestNational": {
-    "id": "2026-10-25-national-justicia-reglas-ia",
-    "editionSlot": "evening",
-    "title": "La justicia chilena fija una frontera: la inteligencia artificial no puede decidir por jueces ni defensores",
-    "publishedAt": "2026-10-25T13:08:38-03:00",
-    "cutoffAt": "2026-10-25T11:49:00-03:00"
+    "id": "2026-10-26-national-inversion-publica-plazos",
+    "editionSlot": "morning",
+    "title": "La inversión pública acelera su evaluación, pero el desafío pasa a la ejecución",
+    "publishedAt": "2026-10-26T06:47:46-03:00",
+    "cutoffAt": "2026-10-26T06:25:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-25-markets-bancos-centrales-bonos-petroleo",
-    "editionSlot": "evening",
-    "title": "Bonos franceses sobre 5% y petróleo caro elevan el costo de la semana de bancos centrales",
-    "publishedAt": "2026-10-25T13:08:38-03:00",
-    "cutoffAt": "2026-10-25T12:00:00-03:00"
+    "id": "2026-10-26-markets-brasil-reversion-apuesta",
+    "editionSlot": "morning",
+    "title": "Brasil revierte la apuesta electoral antes de abrir su mercado",
+    "publishedAt": "2026-10-26T06:47:46-03:00",
+    "cutoffAt": "2026-10-26T06:26:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "editionSlot": "morning",
-    "generalId": "2026-10-25-daily-brasil-decide-giro-regional",
+    "generalId": "2026-10-26-daily-lula-gana-congreso-conservador",
     "generalPublished": true,
-    "nationalId": "2026-10-25-national-fondo-e-riesgo-fiduciario",
+    "nationalId": "2026-10-26-national-inversion-publica-plazos",
     "nationalPublished": true,
-    "marketsId": "2026-10-25-markets-brasil-prima-electoral",
+    "marketsId": "2026-10-26-markets-brasil-reversion-apuesta",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 96,
+    "daily": 97,
     "weekly": 4,
-    "national": 89,
-    "markets": 88,
+    "national": 90,
+    "markets": 89,
     "readings": 16,
-    "total": 293
+    "total": 296
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-25",
+    "asOf": "2026-10-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

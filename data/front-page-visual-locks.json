@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T16:21:46.713Z",
+  "updatedAt": "2026-10-26T09:50:34.155Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1369,6 +1369,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
       "author": "U.S. Department of the Treasury",
       "license": "Dominio público"
+    },
+    "international:2026-10-26-daily-lula-gana-congreso-conservador": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%201901%2C%20exterior%20LCCN96510935.jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/D.C.%2C%20Washington%2C%20Treasury%20Building%2C%201901%2C%20exterior%20LCCN96510935.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-26-national-inversion-publica-plazos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Atacama%20Lithium%20salt%20ponds%202018.jpg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Atacama%20Lithium%20salt%20ponds%202018.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-26-markets-brasil-reversion-apuesta": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
