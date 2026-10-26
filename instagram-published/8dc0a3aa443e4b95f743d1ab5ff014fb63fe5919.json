@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-26-daily-anthropic-meta-financian-ia.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-26-daily-anthropic-meta-financian-ia/",
+  "childContainerIds": [
+    "18097743746386975",
+    "18097743785386975",
+    "18097743809386975",
+    "18097743830386975",
+    "18097743860386975"
+  ],
+  "carouselContainerId": "18097743887386975",
+  "mediaId": "18024464705941804",
+  "permalink": "https://www.instagram.com/p/De9snxpIJJ2/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-26T16:20:11+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40357731459",
+  "githubRunAttempt": "1",
+  "sourceCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919"
+}
