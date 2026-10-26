@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "stale",
   "asOf": "2026-10-26",
-  "fetchedAt": "2026-10-26T17:06:44.570Z",
-  "lastAttemptAt": "2026-10-26T17:06:44.570Z",
+  "fetchedAt": "2026-10-26T21:38:40.596Z",
+  "lastAttemptAt": "2026-10-26T21:38:40.596Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -26,7 +26,7 @@
       "value": 990.35,
       "unit": "clp",
       "effectiveDate": "2026-10-26",
-      "status": "current",
+      "status": "stale",
       "previousValue": 986.58,
       "previousEffectiveDate": "2026-10-23",
       "changePercent": 0.38,
@@ -83,9 +83,10 @@
   ],
   "diagnostics": [
     { "code": "uf", "reason": "The operation was aborted due to timeout" },
+    { "code": "dolar", "reason": "fetch failed" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "The operation was aborted due to timeout" },
+    { "code": "utm", "reason": "fetch failed" },
     { "code": "tpm", "reason": "The operation was aborted due to timeout" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+    { "code": "cobre", "reason": "fetch failed" }
   ]
 }
