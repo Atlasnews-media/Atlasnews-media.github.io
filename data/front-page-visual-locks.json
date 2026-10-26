@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T09:56:43.379Z",
+  "updatedAt": "2026-10-26T16:13:14.236Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1393,6 +1393,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-10-26-daily-anthropic-meta-financian-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%20(NYSE)%20in%20Wall%20Street.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%20(NYSE)%20in%20Wall%20Street.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-26-national-calculadoras-costos-transporte": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Santoniodelmar.jpg?width=1280",
+      "alt": "Puerto de San Antonio, logística, comercio exterior o actividad portuaria en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Santoniodelmar.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-26-markets-brasil-circuit-breaker-real": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Dollar%20banknotes%20I.jpg?width=1280",
+      "alt": "Billetes de cien dólares estadounidenses en primer plano.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Dollar%20banknotes%20I.jpg?width=1280",
+      "author": "Milad Mosapoor",
+      "license": "Dominio público en Estados Unidos — moneda estadounidense"
     }
   }
 }

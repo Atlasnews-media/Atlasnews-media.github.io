@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0",
-  "buildCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0",
+  "sourceCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919",
+  "buildCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919",
   "latestDaily": {
-    "id": "2026-10-26-daily-lula-gana-congreso-conservador",
-    "editionSlot": "morning",
+    "id": "2026-10-26-daily-anthropic-meta-financian-ia",
+    "editionSlot": "evening",
     "issueNumber": 85,
-    "title": "Lula retiene Brasil, pero gobernará con un Congreso más conservador",
-    "publishedAt": "2026-10-26T06:47:46-03:00",
-    "cutoffAt": "2026-10-26T06:18:03-03:00"
+    "title": "Anthropic abre su IPO y Meta busca hasta US$95.000 millones para financiar la carrera de IA",
+    "publishedAt": "2026-10-26T13:10:00-03:00",
+    "cutoffAt": "2026-10-26T11:56:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-26-national-inversion-publica-plazos",
-    "editionSlot": "morning",
-    "title": "La inversión pública acelera su evaluación, pero el desafío pasa a la ejecución",
-    "publishedAt": "2026-10-26T06:47:46-03:00",
-    "cutoffAt": "2026-10-26T06:25:00-03:00"
+    "id": "2026-10-26-national-calculadoras-costos-transporte",
+    "editionSlot": "evening",
+    "title": "INE estrena calculadoras que separan el costo oficial del transporte del gasto real de cada empresa",
+    "publishedAt": "2026-10-26T13:10:00-03:00",
+    "cutoffAt": "2026-10-26T11:56:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-26-markets-brasil-reversion-apuesta",
-    "editionSlot": "morning",
-    "title": "Brasil revierte la apuesta electoral antes de abrir su mercado",
-    "publishedAt": "2026-10-26T06:47:46-03:00",
-    "cutoffAt": "2026-10-26T06:26:00-03:00"
+    "id": "2026-10-26-markets-brasil-circuit-breaker-real",
+    "editionSlot": "evening",
+    "title": "Brasil activa el cortacircuitos: el Ibovespa cae más de 15% y el real pierde hasta 12%",
+    "publishedAt": "2026-10-26T13:10:00-03:00",
+    "cutoffAt": "2026-10-26T11:56:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-26",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "editionSlot": "evening",
-    "generalId": "2026-10-25-daily-israel-cripto-sanciones",
+    "generalId": "2026-10-26-daily-anthropic-meta-financian-ia",
     "generalPublished": true,
-    "nationalId": "2026-10-25-national-justicia-reglas-ia",
+    "nationalId": "2026-10-26-national-calculadoras-costos-transporte",
     "nationalPublished": true,
-    "marketsId": "2026-10-25-markets-bancos-centrales-bonos-petroleo",
+    "marketsId": "2026-10-26-markets-brasil-circuit-breaker-real",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 97,
+    "daily": 98,
     "weekly": 4,
-    "national": 90,
-    "markets": 89,
+    "national": 91,
+    "markets": 90,
     "readings": 16,
-    "total": 296
+    "total": 299
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-10-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
