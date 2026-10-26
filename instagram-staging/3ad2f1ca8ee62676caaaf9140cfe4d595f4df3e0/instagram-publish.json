@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-26-daily-lula-gana-congreso-conservador.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-26-daily-lula-gana-congreso-conservador/",
+  "childContainerIds": [
+    "18097664483386975",
+    "18097664510386975",
+    "18097664531386975",
+    "18097664552386975",
+    "18097664588386975"
+  ],
+  "carouselContainerId": "18097664606386975",
+  "mediaId": "17918532402256943",
+  "permalink": "https://www.instagram.com/p/De9AoKQln23/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-26T09:55:44+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40303080585",
+  "githubRunAttempt": "1",
+  "sourceCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0"
+}
