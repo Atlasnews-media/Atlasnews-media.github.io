@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — lunes 26 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-26-resumen-diario.mp3",
-  "durationSeconds": 334.9,
+  "durationSeconds": 332.3,
   "durationLabel": "6 min",
-  "bytes": 4019373,
-  "generatedAt": "2026-10-26T09:53:41.290287+00:00",
+  "bytes": 3987693,
+  "generatedAt": "2026-10-26T16:17:20.008068+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-26-daily-lula-gana-congreso-conservador",
-    "general": "2026-10-26-daily-lula-gana-congreso-conservador",
-    "national": "2026-10-26-national-inversion-publica-plazos",
-    "markets": "2026-10-26-markets-brasil-reversion-apuesta"
+    "international": "2026-10-26-daily-anthropic-meta-financian-ia",
+    "general": "2026-10-26-daily-anthropic-meta-financian-ia",
+    "national": "2026-10-26-national-calculadoras-costos-transporte",
+    "markets": "2026-10-26-markets-brasil-circuit-breaker-real"
   },
-  "sourceCommit": "3ad2f1ca8ee62676caaaf9140cfe4d595f4df3e0"
+  "sourceCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919"
 }
