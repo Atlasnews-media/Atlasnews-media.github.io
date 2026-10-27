@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "current",
+  "status": "stale",
   "asOf": "2026-10-27",
-  "fetchedAt": "2026-10-27T09:49:23.643Z",
-  "lastAttemptAt": "2026-10-27T09:49:23.643Z",
+  "fetchedAt": "2026-10-27T16:10:32.745Z",
+  "lastAttemptAt": "2026-10-27T16:10:32.745Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -14,7 +14,7 @@
       "value": 41226.39,
       "unit": "clp",
       "effectiveDate": "2026-10-27",
-      "status": "current",
+      "status": "stale",
       "previousValue": 41221.08,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 0.01,
@@ -26,7 +26,7 @@
       "value": 994.29,
       "unit": "clp",
       "effectiveDate": "2026-10-27",
-      "status": "current",
+      "status": "stale",
       "previousValue": 990.35,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 0.4,
@@ -38,7 +38,7 @@
       "value": 1112.8,
       "unit": "clp",
       "effectiveDate": "2026-10-27",
-      "status": "current",
+      "status": "stale",
       "previousValue": 1108.39,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 0.4,
@@ -50,7 +50,7 @@
       "value": 72151,
       "unit": "clp-integer",
       "effectiveDate": "2026-10-01",
-      "status": "current",
+      "status": "stale",
       "previousValue": 71721,
       "previousEffectiveDate": "2026-09-01",
       "changePercent": 0.6,
@@ -62,7 +62,7 @@
       "value": 4.5,
       "unit": "percent",
       "effectiveDate": "2026-10-27",
-      "status": "current",
+      "status": "stale",
       "previousValue": 4.5,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 0,
@@ -74,12 +74,22 @@
       "value": 6.56,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-10-27",
-      "status": "current",
+      "status": "stale",
       "previousValue": 6.44,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 1.86,
       "trend": "up"
     }
   ],
-  "diagnostics": []
+  "diagnostics": [
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
+    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
+    { "code": "euro", "reason": "fetch failed" },
+    {
+      "code": "utm",
+      "reason": "https://mindicador.cl/api/utm respondió con estado 500."
+    },
+    { "code": "tpm", "reason": "fetch failed" },
+    { "code": "cobre", "reason": "fetch failed" }
+  ]
 }
