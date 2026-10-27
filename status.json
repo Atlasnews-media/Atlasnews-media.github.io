@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919",
-  "buildCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919",
+  "sourceCommit": "92d9ac82266552d989988961c68402b8e9305d92",
+  "buildCommit": "92d9ac82266552d989988961c68402b8e9305d92",
   "latestDaily": {
-    "id": "2026-10-26-daily-anthropic-meta-financian-ia",
-    "editionSlot": "evening",
-    "issueNumber": 85,
-    "title": "Anthropic abre su IPO y Meta busca hasta US$95.000 millones para financiar la carrera de IA",
-    "publishedAt": "2026-10-26T13:10:00-03:00",
-    "cutoffAt": "2026-10-26T11:56:00-03:00"
+    "id": "2026-10-27-daily-diplomacia-riesgo-energia",
+    "editionSlot": "morning",
+    "issueNumber": 86,
+    "title": "La diplomacia regional avanza, pero el suministro energético sigue expuesto",
+    "publishedAt": "2026-10-27T06:43:57-03:00",
+    "cutoffAt": "2026-10-27T06:03:57-03:00"
   },
   "latestNational": {
-    "id": "2026-10-26-national-calculadoras-costos-transporte",
-    "editionSlot": "evening",
-    "title": "INE estrena calculadoras que separan el costo oficial del transporte del gasto real de cada empresa",
-    "publishedAt": "2026-10-26T13:10:00-03:00",
-    "cutoffAt": "2026-10-26T11:56:00-03:00"
+    "id": "2026-10-27-national-capstone-atacama-ejecucion",
+    "editionSlot": "morning",
+    "title": "Capstone concentra US$3.000 millones en Atacama, pero la prueba será ejecutar Santo Domingo",
+    "publishedAt": "2026-10-27T06:43:57-03:00",
+    "cutoffAt": "2026-10-27T06:12:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-26-markets-brasil-circuit-breaker-real",
-    "editionSlot": "evening",
-    "title": "Brasil activa el cortacircuitos: el Ibovespa cae más de 15% y el real pierde hasta 12%",
-    "publishedAt": "2026-10-26T13:10:00-03:00",
-    "cutoffAt": "2026-10-26T11:56:00-03:00"
+    "id": "2026-10-27-markets-asia-ia-petroleo-tasas",
+    "editionSlot": "morning",
+    "title": "Asia recompra inteligencia artificial mientras petróleo y tasas limitan el apetito",
+    "publishedAt": "2026-10-27T06:43:57-03:00",
+    "cutoffAt": "2026-10-27T06:13:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "editionSlot": "morning",
-    "generalId": "2026-10-26-daily-lula-gana-congreso-conservador",
+    "generalId": "2026-10-27-daily-diplomacia-riesgo-energia",
     "generalPublished": true,
-    "nationalId": "2026-10-26-national-inversion-publica-plazos",
+    "nationalId": "2026-10-27-national-capstone-atacama-ejecucion",
     "nationalPublished": true,
-    "marketsId": "2026-10-26-markets-brasil-reversion-apuesta",
+    "marketsId": "2026-10-27-markets-asia-ia-petroleo-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 98,
+    "daily": 99,
     "weekly": 4,
-    "national": 91,
-    "markets": 90,
+    "national": 92,
+    "markets": 91,
     "readings": 16,
-    "total": 299
+    "total": 302
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-26",
+    "status": "current",
+    "asOf": "2026-10-27",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

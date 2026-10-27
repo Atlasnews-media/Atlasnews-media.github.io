@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T16:21:29.084Z",
+  "updatedAt": "2026-10-27T09:46:30.519Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1417,6 +1417,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Dollar%20banknotes%20I.jpg?width=1280",
       "author": "Milad Mosapoor",
       "license": "Dominio público en Estados Unidos — moneda estadounidense"
+    },
+    "international:2026-10-27-daily-diplomacia-riesgo-energia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030628-N-6077T-005%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030628-N-6077T-005%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-27-national-capstone-atacama-ejecucion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiquicamata%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiquicamata%20Mine%2C%20Chile%20(ASTER).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-27-markets-asia-ia-petroleo-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
