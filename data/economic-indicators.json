@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
+  "status": "partial",
   "asOf": "2026-10-27",
-  "fetchedAt": "2026-10-27T16:10:32.745Z",
-  "lastAttemptAt": "2026-10-27T16:10:32.745Z",
+  "fetchedAt": "2026-10-27T16:21:12.664Z",
+  "lastAttemptAt": "2026-10-27T16:21:12.664Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -74,7 +74,7 @@
       "value": 6.56,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-10-27",
-      "status": "stale",
+      "status": "current",
       "previousValue": 6.44,
       "previousEffectiveDate": "2026-10-26",
       "changePercent": 1.86,
@@ -84,12 +84,8 @@
   "diagnostics": [
     { "code": "uf", "reason": "The operation was aborted due to timeout" },
     { "code": "dolar", "reason": "The operation was aborted due to timeout" },
-    { "code": "euro", "reason": "fetch failed" },
-    {
-      "code": "utm",
-      "reason": "https://mindicador.cl/api/utm respondió con estado 500."
-    },
-    { "code": "tpm", "reason": "fetch failed" },
-    { "code": "cobre", "reason": "fetch failed" }
+    { "code": "euro", "reason": "The operation was aborted due to timeout" },
+    { "code": "utm", "reason": "The operation was aborted due to timeout" },
+    { "code": "tpm", "reason": "The operation was aborted due to timeout" }
   ]
 }
