@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-27-daily-diplomacia-riesgo-energia.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-27-daily-diplomacia-riesgo-energia/",
+  "childContainerIds": [
+    "18097918886386975",
+    "18097918907386975",
+    "18097918925386975",
+    "18097918946386975",
+    "18097918970386975"
+  ],
+  "carouselContainerId": "18097919039386975",
+  "mediaId": "17968765281195957",
+  "permalink": "https://www.instagram.com/p/De_lCC5loRA/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-27T09:52:20+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/92d9ac82266552d989988961c68402b8e9305d92/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/92d9ac82266552d989988961c68402b8e9305d92/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/92d9ac82266552d989988961c68402b8e9305d92/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/92d9ac82266552d989988961c68402b8e9305d92/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/92d9ac82266552d989988961c68402b8e9305d92/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40483680699",
+  "githubRunAttempt": "1",
+  "sourceCommit": "92d9ac82266552d989988961c68402b8e9305d92"
+}
