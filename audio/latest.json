@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-26",
-  "title": "ATLAS NEWS — Resumen diario — lunes 26 de octubre de 2026",
+  "date": "2026-10-27",
+  "title": "ATLAS NEWS — Resumen diario — martes 27 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-26-resumen-diario.mp3",
-  "durationSeconds": 332.3,
+  "path": "/audio/2026-10-27-resumen-diario.mp3",
+  "durationSeconds": 332.0,
   "durationLabel": "6 min",
-  "bytes": 3987693,
-  "generatedAt": "2026-10-26T16:17:20.008068+00:00",
+  "bytes": 3983949,
+  "generatedAt": "2026-10-27T09:49:36.266206+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-26-daily-anthropic-meta-financian-ia",
-    "general": "2026-10-26-daily-anthropic-meta-financian-ia",
-    "national": "2026-10-26-national-calculadoras-costos-transporte",
-    "markets": "2026-10-26-markets-brasil-circuit-breaker-real"
+    "international": "2026-10-27-daily-diplomacia-riesgo-energia",
+    "general": "2026-10-27-daily-diplomacia-riesgo-energia",
+    "national": "2026-10-27-national-capstone-atacama-ejecucion",
+    "markets": "2026-10-27-markets-asia-ia-petroleo-tasas"
   },
-  "sourceCommit": "8dc0a3aa443e4b95f743d1ab5ff014fb63fe5919"
+  "sourceCommit": "92d9ac82266552d989988961c68402b8e9305d92"
 }
