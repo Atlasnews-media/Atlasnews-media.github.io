@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — martes 27 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-27-resumen-diario.mp3",
-  "durationSeconds": 332.0,
+  "durationSeconds": 330.6,
   "durationLabel": "6 min",
-  "bytes": 3983949,
-  "generatedAt": "2026-10-27T09:49:36.266206+00:00",
+  "bytes": 3968109,
+  "generatedAt": "2026-10-27T16:21:54.726638+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-27-daily-diplomacia-riesgo-energia",
-    "general": "2026-10-27-daily-diplomacia-riesgo-energia",
-    "national": "2026-10-27-national-capstone-atacama-ejecucion",
-    "markets": "2026-10-27-markets-asia-ia-petroleo-tasas"
+    "international": "2026-10-27-daily-ia-inversion-equipos-eeuu",
+    "general": "2026-10-27-daily-ia-inversion-equipos-eeuu",
+    "national": "2026-10-27-national-los-lagos-schwager-dividendos",
+    "markets": "2026-10-27-markets-chips-meta-petroleo"
   },
-  "sourceCommit": "92d9ac82266552d989988961c68402b8e9305d92"
+  "sourceCommit": "54f8b60071e915da448e5d97b95a13ef54e725e9"
 }
