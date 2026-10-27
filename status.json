@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "92d9ac82266552d989988961c68402b8e9305d92",
-  "buildCommit": "92d9ac82266552d989988961c68402b8e9305d92",
+  "sourceCommit": "54f8b60071e915da448e5d97b95a13ef54e725e9",
+  "buildCommit": "54f8b60071e915da448e5d97b95a13ef54e725e9",
   "latestDaily": {
-    "id": "2026-10-27-daily-diplomacia-riesgo-energia",
-    "editionSlot": "morning",
+    "id": "2026-10-27-daily-ia-inversion-equipos-eeuu",
+    "editionSlot": "evening",
     "issueNumber": 86,
-    "title": "La diplomacia regional avanza, pero el suministro energético sigue expuesto",
-    "publishedAt": "2026-10-27T06:43:57-03:00",
-    "cutoffAt": "2026-10-27T06:03:57-03:00"
+    "title": "La inversión en IA lleva el gasto empresarial de Estados Unidos a crecer cerca de 20% anualizado",
+    "publishedAt": "2026-10-27T13:13:09-03:00",
+    "cutoffAt": "2026-10-27T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-27-national-capstone-atacama-ejecucion",
-    "editionSlot": "morning",
-    "title": "Capstone concentra US$3.000 millones en Atacama, pero la prueba será ejecutar Santo Domingo",
-    "publishedAt": "2026-10-27T06:43:57-03:00",
-    "cutoffAt": "2026-10-27T06:12:00-03:00"
+    "id": "2026-10-27-national-los-lagos-schwager-dividendos",
+    "editionSlot": "evening",
+    "title": "Los Lagos propone repartir hasta $5.822 millones y Schwager fija un dividendo de $794 millones",
+    "publishedAt": "2026-10-27T13:13:09-03:00",
+    "cutoffAt": "2026-10-27T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-27-markets-asia-ia-petroleo-tasas",
-    "editionSlot": "morning",
-    "title": "Asia recompra inteligencia artificial mientras petróleo y tasas limitan el apetito",
-    "publishedAt": "2026-10-27T06:43:57-03:00",
-    "cutoffAt": "2026-10-27T06:13:00-03:00"
+    "id": "2026-10-27-markets-chips-meta-petroleo",
+    "editionSlot": "evening",
+    "title": "Chips suben 1,8% en Wall Street, pero Meta cae tras ampliar a US$97.500 millones su emisión",
+    "publishedAt": "2026-10-27T13:13:09-03:00",
+    "cutoffAt": "2026-10-27T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-27",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "editionSlot": "evening",
-    "generalId": "2026-10-26-daily-anthropic-meta-financian-ia",
+    "generalId": "2026-10-27-daily-ia-inversion-equipos-eeuu",
     "generalPublished": true,
-    "nationalId": "2026-10-26-national-calculadoras-costos-transporte",
+    "nationalId": "2026-10-27-national-los-lagos-schwager-dividendos",
     "nationalPublished": true,
-    "marketsId": "2026-10-26-markets-brasil-circuit-breaker-real",
+    "marketsId": "2026-10-27-markets-chips-meta-petroleo",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 99,
+    "daily": 100,
     "weekly": 4,
-    "national": 92,
-    "markets": 91,
+    "national": 93,
+    "markets": 92,
     "readings": 16,
-    "total": 302
+    "total": 305
   },
   "indicators": {
-    "status": "current",
+    "status": "partial",
     "asOf": "2026-10-27",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
