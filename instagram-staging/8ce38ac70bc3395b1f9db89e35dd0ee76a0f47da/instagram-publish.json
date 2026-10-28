@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-28-daily-canada-sube-tasa-inflacion.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-28-daily-canada-sube-tasa-inflacion/",
+  "childContainerIds": [
+    "18098264069386975",
+    "18098264120386975",
+    "18098264168386975",
+    "18098264261386975",
+    "18098264309386975"
+  ],
+  "carouselContainerId": "18098264354386975",
+  "mediaId": "18121317190982724",
+  "permalink": "https://www.instagram.com/p/DfC2y8qm6ft/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-28T16:25:16+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "40725320584",
+  "githubRunAttempt": "1",
+  "sourceCommit": "8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da"
+}
