@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "54f8b60071e915da448e5d97b95a13ef54e725e9",
-  "buildCommit": "54f8b60071e915da448e5d97b95a13ef54e725e9",
+  "sourceCommit": "ec734bab81981e92ee643be9b3ea194378f2c842",
+  "buildCommit": "ec734bab81981e92ee643be9b3ea194378f2c842",
   "latestDaily": {
-    "id": "2026-10-27-daily-ia-inversion-equipos-eeuu",
-    "editionSlot": "evening",
-    "issueNumber": 86,
-    "title": "La inversión en IA lleva el gasto empresarial de Estados Unidos a crecer cerca de 20% anualizado",
-    "publishedAt": "2026-10-27T13:13:09-03:00",
-    "cutoffAt": "2026-10-27T12:00:00-03:00"
+    "id": "2026-10-28-daily-china-controla-salida-ia",
+    "editionSlot": "morning",
+    "issueNumber": 87,
+    "title": "China restringe la salida de sus modelos de IA y privilegia vender acceso",
+    "publishedAt": "2026-10-28T06:45:41-03:00",
+    "cutoffAt": "2026-10-28T06:04:02-03:00"
   },
   "latestNational": {
-    "id": "2026-10-27-national-los-lagos-schwager-dividendos",
-    "editionSlot": "evening",
-    "title": "Los Lagos propone repartir hasta $5.822 millones y Schwager fija un dividendo de $794 millones",
-    "publishedAt": "2026-10-27T13:13:09-03:00",
-    "cutoffAt": "2026-10-27T12:00:00-03:00"
+    "id": "2026-10-28-national-banco-central-riesgos-inflacion-actividad",
+    "editionSlot": "morning",
+    "title": "Banco Central mantiene la TPM, pero cambia el balance entre inflación y actividad",
+    "publishedAt": "2026-10-28T06:45:41-03:00",
+    "cutoffAt": "2026-10-28T06:17:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-27-markets-chips-meta-petroleo",
-    "editionSlot": "evening",
-    "title": "Chips suben 1,8% en Wall Street, pero Meta cae tras ampliar a US$97.500 millones su emisión",
-    "publishedAt": "2026-10-27T13:13:09-03:00",
-    "cutoffAt": "2026-10-27T12:00:00-03:00"
+    "id": "2026-10-28-markets-ia-acciones-credito-retornos",
+    "editionSlot": "morning",
+    "title": "La bolsa premia la IA, pero el crédito exige pruebas de retorno",
+    "publishedAt": "2026-10-28T06:45:41-03:00",
+    "cutoffAt": "2026-10-28T06:19:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "editionSlot": "morning",
-    "generalId": "2026-10-27-daily-diplomacia-riesgo-energia",
+    "generalId": "2026-10-28-daily-china-controla-salida-ia",
     "generalPublished": true,
-    "nationalId": "2026-10-27-national-capstone-atacama-ejecucion",
+    "nationalId": "2026-10-28-national-banco-central-riesgos-inflacion-actividad",
     "nationalPublished": true,
-    "marketsId": "2026-10-27-markets-asia-ia-petroleo-tasas",
+    "marketsId": "2026-10-28-markets-ia-acciones-credito-retornos",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 100,
+    "daily": 101,
     "weekly": 4,
-    "national": 93,
-    "markets": 92,
+    "national": 94,
+    "markets": 93,
     "readings": 16,
-    "total": 305
+    "total": 308
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-27",
+    "status": "current",
+    "asOf": "2026-10-28",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
