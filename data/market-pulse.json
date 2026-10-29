@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-10-28T21:29:23.520Z",
+  "generatedAt": "2026-10-29T01:08:39.075Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -202,27 +202,27 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 110.44,
+      "value": 110.64,
       "unit": "usd-per-barrel",
-      "changePercent": 0.81,
+      "changePercent": 0.99,
       "trend": "up",
-      "effectiveAt": "2026-10-28T20:59:38.000Z",
+      "effectiveAt": "2026-10-29T00:58:32.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "closed"
     },
     {
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4081.2,
+      "value": 4049.3,
       "unit": "usd-per-ounce",
-      "changePercent": -1.9,
+      "changePercent": -2.66,
       "trend": "down",
-      "effectiveAt": "2026-10-28T20:59:59.000Z",
+      "effectiveAt": "2026-10-29T00:58:29.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 81229,
+      "value": 80939,
       "unit": "usd",
-      "changePercent": 0.76,
+      "changePercent": 0.48,
       "trend": "up",
-      "effectiveAt": "2026-10-28T21:29:23.520Z",
+      "effectiveAt": "2026-10-29T01:08:39.075Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-10-28T21:29:24.268Z",
+  "historyGeneratedAt": "2026-10-29T01:08:41.415Z",
   "history": [
     {
       "id": "usdclp",
@@ -422,7 +422,7 @@
         { "date": "2026-10-23", "value": 116.72000122070312 },
         { "date": "2026-10-26", "value": 115.80999755859375 },
         { "date": "2026-10-27", "value": 113.87999725341797 },
-        { "date": "2026-10-28", "value": 110.44000244140625 }
+        { "date": "2026-10-28", "value": 110.63999938964844 }
       ]
     }
   ],
@@ -452,6 +452,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-10-28T21:29:24.418Z",
+  "freshnessCheckedAt": "2026-10-29T01:08:41.568Z",
   "freshnessPolicy": "market-sessions-v3"
 }
