@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T09:51:13.791Z",
+  "checkedAt": "2026-10-29T16:12:58.187Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -14,14 +14,14 @@
     "ine": {
       "status": 200,
       "error": null,
-      "bytes": 103248,
+      "bytes": 102958,
       "foundAgenda2026": true,
       "sample": null
     },
     "bancoCentral": {
       "status": 200,
       "error": null,
-      "bytes": 518840,
+      "bytes": 518823,
       "foundCalendar": true,
       "sample": "do de Derivados Financieros de Chile - diciembre 2025 7 Encuesta de Operadores Financieros (EOF) post RPM diciembre 6 Encuesta de Determinantes y Expectativas de Precios (EDEP) 12 Encuesta de Expectativas Económicas (EEE) 14 Encuesta de Crédito Bancario (ECB) 4to trimestre 2025 22 Encuesta de Operadores Financieros (EOF) pre RPM enero 2 IMACEC - noviembre 2025 6 Cuentas Nacionales por Sector "
     }
