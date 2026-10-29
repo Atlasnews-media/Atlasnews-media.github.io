@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f002cc06c5be07c1ba3b718279dc489946b4cca7",
-  "buildCommit": "f002cc06c5be07c1ba3b718279dc489946b4cca7",
+  "sourceCommit": "f21633566ea8ca4c088c4ee78cc30caeff5f72f8",
+  "buildCommit": "f21633566ea8ca4c088c4ee78cc30caeff5f72f8",
   "latestDaily": {
-    "id": "2026-10-29-daily-banco-mundial-commodities-alimentos",
-    "editionSlot": "morning",
+    "id": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
+    "editionSlot": "evening",
     "issueNumber": 88,
-    "title": "El Banco Mundial proyecta un salto de 23% en commodities y más presión alimentaria",
-    "publishedAt": "2026-10-29T06:49:10-03:00",
-    "cutoffAt": "2026-10-29T05:59:30-03:00"
+    "title": "EE.UU. crece 3,4% con inflación PCE en 3,6%, mientras el BCE mantiene su tasa en 2,5%",
+    "publishedAt": "2026-10-29T13:10:09-03:00",
+    "cutoffAt": "2026-10-29T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-29-national-reforma-financiamiento-vivienda-empresas",
-    "editionSlot": "morning",
-    "title": "La reforma financiera avanza al Senado, pero su efecto dependerá de convertir ahorro en crédito",
-    "publishedAt": "2026-10-29T06:49:10-03:00",
-    "cutoffAt": "2026-10-29T06:20:00-03:00"
+    "id": "2026-10-29-national-desempleo-ocupacion-chile",
+    "editionSlot": "evening",
+    "title": "El desempleo sube a 9,8% y Chile pierde 1,1% de sus ocupados en un año",
+    "publishedAt": "2026-10-29T13:10:09-03:00",
+    "cutoffAt": "2026-10-29T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-29-markets-ia-resultados-curva-tasas",
-    "editionSlot": "morning",
-    "title": "La IA deja de ser una sola operación: Alphabet cae y Microsoft sube",
-    "publishedAt": "2026-10-29T06:49:10-03:00",
-    "cutoffAt": "2026-10-29T06:22:00-03:00"
+    "id": "2026-10-29-markets-dolar-ipsa-cobre-tecnologia",
+    "editionSlot": "evening",
+    "title": "El dólar supera $993 y el IPSA cae 0,97% mientras retroceden el cobre y las tecnológicas",
+    "publishedAt": "2026-10-29T13:10:09-03:00",
+    "cutoffAt": "2026-10-29T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-29",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "editionSlot": "evening",
-    "generalId": "2026-10-28-daily-canada-sube-tasa-inflacion",
+    "generalId": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
     "generalPublished": true,
-    "nationalId": "2026-10-28-national-hacienda-imacec-proyectos",
+    "nationalId": "2026-10-29-national-desempleo-ocupacion-chile",
     "nationalPublished": true,
-    "marketsId": "2026-10-28-markets-peso-ipsa-petroleo",
+    "marketsId": "2026-10-29-markets-dolar-ipsa-cobre-tecnologia",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 103,
+    "daily": 104,
     "weekly": 4,
-    "national": 96,
-    "markets": 95,
+    "national": 97,
+    "markets": 96,
     "readings": 16,
-    "total": 314
+    "total": 317
   },
   "indicators": {
-    "status": "current",
+    "status": "partial",
     "asOf": "2026-10-29",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

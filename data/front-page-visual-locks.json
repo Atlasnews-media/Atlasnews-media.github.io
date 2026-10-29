@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:59:03.378Z",
+  "updatedAt": "2026-10-29T16:14:00.842Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1535,6 +1535,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CP%20FOMC%20Group%207.5x10%2011142022%20DSCF5769%20(52563724010).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-29-daily-eeuu-crece-inflacion-bce-pausa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Eccles%20Building%20(26088200676).jpg?width=1280",
+      "alt": "Entrada principal del edificio Marriner S. Eccles de la Reserva Federal en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eccles%20Building%20(26088200676).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-10-29-national-desempleo-ocupacion-chile": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2001%20-%20Flat%20projection).jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2001%20-%20Flat%20projection).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-29-markets-dolar-ipsa-cobre-tecnologia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
