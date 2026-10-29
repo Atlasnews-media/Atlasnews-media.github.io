@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "partial",
   "asOf": "2026-10-29",
-  "fetchedAt": "2026-10-29T16:17:15.961Z",
-  "lastAttemptAt": "2026-10-29T16:17:15.961Z",
+  "fetchedAt": "2026-10-29T17:17:58.469Z",
+  "lastAttemptAt": "2026-10-29T17:17:58.469Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -84,8 +84,11 @@
   "diagnostics": [
     { "code": "uf", "reason": "The operation was aborted due to timeout" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "The operation was aborted due to timeout" },
+    { "code": "utm", "reason": "fetch failed" },
     { "code": "tpm", "reason": "The operation was aborted due to timeout" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+    {
+      "code": "cobre",
+      "reason": "https://mindicador.cl/api/libra_cobre respondió con estado 500."
+    }
   ]
 }
