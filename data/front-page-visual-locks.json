@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T16:26:41.939Z",
+  "updatedAt": "2026-10-29T09:51:49.179Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1511,6 +1511,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-29-daily-banco-mundial-commodities-alimentos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-29-national-reforma-financiamiento-vivienda-empresas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "alt": "Plaza de la Constitución y edificios del centro cívico de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza%20de%20la%20Constituci%C3%B3n%20Chile.jpg?width=1280",
+      "author": "Usuario de Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-29-markets-ia-resultados-curva-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CP%20FOMC%20Group%207.5x10%2011142022%20DSCF5769%20(52563724010).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CP%20FOMC%20Group%207.5x10%2011142022%20DSCF5769%20(52563724010).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
