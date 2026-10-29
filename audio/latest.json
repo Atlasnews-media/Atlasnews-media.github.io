@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-28",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 28 de octubre de 2026",
+  "date": "2026-10-29",
+  "title": "ATLAS NEWS — Resumen diario — jueves 29 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-28-resumen-diario.mp3",
-  "durationSeconds": 327.1,
+  "path": "/audio/2026-10-29-resumen-diario.mp3",
+  "durationSeconds": 329.1,
   "durationLabel": "5 min",
-  "bytes": 3925773,
-  "generatedAt": "2026-10-28T16:16:44.823218+00:00",
+  "bytes": 3949677,
+  "generatedAt": "2026-10-29T09:54:42.179833+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-28-daily-canada-sube-tasa-inflacion",
-    "general": "2026-10-28-daily-canada-sube-tasa-inflacion",
-    "national": "2026-10-28-national-hacienda-imacec-proyectos",
-    "markets": "2026-10-28-markets-peso-ipsa-petroleo"
+    "international": "2026-10-29-daily-banco-mundial-commodities-alimentos",
+    "general": "2026-10-29-daily-banco-mundial-commodities-alimentos",
+    "national": "2026-10-29-national-reforma-financiamiento-vivienda-empresas",
+    "markets": "2026-10-29-markets-ia-resultados-curva-tasas"
   },
-  "sourceCommit": "8ce38ac70bc3395b1f9db89e35dd0ee76a0f47da"
+  "sourceCommit": "f002cc06c5be07c1ba3b718279dc489946b4cca7"
 }
