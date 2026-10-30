@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "stale",
   "asOf": "2026-10-30",
-  "fetchedAt": "2026-10-30T16:55:47.893Z",
-  "lastAttemptAt": "2026-10-30T16:55:47.893Z",
+  "fetchedAt": "2026-10-30T21:22:20.732Z",
+  "lastAttemptAt": "2026-10-30T21:22:20.732Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -82,14 +82,11 @@
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "The operation was aborted due to timeout" },
+    { "code": "uf", "reason": "fetch failed" },
     { "code": "dolar", "reason": "The operation was aborted due to timeout" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "The operation was aborted due to timeout" },
-    {
-      "code": "tpm",
-      "reason": "https://mindicador.cl/api/tpm respondió con estado 500."
-    },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+    { "code": "utm", "reason": "fetch failed" },
+    { "code": "tpm", "reason": "fetch failed" },
+    { "code": "cobre", "reason": "fetch failed" }
   ]
 }
