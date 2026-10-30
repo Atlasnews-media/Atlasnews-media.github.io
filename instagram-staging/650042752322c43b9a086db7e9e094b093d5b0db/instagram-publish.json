@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-10-30-daily-japon-normaliza-inflacion-etf.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-10-30-daily-japon-normaliza-inflacion-etf/",
+  "childContainerIds": [
+    "18098661893386975",
+    "18098661911386975",
+    "18098661935386975",
+    "18098661956386975",
+    "18098661992386975"
+  ],
+  "carouselContainerId": "18098662016386975",
+  "mediaId": "17998650888107801",
+  "permalink": "https://www.instagram.com/p/DfHTclaFrFY/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-10-30T09:52:35+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/650042752322c43b9a086db7e9e094b093d5b0db/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/650042752322c43b9a086db7e9e094b093d5b0db/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/650042752322c43b9a086db7e9e094b093d5b0db/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/650042752322c43b9a086db7e9e094b093d5b0db/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/650042752322c43b9a086db7e9e094b093d5b0db/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "41036231115",
+  "githubRunAttempt": "1",
+  "sourceCommit": "650042752322c43b9a086db7e9e094b093d5b0db"
+}
