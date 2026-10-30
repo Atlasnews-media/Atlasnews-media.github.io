@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f21633566ea8ca4c088c4ee78cc30caeff5f72f8",
-  "buildCommit": "f21633566ea8ca4c088c4ee78cc30caeff5f72f8",
+  "sourceCommit": "650042752322c43b9a086db7e9e094b093d5b0db",
+  "buildCommit": "650042752322c43b9a086db7e9e094b093d5b0db",
   "latestDaily": {
-    "id": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
-    "editionSlot": "evening",
-    "issueNumber": 88,
-    "title": "EE.UU. crece 3,4% con inflación PCE en 3,6%, mientras el BCE mantiene su tasa en 2,5%",
-    "publishedAt": "2026-10-29T13:10:09-03:00",
-    "cutoffAt": "2026-10-29T12:00:00-03:00"
+    "id": "2026-10-30-daily-japon-normaliza-inflacion-etf",
+    "editionSlot": "morning",
+    "issueNumber": 89,
+    "title": "Japón entra en una nueva fase monetaria: inflación en 2% y retiro acelerado de estímulos",
+    "publishedAt": "2026-10-30T06:44:01-03:00",
+    "cutoffAt": "2026-10-30T06:02:24-03:00"
   },
   "latestNational": {
-    "id": "2026-10-29-national-desempleo-ocupacion-chile",
-    "editionSlot": "evening",
-    "title": "El desempleo sube a 9,8% y Chile pierde 1,1% de sus ocupados en un año",
-    "publishedAt": "2026-10-29T13:10:09-03:00",
-    "cutoffAt": "2026-10-29T12:00:00-03:00"
+    "id": "2026-10-30-national-empleo-formal-debilidad",
+    "editionSlot": "morning",
+    "title": "El empleo chileno se debilita: cae la ocupación formal y sube la desocupación",
+    "publishedAt": "2026-10-30T06:44:01-03:00",
+    "cutoffAt": "2026-10-30T06:14:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-29-markets-dolar-ipsa-cobre-tecnologia",
-    "editionSlot": "evening",
-    "title": "El dólar supera $993 y el IPSA cae 0,97% mientras retroceden el cobre y las tecnológicas",
-    "publishedAt": "2026-10-29T13:10:09-03:00",
-    "cutoffAt": "2026-10-29T12:00:00-03:00"
+    "id": "2026-10-30-markets-ia-bonos-yen",
+    "editionSlot": "morning",
+    "title": "La duda sobre el retorno de la IA activa una búsqueda de refugio en bonos y yen",
+    "publishedAt": "2026-10-30T06:44:01-03:00",
+    "cutoffAt": "2026-10-30T06:19:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "editionSlot": "morning",
-    "generalId": "2026-10-29-daily-banco-mundial-commodities-alimentos",
+    "generalId": "2026-10-30-daily-japon-normaliza-inflacion-etf",
     "generalPublished": true,
-    "nationalId": "2026-10-29-national-reforma-financiamiento-vivienda-empresas",
+    "nationalId": "2026-10-30-national-empleo-formal-debilidad",
     "nationalPublished": true,
-    "marketsId": "2026-10-29-markets-ia-resultados-curva-tasas",
+    "marketsId": "2026-10-30-markets-ia-bonos-yen",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 104,
+    "daily": 105,
     "weekly": 4,
-    "national": 97,
-    "markets": 96,
+    "national": 98,
+    "markets": 97,
     "readings": 16,
-    "total": 317
+    "total": 320
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-10-29",
+    "status": "current",
+    "asOf": "2026-10-30",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

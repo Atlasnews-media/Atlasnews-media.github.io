@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T16:21:11.145Z",
+  "updatedAt": "2026-10-30T09:46:23.169Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1559,6 +1559,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-30-daily-japon-normaliza-inflacion-etf": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A4501%20(11439897774).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-30-national-empleo-formal-debilidad": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Santiago%20-%20Estaci%C3%B3n%20Escuela%20Militar.jpg?width=1280",
+      "alt": "Andén de la estación Escuela Militar del Metro de Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Santiago%20-%20Estaci%C3%B3n%20Escuela%20Militar.jpg?width=1280",
+      "author": "Corsario CL",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-30-markets-ia-bonos-yen": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
