@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-10-29",
-  "title": "ATLAS NEWS — Resumen diario — jueves 29 de octubre de 2026",
+  "date": "2026-10-30",
+  "title": "ATLAS NEWS — Resumen diario — viernes 30 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-10-29-resumen-diario.mp3",
-  "durationSeconds": 335.5,
-  "durationLabel": "6 min",
-  "bytes": 4025997,
-  "generatedAt": "2026-10-29T16:17:13.360247+00:00",
+  "path": "/audio/2026-10-30-resumen-diario.mp3",
+  "durationSeconds": 327.3,
+  "durationLabel": "5 min",
+  "bytes": 3927789,
+  "generatedAt": "2026-10-30T09:49:19.782976+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
-    "general": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
-    "national": "2026-10-29-national-desempleo-ocupacion-chile",
-    "markets": "2026-10-29-markets-dolar-ipsa-cobre-tecnologia"
+    "international": "2026-10-30-daily-japon-normaliza-inflacion-etf",
+    "general": "2026-10-30-daily-japon-normaliza-inflacion-etf",
+    "national": "2026-10-30-national-empleo-formal-debilidad",
+    "markets": "2026-10-30-markets-ia-bonos-yen"
   },
-  "sourceCommit": "f21633566ea8ca4c088c4ee78cc30caeff5f72f8"
+  "sourceCommit": "650042752322c43b9a086db7e9e094b093d5b0db"
 }
