@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4c57dad7ab8a0d9261f3c97606989986bd910d1a",
-  "buildCommit": "4c57dad7ab8a0d9261f3c97606989986bd910d1a",
+  "sourceCommit": "bb5f3a37bce6c35e2455957c6c4f2f5037170088",
+  "buildCommit": "bb5f3a37bce6c35e2455957c6c4f2f5037170088",
   "latestDaily": {
-    "id": "2026-10-31-daily-ue-canada-seguridad-economica",
-    "editionSlot": "morning",
+    "id": "2026-10-31-daily-qatar-iran-hormuz",
+    "editionSlot": "evening",
     "issueNumber": 90,
-    "title": "La UE y Canadá convierten su alianza en una plataforma de seguridad económica",
-    "publishedAt": "2026-10-31T06:50:58-03:00",
-    "cutoffAt": "2026-10-31T06:01:04-03:00"
+    "title": "Qatar abre una vía de siete días para Hormuz mientras Irán eleva la alerta militar",
+    "publishedAt": "2026-10-31T13:03:51-03:00",
+    "cutoffAt": "2026-10-31T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-10-31-national-mineria-manufactura-comercio",
-    "editionSlot": "morning",
-    "title": "La caída industrial se concentra en el cobre mientras manufactura y comercio avanzan",
-    "publishedAt": "2026-10-31T06:50:58-03:00",
-    "cutoffAt": "2026-10-31T06:14:00-03:00"
+    "id": "2026-10-31-national-coopeuch-fonavi-banco-central",
+    "editionSlot": "evening",
+    "title": "Coopeuch pide rediseñar el riesgo de Fonavi y solicita acceso directo al Banco Central",
+    "publishedAt": "2026-10-31T13:03:51-03:00",
+    "cutoffAt": "2026-10-31T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-31-markets-tecnologia-bonos-petroleo",
-    "editionSlot": "morning",
-    "title": "Tecnología cae, Treasury sube y el petróleo conserva su propia prima de riesgo",
-    "publishedAt": "2026-10-31T06:50:58-03:00",
-    "cutoffAt": "2026-10-30T18:00:00-03:00"
+    "id": "2026-10-31-markets-binance-reservas-bitcoin",
+    "editionSlot": "evening",
+    "title": "Binance repone 90% del robo de US$6.300 millones y bitcoin se estabiliza sobre US$77.000",
+    "publishedAt": "2026-10-31T13:03:51-03:00",
+    "cutoffAt": "2026-10-31T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-10-31",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-29",
+    "date": "2026-10-31",
     "editionSlot": "evening",
-    "generalId": "2026-10-29-daily-eeuu-crece-inflacion-bce-pausa",
+    "generalId": "2026-10-31-daily-qatar-iran-hormuz",
     "generalPublished": true,
-    "nationalId": "2026-10-29-national-desempleo-ocupacion-chile",
+    "nationalId": "2026-10-31-national-coopeuch-fonavi-banco-central",
     "nationalPublished": true,
-    "marketsId": "2026-10-29-markets-dolar-ipsa-cobre-tecnologia",
+    "marketsId": "2026-10-31-markets-binance-reservas-bitcoin",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 106,
+    "daily": 107,
     "weekly": 4,
-    "national": 99,
-    "markets": 98,
+    "national": 100,
+    "markets": 99,
     "readings": 16,
-    "total": 323
+    "total": 326
   },
   "indicators": {
-    "status": "partial",
+    "status": "current",
     "asOf": "2026-10-31",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

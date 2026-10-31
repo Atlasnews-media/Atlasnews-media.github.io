@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T10:02:31.776Z",
+  "updatedAt": "2026-10-31T16:06:58.002Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1607,6 +1607,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-31-daily-qatar-iran-hormuz": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-10-31-national-coopeuch-fonavi-banco-central": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20del%20Costanera%20Center.jpg?width=1280",
+      "alt": "Vista urbana del Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20del%20Costanera%20Center.jpg?width=1280",
+      "author": "Rjcastillo",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-10-31-markets-binance-reservas-bitcoin": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
