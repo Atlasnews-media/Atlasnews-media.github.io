@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "650042752322c43b9a086db7e9e094b093d5b0db",
-  "buildCommit": "650042752322c43b9a086db7e9e094b093d5b0db",
+  "sourceCommit": "4c57dad7ab8a0d9261f3c97606989986bd910d1a",
+  "buildCommit": "4c57dad7ab8a0d9261f3c97606989986bd910d1a",
   "latestDaily": {
-    "id": "2026-10-30-daily-japon-normaliza-inflacion-etf",
+    "id": "2026-10-31-daily-ue-canada-seguridad-economica",
     "editionSlot": "morning",
-    "issueNumber": 89,
-    "title": "Japón entra en una nueva fase monetaria: inflación en 2% y retiro acelerado de estímulos",
-    "publishedAt": "2026-10-30T06:44:01-03:00",
-    "cutoffAt": "2026-10-30T06:02:24-03:00"
+    "issueNumber": 90,
+    "title": "La UE y Canadá convierten su alianza en una plataforma de seguridad económica",
+    "publishedAt": "2026-10-31T06:50:58-03:00",
+    "cutoffAt": "2026-10-31T06:01:04-03:00"
   },
   "latestNational": {
-    "id": "2026-10-30-national-empleo-formal-debilidad",
+    "id": "2026-10-31-national-mineria-manufactura-comercio",
     "editionSlot": "morning",
-    "title": "El empleo chileno se debilita: cae la ocupación formal y sube la desocupación",
-    "publishedAt": "2026-10-30T06:44:01-03:00",
-    "cutoffAt": "2026-10-30T06:14:00-03:00"
+    "title": "La caída industrial se concentra en el cobre mientras manufactura y comercio avanzan",
+    "publishedAt": "2026-10-31T06:50:58-03:00",
+    "cutoffAt": "2026-10-31T06:14:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-30-markets-ia-bonos-yen",
+    "id": "2026-10-31-markets-tecnologia-bonos-petroleo",
     "editionSlot": "morning",
-    "title": "La duda sobre el retorno de la IA activa una búsqueda de refugio en bonos y yen",
-    "publishedAt": "2026-10-30T06:44:01-03:00",
-    "cutoffAt": "2026-10-30T06:19:00-03:00"
+    "title": "Tecnología cae, Treasury sube y el petróleo conserva su propia prima de riesgo",
+    "publishedAt": "2026-10-31T06:50:58-03:00",
+    "cutoffAt": "2026-10-30T18:00:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "editionSlot": "morning",
-    "generalId": "2026-10-30-daily-japon-normaliza-inflacion-etf",
+    "generalId": "2026-10-31-daily-ue-canada-seguridad-economica",
     "generalPublished": true,
-    "nationalId": "2026-10-30-national-empleo-formal-debilidad",
+    "nationalId": "2026-10-31-national-mineria-manufactura-comercio",
     "nationalPublished": true,
-    "marketsId": "2026-10-30-markets-ia-bonos-yen",
+    "marketsId": "2026-10-31-markets-tecnologia-bonos-petroleo",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 105,
+    "daily": 106,
     "weekly": 4,
-    "national": 98,
-    "markets": 97,
+    "national": 99,
+    "markets": 98,
     "readings": 16,
-    "total": 320
+    "total": 323
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-30",
+    "asOf": "2026-10-31",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

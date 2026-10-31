@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T09:53:34.879Z",
+  "updatedAt": "2026-10-31T09:54:52.637Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1579,6 +1579,30 @@
       "license": "CC BY-SA 4.0"
     },
     "markets:2026-10-30-markets-ia-bonos-yen": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-10-31-daily-ue-canada-seguridad-economica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "alt": "Edificio sede del Banco Central Europeo en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "author": "Tobiasi0",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-10-31-national-mineria-manufactura-comercio": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20Miners.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20Miners.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-10-31-markets-tecnologia-bonos-petroleo": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
