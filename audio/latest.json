@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — sábado 31 de octubre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-10-31-resumen-diario.mp3",
-  "durationSeconds": 336.7,
-  "durationLabel": "6 min",
-  "bytes": 4040685,
-  "generatedAt": "2026-10-31T09:58:01.035986+00:00",
+  "durationSeconds": 327.2,
+  "durationLabel": "5 min",
+  "bytes": 3926925,
+  "generatedAt": "2026-10-31T16:10:09.668796+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-10-31-daily-ue-canada-seguridad-economica",
-    "general": "2026-10-31-daily-ue-canada-seguridad-economica",
-    "national": "2026-10-31-national-mineria-manufactura-comercio",
-    "markets": "2026-10-31-markets-tecnologia-bonos-petroleo"
+    "international": "2026-10-31-daily-qatar-iran-hormuz",
+    "general": "2026-10-31-daily-qatar-iran-hormuz",
+    "national": "2026-10-31-national-coopeuch-fonavi-banco-central",
+    "markets": "2026-10-31-markets-binance-reservas-bitcoin"
   },
-  "sourceCommit": "4c57dad7ab8a0d9261f3c97606989986bd910d1a"
+  "sourceCommit": "bb5f3a37bce6c35e2455957c6c4f2f5037170088"
 }
