@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "current",
-  "asOf": "2026-10-31",
-  "fetchedAt": "2026-10-31T16:10:25.267Z",
-  "lastAttemptAt": "2026-10-31T16:10:25.267Z",
+  "asOf": "2026-11-01",
+  "fetchedAt": "2026-11-01T09:54:58.458Z",
+  "lastAttemptAt": "2026-11-01T09:54:58.458Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,12 +11,12 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41247.63,
+      "value": 41252.94,
       "unit": "clp",
-      "effectiveDate": "2026-10-31",
+      "effectiveDate": "2026-11-01",
       "status": "current",
-      "previousValue": 41242.32,
-      "previousEffectiveDate": "2026-10-30",
+      "previousValue": 41247.63,
+      "previousEffectiveDate": "2026-10-31",
       "changePercent": 0.01,
       "trend": "up"
     },
@@ -47,13 +47,13 @@
     {
       "code": "utm",
       "label": "UTM",
-      "value": 72151,
+      "value": 72440,
       "unit": "clp-integer",
-      "effectiveDate": "2026-10-01",
+      "effectiveDate": "2026-11-01",
       "status": "current",
-      "previousValue": 71721,
-      "previousEffectiveDate": "2026-09-01",
-      "changePercent": 0.6,
+      "previousValue": 72151,
+      "previousEffectiveDate": "2026-10-01",
+      "changePercent": 0.4,
       "trend": "up"
     },
     {
