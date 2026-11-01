@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — domingo 1 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-11-01-resumen-diario.mp3",
-  "durationSeconds": 358.7,
-  "durationLabel": "6 min",
-  "bytes": 4305069,
-  "generatedAt": "2026-11-01T09:54:38.722595+00:00",
+  "durationSeconds": 320.0,
+  "durationLabel": "5 min",
+  "bytes": 3839949,
+  "generatedAt": "2026-11-01T16:17:58.953082+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-01-daily-corea-exportaciones-ia-billon",
-    "general": "2026-11-01-daily-corea-exportaciones-ia-billon",
-    "national": "2026-11-01-national-permisos-vivienda-inversion",
-    "markets": "2026-11-01-markets-binance-opec-liquidez"
+    "international": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
+    "general": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
+    "national": "2026-11-01-national-encuestas-kast-capital-politico",
+    "markets": "2026-11-01-markets-qatar-golfo-divergencia"
   },
-  "sourceCommit": "083078b16af806a65211c9266655bf09bdf8b6f6"
+  "sourceCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294"
 }
