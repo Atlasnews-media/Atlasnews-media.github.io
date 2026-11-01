@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "bb5f3a37bce6c35e2455957c6c4f2f5037170088",
-  "buildCommit": "bb5f3a37bce6c35e2455957c6c4f2f5037170088",
+  "sourceCommit": "083078b16af806a65211c9266655bf09bdf8b6f6",
+  "buildCommit": "083078b16af806a65211c9266655bf09bdf8b6f6",
   "latestDaily": {
-    "id": "2026-10-31-daily-qatar-iran-hormuz",
-    "editionSlot": "evening",
-    "issueNumber": 90,
-    "title": "Qatar abre una vía de siete días para Hormuz mientras Irán eleva la alerta militar",
-    "publishedAt": "2026-10-31T13:03:51-03:00",
-    "cutoffAt": "2026-10-31T12:00:00-03:00"
+    "id": "2026-11-01-daily-corea-exportaciones-ia-billon",
+    "editionSlot": "morning",
+    "issueNumber": 91,
+    "title": "Corea del Sur se acerca al billón de dólares exportados por el auge de la IA",
+    "publishedAt": "2026-11-01T06:47:17-03:00",
+    "cutoffAt": "2026-11-01T05:57:09-03:00"
   },
   "latestNational": {
-    "id": "2026-10-31-national-coopeuch-fonavi-banco-central",
-    "editionSlot": "evening",
-    "title": "Coopeuch pide rediseñar el riesgo de Fonavi y solicita acceso directo al Banco Central",
-    "publishedAt": "2026-10-31T13:03:51-03:00",
-    "cutoffAt": "2026-10-31T12:00:00-03:00"
+    "id": "2026-11-01-national-permisos-vivienda-inversion",
+    "editionSlot": "morning",
+    "title": "Los permisos crecen por obras no residenciales mientras la vivienda pierde superficie",
+    "publishedAt": "2026-11-01T06:47:17-03:00",
+    "cutoffAt": "2026-11-01T06:17:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-10-31-markets-binance-reservas-bitcoin",
-    "editionSlot": "evening",
-    "title": "Binance repone 90% del robo de US$6.300 millones y bitcoin se estabiliza sobre US$77.000",
-    "publishedAt": "2026-10-31T13:03:51-03:00",
-    "cutoffAt": "2026-10-31T12:00:00-03:00"
+    "id": "2026-11-01-markets-binance-opec-liquidez",
+    "editionSlot": "morning",
+    "title": "Binance reabre retiros y OPEP+ mantiene la oferta: el fin de semana prueba la liquidez",
+    "publishedAt": "2026-11-01T06:47:17-03:00",
+    "cutoffAt": "2026-11-01T06:21:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "editionSlot": "morning",
-    "generalId": "2026-10-31-daily-ue-canada-seguridad-economica",
+    "generalId": "2026-11-01-daily-corea-exportaciones-ia-billon",
     "generalPublished": true,
-    "nationalId": "2026-10-31-national-mineria-manufactura-comercio",
+    "nationalId": "2026-11-01-national-permisos-vivienda-inversion",
     "nationalPublished": true,
-    "marketsId": "2026-10-31-markets-tecnologia-bonos-petroleo",
+    "marketsId": "2026-11-01-markets-binance-opec-liquidez",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 107,
+    "daily": 108,
     "weekly": 4,
-    "national": 100,
-    "markets": 99,
+    "national": 101,
+    "markets": 100,
     "readings": 16,
-    "total": 326
+    "total": 329
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-10-31",
+    "asOf": "2026-11-01",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T16:19:57.978Z",
+  "updatedAt": "2026-11-01T09:51:22.852Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1631,6 +1631,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-01-daily-corea-exportaciones-ia-billon": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/TSMC%20factory%20in%20Taichung's%20Central%20Taiwan%20Science%20Park.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TSMC%20factory%20in%20Taichung's%20Central%20Taiwan%20Science%20Park.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-01-national-permisos-vivienda-inversion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Santiago%20de%20Chile%20-%20Construcci%C3%B3n%20del%20Centro%20Gabriela%20Mistral%20(GAM)%20-%20Avenida%20Libertador%20Bernardo%20O'Higgins%20227.jpg?width=1280",
+      "alt": "Obras de construcción del Centro Gabriela Mistral en Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Santiago%20de%20Chile%20-%20Construcci%C3%B3n%20del%20Centro%20Gabriela%20Mistral%20(GAM)%20-%20Avenida%20Libertador%20Bernardo%20O'Higgins%20227.jpg?width=1280",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-01-markets-binance-opec-liquidez": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
