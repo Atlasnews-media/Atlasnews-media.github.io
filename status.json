@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "083078b16af806a65211c9266655bf09bdf8b6f6",
-  "buildCommit": "083078b16af806a65211c9266655bf09bdf8b6f6",
+  "sourceCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294",
+  "buildCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294",
   "latestDaily": {
-    "id": "2026-11-01-daily-corea-exportaciones-ia-billon",
-    "editionSlot": "morning",
+    "id": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
+    "editionSlot": "evening",
     "issueNumber": 91,
-    "title": "Corea del Sur se acerca al billón de dólares exportados por el auge de la IA",
-    "publishedAt": "2026-11-01T06:47:17-03:00",
-    "cutoffAt": "2026-11-01T05:57:09-03:00"
+    "title": "Irán y Qatar reducen a dos días la hoja de ruta para reabrir Hormuz, pero aún no hay acuerdo",
+    "publishedAt": "2026-11-01T13:11:32-03:00",
+    "cutoffAt": "2026-11-01T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-01-national-permisos-vivienda-inversion",
-    "editionSlot": "morning",
-    "title": "Los permisos crecen por obras no residenciales mientras la vivienda pierde superficie",
-    "publishedAt": "2026-11-01T06:47:17-03:00",
-    "cutoffAt": "2026-11-01T06:17:00-03:00"
+    "id": "2026-11-01-national-encuestas-kast-capital-politico",
+    "editionSlot": "evening",
+    "title": "Dos encuestas sitúan la aprobación de Kast entre 22,1% y 25%, mínimos de su mandato",
+    "publishedAt": "2026-11-01T13:11:32-03:00",
+    "cutoffAt": "2026-11-01T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-01-markets-binance-opec-liquidez",
-    "editionSlot": "morning",
-    "title": "Binance reabre retiros y OPEP+ mantiene la oferta: el fin de semana prueba la liquidez",
-    "publishedAt": "2026-11-01T06:47:17-03:00",
-    "cutoffAt": "2026-11-01T06:21:00-03:00"
+    "id": "2026-11-01-markets-qatar-golfo-divergencia",
+    "editionSlot": "evening",
+    "title": "Qatar salta 4,6% mientras Arabia Saudita y Egipto caen ante el riesgo regional",
+    "publishedAt": "2026-11-01T13:11:32-03:00",
+    "cutoffAt": "2026-11-01T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-01",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "editionSlot": "evening",
-    "generalId": "2026-10-31-daily-qatar-iran-hormuz",
+    "generalId": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
     "generalPublished": true,
-    "nationalId": "2026-10-31-national-coopeuch-fonavi-banco-central",
+    "nationalId": "2026-11-01-national-encuestas-kast-capital-politico",
     "nationalPublished": true,
-    "marketsId": "2026-10-31-markets-binance-reservas-bitcoin",
+    "marketsId": "2026-11-01-markets-qatar-golfo-divergencia",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 108,
+    "daily": 109,
     "weekly": 4,
-    "national": 101,
-    "markets": 100,
+    "national": 102,
+    "markets": 101,
     "readings": 16,
-    "total": 329
+    "total": 332
   },
   "indicators": {
     "status": "current",

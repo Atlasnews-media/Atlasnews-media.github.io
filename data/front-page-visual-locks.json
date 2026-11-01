@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T09:58:24.458Z",
+  "updatedAt": "2026-11-01T16:14:32.683Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1655,6 +1655,30 @@
       "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041207-N-6932B-014%20The%20oil%20tanker%20Omala%20is%20one%20of%20hundreds%20of%20oil%20tankers%20from%20around%20the%20world%20that%20receives%20its%20payload%20from%20Iraq's%20Al%20Basrah%20Oil%20Terminal%20(ABOT).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-01-daily-iran-qatar-hormuz-dos-dias": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-003%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-003%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-01-national-encuestas-kast-capital-politico": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "alt": "Edificio del Congreso Nacional de Chile en Valparaíso.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "author": "ShootingStarMax",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-01-markets-qatar-golfo-divergencia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
