@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294",
-  "buildCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294",
+  "sourceCommit": "1554d260f94681c89b8a4cd403391500b384cfb2",
+  "buildCommit": "1554d260f94681c89b8a4cd403391500b384cfb2",
   "latestDaily": {
-    "id": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
-    "editionSlot": "evening",
-    "issueNumber": 91,
-    "title": "Irán y Qatar reducen a dos días la hoja de ruta para reabrir Hormuz, pero aún no hay acuerdo",
-    "publishedAt": "2026-11-01T13:11:32-03:00",
-    "cutoffAt": "2026-11-01T12:00:00-03:00"
+    "id": "2026-11-02-daily-energia-agota-reservas-logistica",
+    "editionSlot": "morning",
+    "issueNumber": 92,
+    "title": "La energía mundial agota sus reservas y convierte la logística en el nuevo cuello de botella",
+    "publishedAt": "2026-11-02T06:49:11-03:00",
+    "cutoffAt": "2026-11-02T06:04:53-03:00"
   },
   "latestNational": {
-    "id": "2026-11-01-national-encuestas-kast-capital-politico",
-    "editionSlot": "evening",
-    "title": "Dos encuestas sitúan la aprobación de Kast entre 22,1% y 25%, mínimos de su mandato",
-    "publishedAt": "2026-11-01T13:11:32-03:00",
-    "cutoffAt": "2026-11-01T12:00:00-03:00"
+    "id": "2026-11-02-national-empleo-digital-regiones",
+    "editionSlot": "morning",
+    "title": "El crédito al empleo digital debuta con una ventaja de cinco puntos para las regiones",
+    "publishedAt": "2026-11-02T06:49:11-03:00",
+    "cutoffAt": "2026-11-02T06:24:30-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-01-markets-qatar-golfo-divergencia",
-    "editionSlot": "evening",
-    "title": "Qatar salta 4,6% mientras Arabia Saudita y Egipto caen ante el riesgo regional",
-    "publishedAt": "2026-11-01T13:11:32-03:00",
-    "cutoffAt": "2026-11-01T12:00:00-03:00"
+    "id": "2026-11-02-markets-petroleo-ia-tasas",
+    "editionSlot": "morning",
+    "title": "El petróleo cede, pero el alivio no alcanza para borrar la tensión por la inversión en IA",
+    "publishedAt": "2026-11-02T06:49:11-03:00",
+    "cutoffAt": "2026-11-02T06:27:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "editionSlot": "morning",
-    "generalId": "2026-11-01-daily-corea-exportaciones-ia-billon",
+    "generalId": "2026-11-02-daily-energia-agota-reservas-logistica",
     "generalPublished": true,
-    "nationalId": "2026-11-01-national-permisos-vivienda-inversion",
+    "nationalId": "2026-11-02-national-empleo-digital-regiones",
     "nationalPublished": true,
-    "marketsId": "2026-11-01-markets-binance-opec-liquidez",
+    "marketsId": "2026-11-02-markets-petroleo-ia-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 109,
+    "daily": 110,
     "weekly": 4,
-    "national": 102,
-    "markets": 101,
+    "national": 103,
+    "markets": 102,
     "readings": 16,
-    "total": 332
+    "total": 335
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-01",
+    "asOf": "2026-11-02",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T16:21:40.613Z",
+  "updatedAt": "2026-11-02T11:26:29.676Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1679,6 +1679,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-02-daily-energia-agota-reservas-logistica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-02-national-empleo-digital-regiones": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-02-markets-petroleo-ia-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
