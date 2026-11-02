@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-11-01",
-  "fetchedAt": "2026-11-02T16:16:26.451Z",
-  "lastAttemptAt": "2026-11-02T16:16:26.451Z",
+  "status": "partial",
+  "asOf": "2026-11-02",
+  "fetchedAt": "2026-11-02T20:37:15.855Z",
+  "lastAttemptAt": "2026-11-02T20:37:15.855Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,38 +11,38 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41252.94,
+      "value": 41258.26,
       "unit": "clp",
-      "effectiveDate": "2026-11-01",
-      "status": "stale",
-      "previousValue": 41247.63,
-      "previousEffectiveDate": "2026-10-31",
+      "effectiveDate": "2026-11-02",
+      "status": "current",
+      "previousValue": 41252.94,
+      "previousEffectiveDate": "2026-11-01",
       "changePercent": 0.01,
       "trend": "up"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 993.22,
+      "value": 992.66,
       "unit": "clp",
-      "effectiveDate": "2026-10-30",
-      "status": "stale",
-      "previousValue": 981.08,
-      "previousEffectiveDate": "2026-10-29",
-      "changePercent": 1.24,
-      "trend": "up"
+      "effectiveDate": "2026-11-02",
+      "status": "current",
+      "previousValue": 993.22,
+      "previousEffectiveDate": "2026-10-30",
+      "changePercent": -0.06,
+      "trend": "down"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1109.37,
+      "value": 1107.26,
       "unit": "clp",
-      "effectiveDate": "2026-10-30",
-      "status": "stale",
-      "previousValue": 1093.25,
-      "previousEffectiveDate": "2026-10-29",
-      "changePercent": 1.47,
-      "trend": "up"
+      "effectiveDate": "2026-11-02",
+      "status": "current",
+      "previousValue": 1109.37,
+      "previousEffectiveDate": "2026-10-30",
+      "changePercent": -0.19,
+      "trend": "down"
     },
     {
       "code": "utm",
@@ -61,10 +61,10 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-10-30",
-      "status": "stale",
+      "effectiveDate": "2026-11-02",
+      "status": "current",
       "previousValue": 4.5,
-      "previousEffectiveDate": "2026-10-29",
+      "previousEffectiveDate": "2026-10-30",
       "changePercent": 0,
       "trend": "flat"
     },
@@ -82,11 +82,7 @@
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "fetch failed" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
-    { "code": "euro", "reason": "fetch failed" },
     { "code": "utm", "reason": "The operation was aborted due to timeout" },
-    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
     { "code": "cobre", "reason": "The operation was aborted due to timeout" }
   ]
 }
