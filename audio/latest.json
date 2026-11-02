@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-11-01",
-  "title": "ATLAS NEWS — Resumen diario — domingo 1 de noviembre de 2026",
+  "date": "2026-11-02",
+  "title": "ATLAS NEWS — Resumen diario — lunes 2 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-11-01-resumen-diario.mp3",
-  "durationSeconds": 320.0,
-  "durationLabel": "5 min",
-  "bytes": 3839949,
-  "generatedAt": "2026-11-01T16:17:58.953082+00:00",
+  "path": "/audio/2026-11-02-resumen-diario.mp3",
+  "durationSeconds": 341.0,
+  "durationLabel": "6 min",
+  "bytes": 4091949,
+  "generatedAt": "2026-11-02T11:29:45.345645+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
-    "general": "2026-11-01-daily-iran-qatar-hormuz-dos-dias",
-    "national": "2026-11-01-national-encuestas-kast-capital-politico",
-    "markets": "2026-11-01-markets-qatar-golfo-divergencia"
+    "international": "2026-11-02-daily-energia-agota-reservas-logistica",
+    "general": "2026-11-02-daily-energia-agota-reservas-logistica",
+    "national": "2026-11-02-national-empleo-digital-regiones",
+    "markets": "2026-11-02-markets-petroleo-ia-tasas"
   },
-  "sourceCommit": "3fb10ca52e619cfca5b7accc715d4db2d3163294"
+  "sourceCommit": "1554d260f94681c89b8a4cd403391500b384cfb2"
 }
