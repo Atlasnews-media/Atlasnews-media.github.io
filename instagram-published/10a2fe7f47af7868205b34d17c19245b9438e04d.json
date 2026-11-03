@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-03-daily-australia-confirma-retorno-alzas-globales.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-03-daily-australia-confirma-retorno-alzas-globales/",
+  "childContainerIds": [
+    "18099555917386975",
+    "18099555935386975",
+    "18099555953386975",
+    "18099556019386975",
+    "18099556199386975"
+  ],
+  "carouselContainerId": "18099556268386975",
+  "mediaId": "17926927527440423",
+  "permalink": "https://www.instagram.com/p/DfRnTEvkX51/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-03T09:58:27+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/10a2fe7f47af7868205b34d17c19245b9438e04d/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/10a2fe7f47af7868205b34d17c19245b9438e04d/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/10a2fe7f47af7868205b34d17c19245b9438e04d/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/10a2fe7f47af7868205b34d17c19245b9438e04d/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/10a2fe7f47af7868205b34d17c19245b9438e04d/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "41614973724",
+  "githubRunAttempt": "1",
+  "sourceCommit": "10a2fe7f47af7868205b34d17c19245b9438e04d"
+}
