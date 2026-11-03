@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "f9c1d85e10db1b38b1c917bc81ba6dce72a6253e",
-  "buildCommit": "f9c1d85e10db1b38b1c917bc81ba6dce72a6253e",
+  "sourceCommit": "10a2fe7f47af7868205b34d17c19245b9438e04d",
+  "buildCommit": "10a2fe7f47af7868205b34d17c19245b9438e04d",
   "latestDaily": {
-    "id": "2026-11-02-daily-manufactura-costos-globales",
-    "editionSlot": "evening",
-    "issueNumber": 92,
-    "title": "Estados Unidos acelera a 55,5 y la eurozona resiste en 52,7, pero suben los costos fabriles",
-    "publishedAt": "2026-11-02T13:05:20-03:00",
-    "cutoffAt": "2026-11-02T12:00:00-03:00"
+    "id": "2026-11-03-daily-australia-confirma-retorno-alzas-globales",
+    "editionSlot": "morning",
+    "issueNumber": 93,
+    "title": "Australia confirma que la energía y la IA están reabriendo el ciclo global de alzas",
+    "publishedAt": "2026-11-03T06:49:50-03:00",
+    "cutoffAt": "2026-11-03T06:02:51-03:00"
   },
   "latestNational": {
-    "id": "2026-11-02-national-imacec-mineria-no-minero",
-    "editionSlot": "evening",
-    "title": "El Imacec vuelve a crecer 0,2%, pero la minería todavía cae 12,1%",
-    "publishedAt": "2026-11-02T13:05:20-03:00",
-    "cutoffAt": "2026-11-02T12:00:00-03:00"
+    "id": "2026-11-03-national-imacec-mineria-comercio",
+    "editionSlot": "morning",
+    "title": "El Imacec rebota 1,9% en el mes, pero la minería mantiene casi plano el crecimiento anual",
+    "publishedAt": "2026-11-03T06:49:50-03:00",
+    "cutoffAt": "2026-11-03T06:17:10-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-02-markets-petroleo-peso-bolsas",
-    "editionSlot": "evening",
-    "title": "El Brent cae 6,5% y lleva al peso bajo $985 mientras las bolsas rebotan",
-    "publishedAt": "2026-11-02T13:05:20-03:00",
-    "cutoffAt": "2026-11-02T12:00:00-03:00"
+    "id": "2026-11-03-markets-australia-tecnologia-tasas",
+    "editionSlot": "morning",
+    "title": "El dólar australiano cae tras el alza y Asia vende tecnología: manda la expectativa, no el titular",
+    "publishedAt": "2026-11-03T06:49:50-03:00",
+    "cutoffAt": "2026-11-03T06:20:20-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "editionSlot": "morning",
-    "generalId": "2026-11-02-daily-energia-agota-reservas-logistica",
+    "generalId": "2026-11-03-daily-australia-confirma-retorno-alzas-globales",
     "generalPublished": true,
-    "nationalId": "2026-11-02-national-empleo-digital-regiones",
+    "nationalId": "2026-11-03-national-imacec-mineria-comercio",
     "nationalPublished": true,
-    "marketsId": "2026-11-02-markets-petroleo-ia-tasas",
+    "marketsId": "2026-11-03-markets-australia-tecnologia-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 111,
+    "daily": 112,
     "weekly": 4,
-    "national": 104,
-    "markets": 103,
+    "national": 105,
+    "markets": 104,
     "readings": 16,
-    "total": 338
+    "total": 341
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-01",
+    "status": "current",
+    "asOf": "2026-11-03",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

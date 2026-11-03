@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T16:23:38.895Z",
+  "updatedAt": "2026-11-03T09:52:33.671Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1727,6 +1727,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Windpark-Wind-Farm.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-03-daily-australia-confirma-retorno-alzas-globales": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en el edificio Marriner S. Eccles de la Reserva Federal.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-11-03-national-imacec-mineria-comercio": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%2002).JPG?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%2002).JPG?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-03-markets-australia-tecnologia-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
