@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
+  "status": "current",
   "asOf": "2026-11-04",
-  "fetchedAt": "2026-11-04T18:25:15.251Z",
-  "lastAttemptAt": "2026-11-04T18:25:15.251Z",
+  "fetchedAt": "2026-11-04T23:51:35.845Z",
+  "lastAttemptAt": "2026-11-04T23:51:35.845Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,12 +11,12 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41263.57,
+      "value": 41268.88,
       "unit": "clp",
-      "effectiveDate": "2026-11-03",
-      "status": "stale",
-      "previousValue": 41258.26,
-      "previousEffectiveDate": "2026-11-02",
+      "effectiveDate": "2026-11-04",
+      "status": "current",
+      "previousValue": 41263.57,
+      "previousEffectiveDate": "2026-11-03",
       "changePercent": 0.01,
       "trend": "up"
     },
@@ -26,7 +26,7 @@
       "value": 980.59,
       "unit": "clp",
       "effectiveDate": "2026-11-04",
-      "status": "stale",
+      "status": "current",
       "previousValue": 981.82,
       "previousEffectiveDate": "2026-11-03",
       "changePercent": -0.13,
@@ -35,13 +35,13 @@
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1100.2,
+      "value": 1097.72,
       "unit": "clp",
-      "effectiveDate": "2026-11-03",
-      "status": "stale",
-      "previousValue": 1107.26,
-      "previousEffectiveDate": "2026-11-02",
-      "changePercent": -0.64,
+      "effectiveDate": "2026-11-04",
+      "status": "current",
+      "previousValue": 1100.2,
+      "previousEffectiveDate": "2026-11-03",
+      "changePercent": -0.23,
       "trend": "down"
     },
     {
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "stale",
+      "status": "current",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -62,7 +62,7 @@
       "value": 4.5,
       "unit": "percent",
       "effectiveDate": "2026-11-04",
-      "status": "stale",
+      "status": "current",
       "previousValue": 4.5,
       "previousEffectiveDate": "2026-11-03",
       "changePercent": 0,
@@ -74,19 +74,12 @@
       "value": 6.58,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-04",
-      "status": "stale",
+      "status": "current",
       "previousValue": 6.5,
       "previousEffectiveDate": "2026-11-03",
       "changePercent": 1.23,
       "trend": "up"
     }
   ],
-  "diagnostics": [
-    { "code": "uf", "reason": "fetch failed" },
-    { "code": "dolar", "reason": "fetch failed" },
-    { "code": "euro", "reason": "fetch failed" },
-    { "code": "utm", "reason": "The operation was aborted due to timeout" },
-    { "code": "tpm", "reason": "fetch failed" },
-    { "code": "cobre", "reason": "fetch failed" }
-  ]
+  "diagnostics": []
 }
