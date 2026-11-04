@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-03T23:21:20.986Z",
+  "generatedAt": "2026-11-04T03:06:36.650Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -169,18 +169,18 @@
       "id": "ipsa",
       "label": "IPSA",
       "group": "chile",
-      "value": 10375.55,
+      "value": 10366.16,
       "unit": "points",
-      "changePercent": 1.18,
-      "trend": "up",
-      "effectiveAt": "2026-11-02T00:00:00Z",
+      "changePercent": -0.09,
+      "trend": "down",
+      "effectiveAt": "2026-11-03T00:00:00Z",
       "provider": "findic-public-close",
       "sourceUrl": "https://findic.cl/api/ipsa",
       "status": "delayed",
       "quoteBasis": "daily-close",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "Último cierre verificado: 2026-11-02; no corresponde a la sesión actual"
+      "freshnessNote": "Último cierre verificado: 2026-11-03; no corresponde a la sesión actual"
     },
     {
       "id": "ust10y",
@@ -202,27 +202,27 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 104.3,
+      "value": 102.72,
       "unit": "usd-per-barrel",
-      "changePercent": -10.64,
+      "changePercent": -11.99,
       "trend": "down",
-      "effectiveAt": "2026-11-03T23:05:52.000Z",
+      "effectiveAt": "2026-11-04T02:55:06.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "current"
     },
     {
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 3937.1,
+      "value": 3947,
       "unit": "usd-per-ounce",
-      "changePercent": -1.77,
+      "changePercent": -1.52,
       "trend": "down",
-      "effectiveAt": "2026-11-03T23:11:09.000Z",
+      "effectiveAt": "2026-11-04T02:56:33.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 77784,
+      "value": 76007,
       "unit": "usd",
-      "changePercent": 1.33,
-      "trend": "up",
-      "effectiveAt": "2026-11-03T23:21:20.986Z",
+      "changePercent": -0.76,
+      "trend": "down",
+      "effectiveAt": "2026-11-04T03:06:36.650Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -294,11 +294,11 @@
       "id": "ipsa-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "Último cierre verificado: 2026-11-02; no corresponde a la sesión actual"
+      "warning": "Último cierre verificado: 2026-11-03; no corresponde a la sesión actual"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-03T23:21:21.849Z",
+  "historyGeneratedAt": "2026-11-04T03:06:38.157Z",
   "history": [
     {
       "id": "usdclp",
@@ -419,7 +419,7 @@
         { "date": "2026-10-29", "value": 114.87999725341797 },
         { "date": "2026-10-30", "value": 117.63999938964844 },
         { "date": "2026-11-02", "value": 104.7699966430664 },
-        { "date": "2026-11-03", "value": 104.30000305175781 }
+        { "date": "2026-11-03", "value": 102.72000122070312 }
       ]
     }
   ],
@@ -449,6 +449,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-11-03T23:21:21.996Z",
+  "freshnessCheckedAt": "2026-11-04T03:06:38.257Z",
   "freshnessPolicy": "market-sessions-v3"
 }
