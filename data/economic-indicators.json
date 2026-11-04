@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "current",
-  "asOf": "2026-11-03",
-  "fetchedAt": "2026-11-04T03:06:31.084Z",
-  "lastAttemptAt": "2026-11-04T03:06:31.084Z",
+  "status": "partial",
+  "asOf": "2026-11-04",
+  "fetchedAt": "2026-11-04T12:49:39.506Z",
+  "lastAttemptAt": "2026-11-04T12:49:39.506Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -14,7 +14,7 @@
       "value": 41263.57,
       "unit": "clp",
       "effectiveDate": "2026-11-03",
-      "status": "current",
+      "status": "stale",
       "previousValue": 41258.26,
       "previousEffectiveDate": "2026-11-02",
       "changePercent": 0.01,
@@ -26,7 +26,7 @@
       "value": 981.82,
       "unit": "clp",
       "effectiveDate": "2026-11-03",
-      "status": "current",
+      "status": "stale",
       "previousValue": 992.66,
       "previousEffectiveDate": "2026-11-02",
       "changePercent": -1.09,
@@ -38,7 +38,7 @@
       "value": 1100.2,
       "unit": "clp",
       "effectiveDate": "2026-11-03",
-      "status": "current",
+      "status": "stale",
       "previousValue": 1107.26,
       "previousEffectiveDate": "2026-11-02",
       "changePercent": -0.64,
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "current",
+      "status": "stale",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -61,10 +61,10 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-11-03",
+      "effectiveDate": "2026-11-04",
       "status": "current",
       "previousValue": 4.5,
-      "previousEffectiveDate": "2026-11-02",
+      "previousEffectiveDate": "2026-11-03",
       "changePercent": 0,
       "trend": "flat"
     },
@@ -74,12 +74,18 @@
       "value": 6.5,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-03",
-      "status": "current",
+      "status": "stale",
       "previousValue": 6.61,
       "previousEffectiveDate": "2026-11-02",
       "changePercent": -1.66,
       "trend": "down"
     }
   ],
-  "diagnostics": []
+  "diagnostics": [
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
+    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
+    { "code": "euro", "reason": "The operation was aborted due to timeout" },
+    { "code": "utm", "reason": "The operation was aborted due to timeout" },
+    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+  ]
 }
