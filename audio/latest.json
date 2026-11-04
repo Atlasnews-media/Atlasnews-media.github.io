@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — miércoles 4 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-11-04-resumen-diario.mp3",
-  "durationSeconds": 317.8,
+  "durationSeconds": 329.6,
   "durationLabel": "5 min",
-  "bytes": 3814317,
-  "generatedAt": "2026-11-04T12:54:25.609369+00:00",
+  "bytes": 3955725,
+  "generatedAt": "2026-11-04T16:39:34.303215+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-04-daily-eeuu-gobierno-dividido",
-    "general": "2026-11-04-daily-eeuu-gobierno-dividido",
-    "national": "2026-11-04-national-informalidad-cambia-mezcla",
-    "markets": "2026-11-04-markets-bonos-y-reversion-tech"
+    "international": "2026-11-04-daily-eurozona-inflacion-bce",
+    "general": "2026-11-04-daily-eurozona-inflacion-bce",
+    "national": "2026-11-04-national-banco-central-tpm-expectativas",
+    "markets": "2026-11-04-markets-dolar-ipsa-cobre-divergen"
   },
-  "sourceCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252"
+  "sourceCommit": "29e5f883b651552fca8d05484d75459b009ed68f"
 }
