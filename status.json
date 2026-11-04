@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252",
-  "buildCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252",
+  "buildCommit": "6fb9f14619f3085a369a1d6b6909cd5c77a34ff6",
   "latestDaily": {
     "id": "2026-11-04-daily-eeuu-gobierno-dividido",
     "editionSlot": "morning",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "editionSlot": "evening",
-    "generalId": "2026-11-02-daily-manufactura-costos-globales",
+    "generalId": "2026-11-03-daily-trump-termina-ayuda-israel",
     "generalPublished": true,
-    "nationalId": "2026-11-02-national-imacec-mineria-no-minero",
+    "nationalId": "2026-11-03-national-turner-consejo-salmon",
     "nationalPublished": true,
-    "marketsId": "2026-11-02-markets-petroleo-peso-bolsas",
+    "marketsId": "2026-11-03-markets-brent-israel-bolsas-cobre",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 113,
+    "daily": 114,
     "weekly": 4,
-    "national": 106,
-    "markets": 105,
+    "national": 107,
+    "markets": 106,
     "readings": 16,
-    "total": 344
+    "total": 347
   },
   "indicators": {
     "status": "partial",
