@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "partial",
   "asOf": "2026-11-04",
-  "fetchedAt": "2026-11-04T12:49:39.506Z",
-  "lastAttemptAt": "2026-11-04T12:49:39.506Z",
+  "fetchedAt": "2026-11-04T13:03:57.174Z",
+  "lastAttemptAt": "2026-11-04T13:03:57.174Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -71,21 +71,23 @@
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.5,
+      "value": 6.58,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-11-03",
-      "status": "stale",
-      "previousValue": 6.61,
-      "previousEffectiveDate": "2026-11-02",
-      "changePercent": -1.66,
-      "trend": "down"
+      "effectiveDate": "2026-11-04",
+      "status": "current",
+      "previousValue": 6.5,
+      "previousEffectiveDate": "2026-11-03",
+      "changePercent": 1.23,
+      "trend": "up"
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "The operation was aborted due to timeout" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
+    {
+      "code": "uf",
+      "reason": "https://mindicador.cl/api/uf respondió con estado 500."
+    },
+    { "code": "dolar", "reason": "fetch failed" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "The operation was aborted due to timeout" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+    { "code": "utm", "reason": "fetch failed" }
   ]
 }

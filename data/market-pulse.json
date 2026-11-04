@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-04T12:50:04.231Z",
+  "generatedAt": "2026-11-04T13:04:11.226Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -89,14 +89,14 @@
       "id": "copper",
       "label": "Cobre",
       "group": "commodities",
-      "value": 6.5,
+      "value": 6.58,
       "unit": "usd-per-pound",
-      "changePercent": -1.66,
-      "trend": "down",
-      "effectiveAt": "2026-11-03T12:00:00-03:00",
+      "changePercent": 1.23,
+      "trend": "up",
+      "effectiveAt": "2026-11-04T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -153,11 +153,11 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6248.75,
+      "value": 6252.73,
       "unit": "points",
-      "changePercent": 2.66,
+      "changePercent": 2.72,
       "trend": "up",
-      "effectiveAt": "2026-11-04T12:34:45.000Z",
+      "effectiveAt": "2026-11-04T12:49:00.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
@@ -193,20 +193,21 @@
       "effectiveAt": "2026-11-03T19:59:55.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
-      "status": "current",
+      "status": "delayed",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "closed"
+      "freshnessState": "delayed",
+      "freshnessNote": "último dato disponible; no es una cotización en tiempo real"
     },
     {
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 101.95,
+      "value": 102.31,
       "unit": "usd-per-barrel",
-      "changePercent": -11.97,
+      "changePercent": -11.66,
       "trend": "down",
-      "effectiveAt": "2026-11-04T12:39:49.000Z",
+      "effectiveAt": "2026-11-04T12:54:04.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -218,29 +219,13 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4049.8,
+      "value": 4050.1,
       "unit": "usd-per-ounce",
-      "changePercent": 0.28,
+      "changePercent": 0.29,
       "trend": "up",
-      "effectiveAt": "2026-11-04T12:39:49.000Z",
+      "effectiveAt": "2026-11-04T12:54:05.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
-      "status": "current",
-      "quoteBasis": "exchange-quote",
-      "displayEligible": true,
-      "freshnessState": "current"
-    },
-    {
-      "id": "bitcoin",
-      "label": "Bitcoin",
-      "group": "crypto",
-      "value": 78244,
-      "unit": "usd",
-      "changePercent": 1.22,
-      "trend": "up",
-      "effectiveAt": "2026-11-04T12:50:04.231Z",
-      "provider": "coingecko-public",
-      "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
@@ -257,13 +242,10 @@
       "effectiveAt": "2026-11-03T00:00:00Z",
       "provider": "frankfurter-ecb",
       "sourceUrl": "https://frankfurter.app/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
-      "displayEligible": false,
-      "freshnessState": "stale",
-      "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-11-04T12:50:04.451Z",
-      "staleReason": "respaldo sin acreditación de último cierre"
+      "displayEligible": true,
+      "freshnessState": "reference"
     },
     {
       "id": "usdjpy",
@@ -276,13 +258,26 @@
       "effectiveAt": "2026-11-03T00:00:00Z",
       "provider": "frankfurter-ecb",
       "sourceUrl": "https://frankfurter.app/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
-      "displayEligible": false,
-      "freshnessState": "stale",
-      "recoverySource": "published-market-snapshot",
-      "recoveredAt": "2026-11-04T12:50:04.451Z",
-      "staleReason": "respaldo sin acreditación de último cierre"
+      "displayEligible": true,
+      "freshnessState": "reference"
+    },
+    {
+      "id": "bitcoin",
+      "label": "Bitcoin",
+      "group": "crypto",
+      "value": 78390,
+      "unit": "usd",
+      "changePercent": 1.48,
+      "trend": "up",
+      "effectiveAt": "2026-11-04T13:04:11.226Z",
+      "provider": "coingecko-public",
+      "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
+      "status": "current",
+      "quoteBasis": "exchange-quote",
+      "displayEligible": true,
+      "freshnessState": "current"
     }
   ],
   "diagnostics": [
@@ -299,47 +294,23 @@
     { "id": "ust10y", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "brent", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "gold", "ok": true, "provider": "yahoo-public-chart" },
-    {
-      "id": "fx-global",
-      "ok": false,
-      "error": "The operation was aborted due to timeout"
-    },
+    { "id": "fx-global", "ok": true, "provider": "frankfurter-ecb" },
     { "id": "bitcoin", "ok": true, "provider": "coingecko-public" },
-    {
-      "id": "eurusd-recovery",
-      "ok": false,
-      "recovered": true,
-      "error": "Dato recuperado; no acreditado como cotización de la sesión vigente.",
-      "source": "published-market-snapshot"
-    },
-    {
-      "id": "usdjpy-recovery",
-      "ok": false,
-      "recovered": true,
-      "error": "Dato recuperado; no acreditado como cotización de la sesión vigente.",
-      "source": "published-market-snapshot"
-    },
-    {
-      "id": "eurusd-freshness",
-      "ok": false,
-      "error": "respaldo sin acreditación de último cierre"
-    },
-    {
-      "id": "usdjpy-freshness",
-      "ok": false,
-      "error": "respaldo sin acreditación de último cierre"
-    },
     {
       "id": "ipsa-freshness",
       "ok": true,
       "delayed": true,
       "warning": "Último cierre verificado: 2026-11-03; no corresponde a la sesión actual"
+    },
+    {
+      "id": "ust10y-freshness",
+      "ok": true,
+      "delayed": true,
+      "warning": "último dato disponible; no es una cotización en tiempo real"
     }
   ],
-  "recoveredAssets": ["eurusd", "usdjpy"],
-  "recoverySourceGeneratedAt": "2026-11-04T03:06:36.650Z",
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-04T12:50:14.592Z",
+  "historyGeneratedAt": "2026-11-04T13:04:21.502Z",
   "history": [
     {
       "id": "usdclp",
@@ -461,7 +432,7 @@
         { "date": "2026-10-30", "value": 117.63999938964844 },
         { "date": "2026-11-02", "value": 104.7699966430664 },
         { "date": "2026-11-03", "value": 103.5999984741211 },
-        { "date": "2026-11-04", "value": 101.94999694824219 }
+        { "date": "2026-11-04", "value": 102.30999755859375 }
       ]
     }
   ],
@@ -473,7 +444,7 @@
       "observations": 21,
       "recovered": true,
       "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-04T03:06:38.157Z",
+      "recoveredFrom": "2026-11-04T12:50:14.592Z",
       "warning": "fetch failed"
     },
     {
@@ -483,7 +454,7 @@
       "observations": 21,
       "recovered": true,
       "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-04T03:06:38.157Z",
+      "recoveredFrom": "2026-11-04T12:50:14.592Z",
       "warning": "The operation was aborted due to timeout"
     },
     {
@@ -499,6 +470,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-11-04T12:50:14.840Z",
+  "freshnessCheckedAt": "2026-11-04T13:04:21.683Z",
   "freshnessPolicy": "market-sessions-v3"
 }
