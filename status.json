@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "10a2fe7f47af7868205b34d17c19245b9438e04d",
-  "buildCommit": "10a2fe7f47af7868205b34d17c19245b9438e04d",
+  "sourceCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252",
+  "buildCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252",
   "latestDaily": {
-    "id": "2026-11-03-daily-australia-confirma-retorno-alzas-globales",
+    "id": "2026-11-04-daily-eeuu-gobierno-dividido",
     "editionSlot": "morning",
-    "issueNumber": 93,
-    "title": "Australia confirma que la energía y la IA están reabriendo el ciclo global de alzas",
-    "publishedAt": "2026-11-03T06:49:50-03:00",
-    "cutoffAt": "2026-11-03T06:02:51-03:00"
+    "issueNumber": 94,
+    "title": "Estados Unidos entra en gobierno dividido y limita la agenda de Trump",
+    "publishedAt": "2026-11-04T06:51:10-03:00",
+    "cutoffAt": "2026-11-04T06:08:49-03:00"
   },
   "latestNational": {
-    "id": "2026-11-03-national-imacec-mineria-comercio",
+    "id": "2026-11-04-national-informalidad-cambia-mezcla",
     "editionSlot": "morning",
-    "title": "El Imacec rebota 1,9% en el mes, pero la minería mantiene casi plano el crecimiento anual",
-    "publishedAt": "2026-11-03T06:49:50-03:00",
-    "cutoffAt": "2026-11-03T06:17:10-03:00"
+    "title": "La informalidad sube por composición aunque cae el número de trabajadores informales",
+    "publishedAt": "2026-11-04T06:51:10-03:00",
+    "cutoffAt": "2026-11-04T06:19:50-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-03-markets-australia-tecnologia-tasas",
+    "id": "2026-11-04-markets-bonos-y-reversion-tech",
     "editionSlot": "morning",
-    "title": "El dólar australiano cae tras el alza y Asia vende tecnología: manda la expectativa, no el titular",
-    "publishedAt": "2026-11-03T06:49:50-03:00",
-    "cutoffAt": "2026-11-03T06:20:20-03:00"
+    "title": "Bonos ganan y la venta tecnológica se revierte tras el giro electoral de Estados Unidos",
+    "publishedAt": "2026-11-04T06:51:10-03:00",
+    "cutoffAt": "2026-11-04T06:21:40-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "editionSlot": "morning",
-    "generalId": "2026-11-03-daily-australia-confirma-retorno-alzas-globales",
+    "generalId": "2026-11-04-daily-eeuu-gobierno-dividido",
     "generalPublished": true,
-    "nationalId": "2026-11-03-national-imacec-mineria-comercio",
+    "nationalId": "2026-11-04-national-informalidad-cambia-mezcla",
     "nationalPublished": true,
-    "marketsId": "2026-11-03-markets-australia-tecnologia-tasas",
+    "marketsId": "2026-11-04-markets-bonos-y-reversion-tech",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 112,
+    "daily": 113,
     "weekly": 4,
-    "national": 105,
-    "markets": 104,
+    "national": 106,
+    "markets": 105,
     "readings": 16,
-    "total": 341
+    "total": 344
   },
   "indicators": {
-    "status": "current",
-    "asOf": "2026-11-03",
+    "status": "partial",
+    "asOf": "2026-11-04",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

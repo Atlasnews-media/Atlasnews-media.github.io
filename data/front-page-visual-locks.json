@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T09:59:19.777Z",
+  "updatedAt": "2026-11-04T12:46:21.320Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1751,6 +1751,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo.webp?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-04-daily-eeuu-gobierno-dividido": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Singapore%20(3777500194).jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Singapore%20(3777500194).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-04-national-informalidad-cambia-mezcla": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-04-markets-bonos-y-reversion-tech": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
