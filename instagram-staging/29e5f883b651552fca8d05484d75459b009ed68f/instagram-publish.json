@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-04-daily-eurozona-inflacion-bce.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-04-daily-eurozona-inflacion-bce/",
+  "childContainerIds": [
+    "18099842486386975",
+    "18099842510386975",
+    "18099842567386975",
+    "18099842630386975",
+    "18099842651386975"
+  ],
+  "carouselContainerId": "18099842669386975",
+  "mediaId": "18128928121914693",
+  "permalink": "https://www.instagram.com/p/DfVD_OBFPAh/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-04T18:06:52+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/29e5f883b651552fca8d05484d75459b009ed68f/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/29e5f883b651552fca8d05484d75459b009ed68f/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/29e5f883b651552fca8d05484d75459b009ed68f/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/29e5f883b651552fca8d05484d75459b009ed68f/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/29e5f883b651552fca8d05484d75459b009ed68f/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "41882929260",
+  "githubRunAttempt": "1",
+  "sourceCommit": "29e5f883b651552fca8d05484d75459b009ed68f"
+}
