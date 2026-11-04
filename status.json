@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "3caf13f1e1817694ed0a5cc18174de86d1646252",
-  "buildCommit": "6fb9f14619f3085a369a1d6b6909cd5c77a34ff6",
+  "buildCommit": "667cf7d1d17c849a3a0c17abf8b399393739efa4",
   "latestDaily": {
     "id": "2026-11-04-daily-eeuu-gobierno-dividido",
     "editionSlot": "morning",
@@ -66,7 +66,7 @@
     "total": 347
   },
   "indicators": {
-    "status": "partial",
+    "status": "stale",
     "asOf": "2026-11-04",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
