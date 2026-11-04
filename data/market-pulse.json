@@ -2,21 +2,21 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-04T13:04:11.226Z",
+  "generatedAt": "2026-11-04T13:08:55.360Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
       "id": "usdclp",
       "label": "USD/CLP",
       "group": "fx",
-      "value": 981.82,
+      "value": 980.59,
       "unit": "clp",
-      "changePercent": -1.09,
+      "changePercent": -0.13,
       "trend": "down",
-      "effectiveAt": "2026-11-03T12:00:00-03:00",
+      "effectiveAt": "2026-11-04T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -80,7 +80,7 @@
       "effectiveAt": "2026-11-01T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -96,7 +96,7 @@
       "effectiveAt": "2026-11-04T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "current",
+      "status": "stale",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -153,11 +153,11 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6252.73,
+      "value": 6245.2,
       "unit": "points",
-      "changePercent": 2.72,
+      "changePercent": 2.6,
       "trend": "up",
-      "effectiveAt": "2026-11-04T12:49:00.000Z",
+      "effectiveAt": "2026-11-04T12:53:45.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
@@ -203,11 +203,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 102.31,
+      "value": 101.95,
       "unit": "usd-per-barrel",
-      "changePercent": -11.66,
+      "changePercent": -11.97,
       "trend": "down",
-      "effectiveAt": "2026-11-04T12:54:04.000Z",
+      "effectiveAt": "2026-11-04T12:58:46.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -219,11 +219,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 4050.1,
+      "value": 4054.1,
       "unit": "usd-per-ounce",
-      "changePercent": 0.29,
+      "changePercent": 0.39,
       "trend": "up",
-      "effectiveAt": "2026-11-04T12:54:05.000Z",
+      "effectiveAt": "2026-11-04T12:58:51.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -267,11 +267,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 78390,
+      "value": 78297,
       "unit": "usd",
-      "changePercent": 1.48,
+      "changePercent": 1.36,
       "trend": "up",
-      "effectiveAt": "2026-11-04T13:04:11.226Z",
+      "effectiveAt": "2026-11-04T13:08:55.360Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -310,7 +310,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-04T13:04:21.502Z",
+  "historyGeneratedAt": "2026-11-04T13:09:05.602Z",
   "history": [
     {
       "id": "usdclp",
@@ -369,7 +369,8 @@
         { "date": "2026-10-29", "value": 6.65 },
         { "date": "2026-10-30", "value": 6.66 },
         { "date": "2026-11-02", "value": 6.61 },
-        { "date": "2026-11-03", "value": 6.5 }
+        { "date": "2026-11-03", "value": 6.5 },
+        { "date": "2026-11-04", "value": 6.58 }
       ]
     },
     {
@@ -432,7 +433,7 @@
         { "date": "2026-10-30", "value": 117.63999938964844 },
         { "date": "2026-11-02", "value": 104.7699966430664 },
         { "date": "2026-11-03", "value": 103.5999984741211 },
-        { "date": "2026-11-04", "value": 102.30999755859375 }
+        { "date": "2026-11-04", "value": 101.94999694824219 }
       ]
     }
   ],
@@ -444,18 +445,14 @@
       "observations": 21,
       "recovered": true,
       "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-04T12:50:14.592Z",
-      "warning": "fetch failed"
+      "recoveredFrom": "2026-11-04T13:04:21.502Z",
+      "warning": "The operation was aborted due to timeout"
     },
     {
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21,
-      "recovered": true,
-      "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-04T12:50:14.592Z",
-      "warning": "The operation was aborted due to timeout"
+      "observations": 22
     },
     {
       "id": "sp500",
@@ -470,6 +467,6 @@
       "observations": 23
     }
   ],
-  "freshnessCheckedAt": "2026-11-04T13:04:21.683Z",
+  "freshnessCheckedAt": "2026-11-04T13:09:05.778Z",
   "freshnessPolicy": "market-sessions-v3"
 }

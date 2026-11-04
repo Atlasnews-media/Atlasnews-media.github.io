@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "status": "partial",
   "asOf": "2026-11-04",
-  "fetchedAt": "2026-11-04T13:03:57.174Z",
-  "lastAttemptAt": "2026-11-04T13:03:57.174Z",
+  "fetchedAt": "2026-11-04T13:08:41.278Z",
+  "lastAttemptAt": "2026-11-04T13:08:41.278Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -23,13 +23,13 @@
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 981.82,
+      "value": 980.59,
       "unit": "clp",
-      "effectiveDate": "2026-11-03",
-      "status": "stale",
-      "previousValue": 992.66,
-      "previousEffectiveDate": "2026-11-02",
-      "changePercent": -1.09,
+      "effectiveDate": "2026-11-04",
+      "status": "current",
+      "previousValue": 981.82,
+      "previousEffectiveDate": "2026-11-03",
+      "changePercent": -0.13,
       "trend": "down"
     },
     {
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "stale",
+      "status": "current",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -74,7 +74,7 @@
       "value": 6.58,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-04",
-      "status": "current",
+      "status": "stale",
       "previousValue": 6.5,
       "previousEffectiveDate": "2026-11-03",
       "changePercent": 1.23,
@@ -82,12 +82,8 @@
     }
   ],
   "diagnostics": [
-    {
-      "code": "uf",
-      "reason": "https://mindicador.cl/api/uf respondió con estado 500."
-    },
-    { "code": "dolar", "reason": "fetch failed" },
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "fetch failed" }
+    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
   ]
 }
