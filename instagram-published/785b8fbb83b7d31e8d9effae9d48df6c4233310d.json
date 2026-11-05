@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-05-daily-banco-inglaterra-tasa-inflacion.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-05-daily-banco-inglaterra-tasa-inflacion/",
+  "childContainerIds": [
+    "18100041347386975",
+    "18100041374386975",
+    "18100041410386975",
+    "18100041452386975",
+    "18100041545386975"
+  ],
+  "carouselContainerId": "18100041566386975",
+  "mediaId": "18116955542024516",
+  "permalink": "https://www.instagram.com/p/DfXdcnhlrcV/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-05T16:27:49+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/785b8fbb83b7d31e8d9effae9d48df6c4233310d/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/785b8fbb83b7d31e8d9effae9d48df6c4233310d/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/785b8fbb83b7d31e8d9effae9d48df6c4233310d/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/785b8fbb83b7d31e8d9effae9d48df6c4233310d/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/785b8fbb83b7d31e8d9effae9d48df6c4233310d/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42064008587",
+  "githubRunAttempt": "1",
+  "sourceCommit": "785b8fbb83b7d31e8d9effae9d48df6c4233310d"
+}
