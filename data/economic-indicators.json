@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "current",
+  "status": "partial",
   "asOf": "2026-11-05",
-  "fetchedAt": "2026-11-05T09:51:38.726Z",
-  "lastAttemptAt": "2026-11-05T09:51:38.726Z",
+  "fetchedAt": "2026-11-05T16:22:46.095Z",
+  "lastAttemptAt": "2026-11-05T16:22:46.095Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -14,7 +14,7 @@
       "value": 41274.2,
       "unit": "clp",
       "effectiveDate": "2026-11-05",
-      "status": "current",
+      "status": "stale",
       "previousValue": 41268.88,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": 0.01,
@@ -62,7 +62,7 @@
       "value": 4.5,
       "unit": "percent",
       "effectiveDate": "2026-11-05",
-      "status": "current",
+      "status": "stale",
       "previousValue": 4.5,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": 0,
@@ -74,12 +74,16 @@
       "value": 6.42,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-05",
-      "status": "current",
+      "status": "stale",
       "previousValue": 6.58,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": -2.43,
       "trend": "down"
     }
   ],
-  "diagnostics": []
+  "diagnostics": [
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
+    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
+    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+  ]
 }
