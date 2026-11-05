@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "current",
   "asOf": "2026-11-05",
-  "fetchedAt": "2026-11-05T18:28:49.752Z",
-  "lastAttemptAt": "2026-11-05T18:28:49.752Z",
+  "fetchedAt": "2026-11-05T23:46:11.137Z",
+  "lastAttemptAt": "2026-11-05T23:46:11.137Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -14,7 +14,7 @@
       "value": 41274.2,
       "unit": "clp",
       "effectiveDate": "2026-11-05",
-      "status": "stale",
+      "status": "current",
       "previousValue": 41268.88,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": 0.01,
@@ -26,7 +26,7 @@
       "value": 970.95,
       "unit": "clp",
       "effectiveDate": "2026-11-05",
-      "status": "stale",
+      "status": "current",
       "previousValue": 980.59,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": -0.98,
@@ -38,7 +38,7 @@
       "value": 1090.83,
       "unit": "clp",
       "effectiveDate": "2026-11-05",
-      "status": "stale",
+      "status": "current",
       "previousValue": 1097.72,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": -0.63,
@@ -62,7 +62,7 @@
       "value": 4.5,
       "unit": "percent",
       "effectiveDate": "2026-11-05",
-      "status": "stale",
+      "status": "current",
       "previousValue": 4.5,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": 0,
@@ -74,18 +74,12 @@
       "value": 6.42,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-05",
-      "status": "stale",
+      "status": "current",
       "previousValue": 6.58,
       "previousEffectiveDate": "2026-11-04",
       "changePercent": -2.43,
       "trend": "down"
     }
   ],
-  "diagnostics": [
-    { "code": "uf", "reason": "The operation was aborted due to timeout" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
-    { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
-  ]
+  "diagnostics": []
 }
