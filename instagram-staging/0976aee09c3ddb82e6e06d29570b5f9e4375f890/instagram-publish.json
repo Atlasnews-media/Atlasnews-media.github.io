@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-05-daily-petroleo-chips-repricing-global.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-05-daily-petroleo-chips-repricing-global/",
+  "childContainerIds": [
+    "18099977732386975",
+    "18099977753386975",
+    "18099977777386975",
+    "18099977804386975",
+    "18099977903386975"
+  ],
+  "carouselContainerId": "18099977927386975",
+  "mediaId": "18105565565335477",
+  "permalink": "https://www.instagram.com/p/DfWwd1ElmAu/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-05T09:54:47+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0976aee09c3ddb82e6e06d29570b5f9e4375f890/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0976aee09c3ddb82e6e06d29570b5f9e4375f890/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0976aee09c3ddb82e6e06d29570b5f9e4375f890/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0976aee09c3ddb82e6e06d29570b5f9e4375f890/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/0976aee09c3ddb82e6e06d29570b5f9e4375f890/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42005832261",
+  "githubRunAttempt": "1",
+  "sourceCommit": "0976aee09c3ddb82e6e06d29570b5f9e4375f890"
+}
