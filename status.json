@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "29e5f883b651552fca8d05484d75459b009ed68f",
-  "buildCommit": "29e5f883b651552fca8d05484d75459b009ed68f",
+  "sourceCommit": "0976aee09c3ddb82e6e06d29570b5f9e4375f890",
+  "buildCommit": "0976aee09c3ddb82e6e06d29570b5f9e4375f890",
   "latestDaily": {
-    "id": "2026-11-04-daily-eurozona-inflacion-bce",
-    "editionSlot": "evening",
-    "issueNumber": 94,
-    "title": "La inflación de la eurozona sube a 4,0% y refuerza un alza del BCE en diciembre",
-    "publishedAt": "2026-11-04T13:08:28-03:00",
-    "cutoffAt": "2026-11-04T12:00:00-03:00"
+    "id": "2026-11-05-daily-petroleo-chips-repricing-global",
+    "editionSlot": "morning",
+    "issueNumber": 95,
+    "title": "Petróleo cae bajo US$100 y Asia castiga a los chips tras el giro político en Estados Unidos",
+    "publishedAt": "2026-11-05T06:45:33-03:00",
+    "cutoffAt": "2026-11-05T06:08:07-03:00"
   },
   "latestNational": {
-    "id": "2026-11-04-national-banco-central-tpm-expectativas",
-    "editionSlot": "evening",
-    "title": "Banco Central evaluó subir la TPM a 4,75% y empresas elevan a 3,5% su inflación a dos años",
-    "publishedAt": "2026-11-04T13:08:28-03:00",
-    "cutoffAt": "2026-11-04T12:00:00-03:00"
+    "id": "2026-11-05-national-empresas-costos-ventas",
+    "editionSlot": "morning",
+    "title": "Empresas moderan costos, pero ventas débiles y expectativas a dos años mantienen la presión",
+    "publishedAt": "2026-11-05T06:45:33-03:00",
+    "cutoffAt": "2026-11-05T06:17:50-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-04-markets-dolar-ipsa-cobre-divergen",
-    "editionSlot": "evening",
-    "title": "El dólar cae a $971 y el IPSA sube 1,29% pese al retroceso del cobre",
-    "publishedAt": "2026-11-04T13:08:28-03:00",
-    "cutoffAt": "2026-11-04T12:00:00-03:00"
+    "id": "2026-11-05-markets-petroleo-bonos-chips",
+    "editionSlot": "morning",
+    "title": "El alivio del petróleo compra duración, pero expulsa capital de los chips asiáticos",
+    "publishedAt": "2026-11-05T06:45:33-03:00",
+    "cutoffAt": "2026-11-05T06:19:35-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "editionSlot": "morning",
-    "generalId": "2026-11-04-daily-eeuu-gobierno-dividido",
+    "generalId": "2026-11-05-daily-petroleo-chips-repricing-global",
     "generalPublished": true,
-    "nationalId": "2026-11-04-national-informalidad-cambia-mezcla",
+    "nationalId": "2026-11-05-national-empresas-costos-ventas",
     "nationalPublished": true,
-    "marketsId": "2026-11-04-markets-bonos-y-reversion-tech",
+    "marketsId": "2026-11-05-markets-petroleo-bonos-chips",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 115,
+    "daily": 116,
     "weekly": 4,
-    "national": 108,
-    "markets": 107,
+    "national": 109,
+    "markets": 108,
     "readings": 16,
-    "total": 350
+    "total": 353
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-04",
+    "status": "current",
+    "asOf": "2026-11-05",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

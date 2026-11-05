@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T18:08:27.791Z",
+  "updatedAt": "2026-11-05T09:48:15.357Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1799,6 +1799,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-05-daily-petroleo-chips-repricing-global": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-05-national-empresas-costos-ventas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-05-markets-petroleo-bonos-chips": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Stock%20Exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
