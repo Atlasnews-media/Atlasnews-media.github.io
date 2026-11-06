@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-06-daily-eeuu-empleo-fed-diciembre.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-06-daily-eeuu-empleo-fed-diciembre/",
+  "childContainerIds": [
+    "18100265372386975",
+    "18100265393386975",
+    "18100265462386975",
+    "18100265483386975",
+    "18100265501386975"
+  ],
+  "carouselContainerId": "18100265525386975",
+  "mediaId": "18141774367625456",
+  "permalink": "https://www.instagram.com/p/DfaJzRbGleZ/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-06T17:33:53+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/13da88c00bbd338c45b72a68e433465182bb5ccb/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/13da88c00bbd338c45b72a68e433465182bb5ccb/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/13da88c00bbd338c45b72a68e433465182bb5ccb/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/13da88c00bbd338c45b72a68e433465182bb5ccb/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/13da88c00bbd338c45b72a68e433465182bb5ccb/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42262355441",
+  "githubRunAttempt": "1",
+  "sourceCommit": "13da88c00bbd338c45b72a68e433465182bb5ccb"
+}
