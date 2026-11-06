@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "785b8fbb83b7d31e8d9effae9d48df6c4233310d",
-  "buildCommit": "785b8fbb83b7d31e8d9effae9d48df6c4233310d",
+  "sourceCommit": "e11c2b667589b828315e9aab0945dcce1f30fb87",
+  "buildCommit": "e11c2b667589b828315e9aab0945dcce1f30fb87",
   "latestDaily": {
-    "id": "2026-11-05-daily-banco-inglaterra-tasa-inflacion",
-    "editionSlot": "evening",
-    "issueNumber": 95,
-    "title": "Banco de Inglaterra sube la tasa a 4% y proyecta inflación cercana a 5% en 2027",
-    "publishedAt": "2026-11-05T13:15:06-03:00",
-    "cutoffAt": "2026-11-05T12:00:00-03:00"
+    "id": "2026-11-06-daily-ia-correccion-riesgo-crecimiento",
+    "editionSlot": "morning",
+    "issueNumber": 96,
+    "title": "La corrección de la IA borra US$2,5 billones y eleva el riesgo para el crecimiento global",
+    "publishedAt": "2026-11-06T09:12:32-03:00",
+    "cutoffAt": "2026-11-06T06:02:32-03:00"
   },
   "latestNational": {
-    "id": "2026-11-05-national-salarios-costos-laborales",
-    "editionSlot": "evening",
-    "title": "Salarios reales suben 3,5%, pero los costos laborales crecen 8,4% y mantienen estrechos los márgenes",
-    "publishedAt": "2026-11-05T13:15:06-03:00",
-    "cutoffAt": "2026-11-05T12:00:00-03:00"
+    "id": "2026-11-06-national-ipc-transporte-alimentos",
+    "editionSlot": "morning",
+    "title": "El IPC de octubre revela un shock concentrado en transporte y alimentos",
+    "publishedAt": "2026-11-06T09:12:32-03:00",
+    "cutoffAt": "2026-11-06T08:55:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-05-markets-dolar-ipsa-cobre",
-    "editionSlot": "evening",
-    "title": "El dólar opera bajo $968 y el IPSA sube 1,07% pese a una nueva caída del cobre",
-    "publishedAt": "2026-11-05T13:15:06-03:00",
-    "cutoffAt": "2026-11-05T12:00:00-03:00"
+    "id": "2026-11-06-markets-bonos-venta-tecnologica",
+    "editionSlot": "morning",
+    "title": "Los bonos reciben la búsqueda de refugio mientras la venta tecnológica se fragmenta",
+    "publishedAt": "2026-11-06T09:12:32-03:00",
+    "cutoffAt": "2026-11-06T08:55:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "editionSlot": "morning",
-    "generalId": "2026-11-05-daily-petroleo-chips-repricing-global",
+    "generalId": "2026-11-06-daily-ia-correccion-riesgo-crecimiento",
     "generalPublished": true,
-    "nationalId": "2026-11-05-national-empresas-costos-ventas",
+    "nationalId": "2026-11-06-national-ipc-transporte-alimentos",
     "nationalPublished": true,
-    "marketsId": "2026-11-05-markets-petroleo-bonos-chips",
+    "marketsId": "2026-11-06-markets-bonos-venta-tecnologica",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 117,
+    "daily": 118,
     "weekly": 4,
-    "national": 110,
-    "markets": 109,
+    "national": 111,
+    "markets": 110,
     "readings": 16,
-    "total": 356
+    "total": 359
   },
   "indicators": {
-    "status": "partial",
-    "asOf": "2026-11-05",
+    "status": "stale",
+    "asOf": "2026-11-06",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

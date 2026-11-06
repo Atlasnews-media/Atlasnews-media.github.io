@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T16:29:13.330Z",
+  "updatedAt": "2026-11-06T12:16:58.351Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1849,6 +1849,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-11-06-daily-ia-correccion-riesgo-crecimiento": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-06-national-ipc-transporte-alimentos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Detalle%20escudo%20Banco%20Central%20(34724274142).jpg?width=1280",
+      "alt": "Banco Central de Chile, política monetaria, reservas o contexto financiero local.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Detalle%20escudo%20Banco%20Central%20(34724274142).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-06-markets-bonos-venta-tecnologica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "alt": "Edificio del Departamento del Tesoro de Estados Unidos visto desde Washington, D.C.",
+      "source": "Wikimedia Commons / U.S. Department of the Treasury",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
+      "author": "U.S. Department of the Treasury",
+      "license": "Dominio público"
     }
   }
 }
