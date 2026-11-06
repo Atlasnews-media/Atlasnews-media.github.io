@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T12:25:08.485Z",
+  "updatedAt": "2026-11-06T16:18:56.896Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1873,6 +1873,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury%20Building%20(32648233951).jpg?width=1280",
       "author": "U.S. Department of the Treasury",
       "license": "Dominio público"
+    },
+    "international:2026-11-06-daily-eeuu-empleo-fed-diciembre": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2699%20(14306047845).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2699%20(14306047845).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-06-national-san-antonio-fletes-cerezas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CL-san-antonio-hafen.jpg?width=1280",
+      "alt": "Vista del puerto de San Antonio en Chile, con infraestructura portuaria y movimiento de carga.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CL-san-antonio-hafen.jpg?width=1280",
+      "author": "Balou46",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-06-markets-empleo-dolar-bonos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

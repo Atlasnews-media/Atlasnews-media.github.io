@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e11c2b667589b828315e9aab0945dcce1f30fb87",
-  "buildCommit": "e11c2b667589b828315e9aab0945dcce1f30fb87",
+  "sourceCommit": "13da88c00bbd338c45b72a68e433465182bb5ccb",
+  "buildCommit": "13da88c00bbd338c45b72a68e433465182bb5ccb",
   "latestDaily": {
-    "id": "2026-11-06-daily-ia-correccion-riesgo-crecimiento",
-    "editionSlot": "morning",
+    "id": "2026-11-06-daily-eeuu-empleo-fed-diciembre",
+    "editionSlot": "evening",
     "issueNumber": 96,
-    "title": "La corrección de la IA borra US$2,5 billones y eleva el riesgo para el crecimiento global",
-    "publishedAt": "2026-11-06T09:12:32-03:00",
-    "cutoffAt": "2026-11-06T06:02:32-03:00"
+    "title": "Estados Unidos crea 165.000 empleos y deja abierta otra alza de la Fed en diciembre",
+    "publishedAt": "2026-11-06T13:15:26-03:00",
+    "cutoffAt": "2026-11-06T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-06-national-ipc-transporte-alimentos",
-    "editionSlot": "morning",
-    "title": "El IPC de octubre revela un shock concentrado en transporte y alimentos",
-    "publishedAt": "2026-11-06T09:12:32-03:00",
-    "cutoffAt": "2026-11-06T08:55:00-03:00"
+    "id": "2026-11-06-national-san-antonio-fletes-cerezas",
+    "editionSlot": "evening",
+    "title": "Gobierno propone indexar fletes al costo del transporte para destrabar el paro de San Antonio",
+    "publishedAt": "2026-11-06T13:15:26-03:00",
+    "cutoffAt": "2026-11-06T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-06-markets-bonos-venta-tecnologica",
-    "editionSlot": "morning",
-    "title": "Los bonos reciben la búsqueda de refugio mientras la venta tecnológica se fragmenta",
-    "publishedAt": "2026-11-06T09:12:32-03:00",
-    "cutoffAt": "2026-11-06T08:55:00-03:00"
+    "id": "2026-11-06-markets-empleo-dolar-bonos",
+    "editionSlot": "evening",
+    "title": "El empleo de EE.UU. corta el rally de bonos y devuelve fuerza al dólar tras la venta tecnológica",
+    "publishedAt": "2026-11-06T13:15:26-03:00",
+    "cutoffAt": "2026-11-06T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-06",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "editionSlot": "evening",
-    "generalId": "2026-11-05-daily-banco-inglaterra-tasa-inflacion",
+    "generalId": "2026-11-06-daily-eeuu-empleo-fed-diciembre",
     "generalPublished": true,
-    "nationalId": "2026-11-05-national-salarios-costos-laborales",
+    "nationalId": "2026-11-06-national-san-antonio-fletes-cerezas",
     "nationalPublished": true,
-    "marketsId": "2026-11-05-markets-dolar-ipsa-cobre",
+    "marketsId": "2026-11-06-markets-empleo-dolar-bonos",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 118,
+    "daily": 119,
     "weekly": 4,
-    "national": 111,
-    "markets": 110,
+    "national": 112,
+    "markets": 111,
     "readings": 16,
-    "total": 359
+    "total": 362
   },
   "indicators": {
-    "status": "stale",
+    "status": "partial",
     "asOf": "2026-11-06",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
