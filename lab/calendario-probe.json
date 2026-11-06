@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T12:16:16.272Z",
+  "checkedAt": "2026-11-06T16:18:17.371Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -14,14 +14,14 @@
     "ine": {
       "status": 200,
       "error": null,
-      "bytes": 99225,
+      "bytes": 100516,
       "foundAgenda2026": true,
       "sample": null
     },
     "bancoCentral": {
       "status": 200,
       "error": null,
-      "bytes": 520693,
+      "bytes": 519347,
       "foundCalendar": true,
       "sample": "orista (IVDCM) 30 Índice de precios de vivienda (IPV) 7 Encuesta de Operadores Financieros (EOF) post RPM diciembre 6 Encuesta de Determinantes y Expectativas de Precios (EDEP) 12 Encuesta de Expectativas Económicas (EEE) 14 Encuesta de Crédito Bancario (ECB) 4to trimestre 2025 22 Encuesta de Operadores Financieros (EOF) pre RPM enero 2 Comercio exterior semanal 7 Comercio exterior - diciembr"
     }
