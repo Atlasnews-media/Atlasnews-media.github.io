@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "13da88c00bbd338c45b72a68e433465182bb5ccb",
-  "buildCommit": "13da88c00bbd338c45b72a68e433465182bb5ccb",
+  "sourceCommit": "b6fb368f570ac834920ee0d14ce099a1995e677b",
+  "buildCommit": "b6fb368f570ac834920ee0d14ce099a1995e677b",
   "latestDaily": {
-    "id": "2026-11-06-daily-eeuu-empleo-fed-diciembre",
-    "editionSlot": "evening",
-    "issueNumber": 96,
-    "title": "Estados Unidos crea 165.000 empleos y deja abierta otra alza de la Fed en diciembre",
-    "publishedAt": "2026-11-06T13:15:26-03:00",
-    "cutoffAt": "2026-11-06T12:00:00-03:00"
+    "id": "2026-11-07-daily-qatar-eeuu-iran-avance-sin-acuerdo",
+    "editionSlot": "morning",
+    "issueNumber": 97,
+    "title": "Qatar reporta avances entre EE.UU. e Irán, pero Ormuz sigue sin acuerdo",
+    "publishedAt": "2026-11-07T06:49:30-03:00",
+    "cutoffAt": "2026-11-07T06:05:14-03:00"
   },
   "latestNational": {
-    "id": "2026-11-06-national-san-antonio-fletes-cerezas",
-    "editionSlot": "evening",
-    "title": "Gobierno propone indexar fletes al costo del transporte para destrabar el paro de San Antonio",
-    "publishedAt": "2026-11-06T13:15:26-03:00",
-    "cutoffAt": "2026-11-06T12:00:00-03:00"
+    "id": "2026-11-07-national-ipc-transporte-alimentos",
+    "editionSlot": "morning",
+    "title": "Transporte y alimentos concentran el IPC de octubre y muestran una presión poco extendida",
+    "publishedAt": "2026-11-07T06:49:30-03:00",
+    "cutoffAt": "2026-11-07T06:20:50-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-06-markets-empleo-dolar-bonos",
-    "editionSlot": "evening",
-    "title": "El empleo de EE.UU. corta el rally de bonos y devuelve fuerza al dólar tras la venta tecnológica",
-    "publishedAt": "2026-11-06T13:15:26-03:00",
-    "cutoffAt": "2026-11-06T12:00:00-03:00"
+    "id": "2026-11-07-markets-rebote-tech-estres-credito",
+    "editionSlot": "morning",
+    "title": "El rebote tecnológico no borra la señal de estrés en crédito y liquidez",
+    "publishedAt": "2026-11-07T06:49:30-03:00",
+    "cutoffAt": "2026-11-07T06:22:45-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "editionSlot": "morning",
-    "generalId": "2026-11-06-daily-ia-correccion-riesgo-crecimiento",
+    "generalId": "2026-11-07-daily-qatar-eeuu-iran-avance-sin-acuerdo",
     "generalPublished": true,
-    "nationalId": "2026-11-06-national-ipc-transporte-alimentos",
+    "nationalId": "2026-11-07-national-ipc-transporte-alimentos",
     "nationalPublished": true,
-    "marketsId": "2026-11-06-markets-bonos-venta-tecnologica",
+    "marketsId": "2026-11-07-markets-rebote-tech-estres-credito",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 119,
+    "daily": 120,
     "weekly": 4,
-    "national": 112,
-    "markets": 111,
+    "national": 113,
+    "markets": 112,
     "readings": 16,
-    "total": 362
+    "total": 365
   },
   "indicators": {
-    "status": "partial",
-    "asOf": "2026-11-06",
+    "status": "current",
+    "asOf": "2026-11-07",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

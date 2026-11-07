@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T17:35:32.005Z",
+  "updatedAt": "2026-11-07T09:51:52.836Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1895,6 +1895,30 @@
       "alt": "Departamento del Tesoro de Estados Unidos o contexto de deuda y renta fija.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Department%20of%20the%20Treasury%20(53840295873).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-07-daily-qatar-eeuu-iran-avance-sin-acuerdo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20HQ.jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20HQ.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-07-national-ipc-transporte-alimentos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BancoCentralChile.JPG?width=1280",
+      "alt": "Fachada del edificio del Banco Central de Chile en Santiago.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BancoCentralChile.JPG?width=1280",
+      "author": "Carlos yo",
+      "license": "CC BY 3.0"
+    },
+    "markets:2026-11-07-markets-rebote-tech-estres-credito": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
