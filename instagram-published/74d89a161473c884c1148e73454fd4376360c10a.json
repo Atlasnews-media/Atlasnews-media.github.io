@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-07-daily-eeuu-extiende-cerco-iran.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-07-daily-eeuu-extiende-cerco-iran/",
+  "childContainerIds": [
+    "18100471511386975",
+    "18100471547386975",
+    "18100471565386975",
+    "18100471607386975",
+    "18100471625386975"
+  ],
+  "carouselContainerId": "18100471649386975",
+  "mediaId": "17978966504935365",
+  "permalink": "https://www.instagram.com/p/DfclZSIlNXP/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-07T16:13:29+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/74d89a161473c884c1148e73454fd4376360c10a/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/74d89a161473c884c1148e73454fd4376360c10a/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/74d89a161473c884c1148e73454fd4376360c10a/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/74d89a161473c884c1148e73454fd4376360c10a/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/74d89a161473c884c1148e73454fd4376360c10a/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42389970432",
+  "githubRunAttempt": "1",
+  "sourceCommit": "74d89a161473c884c1148e73454fd4376360c10a"
+}
