@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "b6fb368f570ac834920ee0d14ce099a1995e677b",
-  "buildCommit": "b6fb368f570ac834920ee0d14ce099a1995e677b",
+  "sourceCommit": "74d89a161473c884c1148e73454fd4376360c10a",
+  "buildCommit": "74d89a161473c884c1148e73454fd4376360c10a",
   "latestDaily": {
-    "id": "2026-11-07-daily-qatar-eeuu-iran-avance-sin-acuerdo",
-    "editionSlot": "morning",
+    "id": "2026-11-07-daily-eeuu-extiende-cerco-iran",
+    "editionSlot": "evening",
     "issueNumber": 97,
-    "title": "Qatar reporta avances entre EE.UU. e Irán, pero Ormuz sigue sin acuerdo",
-    "publishedAt": "2026-11-07T06:49:30-03:00",
-    "cutoffAt": "2026-11-07T06:05:14-03:00"
+    "title": "EE.UU. extiende el cerco sobre Irán desde el mar hacia sus rutas terrestres",
+    "publishedAt": "2026-11-07T13:04:34-03:00",
+    "cutoffAt": "2026-11-07T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-07-national-ipc-transporte-alimentos",
-    "editionSlot": "morning",
-    "title": "Transporte y alimentos concentran el IPC de octubre y muestran una presión poco extendida",
-    "publishedAt": "2026-11-07T06:49:30-03:00",
-    "cutoffAt": "2026-11-07T06:20:50-03:00"
+    "id": "2026-11-07-national-inclusion-laboral",
+    "editionSlot": "evening",
+    "title": "Sólo 44% de las entidades obligadas cumple la Ley de Inclusión Laboral",
+    "publishedAt": "2026-11-07T13:04:34-03:00",
+    "cutoffAt": "2026-11-07T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-07-markets-rebote-tech-estres-credito",
-    "editionSlot": "morning",
-    "title": "El rebote tecnológico no borra la señal de estrés en crédito y liquidez",
-    "publishedAt": "2026-11-07T06:49:30-03:00",
-    "cutoffAt": "2026-11-07T06:22:45-03:00"
+    "id": "2026-11-07-markets-bitcoin-flujos-etf",
+    "editionSlot": "evening",
+    "title": "Bitcoin se estabiliza en US$76.000, pero los ETF pierden US$411,9 millones",
+    "publishedAt": "2026-11-07T13:04:34-03:00",
+    "cutoffAt": "2026-11-07T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-07",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "editionSlot": "evening",
-    "generalId": "2026-11-06-daily-eeuu-empleo-fed-diciembre",
+    "generalId": "2026-11-07-daily-eeuu-extiende-cerco-iran",
     "generalPublished": true,
-    "nationalId": "2026-11-06-national-san-antonio-fletes-cerezas",
+    "nationalId": "2026-11-07-national-inclusion-laboral",
     "nationalPublished": true,
-    "marketsId": "2026-11-06-markets-empleo-dolar-bonos",
+    "marketsId": "2026-11-07-markets-bitcoin-flujos-etf",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 120,
+    "daily": 121,
     "weekly": 4,
-    "national": 113,
-    "markets": 112,
+    "national": 114,
+    "markets": 113,
     "readings": 16,
-    "total": 365
+    "total": 368
   },
   "indicators": {
     "status": "current",

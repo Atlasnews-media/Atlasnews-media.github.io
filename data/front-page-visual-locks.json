@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T09:51:52.836Z",
+  "updatedAt": "2026-11-07T16:07:40.070Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1919,6 +1919,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-07-daily-eeuu-extiende-cerco-iran": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "alt": "Petrolero cargando crudo en la terminal Al Basrah del Golfo Pérsico.",
+      "source": "Wikimedia Commons / U.S. Navy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20051111-N-8163B-032%20An%20oil%20tanker%20docked%20to%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20takes%20on%20crude%20oil%20in%20the%20Persian%20Gulf.jpg?width=1280",
+      "author": "Eben Boothby, U.S. Navy",
+      "license": "Dominio público — gobierno federal de EE.UU."
+    },
+    "national:2026-11-07-national-inclusion-laboral": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "alt": "Vista del skyline de Santiago de Chile.",
+      "source": "Wikimedia Commons / Unsplash",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "author": "Pablo García Saldaña",
+      "license": "CC0 1.0"
+    },
+    "markets:2026-11-07-markets-bitcoin-flujos-etf": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin%20logo%20Satoshi%20Nakamoto.svg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
