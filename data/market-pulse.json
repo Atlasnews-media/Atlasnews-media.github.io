@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-07T16:11:05.500Z",
+  "generatedAt": "2026-11-08T09:52:53.292Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -57,11 +57,11 @@
       "id": "uf",
       "label": "UF",
       "group": "chile",
-      "value": 41284.83,
+      "value": 41290.15,
       "unit": "clp",
       "changePercent": 0.01,
       "trend": "up",
-      "effectiveAt": "2026-11-07T12:00:00-03:00",
+      "effectiveAt": "2026-11-08T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "status": "current",
@@ -204,7 +204,7 @@
       "group": "commodities",
       "value": 98.32,
       "unit": "usd-per-barrel",
-      "changePercent": -13.66,
+      "changePercent": -14.74,
       "trend": "down",
       "effectiveAt": "2026-11-06T21:59:44.000Z",
       "provider": "yahoo-public-chart",
@@ -220,7 +220,7 @@
       "group": "commodities",
       "value": 4074.9,
       "unit": "usd-per-ounce",
-      "changePercent": 0.01,
+      "changePercent": 0.58,
       "trend": "up",
       "effectiveAt": "2026-11-06T21:59:59.000Z",
       "provider": "yahoo-public-chart",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 75699,
+      "value": 75859,
       "unit": "usd",
-      "changePercent": 0.15,
-      "trend": "up",
-      "effectiveAt": "2026-11-07T16:11:05.500Z",
+      "changePercent": -0.2,
+      "trend": "down",
+      "effectiveAt": "2026-11-08T09:52:53.292Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-07T16:11:06.529Z",
+  "historyGeneratedAt": "2026-11-08T09:52:54.299Z",
   "history": [
     {
       "id": "usdclp",
@@ -307,7 +307,6 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        { "date": "2026-10-08", "value": 979.85 },
         { "date": "2026-10-09", "value": 981.61 },
         { "date": "2026-10-13", "value": 978.61 },
         { "date": "2026-10-14", "value": 980.79 },
@@ -337,7 +336,6 @@
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
       "points": [
-        { "date": "2026-10-08", "value": 6.57 },
         { "date": "2026-10-09", "value": 6.61 },
         { "date": "2026-10-13", "value": 6.53 },
         { "date": "2026-10-14", "value": 6.71 },
@@ -367,7 +365,6 @@
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "points": [
-        { "date": "2026-10-08", "value": 7765.35986328125 },
         { "date": "2026-10-09", "value": 7811.5400390625 },
         { "date": "2026-10-12", "value": 7807.240234375 },
         { "date": "2026-10-13", "value": 7805.4501953125 },
@@ -398,7 +395,6 @@
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "points": [
-        { "date": "2026-10-08", "value": 104.27999877929688 },
         { "date": "2026-10-09", "value": 104.72000122070312 },
         { "date": "2026-10-12", "value": 106.6500015258789 },
         { "date": "2026-10-13", "value": 105.69000244140625 },
@@ -428,27 +424,27 @@
       "id": "usdclp",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21
+      "observations": 20
     },
     {
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21
+      "observations": 20
     },
     {
       "id": "sp500",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 22
+      "observations": 21
     },
     {
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 22
+      "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-11-07T16:11:06.673Z",
+  "freshnessCheckedAt": "2026-11-08T09:52:54.441Z",
   "freshnessPolicy": "market-sessions-v3"
 }
