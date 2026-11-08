@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T09:49:17.867Z",
+  "updatedAt": "2026-11-08T16:17:19.217Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1969,6 +1969,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20041020-N-1348L-054%20The%20U.S.%20Coast%20Guard%20cutter%20Monomoy%20(WPB%201326)%20patrols%20the%20waters%20surrounding%20the%20Al%20Basrah%20Oil%20Terminal%20(ABOT)%20as%20a%20super%20tanker%20takes-on%20crude%20oil.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20Seat%20of%20the%20European%20Central%20Bank%20(Skytower%20(ECB)).jpg?width=1280",
+      "alt": "Sede del Banco Central Europeo y su torre en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Frankfurt%20am%20Main%2C%20Seat%20of%20the%20European%20Central%20Bank%20(Skytower%20(ECB)).jpg?width=1280",
+      "author": "Dr. Thomas Liptak",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-11-08-national-el-nino-arandanos-nuble": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-08-markets-golfo-egipto-fertilizantes": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "alt": "Corredores trabajando en el piso de operaciones de la Bolsa de Nueva York.",
+      "source": "Library of Congress / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "author": "Thomas J. O'Halloran",
+      "license": "Sin restricciones conocidas / dominio público en EE.UU."
     }
   }
 }

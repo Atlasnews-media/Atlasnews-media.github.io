@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "38f3c04b2f849754a283844711ed1c63547776eb",
-  "buildCommit": "38f3c04b2f849754a283844711ed1c63547776eb",
+  "sourceCommit": "8032719305ab220f3cfb155b59be6337647c34f0",
+  "buildCommit": "8032719305ab220f3cfb155b59be6337647c34f0",
   "latestDaily": {
-    "id": "2026-11-08-daily-hormuz-riyadh-escalada-regional",
-    "editionSlot": "morning",
+    "id": "2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi",
+    "editionSlot": "evening",
     "issueNumber": 98,
-    "title": "Hormuz y Riad devuelven la escalada al centro pese a la mediación",
-    "publishedAt": "2026-11-08T06:46:19-03:00",
-    "cutoffAt": "2026-11-08T05:57:58-03:00"
+    "title": "Europa se incorpora a las conversaciones de Ucrania y Rusia en Abu Dabi",
+    "publishedAt": "2026-11-08T13:14:14-03:00",
+    "cutoffAt": "2026-11-08T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-08-national-chile-despega-adjudicaciones",
-    "editionSlot": "morning",
-    "title": "Chile Despega completa licitaciones, pero la ejecución aún depende de adjudicar 232 contratos",
-    "publishedAt": "2026-11-08T06:46:31-03:00",
-    "cutoffAt": "2026-11-08T06:18:55-03:00"
+    "id": "2026-11-08-national-el-nino-arandanos-nuble",
+    "editionSlot": "evening",
+    "title": "Una industria de US$125 millones enfrenta El Niño en Ñuble mientras el riesgo alcanza cobre y logística",
+    "publishedAt": "2026-11-08T13:14:14-03:00",
+    "cutoffAt": "2026-11-08T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-08-markets-golfo-prima-guerra",
-    "editionSlot": "morning",
-    "title": "Las bolsas del Golfo reponen prima de guerra antes de que reabra el petróleo",
-    "publishedAt": "2026-11-08T06:46:41-03:00",
-    "cutoffAt": "2026-11-08T06:20:20-03:00"
+    "id": "2026-11-08-markets-golfo-egipto-fertilizantes",
+    "editionSlot": "evening",
+    "title": "Qatar limita su caída a 0,5%, pero el recorte de gas hunde hasta 5,9% a fertilizantes egipcias",
+    "publishedAt": "2026-11-08T13:14:14-03:00",
+    "cutoffAt": "2026-11-08T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-08",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "editionSlot": "evening",
-    "generalId": "2026-11-07-daily-eeuu-extiende-cerco-iran",
+    "generalId": "2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi",
     "generalPublished": true,
-    "nationalId": "2026-11-07-national-inclusion-laboral",
+    "nationalId": "2026-11-08-national-el-nino-arandanos-nuble",
     "nationalPublished": true,
-    "marketsId": "2026-11-07-markets-bitcoin-flujos-etf",
+    "marketsId": "2026-11-08-markets-golfo-egipto-fertilizantes",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 122,
+    "daily": 123,
     "weekly": 4,
-    "national": 115,
-    "markets": 114,
+    "national": 116,
+    "markets": 115,
     "readings": 16,
-    "total": 371
+    "total": 374
   },
   "indicators": {
     "status": "current",
