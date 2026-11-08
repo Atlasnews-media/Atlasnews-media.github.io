@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi/",
+  "childContainerIds": [
+    "18100705658386975",
+    "18100705682386975",
+    "18100705778386975",
+    "18100705895386975",
+    "18100705925386975"
+  ],
+  "carouselContainerId": "18100705955386975",
+  "mediaId": "18177559384475451",
+  "permalink": "https://www.instagram.com/p/DffLVYGkT0Z/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-08T16:23:28+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8032719305ab220f3cfb155b59be6337647c34f0/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8032719305ab220f3cfb155b59be6337647c34f0/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8032719305ab220f3cfb155b59be6337647c34f0/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8032719305ab220f3cfb155b59be6337647c34f0/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/8032719305ab220f3cfb155b59be6337647c34f0/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42499382285",
+  "githubRunAttempt": "1",
+  "sourceCommit": "8032719305ab220f3cfb155b59be6337647c34f0"
+}
