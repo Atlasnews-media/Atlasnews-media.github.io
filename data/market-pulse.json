@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-08T09:52:53.292Z",
+  "generatedAt": "2026-11-08T16:20:46.899Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 75859,
+      "value": 75957,
       "unit": "usd",
-      "changePercent": -0.2,
-      "trend": "down",
-      "effectiveAt": "2026-11-08T09:52:53.292Z",
+      "changePercent": 0.33,
+      "trend": "up",
+      "effectiveAt": "2026-11-08T16:20:46.899Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-08T09:52:54.299Z",
+  "historyGeneratedAt": "2026-11-08T16:20:47.790Z",
   "history": [
     {
       "id": "usdclp",
@@ -445,6 +445,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-11-08T09:52:54.441Z",
+  "freshnessCheckedAt": "2026-11-08T16:20:47.883Z",
   "freshnessPolicy": "market-sessions-v3"
 }
