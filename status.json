@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "74d89a161473c884c1148e73454fd4376360c10a",
-  "buildCommit": "74d89a161473c884c1148e73454fd4376360c10a",
+  "sourceCommit": "38f3c04b2f849754a283844711ed1c63547776eb",
+  "buildCommit": "38f3c04b2f849754a283844711ed1c63547776eb",
   "latestDaily": {
-    "id": "2026-11-07-daily-eeuu-extiende-cerco-iran",
-    "editionSlot": "evening",
-    "issueNumber": 97,
-    "title": "EE.UU. extiende el cerco sobre Irán desde el mar hacia sus rutas terrestres",
-    "publishedAt": "2026-11-07T13:04:34-03:00",
-    "cutoffAt": "2026-11-07T12:00:00-03:00"
+    "id": "2026-11-08-daily-hormuz-riyadh-escalada-regional",
+    "editionSlot": "morning",
+    "issueNumber": 98,
+    "title": "Hormuz y Riad devuelven la escalada al centro pese a la mediación",
+    "publishedAt": "2026-11-08T06:46:19-03:00",
+    "cutoffAt": "2026-11-08T05:57:58-03:00"
   },
   "latestNational": {
-    "id": "2026-11-07-national-inclusion-laboral",
-    "editionSlot": "evening",
-    "title": "Sólo 44% de las entidades obligadas cumple la Ley de Inclusión Laboral",
-    "publishedAt": "2026-11-07T13:04:34-03:00",
-    "cutoffAt": "2026-11-07T12:00:00-03:00"
+    "id": "2026-11-08-national-chile-despega-adjudicaciones",
+    "editionSlot": "morning",
+    "title": "Chile Despega completa licitaciones, pero la ejecución aún depende de adjudicar 232 contratos",
+    "publishedAt": "2026-11-08T06:46:31-03:00",
+    "cutoffAt": "2026-11-08T06:18:55-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-07-markets-bitcoin-flujos-etf",
-    "editionSlot": "evening",
-    "title": "Bitcoin se estabiliza en US$76.000, pero los ETF pierden US$411,9 millones",
-    "publishedAt": "2026-11-07T13:04:34-03:00",
-    "cutoffAt": "2026-11-07T12:00:00-03:00"
+    "id": "2026-11-08-markets-golfo-prima-guerra",
+    "editionSlot": "morning",
+    "title": "Las bolsas del Golfo reponen prima de guerra antes de que reabra el petróleo",
+    "publishedAt": "2026-11-08T06:46:41-03:00",
+    "cutoffAt": "2026-11-08T06:20:20-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "editionSlot": "morning",
-    "generalId": "2026-11-07-daily-qatar-eeuu-iran-avance-sin-acuerdo",
+    "generalId": "2026-11-08-daily-hormuz-riyadh-escalada-regional",
     "generalPublished": true,
-    "nationalId": "2026-11-07-national-ipc-transporte-alimentos",
+    "nationalId": "2026-11-08-national-chile-despega-adjudicaciones",
     "nationalPublished": true,
-    "marketsId": "2026-11-07-markets-rebote-tech-estres-credito",
+    "marketsId": "2026-11-08-markets-golfo-prima-guerra",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 121,
+    "daily": 122,
     "weekly": 4,
-    "national": 114,
-    "markets": 113,
+    "national": 115,
+    "markets": 114,
     "readings": 16,
-    "total": 368
+    "total": 371
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-07",
+    "asOf": "2026-11-08",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
