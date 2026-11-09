@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "8032719305ab220f3cfb155b59be6337647c34f0",
-  "buildCommit": "8032719305ab220f3cfb155b59be6337647c34f0",
+  "sourceCommit": "d4d0a8162650832eaca514f181f6ae53e2fbc5c2",
+  "buildCommit": "d4d0a8162650832eaca514f181f6ae53e2fbc5c2",
   "latestDaily": {
-    "id": "2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi",
-    "editionSlot": "evening",
-    "issueNumber": 98,
-    "title": "Europa se incorpora a las conversaciones de Ucrania y Rusia en Abu Dabi",
-    "publishedAt": "2026-11-08T13:14:14-03:00",
-    "cutoffAt": "2026-11-08T12:00:00-03:00"
+    "id": "2026-11-09-daily-china-costos-energia-demanda",
+    "editionSlot": "morning",
+    "issueNumber": 99,
+    "title": "El shock energético dispara los costos fabriles de China, pero la demanda contiene el traspaso",
+    "publishedAt": "2026-11-09T06:55:15-03:00",
+    "cutoffAt": "2026-11-09T06:15:02-03:00"
   },
   "latestNational": {
-    "id": "2026-11-08-national-el-nino-arandanos-nuble",
-    "editionSlot": "evening",
-    "title": "Una industria de US$125 millones enfrenta El Niño en Ñuble mientras el riesgo alcanza cobre y logística",
-    "publishedAt": "2026-11-08T13:14:14-03:00",
-    "cutoffAt": "2026-11-08T12:00:00-03:00"
+    "id": "2026-11-09-national-propyme-liquidez-crecimiento",
+    "editionSlot": "morning",
+    "title": "ProPyme llega a su fecha de ingreso con el foco puesto en liquidez y crecimiento",
+    "publishedAt": "2026-11-09T06:55:15-03:00",
+    "cutoffAt": "2026-11-09T06:22:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-08-markets-golfo-egipto-fertilizantes",
-    "editionSlot": "evening",
-    "title": "Qatar limita su caída a 0,5%, pero el recorte de gas hunde hasta 5,9% a fertilizantes egipcias",
-    "publishedAt": "2026-11-08T13:14:14-03:00",
-    "cutoffAt": "2026-11-08T12:00:00-03:00"
+    "id": "2026-11-09-markets-asia-rebote-dolar-tasas",
+    "editionSlot": "morning",
+    "title": "Asia rebota, pero el dólar y las tasas mantienen frágil el alivio",
+    "publishedAt": "2026-11-09T06:55:15-03:00",
+    "cutoffAt": "2026-11-09T06:28:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "editionSlot": "morning",
-    "generalId": "2026-11-08-daily-hormuz-riyadh-escalada-regional",
+    "generalId": "2026-11-09-daily-china-costos-energia-demanda",
     "generalPublished": true,
-    "nationalId": "2026-11-08-national-chile-despega-adjudicaciones",
+    "nationalId": "2026-11-09-national-propyme-liquidez-crecimiento",
     "nationalPublished": true,
-    "marketsId": "2026-11-08-markets-golfo-prima-guerra",
+    "marketsId": "2026-11-09-markets-asia-rebote-dolar-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 123,
+    "daily": 124,
     "weekly": 4,
-    "national": 116,
-    "markets": 115,
+    "national": 117,
+    "markets": 116,
     "readings": 16,
-    "total": 374
+    "total": 377
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-08",
+    "asOf": "2026-11-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

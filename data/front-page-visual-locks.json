@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T16:24:17.105Z",
+  "updatedAt": "2026-11-09T09:58:18.633Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -1993,6 +1993,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
       "author": "Thomas J. O'Halloran",
       "license": "Sin restricciones conocidas / dominio público en EE.UU."
+    },
+    "international:2026-11-09-daily-china-costos-energia-demanda": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en el edificio Marriner S. Eccles de la Reserva Federal.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-11-09-national-propyme-liquidez-crecimiento": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20exterior%20edificio%20BCCh%20(26986595731).jpg?width=1280",
+      "alt": "Vista exterior del edificio del Banco Central de Chile en Santiago.",
+      "source": "Wikimedia Commons / Banco Central de Chile",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20exterior%20edificio%20BCCh%20(26986595731).jpg?width=1280",
+      "author": "Banco Central de Chile",
+      "license": "CC0 1.0"
+    },
+    "markets:2026-11-09-markets-asia-rebote-dolar-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
