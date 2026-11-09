@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-09-daily-china-costos-energia-demanda.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-09-daily-china-costos-energia-demanda/",
+  "childContainerIds": [
+    "18100844030386975",
+    "18100844075386975",
+    "18100844093386975",
+    "18100844111386975",
+    "18100844165386975"
+  ],
+  "carouselContainerId": "18100844186386975",
+  "mediaId": "18114957719145716",
+  "permalink": "https://www.instagram.com/p/DfhE0Q3G-sh/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-09T10:05:19+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/d4d0a8162650832eaca514f181f6ae53e2fbc5c2/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/d4d0a8162650832eaca514f181f6ae53e2fbc5c2/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/d4d0a8162650832eaca514f181f6ae53e2fbc5c2/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/d4d0a8162650832eaca514f181f6ae53e2fbc5c2/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/d4d0a8162650832eaca514f181f6ae53e2fbc5c2/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42597744105",
+  "githubRunAttempt": "1",
+  "sourceCommit": "d4d0a8162650832eaca514f181f6ae53e2fbc5c2"
+}
