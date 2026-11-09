@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "d4d0a8162650832eaca514f181f6ae53e2fbc5c2",
-  "buildCommit": "d4d0a8162650832eaca514f181f6ae53e2fbc5c2",
+  "sourceCommit": "a1774edd878ed5a793a1aedb79b51b53583e4447",
+  "buildCommit": "a1774edd878ed5a793a1aedb79b51b53583e4447",
   "latestDaily": {
-    "id": "2026-11-09-daily-china-costos-energia-demanda",
-    "editionSlot": "morning",
+    "id": "2026-11-09-daily-google-tpu-ia-segura-escala",
+    "editionSlot": "evening",
     "issueNumber": 99,
-    "title": "El shock energético dispara los costos fabriles de China, pero la demanda contiene el traspaso",
-    "publishedAt": "2026-11-09T06:55:15-03:00",
-    "cutoffAt": "2026-11-09T06:15:02-03:00"
+    "title": "Google lanza dos TPUs para proteger datos y ampliar la escala de los agentes de IA",
+    "publishedAt": "2026-11-09T13:13:51-03:00",
+    "cutoffAt": "2026-11-09T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-09-national-propyme-liquidez-crecimiento",
-    "editionSlot": "morning",
-    "title": "ProPyme llega a su fecha de ingreso con el foco puesto en liquidez y crecimiento",
-    "publishedAt": "2026-11-09T06:55:15-03:00",
-    "cutoffAt": "2026-11-09T06:22:00-03:00"
+    "id": "2026-11-09-national-ahorro-fiscal-combustibles",
+    "editionSlot": "evening",
+    "title": "Hacienda usará ahorro fiscal para hacer más graduales las próximas alzas de combustibles",
+    "publishedAt": "2026-11-09T13:13:51-03:00",
+    "cutoffAt": "2026-11-09T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-09-markets-asia-rebote-dolar-tasas",
-    "editionSlot": "morning",
-    "title": "Asia rebota, pero el dólar y las tasas mantienen frágil el alivio",
-    "publishedAt": "2026-11-09T06:55:15-03:00",
-    "cutoffAt": "2026-11-09T06:28:00-03:00"
+    "id": "2026-11-09-markets-peso-ipsa-petroleo-dolar",
+    "editionSlot": "evening",
+    "title": "El peso y el IPSA avanzan mientras el dólar global y el petróleo revierten parte de la señal matutina",
+    "publishedAt": "2026-11-09T13:13:51-03:00",
+    "cutoffAt": "2026-11-09T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-09",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "editionSlot": "evening",
-    "generalId": "2026-11-08-daily-europa-conversaciones-ucrania-abu-dabi",
+    "generalId": "2026-11-09-daily-google-tpu-ia-segura-escala",
     "generalPublished": true,
-    "nationalId": "2026-11-08-national-el-nino-arandanos-nuble",
+    "nationalId": "2026-11-09-national-ahorro-fiscal-combustibles",
     "nationalPublished": true,
-    "marketsId": "2026-11-08-markets-golfo-egipto-fertilizantes",
+    "marketsId": "2026-11-09-markets-peso-ipsa-petroleo-dolar",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 124,
+    "daily": 125,
     "weekly": 4,
-    "national": 117,
-    "markets": 116,
+    "national": 118,
+    "markets": 117,
     "readings": 16,
-    "total": 377
+    "total": 380
   },
   "indicators": {
-    "status": "partial",
+    "status": "stale",
     "asOf": "2026-11-09",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

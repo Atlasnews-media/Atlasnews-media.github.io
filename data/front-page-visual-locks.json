@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T10:06:26.220Z",
+  "updatedAt": "2026-11-09T16:17:57.091Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2015,6 +2015,30 @@
       "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-09-daily-google-tpu-ia-segura-escala": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-09-national-ahorro-fiscal-combustibles": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "alt": "Edificio del Congreso Nacional de Chile en Valparaíso.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "author": "ShootingStarMax",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-09-markets-peso-ipsa-petroleo-dolar": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Containers%2C%20Port%20of%20Rotterdam%20(9703431992).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
