@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-10-daily-anthropic-ipo-costos-ia.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-10-daily-anthropic-ipo-costos-ia/",
+  "childContainerIds": [
+    "18101132210386975",
+    "18101132288386975",
+    "18101132315386975",
+    "18101132360386975",
+    "18101132381386975"
+  ],
+  "carouselContainerId": "18101132402386975",
+  "mediaId": "17881469433562628",
+  "permalink": "https://www.instagram.com/p/DfkVPPKFLFu/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-10T16:26:14+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "42853777890",
+  "githubRunAttempt": "1",
+  "sourceCommit": "fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a"
+}
