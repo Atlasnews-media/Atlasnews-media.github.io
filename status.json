@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "910a585e2db9675498c1b98ad90374177fb15b57",
-  "buildCommit": "910a585e2db9675498c1b98ad90374177fb15b57",
+  "sourceCommit": "fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a",
+  "buildCommit": "fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a",
   "latestDaily": {
-    "id": "2026-11-10-daily-china-superavit-ia-tension-comercial",
-    "editionSlot": "morning",
+    "id": "2026-11-10-daily-anthropic-ipo-costos-ia",
+    "editionSlot": "evening",
     "issueNumber": 100,
-    "title": "China supera US$1 billón de superávit y convierte el auge de IA en tensión comercial",
-    "publishedAt": "2026-11-10T06:45:32-03:00",
-    "cutoffAt": "2026-11-10T06:07:19-03:00"
+    "title": "Anthropic apunta a US$1,4 billones y expone el costo de financiar la IA",
+    "publishedAt": "2026-11-10T13:14:52-03:00",
+    "cutoffAt": "2026-11-10T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-10-national-credito-comercio-exterior-dolar",
-    "editionSlot": "morning",
-    "title": "El crédito de comercio exterior salta, pero el dólar explica parte del avance",
-    "publishedAt": "2026-11-10T06:45:32-03:00",
-    "cutoffAt": "2026-11-10T06:18:00-03:00"
+    "id": "2026-11-10-national-crecimiento-cero-fricciones",
+    "editionSlot": "evening",
+    "title": "Economistas llevan a cero el crecimiento de 2026 mientras logística y minería añaden fricción",
+    "publishedAt": "2026-11-10T13:14:52-03:00",
+    "cutoffAt": "2026-11-10T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-10-markets-petroleo-fed-alivio",
-    "editionSlot": "morning",
-    "title": "El petróleo cae y sostiene el rebote, pero la Fed limita el alivio",
-    "publishedAt": "2026-11-10T06:45:32-03:00",
-    "cutoffAt": "2026-11-10T06:24:00-03:00"
+    "id": "2026-11-10-markets-inflacion-dolar-ipsa",
+    "editionSlot": "evening",
+    "title": "La inflación de EE.UU. supera lo previsto y devuelve el dólar a $973 mientras el IPSA borra su alza",
+    "publishedAt": "2026-11-10T13:14:52-03:00",
+    "cutoffAt": "2026-11-10T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-10",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "editionSlot": "evening",
-    "generalId": "2026-11-09-daily-google-tpu-ia-segura-escala",
+    "generalId": "2026-11-10-daily-anthropic-ipo-costos-ia",
     "generalPublished": true,
-    "nationalId": "2026-11-09-national-ahorro-fiscal-combustibles",
+    "nationalId": "2026-11-10-national-crecimiento-cero-fricciones",
     "nationalPublished": true,
-    "marketsId": "2026-11-09-markets-peso-ipsa-petroleo-dolar",
+    "marketsId": "2026-11-10-markets-inflacion-dolar-ipsa",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 126,
+    "daily": 127,
     "weekly": 4,
-    "national": 119,
-    "markets": 118,
+    "national": 120,
+    "markets": 119,
     "readings": 16,
-    "total": 383
+    "total": 386
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-11-10",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

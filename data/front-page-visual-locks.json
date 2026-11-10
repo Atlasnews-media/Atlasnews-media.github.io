@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T09:48:24.850Z",
+  "updatedAt": "2026-11-10T16:18:21.818Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2063,6 +2063,30 @@
       "alt": "Reunión de miembros y personal de la Reserva Federal en Washington, D.C.",
       "source": "Wikimedia Commons / Federal Reserve",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A0475%20(13724861975).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "international:2026-11-10-daily-anthropic-ipo-costos-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-11.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-11.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-10-national-crecimiento-cero-fricciones": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SanAntonio11.jpg?width=1280",
+      "alt": "Puerto de San Antonio, logística, comercio exterior o actividad portuaria en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SanAntonio11.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-10-markets-inflacion-dolar-ipsa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
+      "alt": "Sesión de trabajo de la Reserva Federal vinculada a decisiones de política monetaria.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
     }
