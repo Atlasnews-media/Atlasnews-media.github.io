@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua/",
+  "childContainerIds": [
+    "18101328824386975",
+    "18101328845386975",
+    "18101328863386975",
+    "18101328914386975",
+    "18101328941386975"
+  ],
+  "carouselContainerId": "18101328962386975",
+  "mediaId": "18603584926066131",
+  "permalink": "https://www.instagram.com/p/Dfmjsyim5cl/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-11T13:11:05+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/992bbc83865f7fff2f0a2be8687c464db56d1726/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/992bbc83865f7fff2f0a2be8687c464db56d1726/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/992bbc83865f7fff2f0a2be8687c464db56d1726/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/992bbc83865f7fff2f0a2be8687c464db56d1726/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/992bbc83865f7fff2f0a2be8687c464db56d1726/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "43026317293",
+  "githubRunAttempt": "1",
+  "sourceCommit": "992bbc83865f7fff2f0a2be8687c464db56d1726"
+}
