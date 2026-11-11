@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-11-10",
-  "fetchedAt": "2026-11-11T03:01:48.344Z",
-  "lastAttemptAt": "2026-11-11T03:01:48.344Z",
+  "status": "partial",
+  "asOf": "2026-11-11",
+  "fetchedAt": "2026-11-11T13:07:52.785Z",
+  "lastAttemptAt": "2026-11-11T13:07:52.785Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -23,26 +23,26 @@
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 969.8,
+      "value": 977.05,
       "unit": "clp",
-      "effectiveDate": "2026-11-10",
-      "status": "stale",
-      "previousValue": 979.88,
-      "previousEffectiveDate": "2026-11-09",
-      "changePercent": -1.03,
-      "trend": "down"
+      "effectiveDate": "2026-11-11",
+      "status": "current",
+      "previousValue": 969.8,
+      "previousEffectiveDate": "2026-11-10",
+      "changePercent": 0.75,
+      "trend": "up"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1086.61,
+      "value": 1089.61,
       "unit": "clp",
-      "effectiveDate": "2026-11-10",
-      "status": "stale",
-      "previousValue": 1092.4,
-      "previousEffectiveDate": "2026-11-09",
-      "changePercent": -0.53,
-      "trend": "down"
+      "effectiveDate": "2026-11-11",
+      "status": "current",
+      "previousValue": 1086.61,
+      "previousEffectiveDate": "2026-11-10",
+      "changePercent": 0.28,
+      "trend": "up"
     },
     {
       "code": "utm",
@@ -83,8 +83,6 @@
   ],
   "diagnostics": [
     { "code": "uf", "reason": "The operation was aborted due to timeout" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
-    { "code": "euro", "reason": "The operation was aborted due to timeout" },
     { "code": "utm", "reason": "The operation was aborted due to timeout" },
     { "code": "tpm", "reason": "The operation was aborted due to timeout" },
     { "code": "cobre", "reason": "The operation was aborted due to timeout" }
