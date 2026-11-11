@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T16:27:30.045Z",
+  "updatedAt": "2026-11-11T13:04:32.670Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2089,6 +2089,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitrovica%20damaged%20buildings%201999.jpg?width=1280",
+      "alt": "Edificios dañados por un conflicto armado en un entorno urbano.",
+      "source": "Wikimedia Commons / NATO",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitrovica%20damaged%20buildings%201999.jpg?width=1280",
+      "author": "NATO",
+      "license": "Dominio público"
+    },
+    "national:2026-11-11-national-crecimiento-cero-presupuesto-2027": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-11-11-markets-tasas-inflacion-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

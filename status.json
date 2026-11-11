@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a",
-  "buildCommit": "fb8b18cd839fb3f7bce65a119c7ef5a5e19a000a",
+  "sourceCommit": "992bbc83865f7fff2f0a2be8687c464db56d1726",
+  "buildCommit": "992bbc83865f7fff2f0a2be8687c464db56d1726",
   "latestDaily": {
-    "id": "2026-11-10-daily-anthropic-ipo-costos-ia",
-    "editionSlot": "evening",
-    "issueNumber": 100,
-    "title": "Anthropic apunta a US$1,4 billones y expone el costo de financiar la IA",
-    "publishedAt": "2026-11-10T13:14:52-03:00",
-    "cutoffAt": "2026-11-10T12:00:00-03:00"
+    "id": "2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua",
+    "editionSlot": "morning",
+    "issueNumber": 101,
+    "title": "Ucrania e Irán abren ventanas diplomáticas, pero la guerra sigue condicionando la economía",
+    "publishedAt": "2026-11-11T10:01:34.435-03:00",
+    "cutoffAt": "2026-11-11T07:46:52-03:00"
   },
   "latestNational": {
-    "id": "2026-11-10-national-crecimiento-cero-fricciones",
-    "editionSlot": "evening",
-    "title": "Economistas llevan a cero el crecimiento de 2026 mientras logística y minería añaden fricción",
-    "publishedAt": "2026-11-10T13:14:52-03:00",
-    "cutoffAt": "2026-11-10T12:00:00-03:00"
+    "id": "2026-11-11-national-crecimiento-cero-presupuesto-2027",
+    "editionSlot": "morning",
+    "title": "Expectativas de crecimiento de Chile caen a cero mientras se define el Presupuesto 2027",
+    "publishedAt": "2026-11-11T10:01:34.435-03:00",
+    "cutoffAt": "2026-11-11T07:56:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-10-markets-inflacion-dolar-ipsa",
-    "editionSlot": "evening",
-    "title": "La inflación de EE.UU. supera lo previsto y devuelve el dólar a $973 mientras el IPSA borra su alza",
-    "publishedAt": "2026-11-10T13:14:52-03:00",
-    "cutoffAt": "2026-11-10T12:00:00-03:00"
+    "id": "2026-11-11-markets-tasas-inflacion-ia",
+    "editionSlot": "morning",
+    "title": "Mercados separan el shock de tasas en Estados Unidos del rebote tecnológico asiático",
+    "publishedAt": "2026-11-11T10:01:34.435-03:00",
+    "cutoffAt": "2026-11-11T08:00:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "editionSlot": "morning",
-    "generalId": "2026-11-10-daily-china-superavit-ia-tension-comercial",
+    "generalId": "2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua",
     "generalPublished": true,
-    "nationalId": "2026-11-10-national-credito-comercio-exterior-dolar",
+    "nationalId": "2026-11-11-national-crecimiento-cero-presupuesto-2027",
     "nationalPublished": true,
-    "marketsId": "2026-11-10-markets-petroleo-fed-alivio",
+    "marketsId": "2026-11-11-markets-tasas-inflacion-ia",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,12 +58,12 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 127,
+    "daily": 128,
     "weekly": 4,
-    "national": 120,
-    "markets": 119,
+    "national": 121,
+    "markets": 120,
     "readings": 16,
-    "total": 386
+    "total": 389
   },
   "indicators": {
     "status": "stale",
