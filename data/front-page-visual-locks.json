@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T13:12:15.404Z",
+  "updatedAt": "2026-11-12T11:55:47.430Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2113,6 +2113,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20mainland%20Chinese%20companies%20rang%20the%20listing%20bell%20at%20the%20Hong%20Kong%20Stock%20Exchange%202026-1.png?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-11-12-daily-ormuz-inflacion-crecimiento-divergente": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "alt": "Miembros y personal de la Reserva Federal reunidos en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-11-12-national-paro-camioneros-presupuesto": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Acuenta%20Vivaceta%2C%20Independencia%2C%20Santiago%2020250812.jpg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Acuenta%20Vivaceta%2C%20Independencia%2C%20Santiago%2020250812.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-12-markets-ia-dolar-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
+      "alt": "Sesión de trabajo de la Reserva Federal vinculada a decisiones de política monetaria.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
     }
   }
 }

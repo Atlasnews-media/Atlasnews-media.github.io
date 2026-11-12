@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "992bbc83865f7fff2f0a2be8687c464db56d1726",
-  "buildCommit": "992bbc83865f7fff2f0a2be8687c464db56d1726",
+  "sourceCommit": "32a0f9ac22753f7179f1324294172f03899308d3",
+  "buildCommit": "32a0f9ac22753f7179f1324294172f03899308d3",
   "latestDaily": {
-    "id": "2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua",
+    "id": "2026-11-12-daily-ormuz-inflacion-crecimiento-divergente",
     "editionSlot": "morning",
-    "issueNumber": 101,
-    "title": "Ucrania e Irán abren ventanas diplomáticas, pero la guerra sigue condicionando la economía",
-    "publishedAt": "2026-11-11T10:01:34.435-03:00",
-    "cutoffAt": "2026-11-11T07:46:52-03:00"
+    "issueNumber": 102,
+    "title": "Ormuz mantiene el riesgo energético mientras Reino Unido e India divergen",
+    "publishedAt": "2026-11-12T08:51:52-03:00",
+    "cutoffAt": "2026-11-12T08:19:36-03:00"
   },
   "latestNational": {
-    "id": "2026-11-11-national-crecimiento-cero-presupuesto-2027",
+    "id": "2026-11-12-national-paro-camioneros-presupuesto",
     "editionSlot": "morning",
-    "title": "Expectativas de crecimiento de Chile caen a cero mientras se define el Presupuesto 2027",
-    "publishedAt": "2026-11-11T10:01:34.435-03:00",
-    "cutoffAt": "2026-11-11T07:56:00-03:00"
+    "title": "Paro camionero entra en su cuarto día y el Presupuesto 2027 expone decisiones de ejecución",
+    "publishedAt": "2026-11-12T08:51:52-03:00",
+    "cutoffAt": "2026-11-12T08:25:20-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-11-markets-tasas-inflacion-ia",
+    "id": "2026-11-12-markets-ia-dolar-tasas",
     "editionSlot": "morning",
-    "title": "Mercados separan el shock de tasas en Estados Unidos del rebote tecnológico asiático",
-    "publishedAt": "2026-11-11T10:01:34.435-03:00",
-    "cutoffAt": "2026-11-11T08:00:00-03:00"
+    "title": "Mercados castigan a la IA mientras dólar y tasas descuentan más restricción monetaria",
+    "publishedAt": "2026-11-12T08:51:52-03:00",
+    "cutoffAt": "2026-11-12T08:27:15-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "editionSlot": "morning",
-    "generalId": "2026-11-11-daily-diplomacia-ucrania-iran-sin-tregua",
+    "generalId": "2026-11-12-daily-ormuz-inflacion-crecimiento-divergente",
     "generalPublished": true,
-    "nationalId": "2026-11-11-national-crecimiento-cero-presupuesto-2027",
+    "nationalId": "2026-11-12-national-paro-camioneros-presupuesto",
     "nationalPublished": true,
-    "marketsId": "2026-11-11-markets-tasas-inflacion-ia",
+    "marketsId": "2026-11-12-markets-ia-dolar-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 128,
+    "daily": 129,
     "weekly": 4,
-    "national": 121,
-    "markets": 120,
+    "national": 122,
+    "markets": 121,
     "readings": 16,
-    "total": 389
+    "total": 392
   },
   "indicators": {
     "status": "stale",
-    "asOf": "2026-11-10",
+    "asOf": "2026-11-11",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
