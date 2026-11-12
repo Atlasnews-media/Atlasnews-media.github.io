@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-11-11",
-  "fetchedAt": "2026-11-12T18:41:18.385Z",
-  "lastAttemptAt": "2026-11-12T18:41:18.385Z",
+  "status": "partial",
+  "asOf": "2026-11-12",
+  "fetchedAt": "2026-11-12T23:53:02.006Z",
+  "lastAttemptAt": "2026-11-12T23:53:02.006Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -23,13 +23,13 @@
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 977.05,
+      "value": 984.49,
       "unit": "clp",
-      "effectiveDate": "2026-11-11",
-      "status": "stale",
-      "previousValue": 969.8,
-      "previousEffectiveDate": "2026-11-10",
-      "changePercent": 0.75,
+      "effectiveDate": "2026-11-12",
+      "status": "current",
+      "previousValue": 977.05,
+      "previousEffectiveDate": "2026-11-11",
+      "changePercent": 0.76,
       "trend": "up"
     },
     {
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "stale",
+      "status": "current",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -71,22 +71,19 @@
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 6.38,
+      "value": 6.26,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-11-11",
-      "status": "stale",
-      "previousValue": 6.33,
-      "previousEffectiveDate": "2026-11-10",
-      "changePercent": 0.79,
-      "trend": "up"
+      "effectiveDate": "2026-11-12",
+      "status": "current",
+      "previousValue": 6.38,
+      "previousEffectiveDate": "2026-11-11",
+      "changePercent": -1.88,
+      "trend": "down"
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "fetch failed" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "fetch failed" },
-    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
+    { "code": "tpm", "reason": "The operation was aborted due to timeout" }
   ]
 }
