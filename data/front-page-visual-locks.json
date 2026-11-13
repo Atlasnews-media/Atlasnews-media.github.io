@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T12:02:45.979Z",
+  "updatedAt": "2026-11-13T11:14:30.512Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2137,6 +2137,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20D4A2647%20(14242656921).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-11-13-daily-nvidia-liderazgo-cadena-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/20100509355MDR%20Dresden-Klotzsche%20K%C3%B6nigsbr%C3%BCcker%20Stra%C3%9Fe%20180%20Qimonda.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-13-national-diesel-presupuesto-2027": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "alt": "Edificio del Congreso Nacional de Chile en Valparaíso.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=1280",
+      "author": "ShootingStarMax",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-13-markets-dolar-tasas-energia-ia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Oil%20terminal.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oil%20terminal.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

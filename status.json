@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "32a0f9ac22753f7179f1324294172f03899308d3",
-  "buildCommit": "32a0f9ac22753f7179f1324294172f03899308d3",
+  "sourceCommit": "44b9eb16246dbf119c9a69ff1686d22777377b96",
+  "buildCommit": "44b9eb16246dbf119c9a69ff1686d22777377b96",
   "latestDaily": {
-    "id": "2026-11-12-daily-ormuz-inflacion-crecimiento-divergente",
+    "id": "2026-11-13-daily-nvidia-liderazgo-cadena-ia",
     "editionSlot": "morning",
-    "issueNumber": 102,
-    "title": "Ormuz mantiene el riesgo energético mientras Reino Unido e India divergen",
-    "publishedAt": "2026-11-12T08:51:52-03:00",
-    "cutoffAt": "2026-11-12T08:19:36-03:00"
+    "issueNumber": 103,
+    "title": "La salida de Huang de Nvidia pone a prueba la dependencia global de la inteligencia artificial",
+    "publishedAt": "2026-11-13T08:11:09.928-03:00",
+    "cutoffAt": "2026-11-13T07:46:46-03:00"
   },
   "latestNational": {
-    "id": "2026-11-12-national-paro-camioneros-presupuesto",
+    "id": "2026-11-13-national-diesel-presupuesto-2027",
     "editionSlot": "morning",
-    "title": "Paro camionero entra en su cuarto día y el Presupuesto 2027 expone decisiones de ejecución",
-    "publishedAt": "2026-11-12T08:51:52-03:00",
-    "cutoffAt": "2026-11-12T08:25:20-03:00"
+    "title": "Acuerdo por el diésel espera ley mientras cinco partidas del Presupuesto 2027 son rechazadas",
+    "publishedAt": "2026-11-13T08:11:09.928-03:00",
+    "cutoffAt": "2026-11-13T07:55:01-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-12-markets-ia-dolar-tasas",
+    "id": "2026-11-13-markets-dolar-tasas-energia-ia",
     "editionSlot": "morning",
-    "title": "Mercados castigan a la IA mientras dólar y tasas descuentan más restricción monetaria",
-    "publishedAt": "2026-11-12T08:51:52-03:00",
-    "cutoffAt": "2026-11-12T08:27:15-03:00"
+    "title": "Dólar termina sobre $995 en Chile mientras tasas de EE.UU. y petróleo presionan a los activos",
+    "publishedAt": "2026-11-13T08:11:09.928-03:00",
+    "cutoffAt": "2026-11-13T07:57:07-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "editionSlot": "morning",
-    "generalId": "2026-11-12-daily-ormuz-inflacion-crecimiento-divergente",
+    "generalId": "2026-11-13-daily-nvidia-liderazgo-cadena-ia",
     "generalPublished": true,
-    "nationalId": "2026-11-12-national-paro-camioneros-presupuesto",
+    "nationalId": "2026-11-13-national-diesel-presupuesto-2027",
     "nationalPublished": true,
-    "marketsId": "2026-11-12-markets-ia-dolar-tasas",
+    "marketsId": "2026-11-13-markets-dolar-tasas-energia-ia",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 129,
+    "daily": 130,
     "weekly": 4,
-    "national": 122,
-    "markets": 121,
+    "national": 123,
+    "markets": 122,
     "readings": 16,
-    "total": 392
+    "total": 395
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-11",
+    "status": "partial",
+    "asOf": "2026-11-13",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
