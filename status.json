@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "44b9eb16246dbf119c9a69ff1686d22777377b96",
-  "buildCommit": "44b9eb16246dbf119c9a69ff1686d22777377b96",
+  "sourceCommit": "baa6015880cd9daf687993b9b888d1ffa3ac3ad7",
+  "buildCommit": "baa6015880cd9daf687993b9b888d1ffa3ac3ad7",
   "latestDaily": {
-    "id": "2026-11-13-daily-nvidia-liderazgo-cadena-ia",
-    "editionSlot": "morning",
+    "id": "2026-11-13-daily-europa-ia-ucrania-dublin",
+    "editionSlot": "evening",
     "issueNumber": 103,
-    "title": "La salida de Huang de Nvidia pone a prueba la dependencia global de la inteligencia artificial",
-    "publishedAt": "2026-11-13T08:11:09.928-03:00",
-    "cutoffAt": "2026-11-13T07:46:46-03:00"
+    "title": "Europa vincula soberanía en inteligencia artificial y garantías para Ucrania en Dublín",
+    "publishedAt": "2026-11-13T13:15:45-03:00",
+    "cutoffAt": "2026-11-13T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-13-national-diesel-presupuesto-2027",
-    "editionSlot": "morning",
-    "title": "Acuerdo por el diésel espera ley mientras cinco partidas del Presupuesto 2027 son rechazadas",
-    "publishedAt": "2026-11-13T08:11:09.928-03:00",
-    "cutoffAt": "2026-11-13T07:55:01-03:00"
+    "id": "2026-11-13-national-canasta-pobreza-octubre",
+    "editionSlot": "evening",
+    "title": "La canasta básica sube 0,9% y lleva la línea de pobreza arrendataria a $379.838",
+    "publishedAt": "2026-11-13T13:15:45-03:00",
+    "cutoffAt": "2026-11-13T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-13-markets-dolar-tasas-energia-ia",
-    "editionSlot": "morning",
-    "title": "Dólar termina sobre $995 en Chile mientras tasas de EE.UU. y petróleo presionan a los activos",
-    "publishedAt": "2026-11-13T08:11:09.928-03:00",
-    "cutoffAt": "2026-11-13T07:57:07-03:00"
+    "id": "2026-11-13-markets-dolar-fed-cincuenta-puntos",
+    "editionSlot": "evening",
+    "title": "El dólar toca un máximo de 19 meses y reaparece una apuesta por un alza de 50 puntos de la Fed",
+    "publishedAt": "2026-11-13T13:15:45-03:00",
+    "cutoffAt": "2026-11-13T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-13",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-10",
+    "date": "2026-11-13",
     "editionSlot": "evening",
-    "generalId": "2026-11-10-daily-anthropic-ipo-costos-ia",
+    "generalId": "2026-11-13-daily-europa-ia-ucrania-dublin",
     "generalPublished": true,
-    "nationalId": "2026-11-10-national-crecimiento-cero-fricciones",
+    "nationalId": "2026-11-13-national-canasta-pobreza-octubre",
     "nationalPublished": true,
-    "marketsId": "2026-11-10-markets-inflacion-dolar-ipsa",
+    "marketsId": "2026-11-13-markets-dolar-fed-cincuenta-puntos",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 130,
+    "daily": 131,
     "weekly": 4,
-    "national": 123,
-    "markets": 122,
+    "national": 124,
+    "markets": 123,
     "readings": 16,
-    "total": 395
+    "total": 398
   },
   "indicators": {
     "status": "partial",
