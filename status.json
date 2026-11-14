@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "a8f39f8be3be2781558e65dca947ed10fe1d5f46",
-  "buildCommit": "a8f39f8be3be2781558e65dca947ed10fe1d5f46",
+  "sourceCommit": "4c073f6394d21629754d1d258dd120307ddb9edb",
+  "buildCommit": "4c073f6394d21629754d1d258dd120307ddb9edb",
   "latestDaily": {
-    "id": "2026-11-14-daily-potencias-negocian-sin-acuerdos",
-    "editionSlot": "morning",
+    "id": "2026-11-14-daily-cumbre-sin-agenda-yalta",
+    "editionSlot": "evening",
     "issueNumber": 104,
-    "title": "Las grandes potencias vuelven a negociar, pero sin acuerdos capaces de reducir el riesgo",
-    "publishedAt": "2026-11-14T06:47:15-03:00",
-    "cutoffAt": "2026-11-14T06:00:24-03:00"
+    "title": "La cumbre Trump-Xi-Putin sigue sin agenda y reaviva el temor a una nueva Yalta",
+    "publishedAt": "2026-11-14T13:08:17-03:00",
+    "cutoffAt": "2026-11-14T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-14-national-expectativas-inflacion-tasas",
-    "editionSlot": "morning",
-    "title": "Operadores recortan la inflación esperada y descartan un alza local de tasas",
-    "publishedAt": "2026-11-14T06:47:15-03:00",
-    "cutoffAt": "2026-11-14T06:22:00-03:00"
+    "id": "2026-11-14-national-canasta-chile-espana",
+    "editionSlot": "evening",
+    "title": "Una canasta básica comparable cuesta menos en España y pesa casi tres veces más sobre el salario chileno",
+    "publishedAt": "2026-11-14T13:08:17-03:00",
+    "cutoffAt": "2026-11-14T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-14-markets-tasas-quiebre-tecnologia",
-    "editionSlot": "morning",
-    "title": "El salto de las tasas quiebra el rebote tecnológico antes del fin de semana",
-    "publishedAt": "2026-11-14T06:47:15-03:00",
-    "cutoffAt": "2026-11-14T06:23:00-03:00"
+    "id": "2026-11-14-markets-bitcoin-liquidaciones",
+    "editionSlot": "evening",
+    "title": "Bitcoin cae bajo US$67.000 y las liquidaciones de posiciones largas dominan el fin de semana",
+    "publishedAt": "2026-11-14T13:08:17-03:00",
+    "cutoffAt": "2026-11-14T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-14",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "editionSlot": "evening",
-    "generalId": "2026-11-13-daily-europa-ia-ucrania-dublin",
+    "generalId": "2026-11-14-daily-cumbre-sin-agenda-yalta",
     "generalPublished": true,
-    "nationalId": "2026-11-13-national-canasta-pobreza-octubre",
+    "nationalId": "2026-11-14-national-canasta-chile-espana",
     "nationalPublished": true,
-    "marketsId": "2026-11-13-markets-dolar-fed-cincuenta-puntos",
+    "marketsId": "2026-11-14-markets-bitcoin-liquidaciones",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 132,
+    "daily": 133,
     "weekly": 4,
-    "national": 125,
-    "markets": 124,
+    "national": 126,
+    "markets": 125,
     "readings": 16,
-    "total": 401
+    "total": 404
   },
   "indicators": {
     "status": "current",

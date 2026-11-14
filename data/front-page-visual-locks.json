@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T09:57:07.911Z",
+  "updatedAt": "2026-11-14T16:11:35.008Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2207,6 +2207,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-14-daily-cumbre-sin-agenda-yalta": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20NATO%20Headquarters.jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20NATO%20Headquarters.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-14-national-canasta-chile-espana": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-10-31%2014-01-58%20Quilapil%C3%BAn.jpg?width=1280",
+      "alt": "Actividad económica real en Chile: consumo, agricultura, energía, infraestructura y recursos naturales.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2019-10-31%2014-01-58%20Quilapil%C3%BAn.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-14-markets-bitcoin-liquidaciones": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Rare%20earth%20minerals%201.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rare%20earth%20minerals%201.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
