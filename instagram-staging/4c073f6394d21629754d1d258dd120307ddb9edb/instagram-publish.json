@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-14-daily-cumbre-sin-agenda-yalta.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-14-daily-cumbre-sin-agenda-yalta/",
+  "childContainerIds": [
+    "18102089828386975",
+    "18102089858386975",
+    "18102089957386975",
+    "18102090086386975",
+    "18102090134386975"
+  ],
+  "carouselContainerId": "18102090236386975",
+  "mediaId": "18112095824627007",
+  "permalink": "https://www.instagram.com/p/DfunaO6mo4I/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-14T16:17:24+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4c073f6394d21629754d1d258dd120307ddb9edb/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4c073f6394d21629754d1d258dd120307ddb9edb/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4c073f6394d21629754d1d258dd120307ddb9edb/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4c073f6394d21629754d1d258dd120307ddb9edb/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/4c073f6394d21629754d1d258dd120307ddb9edb/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "43614486899",
+  "githubRunAttempt": "1",
+  "sourceCommit": "4c073f6394d21629754d1d258dd120307ddb9edb"
+}
