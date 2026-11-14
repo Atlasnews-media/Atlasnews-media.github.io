@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-14T03:37:21.646Z",
+  "generatedAt": "2026-11-14T09:53:04.868Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -202,9 +202,9 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 96.08,
+      "value": 95.84,
       "unit": "usd-per-barrel",
-      "changePercent": -7.26,
+      "changePercent": -7.49,
       "trend": "down",
       "effectiveAt": "2026-11-13T21:59:30.000Z",
       "provider": "yahoo-public-chart",
@@ -218,9 +218,9 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 3887.6,
+      "value": 3886.3,
       "unit": "usd-per-ounce",
-      "changePercent": -1.34,
+      "changePercent": -1.37,
       "trend": "down",
       "effectiveAt": "2026-11-13T21:59:59.000Z",
       "provider": "yahoo-public-chart",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 66791,
+      "value": 67391,
       "unit": "usd",
-      "changePercent": -3.54,
+      "changePercent": -2.27,
       "trend": "down",
-      "effectiveAt": "2026-11-14T03:37:21.646Z",
+      "effectiveAt": "2026-11-14T09:53:04.868Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-14T03:37:22.616Z",
+  "historyGeneratedAt": "2026-11-14T09:53:05.675Z",
   "history": [
     {
       "id": "usdclp",
@@ -421,7 +421,7 @@
         { "date": "2026-11-10", "value": 91.48999786376953 },
         { "date": "2026-11-11", "value": 92.76000213623047 },
         { "date": "2026-11-12", "value": 95.81999969482422 },
-        { "date": "2026-11-13", "value": 96.08000183105469 }
+        { "date": "2026-11-13", "value": 95.83999633789062 }
       ]
     }
   ],
@@ -451,6 +451,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-11-14T03:37:22.730Z",
+  "freshnessCheckedAt": "2026-11-14T09:53:05.768Z",
   "freshnessPolicy": "market-sessions-v3"
 }
