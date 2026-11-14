@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T16:19:28.647Z",
+  "updatedAt": "2026-11-14T09:49:55.891Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2183,6 +2183,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CB%20PC%20121212%20DE%205197%20(8548486247).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-14-daily-potencias-negocian-sin-acuerdos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20Headquarters%2C%20Geneva.jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20Headquarters%2C%20Geneva.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-14-national-expectativas-inflacion-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hall%20Primer%20Piso%20(26779571090).jpg?width=1280",
+      "alt": "Banco Central de Chile, política monetaria, reservas o contexto financiero local.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hall%20Primer%20Piso%20(26779571090).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-14-markets-tasas-quiebre-tecnologia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }

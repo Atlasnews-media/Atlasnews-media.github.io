@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "baa6015880cd9daf687993b9b888d1ffa3ac3ad7",
-  "buildCommit": "baa6015880cd9daf687993b9b888d1ffa3ac3ad7",
+  "sourceCommit": "a8f39f8be3be2781558e65dca947ed10fe1d5f46",
+  "buildCommit": "a8f39f8be3be2781558e65dca947ed10fe1d5f46",
   "latestDaily": {
-    "id": "2026-11-13-daily-europa-ia-ucrania-dublin",
-    "editionSlot": "evening",
-    "issueNumber": 103,
-    "title": "Europa vincula soberanía en inteligencia artificial y garantías para Ucrania en Dublín",
-    "publishedAt": "2026-11-13T13:15:45-03:00",
-    "cutoffAt": "2026-11-13T12:00:00-03:00"
+    "id": "2026-11-14-daily-potencias-negocian-sin-acuerdos",
+    "editionSlot": "morning",
+    "issueNumber": 104,
+    "title": "Las grandes potencias vuelven a negociar, pero sin acuerdos capaces de reducir el riesgo",
+    "publishedAt": "2026-11-14T06:47:15-03:00",
+    "cutoffAt": "2026-11-14T06:00:24-03:00"
   },
   "latestNational": {
-    "id": "2026-11-13-national-canasta-pobreza-octubre",
-    "editionSlot": "evening",
-    "title": "La canasta básica sube 0,9% y lleva la línea de pobreza arrendataria a $379.838",
-    "publishedAt": "2026-11-13T13:15:45-03:00",
-    "cutoffAt": "2026-11-13T12:00:00-03:00"
+    "id": "2026-11-14-national-expectativas-inflacion-tasas",
+    "editionSlot": "morning",
+    "title": "Operadores recortan la inflación esperada y descartan un alza local de tasas",
+    "publishedAt": "2026-11-14T06:47:15-03:00",
+    "cutoffAt": "2026-11-14T06:22:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-13-markets-dolar-fed-cincuenta-puntos",
-    "editionSlot": "evening",
-    "title": "El dólar toca un máximo de 19 meses y reaparece una apuesta por un alza de 50 puntos de la Fed",
-    "publishedAt": "2026-11-13T13:15:45-03:00",
-    "cutoffAt": "2026-11-13T12:00:00-03:00"
+    "id": "2026-11-14-markets-tasas-quiebre-tecnologia",
+    "editionSlot": "morning",
+    "title": "El salto de las tasas quiebra el rebote tecnológico antes del fin de semana",
+    "publishedAt": "2026-11-14T06:47:15-03:00",
+    "cutoffAt": "2026-11-14T06:23:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "editionSlot": "morning",
-    "generalId": "2026-11-13-daily-nvidia-liderazgo-cadena-ia",
+    "generalId": "2026-11-14-daily-potencias-negocian-sin-acuerdos",
     "generalPublished": true,
-    "nationalId": "2026-11-13-national-diesel-presupuesto-2027",
+    "nationalId": "2026-11-14-national-expectativas-inflacion-tasas",
     "nationalPublished": true,
-    "marketsId": "2026-11-13-markets-dolar-tasas-energia-ia",
+    "marketsId": "2026-11-14-markets-tasas-quiebre-tecnologia",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 131,
+    "daily": 132,
     "weekly": 4,
-    "national": 124,
-    "markets": 123,
+    "national": 125,
+    "markets": 124,
     "readings": 16,
-    "total": 398
+    "total": 401
   },
   "indicators": {
-    "status": "partial",
-    "asOf": "2026-11-13",
+    "status": "current",
+    "asOf": "2026-11-14",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
