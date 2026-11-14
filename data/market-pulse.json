@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-14T09:53:04.868Z",
+  "generatedAt": "2026-11-14T16:14:37.925Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -186,7 +186,7 @@
       "id": "ust10y",
       "label": "Treasury EE.UU. 10Y",
       "group": "rates",
-      "value": 5.1540003,
+      "value": 5.154,
       "unit": "percent",
       "changePercent": 5.31,
       "trend": "up",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 67391,
+      "value": 65178,
       "unit": "usd",
-      "changePercent": -2.27,
+      "changePercent": -4.98,
       "trend": "down",
-      "effectiveAt": "2026-11-14T09:53:04.868Z",
+      "effectiveAt": "2026-11-14T16:14:37.925Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -298,7 +298,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-14T09:53:05.675Z",
+  "historyGeneratedAt": "2026-11-14T16:14:39.754Z",
   "history": [
     {
       "id": "usdclp",
@@ -451,6 +451,6 @@
       "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-11-14T09:53:05.768Z",
+  "freshnessCheckedAt": "2026-11-14T16:14:39.850Z",
   "freshnessPolicy": "market-sessions-v3"
 }
