@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-14-daily-potencias-negocian-sin-acuerdos.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-14-daily-potencias-negocian-sin-acuerdos/",
+  "childContainerIds": [
+    "18102015506386975",
+    "18102015527386975",
+    "18102015551386975",
+    "18102015572386975",
+    "18102015590386975"
+  ],
+  "carouselContainerId": "18102015617386975",
+  "mediaId": "18127433596913216",
+  "permalink": "https://www.instagram.com/p/Dft7yVVFoJE/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-14T09:56:13+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a8f39f8be3be2781558e65dca947ed10fe1d5f46/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a8f39f8be3be2781558e65dca947ed10fe1d5f46/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a8f39f8be3be2781558e65dca947ed10fe1d5f46/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a8f39f8be3be2781558e65dca947ed10fe1d5f46/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/a8f39f8be3be2781558e65dca947ed10fe1d5f46/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "43582616719",
+  "githubRunAttempt": "1",
+  "sourceCommit": "a8f39f8be3be2781558e65dca947ed10fe1d5f46"
+}
