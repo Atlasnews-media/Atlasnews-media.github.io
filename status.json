@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4c073f6394d21629754d1d258dd120307ddb9edb",
-  "buildCommit": "4c073f6394d21629754d1d258dd120307ddb9edb",
+  "sourceCommit": "cc8b067d07693f2bd0c2b0102b9650d5c0238a32",
+  "buildCommit": "cc8b067d07693f2bd0c2b0102b9650d5c0238a32",
   "latestDaily": {
-    "id": "2026-11-14-daily-cumbre-sin-agenda-yalta",
-    "editionSlot": "evening",
-    "issueNumber": 104,
-    "title": "La cumbre Trump-Xi-Putin sigue sin agenda y reaviva el temor a una nueva Yalta",
-    "publishedAt": "2026-11-14T13:08:17-03:00",
-    "cutoffAt": "2026-11-14T12:00:00-03:00"
+    "id": "2026-11-15-daily-riesgo-energia-golfo-bab-el-mandeb",
+    "editionSlot": "morning",
+    "issueNumber": 105,
+    "title": "El riesgo energético se expande desde Ormuz hacia bases del Golfo y Bab el-Mandeb",
+    "publishedAt": "2026-11-15T06:44:55-03:00",
+    "cutoffAt": "2026-11-15T05:59:21-03:00"
   },
   "latestNational": {
-    "id": "2026-11-14-national-canasta-chile-espana",
-    "editionSlot": "evening",
-    "title": "Una canasta básica comparable cuesta menos en España y pesa casi tres veces más sobre el salario chileno",
-    "publishedAt": "2026-11-14T13:08:17-03:00",
-    "cutoffAt": "2026-11-14T12:00:00-03:00"
+    "id": "2026-11-15-national-topes-interes-credito",
+    "editionSlot": "morning",
+    "title": "Los nuevos topes de interés separan el costo del crédito por plazo y moneda",
+    "publishedAt": "2026-11-15T06:44:55-03:00",
+    "cutoffAt": "2026-11-15T06:21:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-14-markets-bitcoin-liquidaciones",
-    "editionSlot": "evening",
-    "title": "Bitcoin cae bajo US$67.000 y las liquidaciones de posiciones largas dominan el fin de semana",
-    "publishedAt": "2026-11-14T13:08:17-03:00",
-    "cutoffAt": "2026-11-14T12:00:00-03:00"
+    "id": "2026-11-15-markets-cripto-estres-fin-semana",
+    "editionSlot": "morning",
+    "title": "Cripto absorbe el estrés del fin de semana mientras los mercados tradicionales siguen cerrados",
+    "publishedAt": "2026-11-15T06:44:55-03:00",
+    "cutoffAt": "2026-11-15T06:24:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "editionSlot": "morning",
-    "generalId": "2026-11-14-daily-potencias-negocian-sin-acuerdos",
+    "generalId": "2026-11-15-daily-riesgo-energia-golfo-bab-el-mandeb",
     "generalPublished": true,
-    "nationalId": "2026-11-14-national-expectativas-inflacion-tasas",
+    "nationalId": "2026-11-15-national-topes-interes-credito",
     "nationalPublished": true,
-    "marketsId": "2026-11-14-markets-tasas-quiebre-tecnologia",
+    "marketsId": "2026-11-15-markets-cripto-estres-fin-semana",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 133,
+    "daily": 134,
     "weekly": 4,
-    "national": 126,
-    "markets": 125,
+    "national": 127,
+    "markets": 126,
     "readings": 16,
-    "total": 404
+    "total": 407
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-14",
+    "asOf": "2026-11-15",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
