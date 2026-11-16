@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — lunes 16 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-11-16-resumen-diario.mp3",
-  "durationSeconds": 349.4,
-  "durationLabel": "6 min",
-  "bytes": 4193037,
-  "generatedAt": "2026-11-16T11:48:34.282518+00:00",
+  "durationSeconds": 319.7,
+  "durationLabel": "5 min",
+  "bytes": 3836205,
+  "generatedAt": "2026-11-16T16:16:57.886597+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-16-daily-china-demanda-interna-tecnologia",
-    "general": "2026-11-16-daily-china-demanda-interna-tecnologia",
-    "national": "2026-11-16-national-combustibles-costo-fiscal-congreso",
-    "markets": "2026-11-16-markets-tasas-tecnologia-apertura-global"
+    "international": "2026-11-16-daily-fed-ia-riesgo-financiero",
+    "general": "2026-11-16-daily-fed-ia-riesgo-financiero",
+    "national": "2026-11-16-national-cmf-ey-auditoria",
+    "markets": "2026-11-16-markets-dolar-cobre-tasas"
   },
-  "sourceCommit": "e679e0108ae345a24c33f65b748422ecd4bea4db"
+  "sourceCommit": "7996f2aea57a5bd98d9566e6dff5a6e55e4c3232"
 }
