@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "cc8b067d07693f2bd0c2b0102b9650d5c0238a32",
-  "buildCommit": "cc8b067d07693f2bd0c2b0102b9650d5c0238a32",
+  "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
+  "buildCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
   "latestDaily": {
-    "id": "2026-11-15-daily-riesgo-energia-golfo-bab-el-mandeb",
+    "id": "2026-11-16-daily-china-demanda-interna-tecnologia",
     "editionSlot": "morning",
-    "issueNumber": 105,
-    "title": "El riesgo energético se expande desde Ormuz hacia bases del Golfo y Bab el-Mandeb",
-    "publishedAt": "2026-11-15T06:44:55-03:00",
-    "cutoffAt": "2026-11-15T05:59:21-03:00"
+    "issueNumber": 106,
+    "title": "China expone una economía partida entre exportaciones tecnológicas y demanda interna débil",
+    "publishedAt": "2026-11-16T07:44:26-03:00",
+    "cutoffAt": "2026-11-16T06:44:50-03:00"
   },
   "latestNational": {
     "id": "2026-11-15-national-topes-interes-credito",
@@ -25,15 +25,15 @@
     "cutoffAt": "2026-11-15T06:24:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "editionSlot": "morning",
-    "generalId": "2026-11-15-daily-riesgo-energia-golfo-bab-el-mandeb",
+    "generalId": "2026-11-16-daily-china-demanda-interna-tecnologia",
     "generalPublished": true,
-    "nationalId": "2026-11-15-national-topes-interes-credito",
-    "nationalPublished": true,
-    "marketsId": "2026-11-15-markets-cripto-estres-fin-semana",
-    "marketsPublished": true,
-    "completeness": 3
+    "nationalId": null,
+    "nationalPublished": false,
+    "marketsId": null,
+    "marketsPublished": false,
+    "completeness": 1
   },
   "middayPackage": {
     "date": "2026-10-12",
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 134,
+    "daily": 135,
     "weekly": 4,
     "national": 127,
     "markets": 126,
     "readings": 16,
-    "total": 407
+    "total": 408
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-15",
+    "asOf": "2026-11-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
