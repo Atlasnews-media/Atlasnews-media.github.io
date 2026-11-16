@@ -1,0 +1,33 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "verificationError": null,
+  "apiVersion": "v23.0",
+  "igUserId": "27796134496754072",
+  "username": "_atlas_news",
+  "expectedUsername": "_atlas_news",
+  "sourceId": "src/content/editions/2026-11-16-daily-china-demanda-interna-tecnologia.md",
+  "contractPath": "tools/carousel/.generated/carousel-contract.json",
+  "canonicalUrl": "https://atlasnews-media.github.io/ediciones/2026-11-16-daily-china-demanda-interna-tecnologia/",
+  "childContainerIds": [
+    "18102513893386975",
+    "18102514052386975",
+    "18102514193386975",
+    "18102514247386975",
+    "18102514367386975"
+  ],
+  "carouselContainerId": "18102514739386975",
+  "mediaId": "17902367304678052",
+  "permalink": "https://www.instagram.com/p/DfzL_lcEefD/",
+  "mediaType": "CAROUSEL_ALBUM",
+  "publishedAt": "2026-11-16T10:54:02+0000",
+  "imageUrls": [
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/30495adeef0912e2aa97e9c85896729b578bffbf/atlas-news-instagram-carousel-01.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/30495adeef0912e2aa97e9c85896729b578bffbf/atlas-news-instagram-carousel-02.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/30495adeef0912e2aa97e9c85896729b578bffbf/atlas-news-instagram-carousel-03.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/30495adeef0912e2aa97e9c85896729b578bffbf/atlas-news-instagram-carousel-04.png",
+    "https://raw.githubusercontent.com/Atlasnews-media/Atlasnews-media.github.io/social-assets/instagram-staging/30495adeef0912e2aa97e9c85896729b578bffbf/atlas-news-instagram-carousel-05.png"
+  ],
+  "githubRunId": "43852453363",
+  "githubRunAttempt": "1",
+  "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf"
+}
