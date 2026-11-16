@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T14:04:35.327446+00:00",
-  "sourceCommit": "b9b06a0f3b20c5a694383be3f45407d558b84e34",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T10:51:14.265973+00:00",
+  "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -10,13 +10,13 @@
   "questionProsodyVersion": 2,
   "international": {
     "status": "published",
-    "sourceId": "2026-11-15-daily-riesgo-energia-golfo-bab-el-mandeb",
-    "path": "/audio/2026-11-15-international-analysis.mp3",
-    "durationSeconds": 140.8,
-    "durationLabel": "2 min",
-    "bytes": 1690317,
+    "sourceId": "2026-11-16-daily-china-demanda-interna-tecnologia",
+    "path": "/audio/2026-11-16-international-analysis.mp3",
+    "durationSeconds": 155.1,
+    "durationLabel": "3 min",
+    "bytes": 1861965,
     "scriptVersion": 3,
-    "scriptHash": "b8a13533662304043968b432e23f4ff2da2027e1e935122b39b31fda2be37051",
+    "scriptHash": "02b4e377fa3de0f0b611b80cf2e23be16209738c6eee81c49640b6d0a3a4d39c",
     "speechNormalizerVersion": 5,
     "lexiconVersion": 3,
     "lexiconRevision": 6,
@@ -37,49 +37,13 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "published",
-    "sourceId": "2026-11-15-national-topes-interes-credito",
-    "path": "/audio/2026-11-15-national-analysis.mp3",
-    "durationSeconds": 242.7,
-    "durationLabel": "4 min",
-    "bytes": 2913165,
-    "scriptVersion": 3,
-    "scriptHash": "4a1a4df987670701f21726ae09a38ea73661d3e26bb37a1133197149e178dda0",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   },
   "markets": {
-    "status": "published",
-    "sourceId": "2026-11-15-markets-cripto-estres-fin-semana",
-    "path": "/audio/2026-11-15-markets-analysis.mp3",
-    "durationSeconds": 270.0,
-    "durationLabel": "4 min",
-    "bytes": 3240621,
-    "scriptVersion": 3,
-    "scriptHash": "18e52aad8a6f2277548362f2f994961be80f6a90f2de3b494deee913699c846e",
-    "speechNormalizerVersion": 5,
-    "lexiconVersion": 3,
-    "lexiconRevision": 6,
-    "language": "es",
-    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
-    "voiceProfileVersion": "alex-c-v1",
-    "voices": {
-      "voice1": "ef_dora",
-      "voice2": "alex-c-v1"
-    },
-    "questionProsodyVersion": 0,
-    "dialogueRhythmVersion": 2,
-    "fallbackUsed": false
+    "status": "unavailable",
+    "sourceId": null,
+    "reason": "source_missing"
   }
 }
