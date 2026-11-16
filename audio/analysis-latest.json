@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T10:51:14.265973+00:00",
-  "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
+  "generatedAt": "2026-11-16T11:48:34.282518+00:00",
+  "sourceCommit": "e679e0108ae345a24c33f65b748422ecd4bea4db",
   "speechNormalizerVersion": 5,
   "lexiconVersion": 3,
   "lexiconRevision": 6,
@@ -37,13 +37,49 @@
     "fallbackUsed": false
   },
   "national": {
-    "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "status": "published",
+    "sourceId": "2026-11-16-national-combustibles-costo-fiscal-congreso",
+    "path": "/audio/2026-11-16-national-analysis.mp3",
+    "durationSeconds": 211.2,
+    "durationLabel": "4 min",
+    "bytes": 2535309,
+    "scriptVersion": 3,
+    "scriptHash": "a297755bfd8c2736fc31a0cd43b19734bad53dc0988ea74e10349d878dcf9a42",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   },
   "markets": {
-    "status": "unavailable",
-    "sourceId": null,
-    "reason": "source_missing"
+    "status": "published",
+    "sourceId": "2026-11-16-markets-tasas-tecnologia-apertura-global",
+    "path": "/audio/2026-11-16-markets-analysis.mp3",
+    "durationSeconds": 227.2,
+    "durationLabel": "4 min",
+    "bytes": 2726253,
+    "scriptVersion": 3,
+    "scriptHash": "b5769567892050b78cff968bb5387b7606c391205a1f453071edd04d12366b34",
+    "speechNormalizerVersion": 5,
+    "lexiconVersion": 3,
+    "lexiconRevision": 6,
+    "language": "es",
+    "engine": "Kokoro-82M + ResembleAI/Chatterbox-Multilingual-es-mx-latam",
+    "voiceProfileVersion": "alex-c-v1",
+    "voices": {
+      "voice1": "ef_dora",
+      "voice2": "alex-c-v1"
+    },
+    "questionProsodyVersion": 0,
+    "dialogueRhythmVersion": 2,
+    "fallbackUsed": false
   }
 }
