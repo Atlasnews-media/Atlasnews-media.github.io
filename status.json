@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
-  "buildCommit": "c4e8af6b32587936f545062d2f981191df454b64",
+  "buildCommit": "e679e0108ae345a24c33f65b748422ecd4bea4db",
   "latestDaily": {
     "id": "2026-11-16-daily-china-demanda-interna-tecnologia",
     "editionSlot": "morning",
@@ -11,29 +11,29 @@
     "cutoffAt": "2026-11-16T06:44:50-03:00"
   },
   "latestNational": {
-    "id": "2026-11-15-national-topes-interes-credito",
+    "id": "2026-11-16-national-combustibles-costo-fiscal-congreso",
     "editionSlot": "morning",
-    "title": "Los nuevos topes de interés separan el costo del crédito por plazo y moneda",
-    "publishedAt": "2026-11-15T06:44:55-03:00",
-    "cutoffAt": "2026-11-15T06:21:00-03:00"
+    "title": "Combustibles llegan al Congreso con costo fiscal por precisar",
+    "publishedAt": "2026-11-16T08:42:46-03:00",
+    "cutoffAt": "2026-11-16T08:30:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-15-markets-cripto-estres-fin-semana",
+    "id": "2026-11-16-markets-tasas-tecnologia-apertura-global",
     "editionSlot": "morning",
-    "title": "Cripto absorbe el estrés del fin de semana mientras los mercados tradicionales siguen cerrados",
-    "publishedAt": "2026-11-15T06:44:55-03:00",
-    "cutoffAt": "2026-11-15T06:24:00-03:00"
+    "title": "Tasas sobre 5% y tecnológicas presionan el inicio de semana",
+    "publishedAt": "2026-11-16T08:42:46-03:00",
+    "cutoffAt": "2026-11-16T08:30:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-16",
     "editionSlot": "morning",
     "generalId": "2026-11-16-daily-china-demanda-interna-tecnologia",
     "generalPublished": true,
-    "nationalId": null,
-    "nationalPublished": false,
-    "marketsId": null,
-    "marketsPublished": false,
-    "completeness": 1
+    "nationalId": "2026-11-16-national-combustibles-costo-fiscal-congreso",
+    "nationalPublished": true,
+    "marketsId": "2026-11-16-markets-tasas-tecnologia-apertura-global",
+    "marketsPublished": true,
+    "completeness": 3
   },
   "middayPackage": {
     "date": "2026-10-12",
@@ -60,10 +60,10 @@
   "publications": {
     "daily": 135,
     "weekly": 4,
-    "national": 127,
-    "markets": 126,
+    "national": 128,
+    "markets": 127,
     "readings": 16,
-    "total": 408
+    "total": 410
   },
   "indicators": {
     "status": "stale",
