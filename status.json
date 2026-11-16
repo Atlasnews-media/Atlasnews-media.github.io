@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
-  "buildCommit": "30495adeef0912e2aa97e9c85896729b578bffbf",
+  "buildCommit": "c4e8af6b32587936f545062d2f981191df454b64",
   "latestDaily": {
     "id": "2026-11-16-daily-china-demanda-interna-tecnologia",
     "editionSlot": "morning",
@@ -66,7 +66,7 @@
     "total": 408
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-11-16",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
