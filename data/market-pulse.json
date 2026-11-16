@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-16T11:37:03.077Z",
+  "generatedAt": "2026-11-16T11:48:50.824Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -153,11 +153,11 @@
       "id": "stoxx50",
       "label": "Euro Stoxx 50",
       "group": "indices",
-      "value": 6378.12,
+      "value": 6375.83,
       "unit": "points",
-      "changePercent": 3.8,
+      "changePercent": 3.76,
       "trend": "up",
-      "effectiveAt": "2026-11-16T11:22:00.000Z",
+      "effectiveAt": "2026-11-16T11:33:45.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ESTOXX50E",
       "status": "current",
@@ -202,11 +202,11 @@
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 95.19,
+      "value": 95.17,
       "unit": "usd-per-barrel",
-      "changePercent": -3.15,
+      "changePercent": -3.17,
       "trend": "down",
-      "effectiveAt": "2026-11-16T11:26:54.000Z",
+      "effectiveAt": "2026-11-16T11:37:51.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -218,11 +218,11 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 3877.7,
+      "value": 3878,
       "unit": "usd-per-ounce",
       "changePercent": -5.73,
       "trend": "down",
-      "effectiveAt": "2026-11-16T11:27:00.000Z",
+      "effectiveAt": "2026-11-16T11:38:40.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
@@ -266,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 64628,
+      "value": 64488,
       "unit": "usd",
-      "changePercent": -1.28,
+      "changePercent": -1.5,
       "trend": "down",
-      "effectiveAt": "2026-11-16T11:37:03.077Z",
+      "effectiveAt": "2026-11-16T11:48:50.824Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -303,7 +303,7 @@
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-16T11:37:13.275Z",
+  "historyGeneratedAt": "2026-11-16T11:48:51.490Z",
   "history": [
     {
       "id": "usdclp",
@@ -421,7 +421,7 @@
         { "date": "2026-11-11", "value": 92.76000213623047 },
         { "date": "2026-11-12", "value": 95.81999969482422 },
         { "date": "2026-11-13", "value": 95.83999633789062 },
-        { "date": "2026-11-16", "value": 95.19000244140625 }
+        { "date": "2026-11-16", "value": 95.16999816894531 }
       ]
     }
   ],
@@ -433,8 +433,8 @@
       "observations": 21,
       "recovered": true,
       "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-16T10:51:01.648Z",
-      "warning": "The operation was aborted due to timeout"
+      "recoveredFrom": "2026-11-16T11:37:13.275Z",
+      "warning": "fetch failed"
     },
     {
       "id": "copper",
@@ -443,8 +443,8 @@
       "observations": 21,
       "recovered": true,
       "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-16T10:51:01.648Z",
-      "warning": "The operation was aborted due to timeout"
+      "recoveredFrom": "2026-11-16T11:37:13.275Z",
+      "warning": "fetch failed"
     },
     {
       "id": "sp500",
@@ -459,6 +459,6 @@
       "observations": 21
     }
   ],
-  "freshnessCheckedAt": "2026-11-16T11:37:13.385Z",
+  "freshnessCheckedAt": "2026-11-16T11:48:51.606Z",
   "freshnessPolicy": "market-sessions-v3"
 }
