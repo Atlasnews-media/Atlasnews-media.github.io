@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "partial",
   "usage": "lab-evaluation",
-  "generatedAt": "2026-11-16T20:47:39.624Z",
+  "generatedAt": "2026-11-17T03:13:05.146Z",
   "timeZone": "America/Santiago",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "effectiveAt": "2026-11-16T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -32,7 +32,7 @@
       "effectiveAt": "2026-11-16T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -48,7 +48,7 @@
       "effectiveAt": "2026-11-16T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -64,7 +64,7 @@
       "effectiveAt": "2026-11-16T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -80,7 +80,7 @@
       "effectiveAt": "2026-11-01T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -96,7 +96,7 @@
       "effectiveAt": "2026-11-16T12:00:00-03:00",
       "provider": "mindicador",
       "sourceUrl": "https://mindicador.cl/",
-      "status": "stale",
+      "status": "current",
       "quoteBasis": "daily-reference",
       "displayEligible": true,
       "freshnessState": "official"
@@ -105,49 +105,49 @@
       "id": "sp500",
       "label": "S&P 500",
       "group": "indices",
-      "value": 7405.35,
+      "value": 7416.59,
       "unit": "points",
-      "changePercent": -1.8,
+      "changePercent": -1.65,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:47:36.000Z",
+      "effectiveAt": "2026-11-16T22:22:10.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "closed"
     },
     {
       "id": "nasdaq",
       "label": "Nasdaq Composite",
       "group": "indices",
-      "value": 24483.799,
+      "value": 24509.758,
       "unit": "points",
-      "changePercent": -2.7,
+      "changePercent": -2.6,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:47:34.000Z",
+      "effectiveAt": "2026-11-16T22:15:59.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EIXIC",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "closed"
     },
     {
       "id": "dow",
       "label": "Dow Jones",
       "group": "indices",
-      "value": 51526.59,
+      "value": 51608.17,
       "unit": "points",
-      "changePercent": -0.88,
+      "changePercent": -0.72,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:47:37.000Z",
+      "effectiveAt": "2026-11-16T22:28:10.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EDJI",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "closed"
     },
     {
       "id": "stoxx50",
@@ -169,18 +169,18 @@
       "id": "ipsa",
       "label": "IPSA",
       "group": "chile",
-      "value": 10660.26,
+      "value": 10525.26,
       "unit": "points",
-      "changePercent": 0.33,
-      "trend": "up",
-      "effectiveAt": "2026-11-13T00:00:00Z",
+      "changePercent": -1.27,
+      "trend": "down",
+      "effectiveAt": "2026-11-16T00:00:00Z",
       "provider": "findic-public-close",
       "sourceUrl": "https://findic.cl/api/ipsa",
       "status": "delayed",
       "quoteBasis": "daily-close",
       "displayEligible": true,
       "freshnessState": "delayed",
-      "freshnessNote": "Último cierre verificado: 2026-11-13; no corresponde a la sesión actual"
+      "freshnessNote": "Último cierre verificado: 2026-11-16; no corresponde a la sesión actual"
     },
     {
       "id": "ust10y",
@@ -193,21 +193,20 @@
       "effectiveAt": "2026-11-16T19:59:53.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ETNX",
-      "status": "delayed",
+      "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "delayed",
-      "freshnessNote": "último dato disponible; no es una cotización en tiempo real"
+      "freshnessState": "closed"
     },
     {
       "id": "brent",
       "label": "Brent",
       "group": "commodities",
-      "value": 92.35,
+      "value": 91.73,
       "unit": "usd-per-barrel",
-      "changePercent": -6.04,
+      "changePercent": -6.67,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:36:08.000Z",
+      "effectiveAt": "2026-11-17T03:02:12.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/BZ%3DF",
       "status": "current",
@@ -219,17 +218,17 @@
       "id": "gold",
       "label": "Oro",
       "group": "commodities",
-      "value": 3856.7,
+      "value": 3871.8,
       "unit": "usd-per-ounce",
-      "changePercent": -6.24,
+      "changePercent": -5.88,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:37:31.000Z",
+      "effectiveAt": "2026-11-17T03:03:01.000Z",
       "provider": "yahoo-public-chart",
       "sourceUrl": "https://finance.yahoo.com/quote/GC%3DF",
       "status": "current",
       "quoteBasis": "exchange-quote",
       "displayEligible": true,
-      "freshnessState": "current"
+      "freshnessState": "closed"
     },
     {
       "id": "eurusd",
@@ -267,11 +266,11 @@
       "id": "bitcoin",
       "label": "Bitcoin",
       "group": "crypto",
-      "value": 64947,
+      "value": 64603,
       "unit": "usd",
-      "changePercent": -0.03,
+      "changePercent": -0.64,
       "trend": "down",
-      "effectiveAt": "2026-11-16T20:47:39.624Z",
+      "effectiveAt": "2026-11-17T03:13:05.146Z",
       "provider": "coingecko-public",
       "sourceUrl": "https://www.coingecko.com/en/coins/bitcoin",
       "status": "current",
@@ -281,11 +280,6 @@
     }
   ],
   "diagnostics": [
-    {
-      "id": "economic-indicators",
-      "ok": false,
-      "error": "Indicadores económicos recuperados de respaldo: comprobar vigencia individual."
-    },
     { "id": "sp500", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "nasdaq", "ok": true, "provider": "yahoo-public-chart" },
     { "id": "dow", "ok": true, "provider": "yahoo-public-chart" },
@@ -300,17 +294,11 @@
       "id": "ipsa-freshness",
       "ok": true,
       "delayed": true,
-      "warning": "Último cierre verificado: 2026-11-13; no corresponde a la sesión actual"
-    },
-    {
-      "id": "ust10y-freshness",
-      "ok": true,
-      "delayed": true,
-      "warning": "último dato disponible; no es una cotización en tiempo real"
+      "warning": "Último cierre verificado: 2026-11-16; no corresponde a la sesión actual"
     }
   ],
   "historyWindowDays": 30,
-  "historyGeneratedAt": "2026-11-16T20:47:40.811Z",
+  "historyGeneratedAt": "2026-11-17T03:13:05.936Z",
   "history": [
     {
       "id": "usdclp",
@@ -399,7 +387,7 @@
         { "date": "2026-11-11", "value": 7619.3798828125 },
         { "date": "2026-11-12", "value": 7592.39990234375 },
         { "date": "2026-11-13", "value": 7561.669921875 },
-        { "date": "2026-11-16", "value": 7405.1298828125 }
+        { "date": "2026-11-16", "value": 7416.58984375 }
       ]
     },
     {
@@ -429,7 +417,8 @@
         { "date": "2026-11-11", "value": 92.76000213623047 },
         { "date": "2026-11-12", "value": 95.81999969482422 },
         { "date": "2026-11-13", "value": 95.83999633789062 },
-        { "date": "2026-11-16", "value": 92.3499984741211 }
+        { "date": "2026-11-16", "value": 92.44000244140625 },
+        { "date": "2026-11-17", "value": 91.7699966430664 }
       ]
     }
   ],
@@ -438,21 +427,13 @@
       "id": "usdclp",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21,
-      "recovered": true,
-      "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-16T16:17:11.113Z",
-      "warning": "fetch failed"
+      "observations": 21
     },
     {
       "id": "copper",
       "ok": true,
       "provider": "mindicador",
-      "observations": 21,
-      "recovered": true,
-      "recoverySource": "published-market-snapshot",
-      "recoveredFrom": "2026-11-16T16:17:11.113Z",
-      "warning": "fetch failed"
+      "observations": 21
     },
     {
       "id": "sp500",
@@ -464,9 +445,9 @@
       "id": "brent",
       "ok": true,
       "provider": "yahoo-public-chart",
-      "observations": 21
+      "observations": 22
     }
   ],
-  "freshnessCheckedAt": "2026-11-16T20:47:40.929Z",
+  "freshnessCheckedAt": "2026-11-17T03:13:06.051Z",
   "freshnessPolicy": "market-sessions-v3"
 }
