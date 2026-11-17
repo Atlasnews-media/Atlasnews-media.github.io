@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7996f2aea57a5bd98d9566e6dff5a6e55e4c3232",
-  "buildCommit": "7996f2aea57a5bd98d9566e6dff5a6e55e4c3232",
+  "sourceCommit": "4b415d3147edccfae7bec7eff7e8f91354618ac4",
+  "buildCommit": "4b415d3147edccfae7bec7eff7e8f91354618ac4",
   "latestDaily": {
-    "id": "2026-11-16-daily-fed-ia-riesgo-financiero",
-    "editionSlot": "evening",
-    "issueNumber": 106,
-    "title": "La Fed alerta que la deuda y contratos de IA ya pueden amplificar una corrección",
-    "publishedAt": "2026-11-16T13:08:47-03:00",
-    "cutoffAt": "2026-11-16T12:00:00-03:00"
+    "id": "2026-11-17-daily-chips-ia-computo-remoto",
+    "editionSlot": "morning",
+    "issueNumber": 107,
+    "title": "Estados Unidos extiende el cerco a chips de IA desde los envíos físicos al cómputo remoto",
+    "publishedAt": "2026-11-17T06:51:10-03:00",
+    "cutoffAt": "2026-11-17T06:00:26-03:00"
   },
   "latestNational": {
-    "id": "2026-11-16-national-cmf-ey-auditoria",
-    "editionSlot": "evening",
-    "title": "CMF multa a EY por auditoría insuficiente de Hipotecaria La Construcción",
-    "publishedAt": "2026-11-16T13:08:47-03:00",
-    "cutoffAt": "2026-11-16T12:00:00-03:00"
+    "id": "2026-11-17-national-colchon-capital-bancario",
+    "editionSlot": "morning",
+    "title": "Banco Central mantiene el colchón bancario en 1% ante riesgos externos",
+    "publishedAt": "2026-11-17T06:51:10-03:00",
+    "cutoffAt": "2026-11-17T06:22:03-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-16-markets-dolar-cobre-tasas",
-    "editionSlot": "evening",
-    "title": "Dólar supera $1.000 mientras cobre y tasas endurecen la mañana chilena",
-    "publishedAt": "2026-11-16T13:08:47-03:00",
-    "cutoffAt": "2026-11-16T12:00:00-03:00"
+    "id": "2026-11-17-markets-tecnologia-riesgo-disperso",
+    "editionSlot": "morning",
+    "title": "El castigo a tecnología se extiende a Asia, pero bonos y crudo cuentan historias distintas",
+    "publishedAt": "2026-11-17T06:51:10-03:00",
+    "cutoffAt": "2026-11-17T06:23:17-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "editionSlot": "morning",
-    "generalId": "2026-11-16-daily-china-demanda-interna-tecnologia",
+    "generalId": "2026-11-17-daily-chips-ia-computo-remoto",
     "generalPublished": true,
-    "nationalId": "2026-11-16-national-combustibles-costo-fiscal-congreso",
+    "nationalId": "2026-11-17-national-colchon-capital-bancario",
     "nationalPublished": true,
-    "marketsId": "2026-11-16-markets-tasas-tecnologia-apertura-global",
+    "marketsId": "2026-11-17-markets-tecnologia-riesgo-disperso",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 136,
+    "daily": 137,
     "weekly": 4,
-    "national": 129,
-    "markets": 128,
+    "national": 130,
+    "markets": 129,
     "readings": 16,
-    "total": 413
+    "total": 416
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-16",
+    "status": "current",
+    "asOf": "2026-11-17",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

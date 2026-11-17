@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T16:12:55.089Z",
+  "updatedAt": "2026-11-17T09:53:39.868Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2303,6 +2303,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CB%20PC%20032013%2016066%20(8577655358).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-17-daily-chips-ia-computo-remoto": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/200mm%20Wafer%20Fertigungslinie.JPG?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-17-national-colchon-capital-bancario": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20Banco%20Central.jpg?width=1280",
+      "alt": "Banco Central de Chile, política monetaria, reservas o contexto financiero local.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20Banco%20Central.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-17-markets-tecnologia-riesgo-disperso": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithium%20Ponds%20of%20Chile's%20Salar%20de%20Atacama%20(SVS15006).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
