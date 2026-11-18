@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4b415d3147edccfae7bec7eff7e8f91354618ac4",
-  "buildCommit": "4b415d3147edccfae7bec7eff7e8f91354618ac4",
+  "sourceCommit": "ba51f4876edf177164f91f77261441c82db8ee6d",
+  "buildCommit": "ba51f4876edf177164f91f77261441c82db8ee6d",
   "latestDaily": {
-    "id": "2026-11-17-daily-chips-ia-computo-remoto",
+    "id": "2026-11-18-daily-apec-comercio-deuda-energia",
     "editionSlot": "morning",
-    "issueNumber": 107,
-    "title": "Estados Unidos extiende el cerco a chips de IA desde los envíos físicos al cómputo remoto",
-    "publishedAt": "2026-11-17T06:51:10-03:00",
-    "cutoffAt": "2026-11-17T06:00:26-03:00"
+    "issueNumber": 108,
+    "title": "APEC enfrenta el choque entre apertura comercial, deuda elevada y riesgo energético",
+    "publishedAt": "2026-11-18T11:52:33-03:00",
+    "cutoffAt": "2026-11-18T09:38:25-03:00"
   },
   "latestNational": {
-    "id": "2026-11-17-national-colchon-capital-bancario",
+    "id": "2026-11-18-national-pib-inversion-morosidad",
     "editionSlot": "morning",
-    "title": "Banco Central mantiene el colchón bancario en 1% ante riesgos externos",
-    "publishedAt": "2026-11-17T06:51:10-03:00",
-    "cutoffAt": "2026-11-17T06:22:03-03:00"
+    "title": "PIB de Chile cae 1,1% en el tercer trimestre: inversión y minería profundizan la debilidad",
+    "publishedAt": "2026-11-18T11:52:33-03:00",
+    "cutoffAt": "2026-11-18T10:13:47-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-17-markets-tecnologia-riesgo-disperso",
+    "id": "2026-11-18-markets-cobre-dolar-tecnologia",
     "editionSlot": "morning",
-    "title": "El castigo a tecnología se extiende a Asia, pero bonos y crudo cuentan historias distintas",
-    "publishedAt": "2026-11-17T06:51:10-03:00",
-    "cutoffAt": "2026-11-17T06:23:17-03:00"
+    "title": "Cobre y peso sufren el ajuste del dólar mientras Nvidia desacopla a la tecnología de los metales",
+    "publishedAt": "2026-11-18T11:52:33-03:00",
+    "cutoffAt": "2026-11-18T10:16:39-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "editionSlot": "morning",
-    "generalId": "2026-11-17-daily-chips-ia-computo-remoto",
+    "generalId": "2026-11-18-daily-apec-comercio-deuda-energia",
     "generalPublished": true,
-    "nationalId": "2026-11-17-national-colchon-capital-bancario",
+    "nationalId": "2026-11-18-national-pib-inversion-morosidad",
     "nationalPublished": true,
-    "marketsId": "2026-11-17-markets-tecnologia-riesgo-disperso",
+    "marketsId": "2026-11-18-markets-cobre-dolar-tecnologia",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,15 +58,15 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 137,
+    "daily": 138,
     "weekly": 4,
-    "national": 130,
-    "markets": 129,
+    "national": 131,
+    "markets": 130,
     "readings": 16,
-    "total": 416
+    "total": 419
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-11-17",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
