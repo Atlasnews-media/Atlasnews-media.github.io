@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ba51f4876edf177164f91f77261441c82db8ee6d",
-  "buildCommit": "ba51f4876edf177164f91f77261441c82db8ee6d",
+  "sourceCommit": "6e6b3aaa733c0f3ca0a4807451864e56211f24ae",
+  "buildCommit": "6e6b3aaa733c0f3ca0a4807451864e56211f24ae",
   "latestDaily": {
-    "id": "2026-11-18-daily-apec-comercio-deuda-energia",
-    "editionSlot": "morning",
+    "id": "2026-11-18-daily-bce-reservas-liquidez",
+    "editionSlot": "evening",
     "issueNumber": 108,
-    "title": "APEC enfrenta el choque entre apertura comercial, deuda elevada y riesgo energético",
-    "publishedAt": "2026-11-18T11:52:33-03:00",
-    "cutoffAt": "2026-11-18T09:38:25-03:00"
+    "title": "El BCE evalúa duplicar las reservas bancarias y retirar liquidez de la eurozona",
+    "publishedAt": "2026-11-18T13:11:57.252-03:00",
+    "cutoffAt": "2026-11-18T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-18-national-pib-inversion-morosidad",
-    "editionSlot": "morning",
-    "title": "PIB de Chile cae 1,1% en el tercer trimestre: inversión y minería profundizan la debilidad",
-    "publishedAt": "2026-11-18T11:52:33-03:00",
-    "cutoffAt": "2026-11-18T10:13:47-03:00"
+    "id": "2026-11-18-national-balanza-pagos-deuda",
+    "editionSlot": "evening",
+    "title": "Chile recibe capitales por US$3.503 millones mientras la deuda externa sube a 80,6% del PIB",
+    "publishedAt": "2026-11-18T13:11:57.252-03:00",
+    "cutoffAt": "2026-11-18T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-18-markets-cobre-dolar-tecnologia",
-    "editionSlot": "morning",
-    "title": "Cobre y peso sufren el ajuste del dólar mientras Nvidia desacopla a la tecnología de los metales",
-    "publishedAt": "2026-11-18T11:52:33-03:00",
-    "cutoffAt": "2026-11-18T10:16:39-03:00"
+    "id": "2026-11-18-markets-ipsa-dolar-cobre",
+    "editionSlot": "evening",
+    "title": "IPSA gira de +0,04% a −0,51% mientras dólar y cobre mantienen la presión",
+    "publishedAt": "2026-11-18T13:11:57.252-03:00",
+    "cutoffAt": "2026-11-18T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-18",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-16",
+    "date": "2026-11-18",
     "editionSlot": "evening",
-    "generalId": "2026-11-16-daily-fed-ia-riesgo-financiero",
+    "generalId": "2026-11-18-daily-bce-reservas-liquidez",
     "generalPublished": true,
-    "nationalId": "2026-11-16-national-cmf-ey-auditoria",
+    "nationalId": "2026-11-18-national-balanza-pagos-deuda",
     "nationalPublished": true,
-    "marketsId": "2026-11-16-markets-dolar-cobre-tasas",
+    "marketsId": "2026-11-18-markets-ipsa-dolar-cobre",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 138,
+    "daily": 139,
     "weekly": 4,
-    "national": 131,
-    "markets": 130,
+    "national": 132,
+    "markets": 131,
     "readings": 16,
-    "total": 419
+    "total": 422
   },
   "indicators": {
-    "status": "stale",
+    "status": "partial",
     "asOf": "2026-11-17",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
