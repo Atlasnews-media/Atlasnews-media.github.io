@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T16:15:50.954Z",
+  "updatedAt": "2026-11-19T09:49:27.093Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2375,6 +2375,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Street%20-%20New%20York%20Stock%20Exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-19-daily-ia-capital-comercio-inflacion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "alt": "Miembros y personal de la Reserva Federal reunidos en Washington, D.C.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-11-19-national-inversion-debilidad-amplia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stgo%20Abril.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-19-markets-ia-capital-duracion": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
