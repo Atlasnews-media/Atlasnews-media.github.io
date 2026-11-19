@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-11-18",
-  "title": "ATLAS NEWS — Resumen diario — miércoles 18 de noviembre de 2026",
+  "date": "2026-11-19",
+  "title": "ATLAS NEWS — Resumen diario — jueves 19 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-11-18-resumen-diario.mp3",
-  "durationSeconds": 307.0,
-  "durationLabel": "5 min",
-  "bytes": 3684141,
-  "generatedAt": "2026-11-18T16:19:35.240822+00:00",
+  "path": "/audio/2026-11-19-resumen-diario.mp3",
+  "durationSeconds": 338.1,
+  "durationLabel": "6 min",
+  "bytes": 4057677,
+  "generatedAt": "2026-11-19T10:01:49.950354+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-18-daily-bce-reservas-liquidez",
-    "general": "2026-11-18-daily-bce-reservas-liquidez",
-    "national": "2026-11-18-national-balanza-pagos-deuda",
-    "markets": "2026-11-18-markets-ipsa-dolar-cobre"
+    "international": "2026-11-19-daily-ia-capital-comercio-inflacion",
+    "general": "2026-11-19-daily-ia-capital-comercio-inflacion",
+    "national": "2026-11-19-national-inversion-debilidad-amplia",
+    "markets": "2026-11-19-markets-ia-capital-duracion"
   },
-  "sourceCommit": "6e6b3aaa733c0f3ca0a4807451864e56211f24ae"
+  "sourceCommit": "66fa1325932d6dc9f862599420c6b898f0cd6bde"
 }
