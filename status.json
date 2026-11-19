@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "66fa1325932d6dc9f862599420c6b898f0cd6bde",
-  "buildCommit": "66fa1325932d6dc9f862599420c6b898f0cd6bde",
+  "sourceCommit": "e77e901a2be0ed3176d5f2e058f1e23563ab4b9a",
+  "buildCommit": "e77e901a2be0ed3176d5f2e058f1e23563ab4b9a",
   "latestDaily": {
-    "id": "2026-11-19-daily-ia-capital-comercio-inflacion",
-    "editionSlot": "morning",
+    "id": "2026-11-19-daily-ocde-divergencia-crecimiento",
+    "editionSlot": "evening",
     "issueNumber": 109,
-    "title": "La inteligencia artificial ya redistribuye capital, comercio e inflación a escala global",
-    "publishedAt": "2026-11-19T06:46:27-03:00",
-    "cutoffAt": "2026-11-19T06:04:48-03:00"
+    "title": "La OCDE crece 0,6%, pero Estados Unidos acelera mientras Europa pierde impulso",
+    "publishedAt": "2026-11-19T13:11:51-03:00",
+    "cutoffAt": "2026-11-19T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-19-national-inversion-debilidad-amplia",
-    "editionSlot": "morning",
-    "title": "La caída de la inversión revela una debilidad más amplia que el retroceso minero",
-    "publishedAt": "2026-11-19T06:46:27-03:00",
-    "cutoffAt": "2026-11-19T06:15:56-03:00"
+    "id": "2026-11-19-national-chile-filipinas-cepa",
+    "editionSlot": "evening",
+    "title": "Chile firma con Filipinas un acuerdo que dará preferencias al 90% de sus exportaciones",
+    "publishedAt": "2026-11-19T13:11:51-03:00",
+    "cutoffAt": "2026-11-19T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-19-markets-ia-capital-duracion",
-    "editionSlot": "morning",
-    "title": "La IA absorbe capital, pero el mercado exige resultados y castiga la duración",
-    "publishedAt": "2026-11-19T06:46:27-03:00",
-    "cutoffAt": "2026-11-19T06:17:21-03:00"
+    "id": "2026-11-19-markets-dolar-cobre-ipsa",
+    "editionSlot": "evening",
+    "title": "Dólar toca $1.009, máximo desde enero de 2025, mientras el IPSA resiste plano",
+    "publishedAt": "2026-11-19T13:11:51-03:00",
+    "cutoffAt": "2026-11-19T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-19",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "editionSlot": "evening",
-    "generalId": "2026-11-18-daily-bce-reservas-liquidez",
+    "generalId": "2026-11-19-daily-ocde-divergencia-crecimiento",
     "generalPublished": true,
-    "nationalId": "2026-11-18-national-balanza-pagos-deuda",
+    "nationalId": "2026-11-19-national-chile-filipinas-cepa",
     "nationalPublished": true,
-    "marketsId": "2026-11-18-markets-ipsa-dolar-cobre",
+    "marketsId": "2026-11-19-markets-dolar-cobre-ipsa",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 140,
+    "daily": 141,
     "weekly": 4,
-    "national": 133,
-    "markets": 132,
+    "national": 134,
+    "markets": 133,
     "readings": 16,
-    "total": 425
+    "total": 428
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-11-19",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }

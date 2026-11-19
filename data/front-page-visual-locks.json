@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T09:49:27.093Z",
+  "updatedAt": "2026-11-19T16:16:19.201Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2399,6 +2399,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603%20KRBN-RobertEngle-JonDemske-10.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-19-daily-ocde-divergencia-crecimiento": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "alt": "Edificio sede del Banco Central Europeo en Fráncfort, Alemania.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/European%20Central%20Bank%20building.jpg?width=1280",
+      "author": "Tobiasi0",
+      "license": "CC BY-SA 4.0"
+    },
+    "national:2026-11-19-national-chile-filipinas-cepa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/SanAntonio11.jpg?width=1280",
+      "alt": "Puerto de San Antonio, logística, comercio exterior o actividad portuaria en Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SanAntonio11.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-19-markets-dolar-cobre-ipsa": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CB%20PC%20032013%2016066%20(8577655358).jpg?width=1280",
+      "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CB%20PC%20032013%2016066%20(8577655358).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
