@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — viernes 20 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-11-20-resumen-diario.mp3",
-  "durationSeconds": 328.0,
+  "durationSeconds": 320.9,
   "durationLabel": "5 min",
-  "bytes": 3935853,
-  "generatedAt": "2026-11-20T09:55:15.486334+00:00",
+  "bytes": 3851181,
+  "generatedAt": "2026-11-20T16:14:58.785601+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-20-daily-shenzhen-fragmentacion-economica",
-    "general": "2026-11-20-daily-shenzhen-fragmentacion-economica",
-    "national": "2026-11-20-national-mfa-servicios-esenciales",
-    "markets": "2026-11-20-markets-ia-refugios-divergentes"
+    "international": "2026-11-20-daily-reino-unido-ue-acuerdos",
+    "general": "2026-11-20-daily-reino-unido-ue-acuerdos",
+    "national": "2026-11-20-national-chile-japon-minerales-tecnologia",
+    "markets": "2026-11-20-markets-dolar-cobre-ipsa-presion"
   },
-  "sourceCommit": "13743b343861c14594ba315e245f5c0b27a22680"
+  "sourceCommit": "6f7ad6581ac12aa80ab10fa7cfcdb889efbb8c0e"
 }
