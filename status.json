@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "13743b343861c14594ba315e245f5c0b27a22680",
-  "buildCommit": "13743b343861c14594ba315e245f5c0b27a22680",
+  "sourceCommit": "6f7ad6581ac12aa80ab10fa7cfcdb889efbb8c0e",
+  "buildCommit": "6f7ad6581ac12aa80ab10fa7cfcdb889efbb8c0e",
   "latestDaily": {
-    "id": "2026-11-20-daily-shenzhen-fragmentacion-economica",
-    "editionSlot": "morning",
+    "id": "2026-11-20-daily-reino-unido-ue-acuerdos",
+    "editionSlot": "evening",
     "issueNumber": 110,
-    "title": "Shenzhen coordina a las potencias, pero deja intacta la fragmentación económica",
-    "publishedAt": "2026-11-20T06:47:07-03:00",
-    "cutoffAt": "2026-11-20T06:00:31-03:00"
+    "title": "Reino Unido y la UE cierran acuerdos para alimentos, carbono y movilidad juvenil",
+    "publishedAt": "2026-11-20T13:07:48-03:00",
+    "cutoffAt": "2026-11-20T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-20-national-mfa-servicios-esenciales",
-    "editionSlot": "morning",
-    "title": "Chile abre consulta para exigir autenticación multifactor en servicios esenciales",
-    "publishedAt": "2026-11-20T06:47:07-03:00",
-    "cutoffAt": "2026-11-20T06:16:00-03:00"
+    "id": "2026-11-20-national-chile-japon-minerales-tecnologia",
+    "editionSlot": "evening",
+    "title": "Chile y Japón enlazan minerales críticos, telecomunicaciones y minería remota",
+    "publishedAt": "2026-11-20T13:07:48-03:00",
+    "cutoffAt": "2026-11-20T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-20-markets-ia-refugios-divergentes",
-    "editionSlot": "morning",
-    "title": "La liquidación de IA se extiende a Asia y separa los refugios",
-    "publishedAt": "2026-11-20T06:47:07-03:00",
-    "cutoffAt": "2026-11-20T06:18:00-03:00"
+    "id": "2026-11-20-markets-dolar-cobre-ipsa-presion",
+    "editionSlot": "evening",
+    "title": "El dólar supera $1.020 mientras el cobre cae a mínimos de marzo y el IPSA retrocede",
+    "publishedAt": "2026-11-20T13:07:48-03:00",
+    "cutoffAt": "2026-11-20T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-20",
@@ -47,26 +47,26 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "editionSlot": "evening",
-    "generalId": "2026-11-19-daily-ocde-divergencia-crecimiento",
+    "generalId": "2026-11-20-daily-reino-unido-ue-acuerdos",
     "generalPublished": true,
-    "nationalId": "2026-11-19-national-chile-filipinas-cepa",
+    "nationalId": "2026-11-20-national-chile-japon-minerales-tecnologia",
     "nationalPublished": true,
-    "marketsId": "2026-11-19-markets-dolar-cobre-ipsa",
+    "marketsId": "2026-11-20-markets-dolar-cobre-ipsa-presion",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 142,
+    "daily": 143,
     "weekly": 4,
-    "national": 135,
-    "markets": 134,
+    "national": 136,
+    "markets": 135,
     "readings": 16,
-    "total": 431
+    "total": 434
   },
   "indicators": {
-    "status": "current",
+    "status": "stale",
     "asOf": "2026-11-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
