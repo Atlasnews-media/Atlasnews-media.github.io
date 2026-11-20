@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "e77e901a2be0ed3176d5f2e058f1e23563ab4b9a",
-  "buildCommit": "e77e901a2be0ed3176d5f2e058f1e23563ab4b9a",
+  "sourceCommit": "13743b343861c14594ba315e245f5c0b27a22680",
+  "buildCommit": "13743b343861c14594ba315e245f5c0b27a22680",
   "latestDaily": {
-    "id": "2026-11-19-daily-ocde-divergencia-crecimiento",
-    "editionSlot": "evening",
-    "issueNumber": 109,
-    "title": "La OCDE crece 0,6%, pero Estados Unidos acelera mientras Europa pierde impulso",
-    "publishedAt": "2026-11-19T13:11:51-03:00",
-    "cutoffAt": "2026-11-19T12:00:00-03:00"
+    "id": "2026-11-20-daily-shenzhen-fragmentacion-economica",
+    "editionSlot": "morning",
+    "issueNumber": 110,
+    "title": "Shenzhen coordina a las potencias, pero deja intacta la fragmentación económica",
+    "publishedAt": "2026-11-20T06:47:07-03:00",
+    "cutoffAt": "2026-11-20T06:00:31-03:00"
   },
   "latestNational": {
-    "id": "2026-11-19-national-chile-filipinas-cepa",
-    "editionSlot": "evening",
-    "title": "Chile firma con Filipinas un acuerdo que dará preferencias al 90% de sus exportaciones",
-    "publishedAt": "2026-11-19T13:11:51-03:00",
-    "cutoffAt": "2026-11-19T12:00:00-03:00"
+    "id": "2026-11-20-national-mfa-servicios-esenciales",
+    "editionSlot": "morning",
+    "title": "Chile abre consulta para exigir autenticación multifactor en servicios esenciales",
+    "publishedAt": "2026-11-20T06:47:07-03:00",
+    "cutoffAt": "2026-11-20T06:16:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-19-markets-dolar-cobre-ipsa",
-    "editionSlot": "evening",
-    "title": "Dólar toca $1.009, máximo desde enero de 2025, mientras el IPSA resiste plano",
-    "publishedAt": "2026-11-19T13:11:51-03:00",
-    "cutoffAt": "2026-11-19T12:00:00-03:00"
+    "id": "2026-11-20-markets-ia-refugios-divergentes",
+    "editionSlot": "morning",
+    "title": "La liquidación de IA se extiende a Asia y separa los refugios",
+    "publishedAt": "2026-11-20T06:47:07-03:00",
+    "cutoffAt": "2026-11-20T06:18:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "editionSlot": "morning",
-    "generalId": "2026-11-19-daily-ia-capital-comercio-inflacion",
+    "generalId": "2026-11-20-daily-shenzhen-fragmentacion-economica",
     "generalPublished": true,
-    "nationalId": "2026-11-19-national-inversion-debilidad-amplia",
+    "nationalId": "2026-11-20-national-mfa-servicios-esenciales",
     "nationalPublished": true,
-    "marketsId": "2026-11-19-markets-ia-capital-duracion",
+    "marketsId": "2026-11-20-markets-ia-refugios-divergentes",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 141,
+    "daily": 142,
     "weekly": 4,
-    "national": 134,
-    "markets": 133,
+    "national": 135,
+    "markets": 134,
     "readings": 16,
-    "total": 428
+    "total": 431
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-19",
+    "status": "current",
+    "asOf": "2026-11-20",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

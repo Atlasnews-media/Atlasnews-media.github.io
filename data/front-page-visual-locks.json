@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T16:16:19.201Z",
+  "updatedAt": "2026-11-20T09:51:52.768Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2423,6 +2423,30 @@
       "alt": "Reserva Federal, FOMC o conducción de la política monetaria de Estados Unidos.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CB%20PC%20032013%2016066%20(8577655358).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-20-daily-shenzhen-fragmentacion-economica": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Singapore%20(3777500194).jpg?width=1280",
+      "alt": "Instituciones internacionales, diplomacia o comercio global.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Singapore%20(3777500194).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-20-national-mfa-servicios-esenciales": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "alt": "Santiago de Chile, actividad económica, inversión, consumo o entorno empresarial.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%20with%20San%20Crist%C3%B3bal%20hill%20at%20the%20back%20(Northeast%20view%20Panorama%2002%20-%20Sphere%20projection).jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-20-markets-ia-refugios-divergentes": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Exchange%20Building%20(London).jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Exchange%20Building%20(London).jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
