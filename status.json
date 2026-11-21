@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "49a1b0df35a18ccc8a69f613a2b1dc3aa160de5f",
-  "buildCommit": "49a1b0df35a18ccc8a69f613a2b1dc3aa160de5f",
+  "sourceCommit": "919cf631259e15b7482b197cadae91f8a7877a9a",
+  "buildCommit": "919cf631259e15b7482b197cadae91f8a7877a9a",
   "latestDaily": {
-    "id": "2026-11-21-daily-ia-militar-control-humano",
-    "editionSlot": "morning",
+    "id": "2026-11-21-daily-otan-polonia-incursion-rusa",
+    "editionSlot": "evening",
     "issueNumber": 111,
-    "title": "Trump y Xi fijan un límite humano para la IA militar sin crear un mecanismo de control",
-    "publishedAt": "2026-11-21T06:51:45-03:00",
-    "cutoffAt": "2026-11-21T06:01:13-03:00"
+    "title": "La OTAN promete defender Polonia tras una incursión aérea atribuida a Rusia",
+    "publishedAt": "2026-11-21T13:09:35-03:00",
+    "cutoffAt": "2026-11-21T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-21-national-reservas-seguros-garantia",
-    "editionSlot": "morning",
-    "title": "CMF propone reservar íntegramente los reclamos en seguros de garantía",
-    "publishedAt": "2026-11-21T06:51:45-03:00",
-    "cutoffAt": "2026-11-21T06:14:00-03:00"
+    "id": "2026-11-21-national-codelco-socios-control-estatal",
+    "editionSlot": "evening",
+    "title": "Congreso respalda socios privados para Codelco, con control estatal como condición",
+    "publishedAt": "2026-11-21T13:09:35-03:00",
+    "cutoffAt": "2026-11-21T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-21-markets-correccion-refugios-divergentes",
-    "editionSlot": "morning",
-    "title": "Wall Street confirma una corrección y los refugios vuelven a divergir",
-    "publishedAt": "2026-11-21T06:51:45-03:00",
-    "cutoffAt": "2026-11-21T06:16:00-03:00"
+    "id": "2026-11-21-markets-bitcoin-rebote-minimo-dos-anos",
+    "editionSlot": "evening",
+    "title": "Bitcoin recupera los US$60.000 tras caer a mínimos de dos años",
+    "publishedAt": "2026-11-21T13:09:35-03:00",
+    "cutoffAt": "2026-11-21T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-21",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "editionSlot": "evening",
-    "generalId": "2026-11-20-daily-reino-unido-ue-acuerdos",
+    "generalId": "2026-11-21-daily-otan-polonia-incursion-rusa",
     "generalPublished": true,
-    "nationalId": "2026-11-20-national-chile-japon-minerales-tecnologia",
+    "nationalId": "2026-11-21-national-codelco-socios-control-estatal",
     "nationalPublished": true,
-    "marketsId": "2026-11-20-markets-dolar-cobre-ipsa-presion",
+    "marketsId": "2026-11-21-markets-bitcoin-rebote-minimo-dos-anos",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 144,
+    "daily": 145,
     "weekly": 4,
-    "national": 137,
-    "markets": 136,
+    "national": 138,
+    "markets": 137,
     "readings": 16,
-    "total": 437
+    "total": 440
   },
   "indicators": {
     "status": "current",
