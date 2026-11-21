@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "6f7ad6581ac12aa80ab10fa7cfcdb889efbb8c0e",
-  "buildCommit": "6f7ad6581ac12aa80ab10fa7cfcdb889efbb8c0e",
+  "sourceCommit": "49a1b0df35a18ccc8a69f613a2b1dc3aa160de5f",
+  "buildCommit": "49a1b0df35a18ccc8a69f613a2b1dc3aa160de5f",
   "latestDaily": {
-    "id": "2026-11-20-daily-reino-unido-ue-acuerdos",
-    "editionSlot": "evening",
-    "issueNumber": 110,
-    "title": "Reino Unido y la UE cierran acuerdos para alimentos, carbono y movilidad juvenil",
-    "publishedAt": "2026-11-20T13:07:48-03:00",
-    "cutoffAt": "2026-11-20T12:00:00-03:00"
+    "id": "2026-11-21-daily-ia-militar-control-humano",
+    "editionSlot": "morning",
+    "issueNumber": 111,
+    "title": "Trump y Xi fijan un límite humano para la IA militar sin crear un mecanismo de control",
+    "publishedAt": "2026-11-21T06:51:45-03:00",
+    "cutoffAt": "2026-11-21T06:01:13-03:00"
   },
   "latestNational": {
-    "id": "2026-11-20-national-chile-japon-minerales-tecnologia",
-    "editionSlot": "evening",
-    "title": "Chile y Japón enlazan minerales críticos, telecomunicaciones y minería remota",
-    "publishedAt": "2026-11-20T13:07:48-03:00",
-    "cutoffAt": "2026-11-20T12:00:00-03:00"
+    "id": "2026-11-21-national-reservas-seguros-garantia",
+    "editionSlot": "morning",
+    "title": "CMF propone reservar íntegramente los reclamos en seguros de garantía",
+    "publishedAt": "2026-11-21T06:51:45-03:00",
+    "cutoffAt": "2026-11-21T06:14:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-20-markets-dolar-cobre-ipsa-presion",
-    "editionSlot": "evening",
-    "title": "El dólar supera $1.020 mientras el cobre cae a mínimos de marzo y el IPSA retrocede",
-    "publishedAt": "2026-11-20T13:07:48-03:00",
-    "cutoffAt": "2026-11-20T12:00:00-03:00"
+    "id": "2026-11-21-markets-correccion-refugios-divergentes",
+    "editionSlot": "morning",
+    "title": "Wall Street confirma una corrección y los refugios vuelven a divergir",
+    "publishedAt": "2026-11-21T06:51:45-03:00",
+    "cutoffAt": "2026-11-21T06:16:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "editionSlot": "morning",
-    "generalId": "2026-11-20-daily-shenzhen-fragmentacion-economica",
+    "generalId": "2026-11-21-daily-ia-militar-control-humano",
     "generalPublished": true,
-    "nationalId": "2026-11-20-national-mfa-servicios-esenciales",
+    "nationalId": "2026-11-21-national-reservas-seguros-garantia",
     "nationalPublished": true,
-    "marketsId": "2026-11-20-markets-ia-refugios-divergentes",
+    "marketsId": "2026-11-21-markets-correccion-refugios-divergentes",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 143,
+    "daily": 144,
     "weekly": 4,
-    "national": 136,
-    "markets": 135,
+    "national": 137,
+    "markets": 136,
     "readings": 16,
-    "total": 434
+    "total": 437
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-20",
+    "status": "current",
+    "asOf": "2026-11-21",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
