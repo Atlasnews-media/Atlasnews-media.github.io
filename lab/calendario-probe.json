@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T09:54:17.828Z",
+  "checkedAt": "2026-11-21T16:12:12.708Z",
   "biquote": {
     "countriesStatus": 200,
     "countriesError": null,
@@ -14,14 +14,14 @@
     "ine": {
       "status": 200,
       "error": null,
-      "bytes": 98325,
+      "bytes": 99616,
       "foundAgenda2026": true,
       "sample": null
     },
     "bancoCentral": {
       "status": 200,
       "error": null,
-      "bytes": 742931,
+      "bytes": 742055,
       "foundCalendar": true,
       "sample": "ístico Indicadores de Coyuntura Semanal (ICS) 7 Encuesta de Operadores Financieros (EOF) post RPM diciembre 7 Índice mensual y trimestral de avisos laborales de Internet (IALI) 12 Encuesta de Expectativas Económicas (EEE) 12 Indicador de Ventas por Estrato (IVE) 14 Encuesta de Crédito Bancario (ECB) 4to trimestre 2025 15 Comercio exterior semanal Posiciones y flujos de no residentes en el mer"
     }
