@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T09:54:15.369Z",
+  "updatedAt": "2026-11-22T16:09:36.128Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2545,6 +2545,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
+    },
+    "international:2026-11-22-daily-cop31-sin-pacto-central": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "alt": "Refinería de petróleo de Mina Al-Ahmadi, Kuwait, iluminada durante la noche.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mina-Al-Ahmadi%20oil%20refinery%20night.jpg?width=1280",
+      "author": "Grubb",
+      "license": "Dominio público"
+    },
+    "national:2026-11-22-national-deshielos-norte": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "alt": "Edificio de oficinas en Las Condes, Santiago de Chile.",
+      "source": "Wikimedia Commons / Flickr",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Building%20in%20Santiago%20de%20Chile.jpg?width=1280",
+      "author": "Jimmy Baikovicius",
+      "license": "CC BY-SA 2.0"
+    },
+    "markets:2026-11-22-markets-bitcoin-pesos": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Euro%20banknotes.png?width=1280",
+      "alt": "Conjunto de billetes de euro de distintas denominaciones y series.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Euro%20banknotes.png?width=1280",
+      "author": "Bericht",
+      "license": "CC0 1.0"
     }
   }
 }
