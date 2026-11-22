@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "919cf631259e15b7482b197cadae91f8a7877a9a",
-  "buildCommit": "919cf631259e15b7482b197cadae91f8a7877a9a",
+  "sourceCommit": "22c60eeeb816bfbad834c4faa51d0be7d006f746",
+  "buildCommit": "22c60eeeb816bfbad834c4faa51d0be7d006f746",
   "latestDaily": {
-    "id": "2026-11-21-daily-otan-polonia-incursion-rusa",
-    "editionSlot": "evening",
-    "issueNumber": 111,
-    "title": "La OTAN promete defender Polonia tras una incursión aérea atribuida a Rusia",
-    "publishedAt": "2026-11-21T13:09:35-03:00",
-    "cutoffAt": "2026-11-21T12:00:00-03:00"
+    "id": "2026-11-22-daily-onu-armas-autonomas",
+    "editionSlot": "morning",
+    "issueNumber": 112,
+    "title": "La ONU abre dos años para regular armas autónomas sin asegurar normas vinculantes",
+    "publishedAt": "2026-11-22T06:47:47-03:00",
+    "cutoffAt": "2026-11-22T06:06:45-03:00"
   },
   "latestNational": {
-    "id": "2026-11-21-national-codelco-socios-control-estatal",
-    "editionSlot": "evening",
-    "title": "Congreso respalda socios privados para Codelco, con control estatal como condición",
-    "publishedAt": "2026-11-21T13:09:35-03:00",
-    "cutoffAt": "2026-11-21T12:00:00-03:00"
+    "id": "2026-11-22-national-presupuesto-agricultura",
+    "editionSlot": "morning",
+    "title": "El Presupuesto 2027 vuelve a la Cámara con Agricultura como único capítulo rechazado",
+    "publishedAt": "2026-11-22T06:47:47-03:00",
+    "cutoffAt": "2026-11-22T06:18:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-21-markets-bitcoin-rebote-minimo-dos-anos",
-    "editionSlot": "evening",
-    "title": "Bitcoin recupera los US$60.000 tras caer a mínimos de dos años",
-    "publishedAt": "2026-11-21T13:09:35-03:00",
-    "cutoffAt": "2026-11-21T12:00:00-03:00"
+    "id": "2026-11-22-markets-bitcoin-rebote-incompleto",
+    "editionSlot": "morning",
+    "title": "Bitcoin recupera US$60.000, pero el rebote del fin de semana aún no valida un piso global",
+    "publishedAt": "2026-11-22T06:47:47-03:00",
+    "cutoffAt": "2026-11-22T06:19:50-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "editionSlot": "morning",
-    "generalId": "2026-11-21-daily-ia-militar-control-humano",
+    "generalId": "2026-11-22-daily-onu-armas-autonomas",
     "generalPublished": true,
-    "nationalId": "2026-11-21-national-reservas-seguros-garantia",
+    "nationalId": "2026-11-22-national-presupuesto-agricultura",
     "nationalPublished": true,
-    "marketsId": "2026-11-21-markets-correccion-refugios-divergentes",
+    "marketsId": "2026-11-22-markets-bitcoin-rebote-incompleto",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 145,
+    "daily": 146,
     "weekly": 4,
-    "national": 138,
-    "markets": 137,
+    "national": 139,
+    "markets": 138,
     "readings": 16,
-    "total": 440
+    "total": 443
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
