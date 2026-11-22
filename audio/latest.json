@@ -11,19 +11,19 @@
   "title": "ATLAS NEWS — Resumen diario — domingo 22 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
   "path": "/audio/2026-11-22-resumen-diario.mp3",
-  "durationSeconds": 332.5,
-  "durationLabel": "6 min",
-  "bytes": 3990573,
-  "generatedAt": "2026-11-22T09:57:59.694070+00:00",
+  "durationSeconds": 313.8,
+  "durationLabel": "5 min",
+  "bytes": 3765645,
+  "generatedAt": "2026-11-22T16:13:54.179184+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-22-daily-onu-armas-autonomas",
-    "general": "2026-11-22-daily-onu-armas-autonomas",
-    "national": "2026-11-22-national-presupuesto-agricultura",
-    "markets": "2026-11-22-markets-bitcoin-rebote-incompleto"
+    "international": "2026-11-22-daily-cop31-sin-pacto-central",
+    "general": "2026-11-22-daily-cop31-sin-pacto-central",
+    "national": "2026-11-22-national-deshielos-norte",
+    "markets": "2026-11-22-markets-bitcoin-pesos"
   },
-  "sourceCommit": "22c60eeeb816bfbad834c4faa51d0be7d006f746"
+  "sourceCommit": "f3716e7895dcfe1f35d8272b30bbfa7f8fced540"
 }
