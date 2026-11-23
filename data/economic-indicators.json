@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "partial",
+  "status": "current",
   "asOf": "2026-11-23",
-  "fetchedAt": "2026-11-23T19:17:49.073Z",
-  "lastAttemptAt": "2026-11-23T19:17:49.073Z",
+  "fetchedAt": "2026-11-23T22:25:42.437Z",
+  "lastAttemptAt": "2026-11-23T22:25:42.437Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -11,37 +11,37 @@
     {
       "code": "uf",
       "label": "UF",
-      "value": 41384.81,
+      "value": 41391.69,
       "unit": "clp",
-      "effectiveDate": "2026-11-22",
-      "status": "stale",
-      "previousValue": 41377.93,
-      "previousEffectiveDate": "2026-11-21",
+      "effectiveDate": "2026-11-23",
+      "status": "current",
+      "previousValue": 41384.81,
+      "previousEffectiveDate": "2026-11-22",
       "changePercent": 0.02,
       "trend": "up"
     },
     {
       "code": "dolar",
       "label": "Dólar observado",
-      "value": 1008.79,
+      "value": 1017.17,
       "unit": "clp",
-      "effectiveDate": "2026-11-20",
-      "status": "stale",
-      "previousValue": 1002.07,
-      "previousEffectiveDate": "2026-11-19",
-      "changePercent": 0.67,
+      "effectiveDate": "2026-11-23",
+      "status": "current",
+      "previousValue": 1008.79,
+      "previousEffectiveDate": "2026-11-20",
+      "changePercent": 0.83,
       "trend": "up"
     },
     {
       "code": "euro",
       "label": "Euro",
-      "value": 1107.59,
+      "value": 1116.54,
       "unit": "clp",
-      "effectiveDate": "2026-11-20",
-      "status": "stale",
-      "previousValue": 1099.6,
-      "previousEffectiveDate": "2026-11-19",
-      "changePercent": 0.73,
+      "effectiveDate": "2026-11-23",
+      "status": "current",
+      "previousValue": 1107.59,
+      "previousEffectiveDate": "2026-11-20",
+      "changePercent": 0.81,
       "trend": "up"
     },
     {
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "stale",
+      "status": "current",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -71,24 +71,15 @@
     {
       "code": "cobre",
       "label": "Cobre",
-      "value": 5.65,
+      "value": 5.68,
       "unit": "usd-per-pound",
-      "effectiveDate": "2026-11-20",
-      "status": "stale",
-      "previousValue": 6,
-      "previousEffectiveDate": "2026-11-19",
-      "changePercent": -5.83,
-      "trend": "down"
+      "effectiveDate": "2026-11-23",
+      "status": "current",
+      "previousValue": 5.65,
+      "previousEffectiveDate": "2026-11-20",
+      "changePercent": 0.53,
+      "trend": "up"
     }
   ],
-  "diagnostics": [
-    {
-      "code": "uf",
-      "reason": "https://mindicador.cl/api/uf respondió con estado 500."
-    },
-    { "code": "dolar", "reason": "fetch failed" },
-    { "code": "euro", "reason": "fetch failed" },
-    { "code": "utm", "reason": "fetch failed" },
-    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
-  ]
+  "diagnostics": []
 }
