@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
-  "asOf": "2026-11-22",
-  "fetchedAt": "2026-11-23T11:31:10.160Z",
-  "lastAttemptAt": "2026-11-23T11:31:10.160Z",
+  "status": "partial",
+  "asOf": "2026-11-23",
+  "fetchedAt": "2026-11-23T19:17:49.073Z",
+  "lastAttemptAt": "2026-11-23T19:17:49.073Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -61,10 +61,10 @@
       "label": "TPM",
       "value": 4.5,
       "unit": "percent",
-      "effectiveDate": "2026-11-20",
-      "status": "stale",
+      "effectiveDate": "2026-11-23",
+      "status": "current",
       "previousValue": 4.5,
-      "previousEffectiveDate": "2026-11-19",
+      "previousEffectiveDate": "2026-11-20",
       "changePercent": 0,
       "trend": "flat"
     },
@@ -82,14 +82,13 @@
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "fetch failed" },
-    { "code": "dolar", "reason": "The operation was aborted due to timeout" },
-    { "code": "euro", "reason": "fetch failed" },
     {
-      "code": "utm",
-      "reason": "https://mindicador.cl/api/utm respondió con estado 500."
+      "code": "uf",
+      "reason": "https://mindicador.cl/api/uf respondió con estado 500."
     },
-    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
+    { "code": "dolar", "reason": "fetch failed" },
+    { "code": "euro", "reason": "fetch failed" },
+    { "code": "utm", "reason": "fetch failed" },
     { "code": "cobre", "reason": "The operation was aborted due to timeout" }
   ]
 }
