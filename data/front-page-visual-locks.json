@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T16:09:36.128Z",
+  "updatedAt": "2026-11-23T11:28:18.180Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2569,6 +2569,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Euro%20banknotes.png?width=1280",
       "author": "Bericht",
       "license": "CC0 1.0"
+    },
+    "international:2026-11-23-daily-golfo-tanqueros-refineria": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-004%20USS%20Chosin%20(CG%2065)%20enforces%20an%20exclusionary%20perimeter%20as%20commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-23-national-presupuesto-credito-vivienda": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "alt": "Vista del complejo Costanera Center en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20Center.jpg?width=1280",
+      "author": "AMeck",
+      "license": "CC BY-SA 3.0"
+    },
+    "markets:2026-11-23-markets-futuros-asia-bonos-energia": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }
