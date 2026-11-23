@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "09cd0d15088f1b2c971328e71a4a540feac6d6da",
-  "buildCommit": "09cd0d15088f1b2c971328e71a4a540feac6d6da",
+  "sourceCommit": "1b4c699999b2a49d6c1194ca205cde92bed087c5",
+  "buildCommit": "1b4c699999b2a49d6c1194ca205cde92bed087c5",
   "latestDaily": {
-    "id": "2026-11-23-daily-golfo-tanqueros-refineria",
-    "editionSlot": "morning",
+    "id": "2026-11-23-daily-nvidia-huang-retorna-controles",
+    "editionSlot": "evening",
     "issueNumber": 113,
-    "title": "Ataques a tanqueros y una refinería amplían el riesgo energético del Golfo",
-    "publishedAt": "2026-11-23T08:25:08-03:00",
-    "cutoffAt": "2026-11-23T06:03:14-03:00"
+    "title": "Nvidia devuelve el mando a Jensen Huang y refuerza la vigilancia de exportaciones",
+    "publishedAt": "2026-11-23T16:11:20-03:00",
+    "cutoffAt": "2026-11-23T12:00:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-23-national-presupuesto-credito-vivienda",
-    "editionSlot": "morning",
-    "title": "Presupuesto y crédito hipotecario entran a una semana decisiva en el Congreso",
-    "publishedAt": "2026-11-23T08:25:08-03:00",
-    "cutoffAt": "2026-11-23T07:10:00-03:00"
+    "id": "2026-11-23-national-plansee-opa-molymet",
+    "editionSlot": "evening",
+    "title": "Plansee lanza una OPA para tomar el control de Molymet por hasta $354.198 millones",
+    "publishedAt": "2026-11-23T16:11:20-03:00",
+    "cutoffAt": "2026-11-23T12:00:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-23-markets-futuros-asia-bonos-energia",
-    "editionSlot": "morning",
-    "title": "Futuros de Wall Street rebotan, pero la divergencia con Asia mantiene abierto el ajuste",
-    "publishedAt": "2026-11-23T08:25:08-03:00",
-    "cutoffAt": "2026-11-23T07:10:00-03:00"
+    "id": "2026-11-23-markets-nasdaq-cobre-apertura",
+    "editionSlot": "evening",
+    "title": "Nasdaq salta 6,9% y el cobre repunta 4,3% al abrir Wall Street",
+    "publishedAt": "2026-11-23T16:11:20-03:00",
+    "cutoffAt": "2026-11-23T12:00:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-23",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "editionSlot": "evening",
-    "generalId": "2026-11-22-daily-cop31-sin-pacto-central",
+    "generalId": "2026-11-23-daily-nvidia-huang-retorna-controles",
     "generalPublished": true,
-    "nationalId": "2026-11-22-national-deshielos-norte",
+    "nationalId": "2026-11-23-national-plansee-opa-molymet",
     "nationalPublished": true,
-    "marketsId": "2026-11-22-markets-bitcoin-pesos",
+    "marketsId": "2026-11-23-markets-nasdaq-cobre-apertura",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 148,
+    "daily": 149,
     "weekly": 4,
-    "national": 141,
-    "markets": 140,
+    "national": 142,
+    "markets": 141,
     "readings": 16,
-    "total": 449
+    "total": 452
   },
   "indicators": {
     "status": "stale",

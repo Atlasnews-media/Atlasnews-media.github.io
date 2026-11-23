@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T11:28:18.180Z",
+  "updatedAt": "2026-11-23T19:14:55.741Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2591,6 +2591,30 @@
       "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/0603-Kraneshares%20KRBN-RobertEngle-JonDemske-12.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "international:2026-11-23-daily-nvidia-huang-retorna-controles": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/TSMC%20factory%20in%20Taichung's%20Central%20Taiwan%20Science%20Park.jpg?width=1280",
+      "alt": "Tecnología, semiconductores, centros de datos, inteligencia artificial e infraestructura digital.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/TSMC%20factory%20in%20Taichung's%20Central%20Taiwan%20Science%20Park.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-23-national-plansee-opa-molymet": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09%20lrg.jpg?width=1280",
+      "alt": "Cobre, minería chilena, Chuquicamata, Escondida o producción de commodities.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Escondida%20Copper%20Mine%2C%20Atacama%20Desert%2C%20Chile%202009-12-09%20lrg.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "markets:2026-11-23-markets-nasdaq-cobre-apertura": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
+      "alt": "Bolsa de Nueva York, Wall Street o actividad del mercado accionario.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street.jpg?width=1280",
       "author": "Crédito en ficha de origen",
       "license": "Ver ficha de origen"
     }
