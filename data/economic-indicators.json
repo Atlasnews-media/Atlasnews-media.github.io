@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "current",
+  "status": "partial",
   "asOf": "2026-11-24",
-  "fetchedAt": "2026-11-24T06:14:49.536Z",
-  "lastAttemptAt": "2026-11-24T06:14:49.536Z",
+  "fetchedAt": "2026-11-24T20:58:28.549Z",
+  "lastAttemptAt": "2026-11-24T20:58:28.549Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -14,7 +14,7 @@
       "value": 41398.57,
       "unit": "clp",
       "effectiveDate": "2026-11-24",
-      "status": "current",
+      "status": "stale",
       "previousValue": 41391.69,
       "previousEffectiveDate": "2026-11-23",
       "changePercent": 0.02,
@@ -26,7 +26,7 @@
       "value": 1017.66,
       "unit": "clp",
       "effectiveDate": "2026-11-24",
-      "status": "current",
+      "status": "stale",
       "previousValue": 1017.17,
       "previousEffectiveDate": "2026-11-23",
       "changePercent": 0.05,
@@ -38,7 +38,7 @@
       "value": 1107.84,
       "unit": "clp",
       "effectiveDate": "2026-11-24",
-      "status": "current",
+      "status": "stale",
       "previousValue": 1116.54,
       "previousEffectiveDate": "2026-11-23",
       "changePercent": -0.78,
@@ -50,7 +50,7 @@
       "value": 72440,
       "unit": "clp-integer",
       "effectiveDate": "2026-11-01",
-      "status": "current",
+      "status": "stale",
       "previousValue": 72151,
       "previousEffectiveDate": "2026-10-01",
       "changePercent": 0.4,
@@ -74,12 +74,21 @@
       "value": 5.51,
       "unit": "usd-per-pound",
       "effectiveDate": "2026-11-24",
-      "status": "current",
+      "status": "stale",
       "previousValue": 5.68,
       "previousEffectiveDate": "2026-11-23",
       "changePercent": -2.99,
       "trend": "down"
     }
   ],
-  "diagnostics": []
+  "diagnostics": [
+    { "code": "uf", "reason": "fetch failed" },
+    { "code": "dolar", "reason": "fetch failed" },
+    { "code": "euro", "reason": "fetch failed" },
+    { "code": "utm", "reason": "fetch failed" },
+    {
+      "code": "cobre",
+      "reason": "https://mindicador.cl/api/libra_cobre respondió con estado 500."
+    }
+  ]
 }
