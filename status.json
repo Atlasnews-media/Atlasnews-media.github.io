@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "c0088dd8e2512c78b0376e68e34aeb7d34212ad0",
-  "buildCommit": "c0088dd8e2512c78b0376e68e34aeb7d34212ad0",
+  "sourceCommit": "42f90999191f7ab7d88ee3f7df0d2d79b7f9b5a3",
+  "buildCommit": "42f90999191f7ab7d88ee3f7df0d2d79b7f9b5a3",
   "latestDaily": {
-    "id": "2026-11-25-daily-aranceles-capacidad-industrial",
-    "editionSlot": "morning",
+    "id": "2026-11-25-daily-aranceles-capacidad-propuesta",
+    "editionSlot": "evening",
     "issueNumber": 114,
-    "title": "Estados Unidos prepara otro frente arancelario mientras Europa busca autonomía tecnológica",
-    "publishedAt": "2026-11-25T09:46:33-03:00",
-    "cutoffAt": "2026-11-25T08:25:31-03:00"
+    "title": "Estados Unidos propone nuevos aranceles a 14 economías por exceso de capacidad industrial",
+    "publishedAt": "2026-11-25T13:11:44-03:00",
+    "cutoffAt": "2026-11-25T11:58:00-03:00"
   },
   "latestNational": {
-    "id": "2026-11-25-national-presupuesto-margen-deuda",
-    "editionSlot": "morning",
-    "title": "Chile enfrenta el cierre del Presupuesto 2027 con estrecho margen de deuda",
-    "publishedAt": "2026-11-25T09:46:33-03:00",
-    "cutoffAt": "2026-11-25T08:51:46-03:00"
+    "id": "2026-11-25-national-banco-central-dolar",
+    "editionSlot": "evening",
+    "title": "Costa descarta intervenir el dólar mientras el peso absorbe la caída del cobre",
+    "publishedAt": "2026-11-25T13:11:44-03:00",
+    "cutoffAt": "2026-11-25T11:58:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-25-markets-rotacion-volatilidad",
-    "editionSlot": "morning",
-    "title": "El rebote tecnológico pierde fuerza y la demanda de protección sigue elevada",
-    "publishedAt": "2026-11-25T09:46:33-03:00",
-    "cutoffAt": "2026-11-25T08:52:44-03:00"
+    "id": "2026-11-25-markets-aranceles-pce-riesgo",
+    "editionSlot": "evening",
+    "title": "Aranceles y tasas amplían la venta tecnológica y llevan al peso cerca de mínimos históricos",
+    "publishedAt": "2026-11-25T13:11:44-03:00",
+    "cutoffAt": "2026-11-25T11:58:00-03:00"
   },
   "morningPackage": {
     "date": "2026-11-25",
@@ -47,23 +47,23 @@
     "completeness": 3
   },
   "eveningPackage": {
-    "date": "2026-11-23",
+    "date": "2026-11-25",
     "editionSlot": "evening",
-    "generalId": "2026-11-23-daily-nvidia-huang-retorna-controles",
+    "generalId": "2026-11-25-daily-aranceles-capacidad-propuesta",
     "generalPublished": true,
-    "nationalId": "2026-11-23-national-plansee-opa-molymet",
+    "nationalId": "2026-11-25-national-banco-central-dolar",
     "nationalPublished": true,
-    "marketsId": "2026-11-23-markets-nasdaq-cobre-apertura",
+    "marketsId": "2026-11-25-markets-aranceles-pce-riesgo",
     "marketsPublished": true,
     "completeness": 3
   },
   "publications": {
-    "daily": 150,
+    "daily": 151,
     "weekly": 4,
-    "national": 143,
-    "markets": 142,
+    "national": 144,
+    "markets": 143,
     "readings": 16,
-    "total": 455
+    "total": 458
   },
   "indicators": {
     "status": "stale",
