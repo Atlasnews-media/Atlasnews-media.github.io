@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1b4c699999b2a49d6c1194ca205cde92bed087c5",
-  "buildCommit": "1b4c699999b2a49d6c1194ca205cde92bed087c5",
+  "sourceCommit": "c0088dd8e2512c78b0376e68e34aeb7d34212ad0",
+  "buildCommit": "c0088dd8e2512c78b0376e68e34aeb7d34212ad0",
   "latestDaily": {
-    "id": "2026-11-23-daily-nvidia-huang-retorna-controles",
-    "editionSlot": "evening",
-    "issueNumber": 113,
-    "title": "Nvidia devuelve el mando a Jensen Huang y refuerza la vigilancia de exportaciones",
-    "publishedAt": "2026-11-23T16:11:20-03:00",
-    "cutoffAt": "2026-11-23T12:00:00-03:00"
+    "id": "2026-11-25-daily-aranceles-capacidad-industrial",
+    "editionSlot": "morning",
+    "issueNumber": 114,
+    "title": "Estados Unidos prepara otro frente arancelario mientras Europa busca autonomía tecnológica",
+    "publishedAt": "2026-11-25T09:46:33-03:00",
+    "cutoffAt": "2026-11-25T08:25:31-03:00"
   },
   "latestNational": {
-    "id": "2026-11-23-national-plansee-opa-molymet",
-    "editionSlot": "evening",
-    "title": "Plansee lanza una OPA para tomar el control de Molymet por hasta $354.198 millones",
-    "publishedAt": "2026-11-23T16:11:20-03:00",
-    "cutoffAt": "2026-11-23T12:00:00-03:00"
+    "id": "2026-11-25-national-presupuesto-margen-deuda",
+    "editionSlot": "morning",
+    "title": "Chile enfrenta el cierre del Presupuesto 2027 con estrecho margen de deuda",
+    "publishedAt": "2026-11-25T09:46:33-03:00",
+    "cutoffAt": "2026-11-25T08:51:46-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-23-markets-nasdaq-cobre-apertura",
-    "editionSlot": "evening",
-    "title": "Nasdaq salta 6,9% y el cobre repunta 4,3% al abrir Wall Street",
-    "publishedAt": "2026-11-23T16:11:20-03:00",
-    "cutoffAt": "2026-11-23T12:00:00-03:00"
+    "id": "2026-11-25-markets-rotacion-volatilidad",
+    "editionSlot": "morning",
+    "title": "El rebote tecnológico pierde fuerza y la demanda de protección sigue elevada",
+    "publishedAt": "2026-11-25T09:46:33-03:00",
+    "cutoffAt": "2026-11-25T08:52:44-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-23",
+    "date": "2026-11-25",
     "editionSlot": "morning",
-    "generalId": "2026-11-23-daily-golfo-tanqueros-refineria",
+    "generalId": "2026-11-25-daily-aranceles-capacidad-industrial",
     "generalPublished": true,
-    "nationalId": "2026-11-23-national-presupuesto-credito-vivienda",
+    "nationalId": "2026-11-25-national-presupuesto-margen-deuda",
     "nationalPublished": true,
-    "marketsId": "2026-11-23-markets-futuros-asia-bonos-energia",
+    "marketsId": "2026-11-25-markets-rotacion-volatilidad",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 149,
+    "daily": 150,
     "weekly": 4,
-    "national": 142,
-    "markets": 141,
+    "national": 143,
+    "markets": 142,
     "readings": 16,
-    "total": 452
+    "total": 455
   },
   "indicators": {
     "status": "stale",
-    "asOf": "2026-11-22",
+    "asOf": "2026-11-25",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
