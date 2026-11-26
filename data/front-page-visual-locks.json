@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T16:16:55.165Z",
+  "updatedAt": "2026-11-26T09:53:00.392Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2665,6 +2665,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Stock%20Exchange%2C%20Wall%20Street%201.jpg?width=1280",
       "author": "Mike Peel",
       "license": "CC BY-SA 4.0"
+    },
+    "international:2026-11-26-daily-corea-ia-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "alt": "Participantes del FOMC reunidos en el edificio Marriner S. Eccles de la Reserva Federal.",
+      "source": "Wikimedia Commons / Federal Reserve",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Open%20Market%20Committee%20(FOMC)%20in%20Washington%20DC%20April%2026-27%2C%202016.jpg?width=1280",
+      "author": "Federalreserve",
+      "license": "Dominio público"
+    },
+    "national:2026-11-26-national-sala-cuna-universal": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "alt": "Vista del skyline de Santiago de Chile.",
+      "source": "Wikimedia Commons / Unsplash",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Santiago%2C%20Chile.jpg?width=1280",
+      "author": "Pablo García Saldaña",
+      "license": "CC0 1.0"
+    },
+    "markets:2026-11-26-markets-rebote-asia-alivio-arancelario": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "alt": "Mercados globales, bolsas, tecnología, criptoactivos, energía y commodities estratégicos.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20stock%20exchange.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
     }
   }
 }

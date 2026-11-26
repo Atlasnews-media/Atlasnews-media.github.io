@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "42f90999191f7ab7d88ee3f7df0d2d79b7f9b5a3",
-  "buildCommit": "42f90999191f7ab7d88ee3f7df0d2d79b7f9b5a3",
+  "sourceCommit": "10fb8c1aa8671e328f2ec3fdb1c21033ddfa5b65",
+  "buildCommit": "10fb8c1aa8671e328f2ec3fdb1c21033ddfa5b65",
   "latestDaily": {
-    "id": "2026-11-25-daily-aranceles-capacidad-propuesta",
-    "editionSlot": "evening",
-    "issueNumber": 114,
-    "title": "Estados Unidos propone nuevos aranceles a 14 economías por exceso de capacidad industrial",
-    "publishedAt": "2026-11-25T13:11:44-03:00",
-    "cutoffAt": "2026-11-25T11:58:00-03:00"
+    "id": "2026-11-26-daily-corea-ia-tasas",
+    "editionSlot": "morning",
+    "issueNumber": 115,
+    "title": "Corea del Sur sube tasas: el auge de la IA ya presiona crecimiento e inflación",
+    "publishedAt": "2026-11-26T06:50:12-03:00",
+    "cutoffAt": "2026-11-26T06:04:05-03:00"
   },
   "latestNational": {
-    "id": "2026-11-25-national-banco-central-dolar",
-    "editionSlot": "evening",
-    "title": "Costa descarta intervenir el dólar mientras el peso absorbe la caída del cobre",
-    "publishedAt": "2026-11-25T13:11:44-03:00",
-    "cutoffAt": "2026-11-25T11:58:00-03:00"
+    "id": "2026-11-26-national-sala-cuna-universal",
+    "editionSlot": "morning",
+    "title": "Sala Cuna Universal elimina la barrera de las 20 trabajadoras y cambia su financiamiento",
+    "publishedAt": "2026-11-26T06:50:12-03:00",
+    "cutoffAt": "2026-11-26T06:25:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-25-markets-aranceles-pce-riesgo",
-    "editionSlot": "evening",
-    "title": "Aranceles y tasas amplían la venta tecnológica y llevan al peso cerca de mínimos históricos",
-    "publishedAt": "2026-11-25T13:11:44-03:00",
-    "cutoffAt": "2026-11-25T11:58:00-03:00"
+    "id": "2026-11-26-markets-rebote-asia-alivio-arancelario",
+    "editionSlot": "morning",
+    "title": "Asia rebota, pero bonos y petróleo mantienen abiertas las coberturas defensivas",
+    "publishedAt": "2026-11-26T06:50:12-03:00",
+    "cutoffAt": "2026-11-26T06:28:00-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "editionSlot": "morning",
-    "generalId": "2026-11-25-daily-aranceles-capacidad-industrial",
+    "generalId": "2026-11-26-daily-corea-ia-tasas",
     "generalPublished": true,
-    "nationalId": "2026-11-25-national-presupuesto-margen-deuda",
+    "nationalId": "2026-11-26-national-sala-cuna-universal",
     "nationalPublished": true,
-    "marketsId": "2026-11-25-markets-rotacion-volatilidad",
+    "marketsId": "2026-11-26-markets-rebote-asia-alivio-arancelario",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 151,
+    "daily": 152,
     "weekly": 4,
-    "national": 144,
-    "markets": 143,
+    "national": 145,
+    "markets": 144,
     "readings": 16,
-    "total": 458
+    "total": 461
   },
   "indicators": {
-    "status": "stale",
-    "asOf": "2026-11-25",
+    "status": "partial",
+    "asOf": "2026-11-26",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
