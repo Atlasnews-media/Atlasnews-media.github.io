@@ -7,23 +7,23 @@
   "questionProsodyVersion": 2,
   "coverRenderVersion": 3,
   "status": "published",
-  "date": "2026-11-23",
-  "title": "ATLAS NEWS — Resumen diario — lunes 23 de noviembre de 2026",
+  "date": "2026-11-26",
+  "title": "ATLAS NEWS — Resumen diario — jueves 26 de noviembre de 2026",
   "summary": "Briefing de Portada V15: snapshot con hora de corte hablada, dólar con dirección explícita, señal central, Chile, mercados y variables a seguir.",
-  "path": "/audio/2026-11-23-resumen-diario.mp3",
-  "durationSeconds": 333.3,
-  "durationLabel": "6 min",
-  "bytes": 4000365,
-  "generatedAt": "2026-11-23T19:18:03.482618+00:00",
+  "path": "/audio/2026-11-26-resumen-diario.mp3",
+  "durationSeconds": 321.9,
+  "durationLabel": "5 min",
+  "bytes": 3863565,
+  "generatedAt": "2026-11-26T10:05:28.872474+00:00",
   "engine": "Kokoro-82M",
   "voice": "ef_dora",
   "language": "es",
   "completeness": 3,
   "sourceIds": {
-    "international": "2026-11-23-daily-nvidia-huang-retorna-controles",
-    "general": "2026-11-23-daily-nvidia-huang-retorna-controles",
-    "national": "2026-11-23-national-plansee-opa-molymet",
-    "markets": "2026-11-23-markets-nasdaq-cobre-apertura"
+    "international": "2026-11-26-daily-corea-ia-tasas",
+    "general": "2026-11-26-daily-corea-ia-tasas",
+    "national": "2026-11-26-national-sala-cuna-universal",
+    "markets": "2026-11-26-markets-rebote-asia-alivio-arancelario"
   },
-  "sourceCommit": "1b4c699999b2a49d6c1194ca205cde92bed087c5"
+  "sourceCommit": "10fb8c1aa8671e328f2ec3fdb1c21033ddfa5b65"
 }
