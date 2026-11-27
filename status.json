@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "10fb8c1aa8671e328f2ec3fdb1c21033ddfa5b65",
-  "buildCommit": "10fb8c1aa8671e328f2ec3fdb1c21033ddfa5b65",
+  "sourceCommit": "7c330b9a1ec19e197aa32d4a7f0b5df2809baebd",
+  "buildCommit": "7c330b9a1ec19e197aa32d4a7f0b5df2809baebd",
   "latestDaily": {
-    "id": "2026-11-26-daily-corea-ia-tasas",
+    "id": "2026-11-27-daily-estados-unidos-opec-cohesion",
     "editionSlot": "morning",
-    "issueNumber": 115,
-    "title": "Corea del Sur sube tasas: el auge de la IA ya presiona crecimiento e inflación",
-    "publishedAt": "2026-11-26T06:50:12-03:00",
-    "cutoffAt": "2026-11-26T06:04:05-03:00"
+    "issueNumber": 116,
+    "title": "Estados Unidos desafía la cohesión de OPEC mientras busca más producción",
+    "publishedAt": "2026-11-27T06:46:26-03:00",
+    "cutoffAt": "2026-11-27T06:03:05-03:00"
   },
   "latestNational": {
-    "id": "2026-11-26-national-sala-cuna-universal",
+    "id": "2026-11-27-national-corfo-fondo-de-fondos",
     "editionSlot": "morning",
-    "title": "Sala Cuna Universal elimina la barrera de las 20 trabajadoras y cambia su financiamiento",
-    "publishedAt": "2026-11-26T06:50:12-03:00",
-    "cutoffAt": "2026-11-26T06:25:00-03:00"
+    "title": "Corfo avanza como inversionista ancla para cerrar la brecha de capital de riesgo",
+    "publishedAt": "2026-11-27T06:46:26-03:00",
+    "cutoffAt": "2026-11-27T06:21:30-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-26-markets-rebote-asia-alivio-arancelario",
+    "id": "2026-11-27-markets-rebote-tecnologico-dolar-tasas",
     "editionSlot": "morning",
-    "title": "Asia rebota, pero bonos y petróleo mantienen abiertas las coberturas defensivas",
-    "publishedAt": "2026-11-26T06:50:12-03:00",
-    "cutoffAt": "2026-11-26T06:28:00-03:00"
+    "title": "El rebote tecnológico convive con dólar y tasas al alza antes de diciembre",
+    "publishedAt": "2026-11-27T06:46:26-03:00",
+    "cutoffAt": "2026-11-27T06:23:15-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "editionSlot": "morning",
-    "generalId": "2026-11-26-daily-corea-ia-tasas",
+    "generalId": "2026-11-27-daily-estados-unidos-opec-cohesion",
     "generalPublished": true,
-    "nationalId": "2026-11-26-national-sala-cuna-universal",
+    "nationalId": "2026-11-27-national-corfo-fondo-de-fondos",
     "nationalPublished": true,
-    "marketsId": "2026-11-26-markets-rebote-asia-alivio-arancelario",
+    "marketsId": "2026-11-27-markets-rebote-tecnologico-dolar-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 152,
+    "daily": 153,
     "weekly": 4,
-    "national": 145,
-    "markets": 144,
+    "national": 146,
+    "markets": 145,
     "readings": 16,
-    "total": 461
+    "total": 464
   },
   "indicators": {
-    "status": "partial",
-    "asOf": "2026-11-26",
+    "status": "current",
+    "asOf": "2026-11-27",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }
