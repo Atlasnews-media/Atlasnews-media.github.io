@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "status": "stale",
+  "status": "partial",
   "asOf": "2026-11-26",
-  "fetchedAt": "2026-11-26T19:57:47.269Z",
-  "lastAttemptAt": "2026-11-26T19:57:47.269Z",
+  "fetchedAt": "2026-11-27T02:37:27.187Z",
+  "lastAttemptAt": "2026-11-27T02:37:27.187Z",
   "sourceName": "Mi Indicador (datos públicos de Chile)",
   "sourceUrl": "https://mindicador.cl/",
   "provider": "mindicador",
@@ -26,7 +26,7 @@
       "value": 1044.08,
       "unit": "clp",
       "effectiveDate": "2026-11-26",
-      "status": "stale",
+      "status": "current",
       "previousValue": 1025.06,
       "previousEffectiveDate": "2026-11-25",
       "changePercent": 1.86,
@@ -82,14 +82,10 @@
     }
   ],
   "diagnostics": [
-    { "code": "uf", "reason": "fetch failed" },
-    { "code": "dolar", "reason": "fetch failed" },
+    { "code": "uf", "reason": "The operation was aborted due to timeout" },
     { "code": "euro", "reason": "The operation was aborted due to timeout" },
-    { "code": "utm", "reason": "fetch failed" },
-    { "code": "tpm", "reason": "fetch failed" },
-    {
-      "code": "cobre",
-      "reason": "https://mindicador.cl/api/libra_cobre respondió con estado 500."
-    }
+    { "code": "utm", "reason": "The operation was aborted due to timeout" },
+    { "code": "tpm", "reason": "The operation was aborted due to timeout" },
+    { "code": "cobre", "reason": "The operation was aborted due to timeout" }
   ]
 }
