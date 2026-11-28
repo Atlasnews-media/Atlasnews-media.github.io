@@ -1,37 +1,37 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "7c330b9a1ec19e197aa32d4a7f0b5df2809baebd",
-  "buildCommit": "7c330b9a1ec19e197aa32d4a7f0b5df2809baebd",
+  "sourceCommit": "d41b6c81c2db61a0c9c6e51781c9b1ca917a5078",
+  "buildCommit": "d41b6c81c2db61a0c9c6e51781c9b1ca917a5078",
   "latestDaily": {
-    "id": "2026-11-27-daily-estados-unidos-opec-cohesion",
+    "id": "2026-11-28-daily-eeuu-bloqueo-iran-buque",
     "editionSlot": "morning",
-    "issueNumber": 116,
-    "title": "Estados Unidos desafía la cohesión de OPEC mientras busca más producción",
-    "publishedAt": "2026-11-27T06:46:26-03:00",
-    "cutoffAt": "2026-11-27T06:03:05-03:00"
+    "issueNumber": 117,
+    "title": "Estados Unidos convierte el bloqueo a Irán en una intervención militar directa",
+    "publishedAt": "2026-11-28T06:49:22-03:00",
+    "cutoffAt": "2026-11-28T06:02:13-03:00"
   },
   "latestNational": {
-    "id": "2026-11-27-national-corfo-fondo-de-fondos",
+    "id": "2026-11-28-national-empleo-formal-horas",
     "editionSlot": "morning",
-    "title": "Corfo avanza como inversionista ancla para cerrar la brecha de capital de riesgo",
-    "publishedAt": "2026-11-27T06:46:26-03:00",
-    "cutoffAt": "2026-11-27T06:21:30-03:00"
+    "title": "El deterioro laboral se concentra en empleo formal y horas trabajadas",
+    "publishedAt": "2026-11-28T06:49:22-03:00",
+    "cutoffAt": "2026-11-28T06:18:00-03:00"
   },
   "latestMarkets": {
-    "id": "2026-11-27-markets-rebote-tecnologico-dolar-tasas",
+    "id": "2026-11-28-markets-petroleo-acciones-tasas",
     "editionSlot": "morning",
-    "title": "El rebote tecnológico convive con dólar y tasas al alza antes de diciembre",
-    "publishedAt": "2026-11-27T06:46:26-03:00",
-    "cutoffAt": "2026-11-27T06:23:15-03:00"
+    "title": "El petróleo no confirma la escalada mientras acciones rebotan y tasas suben",
+    "publishedAt": "2026-11-28T06:49:22-03:00",
+    "cutoffAt": "2026-11-28T06:19:50-03:00"
   },
   "morningPackage": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "editionSlot": "morning",
-    "generalId": "2026-11-27-daily-estados-unidos-opec-cohesion",
+    "generalId": "2026-11-28-daily-eeuu-bloqueo-iran-buque",
     "generalPublished": true,
-    "nationalId": "2026-11-27-national-corfo-fondo-de-fondos",
+    "nationalId": "2026-11-28-national-empleo-formal-horas",
     "nationalPublished": true,
-    "marketsId": "2026-11-27-markets-rebote-tecnologico-dolar-tasas",
+    "marketsId": "2026-11-28-markets-petroleo-acciones-tasas",
     "marketsPublished": true,
     "completeness": 3
   },
@@ -58,16 +58,16 @@
     "completeness": 3
   },
   "publications": {
-    "daily": 153,
+    "daily": 154,
     "weekly": 4,
-    "national": 146,
-    "markets": 145,
+    "national": 147,
+    "markets": 146,
     "readings": 16,
-    "total": 464
+    "total": 467
   },
   "indicators": {
     "status": "current",
-    "asOf": "2026-11-27",
+    "asOf": "2026-11-28",
     "sourceName": "Mi Indicador (datos públicos de Chile)"
   }
 }

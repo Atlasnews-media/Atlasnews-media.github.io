@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T09:49:05.992Z",
+  "updatedAt": "2026-11-28T09:52:27.560Z",
   "locks": {
     "international:2026-09-11-daily-inflacion-vuelve-a-mandar": {
       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/FOMC%20BKL2522%20(12620086523).jpg?width=1280",
@@ -2713,6 +2713,30 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CY%20FOMC%20031814-3066%20(13272861314).jpg?width=1280",
       "author": "Federalreserve",
       "license": "Dominio público"
+    },
+    "international:2026-11-28-daily-eeuu-bloqueo-iran-buque": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-003%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "alt": "Petróleo, buques tanque, terminales energéticos o transporte de crudo.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030629-N-4790M-003%20Commercial%20oil%20tanker%20AbQaiq%20readies%20itself%20to%20receive%20oil%20at%20Mina-Al-Bkar%20Oil%20terminal%20(MABOT)%2C%20an%20off%20shore%20Iraqi%20oil%20installation.jpg?width=1280",
+      "author": "Crédito en ficha de origen",
+      "license": "Ver ficha de origen"
+    },
+    "national:2026-11-28-national-empleo-formal-horas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/CCU%20building%20in%20Santiago.jpg?width=1280",
+      "alt": "Edificio corporativo de CCU en Santiago de Chile.",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CCU%20building%20in%20Santiago.jpg?width=1280",
+      "author": "Usuario de Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    },
+    "markets:2026-11-28-markets-petroleo-acciones-tasas": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "alt": "Corredores trabajando en el piso de operaciones de la Bolsa de Nueva York.",
+      "source": "Library of Congress / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg?width=1280",
+      "author": "Thomas J. O'Halloran",
+      "license": "Sin restricciones conocidas / dominio público en EE.UU."
     }
   }
 }
